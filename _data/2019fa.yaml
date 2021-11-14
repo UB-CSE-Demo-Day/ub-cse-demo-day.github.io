@@ -1,0 +1,574 @@
+- title: A Programming Competition (e.g., ACM)
+  projects:
+  - title: HeartBit
+    description: FitBit app that will detect a dangerously low heart rate and will
+      alert the closest hospital of the situation by including the wearers GPS location,
+      age, weight, blood type and other non identifying information
+    team:
+    - name: Edgar Ustian
+      email: edgarust@buffalo.edu
+    - name: Ben Badaszewski
+    - name: Jun Won Sung
+- title: Software Engineering
+  code: CSE 442
+  projects:
+  - title: ThisAppSlaps Co.
+    description: This Android application utilizes augmented reality to plan out home
+      gardens. Place 3D objects anywhere you'd like, then take a snapshot. This app
+      makes planning your garden a cinch. Browse ideas from our Explore page or get
+      shopping links to your favorite plant or flower. Make this app your one stop
+      shop for all your garden planning needs.
+    team:
+    - name: Garrett Silver
+      email: GarrettMSilver@Gmail.com
+      github: https://github.com/Gsilver123
+      linkedin: https://www.linkedin.com/in/garrett-silver-834874164/
+    - name: Anthony Introne
+      email: theintrone@gmail.com
+      github: https://github.com/AnthonyIntrone
+      linkedin: https://www.linkedin.com/in/anthonyintrone/
+    - name: Hannah Wlasowicz
+      email: hannahwl@buffalo.edu
+      github: https://github.com/HannahWlasowicz
+    - name: Manmeet Singh
+      email: manmeets@buffalo.edu
+      github: https://manmeet18singh.github.io/
+    - name: Michael Klein
+      email: Mklein5@buffalo.edu
+      github: Github.com/mklein5
+      linkedin: LinkedIn.com/in/Michael-r-Klein-07635814a/
+  - title: MooDuse/Team Rydat
+    description: A web app that creates a personalized spotify playlist based on inferring
+      your mood from input text.
+    team:
+    - name: Alan Pinkhasik
+    - name: Dakota
+    - name: Rob Howe
+    - name: Taktuk
+  - title: Juke Jam
+    description: Juke Jam is a collaborative queueing app for spotify on android
+    team:
+    - name: Sarah Schwartz
+      email: seschwar@buffalo.edu
+      github: https://github.com/seschwartz
+      linkedin: https://www.linkedin.com/in/saraheschwartz/
+    - name: Ryan Szczecinski
+      email: ryanszcz@buffalo.edu
+      github: github.com/ryanszczecinski
+    - name: Aiden Cox
+      email: aidencox@buffalo.edu
+      linkedin: linkedin.com/in/aiden-cox/
+    - name: Alexander Shapiro
+      email: ajshapir@buffalo.edu
+      linkedin: linkedin.com/in/alexander-shapiro-1268a8166
+    - name: Kevin Topper
+      email: kevintop@buffalo.edu
+      linkedin: linkedin.com/in/kevintop/
+  - title: CropShop/Ol`Macdonald
+    description: It is a platform that connects  farmers and consumers who are willing
+      to buy and sell veggies and fruits for reasonable prices.
+    team:
+    - name: Kevin Yong
+      email: kokhaoyo@buffalo.edu
+    - name: Jonathan Hercules
+      email: jhercule@buffalo.edu
+    - name: Timothy Hada Harianja
+      email: thharian@buffalo.edu
+    - name: Chungmoo Lee
+      email: chungmoo@buffalo.edu
+- title: Intro to Reinforcement Learning
+  code: CSE 510
+  projects:
+  - title: custer
+    description: Policy Gradient Updation using Proximal Policy Optimization
+    team:
+    - name: shashank bjat
+      email: sbhat4@buffalo.edu
+    - name: anirudh sridhar
+- title: Introduction to Reinforcement Learning
+  code: CSE 510
+  projects:
+  - title: Vishva and Leena
+    description: Continuous control with deep reinforcement learning
+    team:
+    - name: Vishva Nitin Patel
+      email: vishvani@buffalo.edu
+    - name: Leena Manohar Patil
+      email: leenaman@buffalo.edu
+- title: 'Special Topics: Reinforcement Learning'
+  code: CSE 510
+  projects:
+  - title: Asynchronous DDQN ensemble through shared experience learning
+    description: A novel reinforcement learning framework that leverages multiple
+      asynchronous DDQN instances that share experiences to explore state-action space
+      in few number of episodes.
+    team:
+    - name: Luckyson Khaidem
+      email: luckyson@buffalo.edu
+      github: www.github.com/luckysonkhaidem
+      linkedin: www.linkedin.com/in/luckyson-khaidem-6985578
+    - name: Ankit Anand
+      email: aanand8@buffalo.edu
+      linkedin: https://www.linkedin.com/in/ankit-anand-57a92794/
+- title: Data Mining and Bioinformatics
+  code: CSE 601
+  projects:
+  - title: Dauntless
+    description: Classification and Clustering
+    team:
+    - name: Sravan Kumar Cheekatimalla
+      email: scheekat@buffalo.edu
+    - name: Varalakshmi Swetha Palli
+      email: varalaks@buffalo.edu
+    - name: RAVALI PINNAKA
+      email: ravalipi@buffalo.edu
+- title: Masters Capstone Project 
+  code: CSE 611
+  projects:
+  - title: UB Spectrum
+    description: The all new and much awaited mobile application for the Award winning
+      Student newspaper of the University at Buffalo is here. Stay updated with the
+      all news and events from the University at Buffalo. The Spectrum provides you
+      story updates on the go right in your hands. The time for your conventional
+      newspaper is over and all the good stuff from the newspaper is available at
+      the touch of your mobile.
+    video: https://drive.google.com/open?id=1EfnoO7DEhVm1rsXxXikJLsOxmCzwMtW7
+    team:
+    - name: Pratik Agarwal
+      email: pagarwal@buffalo.edu
+      github: https://github.com/pratik-agarwal
+      linkedin: https://www.linkedin.com/in/agarwal-pratik/
+    - name: Pradeep Kumar
+      email: pkumar28@buffalo.edu
+      github: https://github.com/PradeepKumar31
+      linkedin: https://www.linkedin.com/in/pkumar28/
+    - name: Aman Bhayana
+      email: amanbhay@bufalo.edu
+      github: https://github.com/Aman020
+      linkedin: https://www.linkedin.com/in/amanbhayana/
+    - name: Sourav Bihani
+      email: souravbi@buffalo.edu
+      github: https://github.com/SouravBihani
+      linkedin: https://www.linkedin.com/in/sourav-bihani/
+  - title: Match Board
+    description: Match board is a platform where people can share their ideas, and
+      others interested in those ideas and/or the necessary skills to build the tool,
+      can connect to take it further. It will bring people with diverse talents together
+      through a web portal.
+    video: https://drive.google.com/file/d/1q8oQzwUgGznjphYbKo_pJp_PRz16pyzN/view
+    team:
+    - name: Uday Bhaskar Reddy Bijjula
+      email: udaybhas@buffalo.edu
+    - name: Aarti Tanya Harindran
+      email: aartitan@buffalo.edu
+    - name: Dhanashree Solanke
+      email: ddsolank@buffalo.edu
+    - name: Akshay Chaudhari
+      email: chaudhar@buffalo.edu
+  - title: Title AI
+    description: An iOS app for ACV Auctions to extract the Vehicle Identification
+      Number (VIN) from a title.
+    video: https://drive.google.com/file/d/1ApUrMb_4wljQHJTLFDunCYhgmCR8KNRg/view?usp=sharing
+    team:
+    - name: Sidharth Pati
+      email: spati@buffalo.edu
+      linkedin: https://www.linkedin.com/in/sidpati/
+    - name: Rohan Gupta
+      email: rgupta24@buffalo.edu
+      linkedin: https://www.linkedin.com/in/rohangupta1994/
+    - name: Riya Bhatia
+      email: riyabhat@buffalo.edu
+      linkedin: https://www.linkedin.com/in/riya-bhatia/
+    - name: Stuti Shukla
+      email: stutishu@buffalo.edu
+      linkedin: https://www.linkedin.com/in/stuti-shukla-959a99126/
+  - title: NFTA Customer Service Application
+    description: 'The NFTA customer service application is a mobile application which
+      supports both iOS and Android devices. The application will be compatible with
+      approximately more than 80%[1] of the Android and iOS devices currently in the
+      market. As part of the administrative side of the application, there will be
+      a web based portal for the administrative team to access the backend data that
+      is being collected and processed by the application in the form of an excel
+      spreadsheet. The application will provide users the ability to attach a photo,
+      location information and additional details that may be useful to the NFTA officials
+      to take the necessary corrective measures. '
+    video: https://drive.google.com/file/d/1R2OtRhFjlcTpeEkMw3h0HkLBGfBhey3T/view?usp=sharing
+    team:
+    - name: Pradipta Dhar
+      email: pradipta@buffalo.edu
+      linkedin: linkedin.com/in/pradiptadhar
+    - name: Saurabh Gotherwal
+      email: sgotherw@buffalo.edu
+      linkedin: linkedin.com/in/gotherwal-saurabh
+    - name: Shubham Khurana
+      email: khurana5@buffalo.edu
+      linkedin: linkedin.com/in/shubhamkhurana25
+    - name: Shivam Shukla
+      email: shivammu@buffalo.edu
+      linkedin: linkedin.com/in/shivam-shukla1
+  - title: Choreographic Lineage
+    description: To Enable Artists All around the world capture their lineage, art
+      forms and hopefully create a huge network of artists.
+    url: http://www.choreographiclineage.buffalo.edu/
+    video: https://drive.google.com/file/d/16ofcbDovr-uF-IqgJX-VBxVEkw8ADz_2/view
+    team:
+    - name: Sarang Agarwal
+      email: sarangag@buffalo.edu
+    - name: Omkar Thorat
+      email: omkarsun@buffalo.edu
+    - name: Vaidehi Dharkar
+      email: vaidehia@buffalo.edu
+    - name: Abhishek Bhave
+      email: abhave@buffalo.edu
+  - title: GritSeed - The Job Hiring Platform
+    description: GritSeed is an existing website that intends to decrease the gap
+      between the recruiter and the candidate applying for the job. It helps in showcasing
+      the talent of a candidate that might not have any degree in the field he might
+      be interested in. So that such candidates get noticed and hired by the recruiters.
+      This project involves the development of a feature that would show the list
+      of candidates together with the snippet of their GritSeed profile in different
+      categories(like Software, Sales, Accounts etc). This project aims to encourage
+      user who views the candidates to contact GritSeed.
+    url: https://objective-roentgen-ebc500.netlify.com/#!/slider
+    video: https://drive.google.com/file/d/1sun5aJ-VAPU2BN1G2P1K1FYAGtW2nKoh/view
+    team:
+    - name: Bhupika Gautam
+      email: bhupikay@buffalo.edu
+      linkedin: https://www.linkedin.com/in/bhupika-gautam/
+    - name: Deepak Goyal
+      email: dgoyal2@buffalo.edu
+      linkedin: https://www.linkedin.com/in/deepakgoyal1993/
+    - name: Tanvi Tanwar
+      email: tanvitan@buffalo.edu
+      linkedin: https://www.linkedin.com/in/tanvi-tanwar-0bba35b5/
+    - name: Vishal Gawade
+      email: vgawade@buffalo.edu
+      linkedin: https://www.linkedin.com/in/vgawade/
+  - title: 'Rippled-Arbiter PUF: a secure signature for semiconductor devices'
+    description: "To design a secure silicon Physically Unclonable Function (PUF)\
+      \ that is lightweight and stable, and which is resistive towards the most effective\
+      \ Machine Learning Attack on PUFs, i.e. Logistic Regression Attacks. The design\
+      \ introduced is â\x80\x93 Rippled Arbiter PUF (RA-PUF), with large number of\
+      \ Challenge-Response Pairs(CRPs) which could then be used as device identification,\
+      \  authentication and cryptographic key generation tool for resource constrained\
+      \ environments such as IoT systems. We provide simulation results for the experiments\
+      \ performed by implementing the design on Artix-7 FPGA. We also performed RA-PUFâ\x80\
+      \x99s quality analysis by evaluating its CRPs with various PUF metrics such\
+      \ as uniqueness, uniformity, predictability and steadiness."
+    video: https://drive.google.com/a/buffalo.edu/file/d/1wTtD9QoAkDV9CQ11pRXAfjoyX0eygm24/view?usp=drive_web
+    team:
+    - name: Swati Sajee Kumar
+      email: swatisaj@buffalo.edu
+  - title: Digital  Rewards Program
+    description: 'The project is a digital rewards platform targeted at small businesses
+      who are looking to move away from a punch card based system. The platform consists
+      of 3 components: a business user website, a business employee app for use at
+      the PoS and a customer app that lets them sign up for rewards programs being
+      run by businesses in their areaThe business user website lets business owners
+      register with their business, add their catalog and menu items and define rewards
+      campaigns that they can run, both long term and short term for special events
+      and holidays. They also get access to customer analytics that gives them an
+      idea of customer''s spending and purchase patternsThe employee app is for use
+      at the PoS, letting the business employee look up a customer''s available redemptions
+      and process if any, and also assign any points for their subsequent purchase,
+      automatically.The customer app lets a customer sign up for and use local businesses''
+      rewards program, track their purchase history and rewards progress'
+    video: https://youtu.be/rKSor66vNkw
+    team:
+    - name: Saurabh Jain
+      email: j.saur95@gmail.com
+      github: https://github.com/jsaurabh
+      linkedin: https://www.linkedin.com/in/jsaurabh95/
+    - name: Likhith Reddy Doddi
+    - name: Stephen James
+    - name: Roopa Chandrashekhar
+  - title: Essential
+    description: "Current highschool systems in the US, do not provide enough financial\
+      \ education to todayâ\x80\x99s students. They focus mainly on Science, Math,\
+      \ English, History and Art, with very little emphasis on Economics and Finance.\
+      \ Essential is a dynamic information platform that provides a high magnitude\
+      \ of data both at the userâ\x80\x99s fingertips and conveniences in the form\
+      \ of a freemium application. Free to download, but after a certain amount of\
+      \ time spent on the platform, will require the users to pay. The animated videos\
+      \ and interactive software will allow users to stay involved and attentive. "
+    video: https://drive.google.com/file/d/1Xx8zLSN7eO0EYjV-CQ9eHcWFri2WtuzC/view?usp=drive_web
+    team:
+    - name: Soumitra Alate
+    - name: Sagar Pokale
+    - name: Saurabh Pansare
+    - name: Anupriya Goyal
+  - title: CSE 199
+    description: 'We have 2 different websites, i.e.. Student website and Faculty
+      website for CSE199 course.  Faculty website helps faculty to set their course
+      details in an easy way by switching between semesters. They can communicate
+      with the students by sending out announcements. A new semester can be created
+      by copying all the details of the current semester with just one click. On the
+      other hand, Students can check the schedules of their instructors, announcements
+      and any other resources related to the course.  '
+    url: http://www-student.cse.buffalo.edu/CSE199/admin/
+    team:
+    - name: Anusha Bandaru
+      email: abandaru@buffalo.edu
+      github: https://github.com/alwaysanu
+      linkedin: https://www.linkedin.com/in/anusha-bandaru-54b46b82/
+    - name: Srujan Kothapally
+      email: srujanko@buffalo.edu
+      github: https://github.com/srujan-kothapally
+  - title: FleetDB Modeling
+    description: Modeling FleetDB to support Cassandra Query Language (CQL) table
+      Queries for KV distributed database
+    team:
+    - name: Darshan Nevgi
+  - title: Willo
+    description: Will making Android Application
+    video: https://drive.google.com/a/buffalo.edu/file/d/1B1T8IuyBaok_LYd2ZoyMsx8SrINzFaCj/view?usp=drive_web
+    team:
+    - name: Neeraj Abhyankar
+    - name: Anudeep Gowda
+  - title: Social Work Virtual Pal Finder
+    description: The Social Work Virtual Pal Finder is a mobile application which
+      provides social workers across the globe with a platform to showcase their work,
+      interests, accomplishments and likes. The app primarily intends to allow social
+      workers to search for and connect to fellow social workers with similar interests
+      and from various locations. This app allows people working for any kind of social
+      cause to expand their network to interact and collaborate with other people
+      in similar fields.
+    team:
+    - name: Sneha Muppala
+      email: snehamup@buffalo.edu
+      github: https://github.com/snehamuppala
+      linkedin: https://www.linkedin.com/in/sneha-muppala/
+      twitter: https://twitter.com/sneha_muppala
+    - name: Meghana Vasudeva
+      email: mvasudev@buffalo.edu
+      github: https://github.com/meghana94
+      linkedin: www.linkedin.com/in/meghana-vasudeva-607671113
+    - name: Yash Chandra
+      email: ychandra@buffalo.edu
+      github: https://www.github.com/yashwordlife
+      linkedin: https://www.linkedin.com/in/yash-chandra
+    - name: Shreya Chatterjee
+      email: sc344@buffalo.edu
+      github: https://github.com/ChatterjeeShreya
+      linkedin: https://www.linkedin.com/in/sc31/
+  - title: QA Compliance Reporting System
+    description: QA Compliance Reporting System is an automation system designed to
+      regulate quality assurance compliance by automating  mundane and routine tasks.
+    team:
+    - name: Mihir Ranade
+      email: mihirraj@buffalo.edu
+      github: https://www.github.com/rmihir96
+      linkedin: https://www.linkedin.com/in/rmihir96/
+    - name: Jatin Chanana
+      email: jatincha@buffalo.edu
+  - title: Stereo Depth Perception and Object Detection
+    description: Currently, in maritime industry the vessels need manual intervention
+      using communication devices for docking at a port. LIDARs are used in this process
+      to help with the docking but the cost of LIDARs are driving companies to explore
+      cost-effective options which are at par with the performance of LIDAR.This project
+      aims towards the design and development of a mechanism for depth perception
+      using stereoscopic cameras as an alternative to LIDARs, for automated navigation
+      of maritime vessels. The project will be delivered to the company, Buffalo Automation
+      who will integrate it with their existing semi-automated methods to achieve
+      a higher degree of automation.
+    team:
+    - name: Shreyas Narasimha
+      email: sn58@buffalo.edu
+      github: https://github.com/shadyshrew
+      linkedin: https://www.linkedin.com/in/snarasimha
+    - name: Aniruddha Sinha
+      email: asinha6@buffalo.edu
+      linkedin: www.linkedin.com/asinha6
+    - name: Shashank Dhar
+      email: shashankdhar75@gmail.com
+    - name: Himanshu Garg
+      email: hgarg@buffalo.edu
+  - title: Mark my attendance
+    description: A custom Alexa skill to allow user to mark their presence for the
+      event using voice based commands.
+    team:
+    - name: Pallavi Srikhakollu
+      email: psrikhak@buffalo.edu
+      linkedin: https://www.linkedin.com/in/pallavi-srikhakollu/
+  - title: Computer Architecture of Autonomous Driving
+    description: An early look at the requirements for the hardware level of autonomous
+      driving
+    team:
+    - name: Chris Golinski
+  - title: Bag-path prediction
+    description: Path prediction of marine vechiles
+    team:
+    - name: Abhishek Muni
+      email: amuni@buffalo.edu
+    - name: Ashwin v
+      email: ashwinvi@buffalo.edu
+  - title: Alexa Skills Project
+    description: 'The project lead to the development of two separate skills on Alexa,
+      one for attendance, and the other for querying stock data. '
+    team:
+    - name: Pallavi Srikhakhollu
+      email: psrikhak@buffalo.edu
+    - name: Swarit Shah
+      email: swaritsh@buffalo.edu
+- title: Advanced Computer Systems
+  code: CSE 622
+  projects:
+  - title: Secure mobile learning using Trusted Execution Environment
+    description: Securing essential object detection entities by moving certain operation
+      in secure world using OPTEE OS
+    team:
+    - name: Viral Sinha
+      email: viralsin@buffalo.edu
+      github: https://github.com/vsin12
+      linkedin: https://www.linkedin.com/in/v-sinha/
+    - name: Ekta Katiyar
+      email: ektakati@buffalo.edu
+  - title: Dynamic Gesture Recognition
+    description: "We use MediaPipe framework to build a pipeline that will predict\
+      \ dynamic gestures. We intend to use hand-tracking application recently released\
+      \ by Google in CVPR â\x80\x9819 and extend it to predict dynamic gestures. This\
+      \ is primarily intended to be used in AR applications to control the overlay\
+      \ using gestures."
+    team:
+    - name: Urjit Sardesai
+      email: urjitsat@buffalo.edu
+    - name: Aman Garg
+      email: amangarg@buffalo.edu
+    - name: Bowen Sui
+      email: bowensui@buffalo.edu
+  - title: 'CoMARs: Concurrent Multiple AR Applications'
+    description: We have developed a platform that can run several AR applications
+      concurrently
+    team:
+    - name: Madhusudan Saha
+      email: msaha@buffalo.edu
+      github: github.com/madhusudan-saha
+      linkedin: linkedin.com/madhusudansaha
+    - name: Parth Patel
+      email: parthras@buffalo.edu
+      github: GitHub.com/Partiks
+      linkedin: linkedin.com/parthpatel2597
+    - name: Jaeheun Jason Kim
+      email: jaeheunk@buffalo.edu
+      github: https://github.com/SlackCrow
+  - title: DRONES Lab - UB ANC Scalability
+    description: UB-ANC is an open software/hardware platform that aims to facilitaterapid
+      testing and repeatable comparative evaluation of airborne networking and communications
+      protocols at different layers of the protocol stack. Our project is to make
+      UB-ANC software scalable by redesigning it to run on an arbitrary number of
+      systems to eliminate resource constraints.
+    team:
+    - name: Nick Alterio
+      email: nalterio@buffalo.edu
+      github: https://github.com/lockedude
+      linkedin: https://www.linkedin.com/in/njalterio/
+    - name: Hariprasath Parthasarathy
+    - name: Arun Suresh
+  - title: AR Offloading
+    description: To render objects on a surface, we offload the detection of surface
+      as well as detection of rotation and translation to the server and use the result
+      back to render a 3D cube on a android client using OpenGL
+    team:
+    - name: Utkarsh
+      email: utkarsh@buffalo.edu
+      linkedin: https://www.linkedin.com/in/utkarsh-singh-6a1a51163/
+    - name: Vaibhav N Chincholkar
+      email: vchincho@buffalo.edu
+      github: https://github.com/vaibhavchincholkar/
+      linkedin: https://www.linkedin.com/in/vchincholkar/
+    - name: Sofiya Semenova
+      email: sofiyase@buffalo.edu
+      github: https://github.com/ssemenova
+      linkedin: linkedin.com/in/novasofiya
+  - title: Indoor Localization
+    description: Calibrate device and use various available sensors from IMU to perform
+      enhanced indoor localization.
+    team:
+    - name: Anand Shankar Suresh
+      email: shankars@buffalo.edu
+      linkedin: http://linkedin.com/in/anand-shankar
+    - name: Abhijit Joshi
+      email: abhijitj@buffalo.edu
+  - title: MP-TCP
+    description: We've implemented MP-TCP on Raspberry Pi
+    team:
+    - name: Asmita Gautam
+      email: asmitag3@buffalo.edu
+    - name: Naveed Ahmad
+      email: naveedah@buffalo.edu
+- title: Languages and Runtimes for Big Data
+  code: CSE 662
+  projects:
+  - title: Learned Index Structures
+    description: Designing neural network based index structures and comparing them
+      against traditional data structures like b-tree in terms of lookup times and
+      memory required.
+    url: https://github.com/Learned-Index-Structure/LIS
+    team:
+    - name: Yash Narendra Saraf
+      email: ysaraf@buffalo.edu
+      github: https://www.github.com/yash21saraf
+      linkedin: https://www.linkedin.com/in/yashsaraf/
+    - name: Deepak Ranjan
+      email: dranjan@buffalo.edu
+      github: https://github.com/dr1990
+      linkedin: https://www.linkedin.com/in/dr1990/
+    - name: Mohammad Umair
+      email: m39@buffalo.edu
+      github: https://github.com/omerjerk
+      linkedin: https://www.linkedin.com/in/mohammad-umair-33ab1426/
+  - title: Lannisters
+    description: All Pairs Shortest Path Solver on Spark
+    team:
+    - name: Vemuri Vihari
+      email: lvemuri@buffalo.edu
+    - name: Srinivas
+      email: srpothir@buffalo.edu
+    - name: Sri Harsha Kesapragada
+      email: vkesapra@buffalo.edu
+    - name: Varsha Ganesh
+      email: vganesh2@buffalo.edu
+- title: Transportation Seminar
+  code: CSE 740
+  projects:
+  - title: Radar and Sensor Fusion for Autonomous Vehicle
+    description: A survey of existing radar sensing techniques and sensor fusion techniques
+      for autonomous vehicles
+    team:
+    - name: Yi Zhu
+      email: yzhu39@buffalo.edu
+  - title: Vector Map for Autonomous Vehicles
+    description: HD Maps represent a set of features inherent to the road, such as
+      lanes, stop lines, traffic lights, and intersections. We have created a vector
+      map using Autoware Maptools plugin on the Unity Platform for a particular region
+      of UB north campus. We have analysed the different ways/tools and open source
+      formats available to create vector maps for localization.
+    team:
+    - name: Atrayee Nag
+      email: atrayeen@buffalo.edu
+    - name: Ruturaj Molawade
+      email: ruturajt@buffalo.edu
+  - title: Day/night simulation
+    description: to create a C# script to change sun position, intensity and the time
+      of the day
+    team:
+    - name: Wenfeng Pan
+      email: wenfengp@buffalo.edu
+    - name: Ryan Xu
+      email: ryanxu@buffalo.edu
+    - name: Wenqi Li
+      email: wli3533@buffalo.edu
+- title: Independent Study
+  code: CSE 700TUT
+  projects:
+  - title: Research on mm-wave communication
+    description: Finding out optimum threshold which is used to switch between beam
+      alignment and rate adaptation according to various factors like environments,
+      blockages and interference
+    team:
+    - name: Viral Sinha
+      email: viralsin@buffalo.edu
+      github: https://github.com/vsin12
+      linkedin: https://www.linkedin.com/in/v-sinha/
+    - name: Urjit Sardesai
+      email: urjitsat@buffalo.edu

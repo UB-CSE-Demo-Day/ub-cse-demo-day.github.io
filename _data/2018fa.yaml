@@ -1,0 +1,448 @@
+- title: Software Engineering
+  code: CSE 442
+  projects:
+    - title: Word by Word
+      description: >
+        Word by Word is our speed reading app that is designed to help people increase the rate at which they can read text and documents. Text can be input by the user manually or through image-to-text recognition. 
+      registered: yes
+      team: 
+        - name: Christian Coffey
+          email: ccoffey@buffalo.edu
+          github: ccoffey1
+          photo: "use GitHub photo" 
+        - name: Daniel Goings
+          email: dcgoings@buffalo.edu
+          github: dcgoings
+          photo: "use GitHub photo" 
+        - name: Daniel Sarlo
+          email: dsarlo@buffalo.edu
+          github: dsarlo
+          photo: "use GitHub photo"
+        - name: Doug Achkar
+          email: dachkar@buffalo.edu
+          github: dachkar
+          photo: "use GitHub photo"
+    - title: QR Attendance
+      description: >
+        Take student attendance with randomly generated QR code by prof/student sign information and attendance is stored in back end fire base data server
+      registered: yes
+      team: 
+        - name: Raman Krishan
+          email: ramankri@buffalo.edu
+        - name: Mohammad Hafeez
+          email: mthafeez@buffalo.edu
+        - name: Andrew Ketcham
+          email: aketcham@buffalo.edu
+        - name: David Richwalder
+          email: dmrichwa@buffalo.edu
+        - name: RajeevGundavarapu
+          email: rajeevgu@buffalo.edu
+    - title: DopAt - Classroom attendance and quiz website
+      description: The next 🦄
+      registered: yes
+      team:
+        - name: Mark Armstrong
+        - name: Eithne Amos
+        - name: Abass Ibrahim
+        - name: Connor Reynolds
+        - name: Chris Saless
+- title: Masters Project Development
+  code: CSE 611
+  projects:
+    - title: UB UNIFIER
+      description: >
+        A web application that brings all UB related events, club information under one hood keeping UB students up to date. It includes an extension that allows UB students to add events found online to their calendar.
+      registered: yes
+      team:
+        - name: Vijaya Harshavardhan Palla
+        - name: Kalyani Sunil Chikte
+    - title: Social Media Broadcasting
+      team:
+        - name: Vikram Singh
+        - name: Mahalakshmi Maddu
+    - title: 199 Admin Site
+      team:
+        - name: Charanya Sudharsanan
+        - name: Christopher Chan
+    - title: Home Buyers and Sellers
+      registered: yes
+      team:
+        - name: Komlan Aziagba
+    - title: Buffalo Museum - Tours
+      description: >
+        Buffalo Museum Tour App allows the museum visitors to take self guided tours from a variety of tour options available. The application provides navigation on the museum's map and information on various exhibits. It also provides an option to turn the tour into a quest and earn points for it. The application is targeted to all age groups with a friendly UI. 
+      registered: yes
+      team:
+        - name: Parush Garg
+        - name: Mariyah Husain
+        - name: Anjali Sujatha Nair
+    - title: Museum Events App
+      description: >
+        This app targets the general public of Buffalo to send information about different events happening at Buffalo Museum. The app sends push notifications to the mobile users about the latest and upcoming events. Users can also look for more information and purchase tickets for the events inside the app. Basically it is a platform for the Museum Staff to reach out to public in a subtle and convenient way. This app is developed with Native Android platform. So it is only available on Google Play store. Cheers :D
+      registered: yes
+      team:
+        - name: Sajid Khan
+          email: sajidkha@buffalo.edu
+          github: sajid912
+          picture: "https://www-student.cse.buffalo.edu/museum/events/dev/sajidPicture.jpg"
+        - name: Vinay Vardhaman
+          email: vinayvar@buffalo.edu
+          github: vinayvardhaman
+          picture: "https://www-student.cse.buffalo.edu/museum/events/dev/vinayPicture.jpg" 
+    - title: "Gamify - Buffalo Museum of Science"
+      description: >
+        Gamify is a framework to allow users to sign up to earn "badges/points" for playing games. The framework has two games namely Quiz and Scavenger Hunt.   These earned "badges/points" can be seen by others in the website that would allow users to compete with each other, and perhaps have a leader board to show who has the most "badges/points".  This will encourage youth visitors to explore new areas of the museum to amass "badges/points".
+      registered: yes
+      team:
+        - name: Pratibha Arjun Barsale Contact
+          phone: +1 716 816 9118
+          email: pbarsale@buffalo.edu 
+          github: "pbarsale" 
+          photo: https://photos.app.goo.gl/ucEEVcEoyMkENNDu7 
+        - name: Priyanka Manoj Naik
+          phone: +1 716 717 2139
+          email: pnaik5@buffalo.edu
+          github: "naikpriyanka" 
+          photo : https://photos.app.goo.gl/jSz5pFqAAWGAVZTf8
+    - title: Happiness Experiment 
+      description: >
+        Happiness is the scoreboard for life. Happiness now, happiness at the end of the day, happiness with life. There is no other word in the English language that is as rich, deep, meaningful in regard to how we view our lives than happiness. To be happy our life needs to “feel right.” Our life needs to be close to in balance physically, mentally, emotionally and spiritually. We are the experts of our own happiness. You control your happiness. You can build a happiness routine that sets you up for success in life and “A life well lived.” Leading research has determined that 50% of our happiness is genetic, 10% circumstantial and 40% is “our intentional activity.” In other words our beliefs, mindset and routines. We hope that this program will inspire and help you take ownership and action to enable your happiness. Rather than read hundreds of self-help books and listen to podcast after podcast we have boiled the advice down to a simple (minutes a day) program that you can start, today. Right Now. World happiness, healthiness and greater good starts with the individual – yes, you!!! Once you have built your personal happiness then you can start sharing it with others creating a virtual cycle of happiness. The happiness experiment is a program that has been designed to bring more happiness to your life through playful experimentation. We are going to load up your day with happiness. Help you build a happiness routine. Inspire you to push your happiness boundaries. 
+      team:
+        - name: Sourabh Bhagat
+        - name: Pradeep Aitha
+    - title: UB CarPool
+      description: >
+        Ub CarPool is a simple web app which connect two or people going to same destination for sharing their ride. Users can post, search and confirm rides using this app.
+      registered: yes
+      team:
+        - name: Ajaysai Potluri
+          email: ajaysaip@buffalo.edu
+          linkedin: "ajaysaipotluri"
+          picture: "https://drive.google.com/file/d/1SEq1FkPo3s7xH7iBX_-FwqcNMFDiNIZH/view?usp=sharing"
+        - name: Teja Mvsr
+          email: vasantas@buffalo.edu
+          linkedin: "teja-mvsr-71783a79"
+          picture: "https://drive.google.com/file/d/1vEJXdWgbFmhqzh5kB4-2PCoGHldmbq9N/view?usp=sharing"
+    - title: "Trading Algorithm: Looking for Predictive Value in Twitter Data"
+      description: >
+        The goal of this project is to predict the likely tendency for SPY ETF, using the previous day’s Twitter data. This project aims at implementing a prototype which could be used to predict the trend of SPY ETF using tweets which could be used to design profitable trading algorithms."
+      registered: yes
+      team:
+        - name: Kaushik Panneerselvam
+          email: kpanneer@buffalo.edu; 
+          github: "kaushikpselvam"
+        - name: Veerappan Saravanan
+          email: veerappa@buffalo.edu
+          github: "veera93"
+    - title: Secured Publish-Subscribe System
+      description: >
+        A system level implementation like MQTT for a secured Publish-Subscribe system and deploying it on cloud, making use of multiple instances. 
+      team: 
+        - name: Nagendra Satish Kamath
+          email: nkamath@buffalo.edu
+          photo: "https://drive.google.com/file/d/1NvsVLdj15lsTNNIGIg5g-5GFCtm-PjU6/view?usp=sharing"
+        - name: Parikshit Sunil Deshmukh
+          email: pdeshmuk@buffalo.edu
+          photo: "https://drive.google.com/file/d/1Zt4bhHi4rnidkCSUN0CmFicp4g8T4qWy/view?usp=sharing"
+    - title: Anomaly Detection using Deep Learning
+      description: >
+        The project involves understanding the LSTM deep log learning method. Then we have to implement the deep learning model using Python, Keras/Tensorflow, Pytorch etc ML frameworks.
+        The project requirements include server infrastructure hosted in UB.<br/>
+        The project envisages:<ul>
+          <li>Develop a solution to apply DeepLog to our system log data (from Lonestar supercomputer)</li>
+          <li>Implement the solution and report results to identify performance anomalies from system log data</li></ul>
+      registered: yes
+      team:
+        - name: Vikrant
+    - title: Human Action Detection and Recognition
+      registered: yes
+      description: The next 🦄
+      team:
+        - name: Roshni Murali
+        - name: Aayush Kumar 
+    - title: Motion flow/depth estimation using synthetic video data
+      team:
+        - name: Sili Liu
+    - title: Local IOT Cloud
+      registered: yes
+      description: The next 🦄
+      team:
+        - name: Kshitij Goel
+        - name: Moni Kumari 
+    - title: Object detection and pose estimation in temporal point clouds
+      description: >
+        The project addresses the problem of real-time object detection in point clouds (LIDAR sensor data) in the context of autonomous driving. We have implemented an end to end object detector which detects the location and heading of the other cars with respect to self, this is crucial for the safety of the passengers, vehicle, and other vehicles on the street. The model can be easily adapted to detect pedestrians, cyclist, and other vehicular types given a dataset. The project is based on PIXOR detector and works at the speed > 10 frames per second.
+      team:
+        - name: Bhavik Gala
+        - name: Charushi Nandwani
+    - title: Distracted Driver Detection Service
+      description: >
+        This is a service that is designed to detect distracted driving. It is capable of accepting images as input, process it, and send back a response indicating whether the driver is distracted or not. The dataset for the model was obtained from Kaggle.
+      team:
+        - name: Shivam Upadhyay
+          email: shivamma@buffalo.edu
+          photo: "https://drive.google.com/a/buffalo.edu/file/d/1ZwNpzSg0O6CENNqvcBmHvUWYYabwwqPp/view?usp=drivesdk"
+        - name: Zeba Khan
+          email: zebaarsh@buffalo.edu
+          photo: "https://drive.google.com/a/buffalo.edu/file/d/1--8IqF7CPkSw6JHu8VLpNJRHr97hFDVx/view?usp=drivesdk"
+    - title: Consensus Algo
+      team:
+        - name: Raman Keswani
+    - title: AI based Health Assistant
+      team:
+        - name: Anant Gupta
+    - title: Scheduling Framework
+      description: >
+        This product is aimed at developing a scheduling framework. The stakeholders are the professors who would like to schedule the TA’s recitation class timings for their courses. The primary focus is to implement a framework as a web application with the goal of scheduling the timings of TA’s recitation classes. With this product, the rules and constraints can be configured into the system and an interactive user interface will simplify the process of manual scheduling by dynamically guiding the user to set up the schedule without any conflicts. This product has been chosen to solve the long-standing problem of identifying and resolving the conflicts during manual scheduling."
+      registered: yes
+      team:
+        - name: Aditya Subramanian Muralidaran
+          email: adityasu@buffalo.edu
+          linkedin: "adityasub"
+          github: "adityamuralidaran"
+        - name: Bharadwaj Parthasarathy
+          email: bparthas@buffalo.edu
+          linkedin: "bparthas"
+          github: "pbharad"
+    - title: Credible Fandom
+      description: >
+        A new social network for sports fans where they can not only interact with one another, but also place predictions for sporting events to show off their knowledge of sports and develop their credibility score.
+      registered: yes
+      team:
+        - name: Aamel Unia 
+          email: aameluni@buffalo.edu
+          linkedin: "aamelunia"
+    - title: Choreographic Lineage
+      description: The next 🦄
+      registered: yes
+      team:
+        - name: Shailesh Adhikari
+        - name: Shivam Sahu
+    - title: Web of trust with social graph
+      description: >
+         The project aims to try to find the ‘best’ strategy to find possible answers for Universal fact based boolean questions based on user responses in a trust weighted directed graph.<br/>
+         The accuracy of the responses compared to the actual answer under different topologies of user responses will be used to define ‘best’ metric.
+      registered: yes
+      team: 
+        - name: Sneha Mehta
+          email: snehameh@buffalo.edu
+        - name: Varun Jain
+          email: varunjai@buffalo.edu  
+    - title: TamedPy - Sandboxed Python Execution
+      url: "https://github.com/karanluthra/TamedPy"
+      description: >
+        A framework to run untrusted python workloads on modern infrastructure, in a safe sandboxed way. From interactive notebooks for Data Science to code execution for programming contests or hiring, run someone else's python code on your infrastructure without risking harm to your host environment.
+      registered: yes
+      team:
+        - name: Karan Luthra
+          photo: "https://photos.app.goo.gl/aho9XwFq8KeZP9EQ8"
+          linkedin: karanluthra
+          email: karanluthra06@gmail.com
+          github: "karanluthra"
+    - title: Decentralized IoT
+      description: >
+        An orchestration manager for a decentralized IoT application. Instead of IoT devices relying on cloud for control and actions, they should be able to communicate with each other and decide on a possible actions given a set of inputs/events.
+      team:
+        - name: Paritosh Mandar Walvekar
+        - name: Aditya Kohli
+- title: "Advanced Computer Systems"
+  code: CSE 622
+  projects:
+    - title: ORB-SLAM
+      description: >
+        Split the vision pipeline between the edge device (mobile phone) and the cloud and comparing the performance of the split system with the current one running completely on edge device
+      registered: yes
+      team: 
+        - name: Ankesh Bhoi
+        - name: Swati Nair
+        - name: Rohan Pathak
+    - title: Gesture Recognition on Secure World
+      description: >
+        Using TrustZone enabled board, we demonstrate a strongly secured gesture recognition that cannot be forgeable.
+      registered: yes
+      team:
+        - name: Chang Min Park
+          email: cpark22@buffalo.edu
+        - name: Derek Palmerton
+          email: derekpal@buffalo.edu
+        - name: Richard Hanulewicz
+          email: rshanule@buffalo.edu
+    - title: Caching Service for AR Applications
+      description: >
+        Build a caching service that delivers a better user experience by pre-fetching the Map portions, the service thinking of a very thin client which doesnt require more compute which has connectivity to a server. Localization and Caching will be done on the thin client by exploiting the resources on the server.  
+      registered: yes
+      team:
+        - name: Alexander Beloglazov
+          email: abelogla@buffalo.edu
+          github: noxik
+          photo: "https://drive.google.com/open?id=1R2vesIwZ9ma6s9BHOqcMUKt5yhiBpCSY"
+        - name: Sandeep Kumar
+          email: skumar28@buffalo.edu
+          github: skumar28
+          photo: "https://avatars0.githubusercontent.com/u/31451112?s=400&u=c0fb41f5c3aa8b411902155f1213612230ae9f51&v=4"
+        - name: Venkata Krishnan Anantha Raman
+          email: va34@buffalo.edu
+          github: venkatsvpr
+          photo: "https://venkatsvpr.github.io/assets/images/new.jpg"
+        - name: Vikram Singh
+          email: vsingh25@buffalo.edu
+          github: vikramsinghh1
+          photo: "https://drive.google.com/file/d/1DCJPWJwBLkeJwoYguvja5GhFr49I8bZb/view?usp=sharing"
+    - title: Software Verification
+      description: The next 🦄
+      registered: yes
+      team: 
+        - name: Anirban Chatterjee
+    - title: mmWave Sensing
+      description: Localizing a client using mmWave radios by utilizing PHY level information.
+      registered: yes
+      team: 
+        - name: Shivang Aggarwal
+          email: shivanga@buffalo.edu
+        - name: Samraddha Dubey
+          email: samraddh@buffalo.edu
+- title: "Connected and Autonomous Vehicles: Applications and Systems"
+  code: CSE 740
+  projects:
+    - title: Modeling wireless channel
+      description: >
+        Modeling wireless channel and effect of obstacles in network simulator 3 (NS-3) based on WAVE 802.11p wireless communication
+      registered: yes
+      team: 
+        - name: Foad Hajiaghajani
+    - title: Object detection using convolutional neural network
+      description: The next 🦄
+      registered: yes
+      team: 
+        - name: Yuhao Du
+    - title: HD map creation for academia
+      description: The next 🦄
+      registered: yes
+      team: 
+        - name: Arun Krishnamurthy
+          email: arunkris@buffalo.edu
+        - name: Srivatsa Manjunath Hegde
+          email: shegde4@buffalo.edu
+    - title: Simulating a LiDAR PointCloud in Unity 
+      description: The next 🦄
+      registered: yes
+      team: 
+        - name: Srinivas Ravi
+        - name: Raj Vinodchandra Soni
+    - title: Security for Autonomous Vehicles
+      description: The next 🦄
+      registered: yes
+      team:
+        - name: Venugopal Shah
+    - title: Localization
+      description: The next 🦄
+      registered: yes
+      team:
+        - name: Aakash Gupta
+    - title: Automated Driving System Framework Analysis
+      description: The next 🦄
+      registered: yes
+      team:
+        - name: Shreyas Narasimha
+          email: sn58@buffalo.edu
+        - name: Himanshu Garg
+          email: hgarg@buffalo.edu
+        - name: Shashank Dhar
+          email: sdhar2@buffalo.edu
+- title: "UB Hacking"
+  projects:
+    - title: "B.R.A.D - Breast-cancer Risk Analysis & Diagnostics"
+      description: >
+        A machine learning application to classify breast cancer tumors as benign or malignant.
+      registered: yes
+      team:
+        - name: TJ Chase
+          email: tbchase@buffalo.edu
+          photo: https://imgur.com/a/fuCDDTO
+        - name: Patrick Iwaszko
+          email: piwaszko@buffalo.edu
+          photo: https://imgur.com/a/5CRinmP
+        - name: Manmeet Singh
+          email: manmeets@buffalo.edu
+          photo: https://drive.google.com/file/d/14QH4vMgVRTFzJvxv6gnPTyQ-gOFYrmmq/view?usp=sharing
+        - name: Michael Klein
+          email: mklein5@buffalo.edu
+          photo: https://imgur.com/a/E4bQSSR
+- title: "Computational Linguistics"
+  code: CSE/LIN 467/567/667
+  projects:
+    - title: Drug-Drug Interaction Extraction from Drug Labels
+      registered: yes
+      url: https://cse567computationallinguistics.github.io/ddi_cse567
+      team:
+        - name: Chinmay Swami
+        - name: Kumkum Kaushal
+        - name: Gursimrat Singh
+
+    - title: Detecting Kansai-ben
+      team: 
+        - name: Anirudh Manjunath
+        - name: Vivek Raghavan
+
+    - title: Ensemble Classifier for SQuAD 2.0
+      url: https://github.com/Anirudh-M/Sentence-classification
+      team: 
+        - name: Bowen Chu
+        - name: Lingbo Hu
+        - name: Yizhan Wu
+
+    - title: "SentiBot: building an emotionally responsive chatbot"
+      url: https://sites.google.com/view/cse567bitext/home
+      team: 
+        - name: Mir Raonaq
+
+    - title: American Movie Recognition Project
+      url: https://github.com/MirRaonaq/SBD
+      team: 
+        - name: Sheng Liu
+
+    - title: Annotation of Multi-word Expressions in the French Treebank (conference submission)
+      team: 
+        - name: Wenqi Li
+    
+    - title: Assigning proficiency levels to text of a learners corpus (journal submission)
+      team: 
+        - name: Niharika Raut
+
+    - title: Movie Recommendation
+      url: https://wenqi77.blogspot.com/2018/10/controllable-and-personalizable-chatbot.html
+      team: 
+        - name: Alex Kim
+        - name: DongKyu Lee
+        - name: Panpan Zhang
+        - name: Ce Zheng
+
+    - title: Sarcasm Detection
+      url: https://github.com/Nhrkr/Sarcasm-Detection
+      team: 
+        - name: Maggie Liu
+        - name: Jasmeet Kaur Chawla
+
+    - title: Controllable and Personalizable Chatbot
+      url: https://github.com/alexkim1218/CSE467-567
+      team: 
+        - name: Erin Pacquetet
+
+    - title: Deep Reinforcement Learning for Neural Machine Translation
+      team: 
+        - name: Tyler Hanavan
+
+    - title: Sentence Boundary Detection without Punctuation Marks
+      url: https://hanavanonline.com/plot/\#
+      team: 
+        - name: Blake Cooper
+
+    - title: Mining User-generated Bitext -- Constructing Parallel corpora from Movie Subtitles
+      url: https://github.com/blakecooper/SentiBot
+      team: 
+        - name: Nikhil Srihari
+
+    - title: Sentence classification
+      url: https://github.com/NikhilSrihari/SQuAD-2.0-Ensemble-Predictor
+      team: 
+        - name: Kurt Staufenberg

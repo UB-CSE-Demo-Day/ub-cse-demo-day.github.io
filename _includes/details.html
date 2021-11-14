@@ -1,0 +1,17 @@
+<dl class="details">
+{% for detail in include.details %}
+  <dt>{{ detail[0] | capitalize }}</dt>
+  {% if detail[0] == "schedule" %}
+    <dd class="schedule">
+    {% for event in detail[1] %}
+      <div class="event">
+        <span class="description">{{ event["what"] }}</span> -
+        <span class="time">{{ event["when"] }}</span>
+      </div>
+    {% endfor %}
+    </dd>
+  {% else %}
+    <dd>{{ detail[1] }}</dd>
+  {% endif %}
+{% endfor %}
+</dl>

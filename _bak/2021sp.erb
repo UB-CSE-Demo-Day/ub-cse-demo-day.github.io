@@ -1,0 +1,161 @@
+---
+title: CSE 2021 Spring Departmental Demo Day
+event_location: "<a href='https://gather.town/i/Yp6hCNRV'>Gather.town</a>"
+event_date: Friday, May 7, 2021
+schedule:
+  - - "2:00 PM" 
+    - "Event opens, people can circulate around the virtual space and check it out"
+  - - "2:15 PM" 
+    - "Opening remarks"
+  - - "2:20 PM" 
+    - "Judging starts"
+  - - "4:00 PM" 
+    - "Judges will get together to review results and pick winners"
+  - - "4:30 PM" 
+    - "Winners announced and videos played for the winning teams"
+  - - "5:00 PM" 
+    - "Event closes"
+events:
+  - title: Setup
+    details: >
+      Each participant and sponsor has been assigned to a "booth" in Gather.  Posters provided by teams will be already displayed next to the session
+  - title: Judging
+    details: >
+      During the demo, judges will circulate to the participants demo stations, and they will be rating each project on a specific set of criteria.  Judges, expect to spend approximately five minutes with each team, in order to give you time to see them all.  You will be assigned a set of projects to view specifically, but you can feel free to talk to more teams as time permits!  Teams, keep this in mind and keep your presentations crisp and to the point!
+  - title: Tabulation
+    details: >
+      At 4:00, judges will gather together in the designated Judges room to the west (screen left) to determine winners.  Winners will be announced at the podium to the east (screen right) at around 4:30, and we will play videos for the winning teams.
+dependencies: 
+  - db/demoday/2021sp.json
+---
+<% 
+  classes = $db["demoday/2021sp/classes"]
+%>
+
+<center>
+<h1><%= title %></h1>
+<h3><%= event_date %></h3>
+</center>
+
+<div style="max-width: 600px; margin-left: auto; margin-right: auto;">
+  <p>
+    We're thrilled to invite you to the seventh bi-annual Comp. Sci. &amp; Eng. Fall Demo Day.  Student groups from several CSE capstone classes will be presenting the culmination of 3-months of effort, hard work, (metaphorical) blood, sweat (well... caffeine really), and tears (see above).  
+  </p>
+
+
+  <hr/>
+
+
+  <h2>Sponsors</h2>
+
+  <p style="text-align: center;">
+    <a href="https://www.mtb.com/">
+      <img src="sponsors/mt_bank.png" alt="M&amp;T Bank" width="184" height="100" style="margin-left: 25px; margin-right: 50px;" />
+    </a>
+    <a href="https://www.moog.com/">
+      <img src="sponsors/moog.jpg" alt="Moog" width="212" height="100" style="margin-left: 25px; margin-right: 50px;" />
+    </a>
+  </p>
+
+  <hr/>
+
+
+  <h2>Judges</h2>
+
+  <ul>
+    <li><a href="https://www.mtb.com/">M&amp;T</a></li>
+    <li><a href="https://starkandwayne.com/">Stark and Wayne</a></li>
+    <li><a href="https://www.moog.com/">Moog</a></li>
+    <li><a href="https://www.memoryfox.io/">MemoryFox</a></li>
+  </ul>
+
+  <hr/>
+
+
+  <h2>Schedule</h2>
+  <h4><%= event_date %> → <%= event_location %></h4>
+
+  <table>
+  <% 
+  schedule.each do |time, description| %>
+    <tr>
+      <th style="padding-left: 10px; padding-right: 20px; "><%= time %></th>
+      <td><%= description %></td>
+    </tr>
+  <% end %>
+  </table>
+
+  <% events.each do |event| %>
+    <h4><%= event["title"] %></h4>
+    <p><%= event["details"] %></p>
+  <% end %>
+
+  <hr/>
+
+  <h2>Projects</h2>
+
+  <%
+  def render_student(data)
+    data = { "name" => data } if data.is_a? String
+
+    txt = "<span style=\"font-weight: normal\">#{data["name"]}</span>"
+
+    tags = [
+      ["github",   "github", ""],
+      ["linkedin", "linkedin", ""],
+      ["twitter", "twitter", ""],
+      ["othersocial", "other", ""],
+      ["email",    "email", "mailto:"]
+    ].map do |key, tag, prefix|
+      "<a href=\"#{prefix}#{data[key]}\">#{tag}</a>" if data.include? key
+    end.compact
+    txt += " <span style=\"font-size: 80%\">[ #{tags.join(" | ")} ]</span>" unless tags.empty?
+
+    return "<div style='display: inline-block'><span style='font-size: 110%'></span> #{txt} <span style='font-size: 110%'></span></div>"
+  end
+
+  project_id = 0
+  %>
+
+  <% classes.each do |class_data|
+    class_title = class_data["class"]
+    groups      = class_data.fetch("groups", [])
+    groups = [] if groups.nil?
+  %>
+    <h4><%= class_title %></h4>
+
+    <dl style="margin-left: 20px;">
+    <% groups.each do |group_data|
+      project = group_data["title"]
+      supplements = {}
+      supplements["link"] = group_data["url"] if group_data.include? "url"
+      supplements["video"] = group_data["video"] if group_data.include? "video"
+      if supplements.size > 0
+        project += " [ "+supplements.map { |k,v| "<a href='#{v}'>#{k}</a>" }.join(" | ")+" ]"
+      end
+      team = group_data["group"]
+      %>
+      <dt style="display: run-in; font-size: 110%; font-weight: normal; text-decoration: underline;"><b><%= project_id += 1 %>.</b> <%= project %></dt>
+      <dd style="display: inline-block; margin-right: auto;">
+        <% team.each do |student| %>
+          <div style="margin-left: 30px; margin-top: -8px; margin-bottom: 0px; padding-top: 0px; padding-bottom: 0px;"><span style="font-size: 150%;">↳</span> <%= render_student(student) %></div>
+        <% end %>
+      </dd>
+      <dd style="margin-bottom: 10px; margin-left: 10px; font-style: italic; "><%= group_data.fetch("description", "A really ☃ project")%></dd>
+    <% end %>
+    </dl>
+  <% end %>
+
+
+  <hr/>
+
+  <h2>Previous Demo Days</h2>
+
+  <ul><% [
+      "2016fa", "2017fa", "2018fa", "2019sp", "2019fa", "2020fa"
+    ].each do |short| 
+      full = short.gsub(/fa/, " Fall").gsub(/sp/, " Spring") %>
+      <li><a href="<%=short%>.html"><%= full %></a></li>
+    <% end %>
+  </ul>
+</div>

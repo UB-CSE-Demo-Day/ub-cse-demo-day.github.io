@@ -1,0 +1,257 @@
+- title: 'Masters Capstone Project'
+  code: CSE 611
+  projects:
+  - title: Applenti Project
+    description: The Report Designer framework can be plugged into any website with
+      minimal effort and enables dynamic update/add/deletion report configurations.
+      The reporting framework part of the product allows the user to edit the view
+      of the report to be generated. It enables the user to add, edit, delete the
+      headers and configurations of the content to be present in the report. <br/>
+      The Analysis grid will give the customer capability to aggregate and view the
+      data generated from various services to make better business decisions. The
+      product allows the user to access various types of insights in terms of reports
+      and easily visualize data to do better analysis and gain better understanding.
+    url: https://applenti-sealreports-dev.azurewebsites.net/#
+    team:
+    - name: Sarath Chandra Bandi
+      email: sbandi3@buffalo.edu
+      linkedin: https://www.linkedin.com/in/sarath-bandi/
+    - name: Suma Priya Kunku
+      email: sumapriy@buffalo.edu
+      linkedin: https://www.linkedin.com/in/suma-kunku/
+    - name: Neha Nandan Kenkare
+      email: nehanand@buffalo.edu
+      linkedin: https://www.linkedin.com/in/neha-nandan-kenkare-6008bb183
+    - name: Pardhu Vavila
+      email: svavila@buffalo.edu
+      github: saicharanpardhu.github.io
+      linkedin: https://www.linkedin.com/in/saicharan-pardhu-09a6b67b/
+  - title: Choreographic Lineage
+    description: Thank you for visiting our site. We hope you will spend time browsing
+      through artists and their lineal connections on the network. We also hope that
+      you will contribute your own lineage to this expanding global resource.
+    url: http://choreographiclineage.buffalo.edu/
+    team:
+    - name: Hanzhang Bai
+      email: hbai@buffalo.edu
+    - name: Sai Cao
+      email: saicao@buffalo.edu
+    - name: Tianyu Cao
+      email: tianyuca@buffalo.edu
+    - name: Zeping Wang
+      email: zepingwa@buffalo.edu
+  - title: Plugsity
+    description: Plugsity is a centralized marketplace platform which is built with
+      the goal of providing visibility to small businesses. Businesses can register
+      themselves on Plugsity and sell their products. Customers can discover, compare
+      and shop products from various brands. Key features of this project are ecommerce
+      marketplace, ability to search and filter the products, upload reviews and view
+      reviews of the products, ability for businesses to register themselves on Plugsity
+      and sell their products and hassle free checkout using Stripe.
+    url: https://plugsity.com/
+    team:
+    - name: Namrata Bakre
+      email: nbakre@buffalo.edu
+      github: https://github.com/NamrataBakre
+      linkedin: https://www.linkedin.com/in/namrata-bakre/
+    - name: Daniel Connolly
+      email: dmconnol@buffalo.edu
+      github: https://github.com/DanielMConnolly
+      linkedin: https://www.linkedin.com/in/daniel-m-connolly/
+    - name: Kiran Nevrekar
+      email: kiranket@buffalo.edu
+      github: https://github.com/Kiranketannevrekar
+    - name: Nick Kobis
+      email: njkobis@buffalo.edu
+      github: https://github.com/nickkobis
+    - name: Yash Patange
+      github: https://github.com/yashFrost97
+  - title: PropTech
+    description: a website designed for property manager to manage buildings, tenants,
+      utility bills, and to generate invoices
+    url: http://3.131.169.6/
+    team:
+    - name: Xianxin Lin
+      email: xianxinl@buffalo.edu
+    - name: Min Dong
+      email: mdong3@buffalo.edu
+    - name: Zhenduo Lin
+      email: zhenduol@buffalo.edu
+    - name: Raymond Zheng
+      email: rzheng5@buffalo.edu
+    - name: Xinyu Chen
+      email: xinyuche@buffalo.edu
+  - title: Startwell
+    description: StartWell is a web application that matches users with appropriate
+      mental health therapists. It is a platform that assesses users with a set of
+      questions and guides them to improve their mental Health.
+    url: http://165.22.184.151:3000/
+    team:
+    - name: Bharathi kothandan
+      email: bkothand@buffalo.edu
+      github: https://github.com/I-am-bharathi
+      linkedin: https://www.linkedin.com/in/bharathikothandan/
+    - name: Akshata  Chukaiwar
+      email: achukaiw@buffalo.edu
+      github: https://github.com/akshata96
+    - name: Kunal Kamlesh Mehta
+      email: kunalkam@buffalo.edu
+      github: https://github.com/kunalkm12
+    - name: Uday Bhanu Kasukurthy
+      email: udaybhan@buffalo.edu
+      github: https://github.com/bhanu-uday
+  - title: Team Layer Slayers
+    description: A web based EdTech platform for learning 3D Printing.
+    url: https://layerslayers.netlify.app/
+    team:
+    - name: Arghya Dutta
+      email: arghyadu@buffalo.edu
+    - name: Prameet Chakraborty
+      email: prameetc@buffalo.edu
+    - name: Aishwarya Chaudhary
+      email: chaudha5@buffalo.edu
+    - name: Poonam Baghel
+      email: poonamba@buffalo.edu
+  - title: Vu Speech
+    description: Instituted and deployed Secure Cloud platform domain on AWS for VU
+      LLC’s speech-to-text service for hard of hearing users. This domain is based
+      upon WebSocket API service in Python Django for user authentication and real
+      time speech transcription. The final App is an android app in which user can
+      securely login, and get real time speech-to-text transcription.
+    team:
+    - name: Vinita Chappar
+      email: vchappar@buffalo.edu
+      github: https://github.com/vinita1005
+      linkedin: https://www.linkedin.com/in/vinita-chappar/
+    - name: Arnob Paul
+      email: arnobpau@buffalo.edu
+      github: https://github.com/arnobpl
+      linkedin: https://www.linkedin.com/in/arnobpl/
+    - name: Jared Lockhart
+      email: jaredloc@buffalo.edu
+      linkedin: https://www.linkedin.com/in/jaredlockhart/
+    - name: Balagopal M
+      email: bmadhuku@buffalo.edu
+      linkedin: https://www.linkedin.com/in/balagopal-m-a01327152/
+- title: 'Applied Human Computer Interaction and Interface Design'
+  code: CSE 370
+  projects:
+  - title: Bookworm
+    description: 'Inspired by the little libraries surrounding UB, our team developed
+      Bookworm. Bookworm is a social media web application created to connect those
+      with a love of books. We wanted to create a way for people who share this love
+      to interact, befriend, and connect with others in their communities to bring
+      back the social aspect of reading. Users can use the features  in our application
+      to search for libraries, create personalized reading lists, set up trades, customize
+      posts with our unique ISBN embedding structure, and build connections with other
+      users through our friending system. We hope that our application will help build
+      a community of readers one book at a time. '
+    url: https://webdev.cse.buffalo.edu/hci/fantastic
+    team:
+    - name: Kateryna Semenova
+      email: ksemenov@buffalo.edu
+      linkedin: https://www.linkedin.com/in/kateryna-semenova/
+    - name: Lexian Zhang
+      email: lexianzh@buffalo.edu
+      linkedin: https://www.linkedin.com/in/lexian-zhang/
+    - name: Sauptik Saha
+      email: sauptiks@buffalo.edu
+      linkedin: https://www.linkedin.com/in/sauptik07/
+    - name: John Dunaske
+      email: johnduna@buffalo.edu
+      linkedin: https://www.linkedin.com/in/john-dunaske-b6673a162/
+    - name: Robert Wilkowski Jr
+      email: robwilk624@yahoo.com
+      linkedin: https://www.linkedin.com/in/robert-wilkowski-jr-16a273211/
+- title: 'Software Engineering'
+  code: CSE 442
+  projects:
+  - title: Dr. Hertz Fan Club
+    description: A marketplace for the UB community
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2021-Spring/cse-442e/public/
+    team:
+    - name: Bryce Zhong
+      email: ziyuzhon@buffalo.edu
+    - name: Harsh Joshi
+      email: hjoshi3@buffalo.edu
+    - name: Angela He
+      email: ahe2@buffalo.edu
+  - title: Spotifind
+    description: Spotifind is a Spotify-adjacent service that uses algorithms to produce
+      recommendations based on artists that you enjoy.  Our purpose is ultimately
+      to connect people to new music effortlessly and seamlessly, with only a few
+      keystrokes.
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2021-Spring/cse-442b/
+    team:
+    - name: Jeremy Kazimer
+      email: jdkazime@buffalo.edu
+      github: https://github.com/k-z-m-r
+    - name: Frank Baiata
+      email: frankbai@buffalo.edu
+    - name: Faizaan Arshad
+      email: marshad2@buffalo.edu
+      github: https://github.com/faizaan-ar
+- title: 'Parallel and Distributed Processing'
+  code: CSE 603
+  projects:
+  - title: Home SCoOLed
+    description: Scalable Branch and Price Implementation for Capacitated Vehicle
+      Routing with SCoOL
+    team:
+    - name: Demetrios V Papazaharias
+      email: dvpapaza@buffalo.edu
+      github: https://gitlab.com/SCoRe-Group/scool
+      linkedin: http://linkedin.com/in/demetrios-papazaharias-0bba60b1
+  - title: Shared Memory Induced 6-Cycle Counting in Bipartite Graphs
+    description: We propose a novel parallel algorithm for efficiently counting induced
+      6-cycles in bipartite graphs.
+    url: https://github.com/Deerjason/par6cycle
+    team:
+    - name: Jason Niu
+      email: jasonniu@buffalo.edu
+      github: https://github.com/Deerjason
+  - title: Team Hashbrowns
+    description: Accelerating Game of Life via Bitwise Operations on NVIDIA GPGPUs
+    team:
+    - name: Muhanned Ibrahim
+      email: muhanned@buffalo.edu
+      github: https://github.com/hanoody
+      linkedin: https://www.linkedin.com/in/muhanned-ibrahim/
+    - name: Nicolas Barrios
+      email: nabarrio@buffalo.edu
+      github: https://github.com/nbarrios1337
+      linkedin: https://www.linkedin.com/in/nbarrios1337
+  - title: Terra
+    description: Parallel CVRP Solver in Apache Spark
+    team:
+    - name: Pardhu Vavila
+      email: svavila@buffalo.edu
+      github: saicharanpardhu.github.io
+      linkedin: https://www.linkedin.com/in/saicharan-pardhu-09a6b67b/
+- title: 'Reinforcement Learning'
+  code: CSE 4/546
+  projects:
+  - title: Reinforcement Learning in AWS-DeepRacer
+    description: Reinforcement Learning in simulated autonomous driving AWS-DeepRacer
+      evironment
+    team:
+    - name: Serena Liang
+      email: sliang616@gmail.com
+      github: https://github.com/Serena-liang
+      linkedin: https://www.linkedin.com/in/serena-liang/
+    - name: Ashwin Phadke
+      email: aphadke2@buffalo.edu
+    - name: shreyas kavathekar
+      email: skavathe@buffalo.edu
+  - title: Tennis War
+    description: Using DQN ML algorithms to compare MultiAgent competitive vs. cooperative
+      applications on a Pong-like environment (Tennis).
+    team:
+    - name: Anthony Bhasin
+      email: abhasin3@buffalo.edu
+      github: https://github.com/abhasin3
+      linkedin: https://www.linkedin.com/in/anthony-bhasin/
+    - name: Keith Carolus
+      email: kmcarolu@buffalo.edu
+      github: github.com/cosmicvarion
+      linkedin: Linkedin.com/in/keithcarolus

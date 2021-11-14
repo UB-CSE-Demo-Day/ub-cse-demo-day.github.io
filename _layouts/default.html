@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/layout.css' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/font-awesome.min.css' | relative_url }}" />
+</head>
+<body>
+  <section class="content">
+    {{ content }}
+
+    <hr>
+
+    <h2>Past Demo Days</h2>
+    <div class="past_events">
+      {% for event in site.by_year %}
+        <a href="{{event.url}}" class="event">{{ event.short_title }}</a>
+      {% endfor %}
+    </div>
+  </section>
+</body>
+</html>

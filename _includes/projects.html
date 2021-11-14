@@ -1,0 +1,72 @@
+
+{% for course in include.classes %}
+
+<div class="course">
+<h4>{{ course["title"] }}
+  {% if course["code"] %}
+   ({{course["code"]}})
+  {% endif %}
+ </h4>
+
+  {% for project in course["projects"] %}
+  <dl class="projects">
+    <dt>
+      {% if project["url"] %}
+        <a class="link" href="{{project["url"}}">{{ project["title"] }}</a>
+      {% else %}
+        {{ project["title"] }}
+      {% endif %}
+      {% if project["url"] or project["video"] %}
+        <span class="links">
+          {% if project["url"] %}
+            <a href="{{project["url"]}}">
+              <i class="fa fa-link" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+          {% if project["video"] %}
+            <a href="{{project["video"]}}">
+              <i class="fa fa-video-camera" aria-hidden="true"></i>
+            </a>
+          {% endif %}
+        </span>
+      {% endif %}
+    </dt>
+    <dd>
+      {% if project.team %}
+      <ul class="team">
+        {% for member in project.team %}
+        <li>
+          <span class="name">{{ member["name"] }}</span>
+          {% if member["github"] or member["linkedin"] or member["email"] %}
+            <span class="links">
+              {% if member["github"] %}
+                <a href="https://github.com/{{member["github"]}}">
+                  <i class="fa fa-github" aria-hidden="true"></i>
+                </a>
+              {% endif %}
+              {% if member["linkedin"] %}
+                <a href="https://www.linkedin.com/in/{{member["linkedin"]}}">
+                  <i class="fa fa-linkedin-square" aria-hidden="true"></i>
+                </a>
+              {% endif %}
+              {% if member["email"] %}
+                <a href="mailto:{{member["email"]}}">
+                  <i class="fa fa-envelope" aria-hidden="true"></i>
+                </a>
+              {% endif %}
+            </span>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if project["description"] %}
+        <div class="description">{{ project["description"] }}</div>
+      {% endif %}
+    </dd>
+  </dl>
+  {% endfor %}
+
+</div>
+
+{% endfor %}

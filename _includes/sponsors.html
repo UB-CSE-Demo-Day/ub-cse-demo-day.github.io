@@ -1,0 +1,25 @@
+
+<div class="sponsors">
+{% for sponsor in include.sponsors %}
+  {% if sponsor["url"] %}
+    <a href="{{sponsor["url"]}}">
+  {% endif %}
+  {% if sponsor["background"] %}
+    <span class="sponsor-background">
+  {% endif %}
+  <img src="{{ 'assets/images/sponsors/' | relative_url }}/{{ sponsor["image"] }}" 
+       class="sponsor{% if sponsor["background"] %} background{%endif%}"
+       {% if sponsor["background"] %}style="background: {{sponsor["background"]}}"{% endif %}
+       alt="{{sponsor["name"]}}"
+       title="{{sponsor["name"]}}"
+       width="{{sponsor["image_size"]["width"] }}px"
+       height="{{sponsor["image_size"]["height"] }}px"
+       >
+  {% if sponsor["background"] %}
+    </span>
+  {% endif %}
+  {% if sponsor["url"] %}
+    </a>
+  {% endif %}
+{% endfor %}
+</div>

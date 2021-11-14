@@ -1,0 +1,62 @@
+- title: Languages and Runtimes for Big Data
+  code: CSE 662
+  projects: 
+    - title: "Vanir: Probabilistic Databases on Spark"
+      description: "Most data is unusable when directly collected, due to either user or system error, to convert this messy data into us- able data it takes time, money, and Advil. Probabilistic databases aim to streamline this cleaning process but often have a large computation or data cost associated.  Our solution is to leverage the distributed computing engine Apache Spark, to mitigate the overhead associated with probabilistic databases."
+      team: 
+        - name: Nicholas Cellino
+        - name: William Spoth
+    - title: "Optimizer for Sampling Queries"
+      description: "Probabilistic database systems aim to produce all possible results. Query Sampling generates samples of possible results.  The database is split into a fixed number (N) of possible worlds and the query is run on all N possible worlds in parallel by representing data in one of several ways.  Using a cost model to predict runtimes allows us to decide on the fastest samplingstrategy."
+      team: 
+        - name: Vandit Aruldas
+        - name: Shivang Aggarwal
+        - name: Sneha Krishnamurthy
+        - name: Rakshit Muthappa Padetira
+    - title: "Just-in-Time Datastructure Modeling"
+      description: "The performance of a Database Management System is closely coupled to the index structures it uses, making index selection extremely important.  This project supplements an existing generic datastructure framework called just-in-time data structures with a simulation + cost-analysis-based approach to derive policies for data organization."
+      team:
+        - name: Darshana Balakrishnan
+    - title: "Multi-Dimensional Cracking"
+      description: "All the Spatial Indexing techniques being used today, including, but not limited to, R-Tree, R+ Tree, Quad Tree and Grid require prior knowledge about the data and query workloads.  Cracking involves physically reorganizing the data by dividing the database into manageable pieces based on the incoming query workload. A cracker index, R+ Tree in our case, is created on the fly for cracked pieces and the later queries are answered using this. Prior works on Database Cracking was purely in one dimensional data, here we extend it to multi – dimensional database."
+      team:
+        - name: Anna Jonet Joseph
+        - name: Anand Sankar Bhagavandas
+    - title: "Cluster-Friendly Spatial Indexing"
+      description: "The increasing size and density of spatial data led to the use of NoSQL databases. However, efficient indexing of spatial data in NoSQL database is hard.  Currently, the use of space filling curves for indexing is widely adopted. However, these partition the entire space uniformly, which may not be efficient for regions with sparsely populated data.  The aim of this project is to eliminate empty spaces by building a two-tier index with R-tree as global index and space filling curve as local index."
+      team:
+        - name: Nikita Ganesh Konda
+    - title: "Pattern Detection For Query Explanations"
+      description: "The high level aim of this project is to find the correlations in the dataset and to optimize the process of finding the same. Using these correlations as constraints, find possible reasons justifying or identifying the presence of an outlier.  We intend to determine the type in which value attributes are associated with dimension attributes."
+      team:
+        - name: Deepti Chavan
+        - name: Shruti Parab
+        - name: Sushmita Sinha
+
+- title: Differential Privacy
+  code: CSE 660
+  projects:
+    - title: "The comparison of two algorithms on private causal Inference"
+      team:
+        - name: Liuyi Yao
+    - title: "Verification of Randomized Response in Coq"
+      team:
+        - name: Weihao Qu
+    - title: "Reconstruction of a Database using Fourier attack"
+      team:
+        - name: Sindhu Madhuri Morapakala
+    - title: "An Implementation of Differentially Private Bayesian Inference"
+      team:
+        - name: Jiawen Liu
+    - title: "An implementation of the DualQuery algorithm"
+      team:
+        - name: Shubham Shekhar Lagwankar
+        - name: Muhammed Zaki Muhammed Husain Bakshi
+    - title: "Locally Differentially Private Protocols for Frequency Estimation"
+      team:
+        - name: Venkata Gayatri Pratyusha Gundugola
+        - name: Manish Kasireddy
+    - title: "Differentially Private Sparse Inverse Covariance Estimation"
+      team:
+        - name: Mengdi Huai
+        - name: Di Wang

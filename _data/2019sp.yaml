@@ -1,0 +1,333 @@
+- title: Computational Linguistics
+  code: CSE 467/LIN 667
+  projects:
+    - team: 
+      - name: Erin Pacquetet 
+        email: erinmorr@buffalo.edu
+      title: French MWE and their sturctural differences in treebanks
+      description: >
+        In this study, I will explain what structural differences remain in French Treebanks after being converted to the ConLL-U format and what implications do these differences have. In particular, I will look at how Multi-Word expressions are encoded in these treebanks and what those differences mean in terms of dependency analysis. Finally I will present how unified treebanks could potentially be merged to increase the accuracy of automatic dependency parsing.
+    - team: 
+        - name: Chinmay P Swami 
+          email: chinmayp@buffalo.edu
+      title: IS DDI purely NLP?
+      description: >
+        Drugs play an important role in treating diseases which are innocuous to those which are extremely noxious. However, administering the right drug is pivotal to the revitalization of the patient?s health. Administering wrong combination of drugs has ramifications that can be harmless or can also be life threatening. Hence having a system that when, presented with two drugs, can notify whether the two drugs when given together can cause harm to the patient would certainly improve the quality of patient care. Going one step ahead the system could also predict the type of interaction that would indicate the severity of side effects caused. In this paper we would be leveraging machine learning techniques to create a model which will learn from the sentences that describe various kinds of drug drug interactions and would predict the type of interaction that would happen between the two drugs when administered together. Also along the way we would be answering the question of whether DDI is purely a NLP task or not with the help of multiple experiments. We would also be using domain knowledge for example the information pertaining to molecular structure of the drug to enhance the predicting capabilities of the model.
+    - team: 
+        - name: Shruthi Shyam Rao 
+          email: sshyamra@buffalo.edu
+      title: Dependency Parsing with NULL elements
+      description: >
+        In linguistics, every element in a sentence plays a significant role. If there is an element missing in a sentence, we introduce a NULL element in that spot to represent that the sentence is not fully complete. This is done for better accuracy and understanding of the sentence. Hence, here we are performing dependency parsing with NULL elements. For this, we used the Penn treebank dataset. In Penn treebank dataset, there are a variety of null elements like *T*, NP*, 0, *U*, *?* etc. The null elements and their dependencies were understood from the dataset and they were introduced into the dependency tree structure without disturbing the dependencies of the elements that were already present in the tree structure.
+    - team: 
+        - name: Wenqi Li 
+          email: wli3533@buffalo.edu
+      title: Intricacies of Dozat-Manning's Parsing Algorithm
+      description: >
+        This paper details non-projective dependency parsing algorithm described in \citet{dozat-manning:2017:ICLR}.  While it has been known for the graph-based parsing model using Chu-Liu-Edmonds algorithm \citep{edmonds:1967}, it uses a greedy algorithm.  This algorithm is more like based on Tarjan's algorithm for Strongly Connected Components \citep{tarjan:1972}. Dozat-Manning parser treats the probabilities of occurrence of word dependencies learned from training data as a directed graph. The underlying idea is to identify cycles in a graph using Tarjan's algorithm and then using a greedy approach of replacing edges from vertices in the cycle with next maximum edge until the cycle is broken.  Different from Chu-Liu-Edmonds, Dozat-Manning is not expanding or collapsing edges which result in cycle, rather outgoing edges from vertices in the cycle are chosen based on their weight and are used as a replacement until the cycle is broken. The dependency graph probabilities so generated are then used to deduce the parse output.
+    - team: 
+        - name: Anthony Rubin 
+          email: ajrubin2@buffalo.edu
+      title: Improving Machine Translation Results by Corpus Filtering for a Low-Resource Language
+      description: >
+        (submitted to ACL SRW 2019, under review)
+        In this paper, we discuss the implementation of a method to reduce noise in a parallel corpus. A compositionality method based on cosine similarity as well as basic features to filter the corpus are used with a classifier to predict good sentence translation pairs within a parallel corpus. The purpose of this is to clean a noisy parallel corpus to the point that it can be used to accurately train a machine translation model.  The accuracy of our resulting machine translation models was quantified using a BLEU score, and we improved results progressively by our proposed method. 
+    - team: 
+        - name: Apurva Patil 
+          email: acpatil@buffalo.edu
+        - name: Maggie Liu 
+          email: mliu22@buffalo.edu
+      title: Correlation between Fluency and Accuracy in Learner Corpus (submitted to ACL SRW 2019, under review)
+      description: >
+        Developing proficiency levels for non-native speakers has always been a difficult task. In this study, we explore the NUS learners corpus \citep{dahlmeier-ng-wu:2013:BEA8} and its annotated grammatical errors to automatically assign proficiency levels to individual participants by using fluency and accuracy of the learners' text. We determine the upper bound and lower bound of learners by using statistical measurement and classify learners into levels of accuracy and fluency. We conclude that perplexity for fluency is more correlate to accuracy compared to other fluency metrics in previous works. In addition, this perplexity fluency metric is more effective in predicting proficiency.
+    - team: 
+        - name: Mengyang Qiu 
+          email: mengyang@buffalo.edu
+        - name: Xuejiao Chen 
+          email: xuejiaoc@buffalo.edu
+      title: Data Augmentation for Grammatical Error Correction
+      description: >
+        Neural machine translation (NMT) approaches have shown to be promising in grammatical error correction (GEC). However, the lack of high-quality training data in GEC is one major issue for NMT. The current study explores various ways of generating pseudo GEC data by focusing on real grammatical errors and their surrounding context. Fluency filtering based on language models is also incorporated to ensure the quality of artificial error generation. 
+- title: "Masters Project Development"
+  code: CSE 611
+  projects:
+  - title: "Trust Zone Computing in Mobile Applications"
+    description: >
+      This project extends the OP-TEE operating system to work on the hikey 960 board, and also explores some aspects of augmented reality computing in the trust zone.
+    team:
+      - name: Sidharth Mishra
+        email: smishra9@buffalo.edu
+  - title: "Willo Mobile App"
+    description: >
+      This project builds out a cross platform mobile and web application as a proof of concept for the Willo startup.  The app allows users to easily create and maintain a will through their smartphone.
+    team:
+    - name: Shivam Agarwal
+      email: shivamag@buffalo.edu
+    - name: Shishir Suvarna
+      email: shishirs@buffalo.edu
+    - name: Deepak Sreenivasa
+      email: deepaksr@buffalo.edu
+    - name: Krishna Parvathala
+      email: leelasai@buffalo.edu
+  - title: "Willo Back Office"
+    description: >
+      This project builds out the back office and API layer of the Willow startup.  This allows for account management, financial tracking, customer relations management, and creation of will documents from flexible templates.
+    team:
+    - name: Aditya Agarwal
+      email: aa276@buffalo.edu
+    - name: Yasha Ballal
+      email: yashaash@buffalo.edu
+    - name: Trishala Kaushik
+      email: tkaushik@buffalo.edu
+    - name: Bhagyashri Thorat
+      email: bthorat@buffalo.edu
+  - title: "Action Recognition on Android"
+    description: >
+      This project seeks to ascertain if, and to what extent, action recognition is possible performed locally on an android device.  
+    team:
+    - name: Mrinalini Upadhya
+      email: mupadhya@buffalo.edu
+    - name: Yash Narendra Saraf
+      email: ysaraf@buffalo.edu
+  - title: "Invenst Automation"
+    description: >
+      This project seeks to convert the manual effort in maintaining the Invenst club infrastructure into a data driven web application, adding new features such as user profiles, skills, and dynamic approval flows and updates for projects in the idea bank.
+    team:
+    - name: Shuo Zhang
+      email: szhang53@buffalo.edu
+    - name: Xushuang Liu
+      email: xushuang@buffalo.edu
+    - name: Yuchen Zhang
+      email: zhang232@buffalo.edu
+    - name: Lei Chen
+      email: lchen76@buffalo.edu
+  - title: "Vehicle Trim Text Extraction"
+    award: 1st place
+    description: >
+      This project seeks to combine iOS app development with text recognition and machine learning to pull vehicle trim data from images of cars collected in real time.
+    team: 
+      - name: Pranav Vij
+        email: pvij@buffalo.edu
+      - name: Saurab Chauhan
+        email: chauhan9@buffalo.edu
+      - name: Nikhil Lala
+        email: nlala@buffalo.edu
+      - name: Pranjal Jain
+        email: pjain5@buffalo.edu
+  - title: "Choreographic Lineage"
+    award: 3nd place (tie)
+    description: >
+      This project builds on a system for dancers and other artists to contribute their professional relationships to a central datastore, and provides a networked visualization and profile of artists for researchers and dance enthusiasts to search.
+    team:
+      - name: Amit Bannerjee
+        email: amitbane@buffalo.edu
+      - name: Miki Padhiary
+        email: mikipadh@buffalo.edu
+      - name: Yogesh Sawant
+        email: yogeshja@buffalo.edu
+      - name: Shreyas Rajguru
+        email: srajguru@buffalo.edu
+  - title: "Auto Transcription"
+    description: >
+      This project transcribes design conversations in real time, and applies keyword tagging and sentiment analysis that can be used to categorize patterns of discussion and thought in design meetings.
+    team: 
+    - name: Harshal Jagtap
+      email: harshalg@buffalo.edu
+    - name: Shubhra Deshpande
+      email: shubhraj@buffalo.edu
+    - name: Ved Valsangkar
+      email: vedharis@buffalo.edu
+    - name: Smrati Singh
+      email: smratiku@buffalo.edu
+    - name: Rajat Thosar
+      email: rthosar@buffalo.edu
+  - title: "Electric Vehicle Infrastructure Planning"
+    description: >
+      This project builds out a proof of concept for a local startup company helping define the best locations for charging stations for electric vehicles.  
+    team: 
+    - name: Kavi Sanghavi
+      email: kavinike@buffalo.edu
+    - name: Saiyam Shah
+      email: saiyampr@buffalo.edu
+    - name: Krishna Sehgal
+      email: ksehgal@buffalo.edu
+    - name: Tanmay Singh
+      email: tanmaypr@buffalo.edu
+  - title : Onboard Diagnostics Text Extraction
+    description: >
+      This project combines text extraction and image categorization to both sort through images from cars for those that contain onboard diagnostics information, and extract that information in a textual format to an iOS app.
+    team: 
+    - name: Srinath Vikramakumar
+      email: svikrama@buffalo.edu
+    - name: Ruturaj Molawade
+      email: ruturajt@buffalo.edu
+    - name: Yash Mali
+      email: ymali@buffalo.edu
+    - name: Sai Krishna Uppala
+      email: suppala2@buffalo.edu
+  - title : Crowdsource Data Reviews and Events Calendar
+    award: 2nd place
+    description : This project provides a mechanism for the Spectrum to crowdsource reviews of large datasets to the public, with each volunteer reviewing a small piece of the whole and indicating if they think that there is value in investigating further.  It also creates an event calendar for exciting events on and off campus.
+    team:
+    - name: Saranya Illa
+      email: saranya@buffalo.edu
+    - name: Amanda Pellechia
+      email: aepellec@buffalo.edu
+    - name: Sowmith Nallu
+      email: sowmithn@buffalo.edu
+    - name: Alan Romano
+      email: alanroma@buffalo.edu
+    - name: Venkatesh Viswanathan
+      email: vviswana@buffalo.edu
+  - title : OneDataShare - Cross Platform Mobile Client
+    award: 3nd place (tie)
+    description : >
+      OneDataShare is a managed file transfer system that enables a user or a 
+      group of users to perform interprotocol file transfers using a 
+      cloud-based solution that guarantees reliability, efficiency and 
+      security of data transfer. This project is aimed at extending the 
+      functionalities provided by the OneDataShare web client to a mobile 
+      application using a cross platform application development framework.
+    group : 
+    - name: Linus Castelino
+      email: linuscas@buffalo.edu
+    - name: Atul Kumar Singh
+      email: asingh68@buffalo.edu
+    - name: Harsh Gandhi
+      email: harshnar@buffalo.edu
+  - title : UB ANC Emulator Upgrade
+    description : >
+      The UB-ANC Emulator is an emulation environment created to design, 
+      implement, and test various applications (missions) involving one or 
+      more drones in software, and provide seamless transition to 
+      experimentation. In this project, to model the effect of interference, 
+      packet losses, and protocols on network throughput, latency, and 
+      reliability we have integrated EMANE network emulator into UB- ANC
+    team: 
+    - name: Arun Suresh
+      email: arunsure@buffalo.edu
+    - name: Hariprasath Parthasarathy
+      email: hparthas@buffalo.edu
+  - title : Distributed Music Player
+    description: >
+      Create a mesh network of devices that can discover and stream music to one another via a shared global playlist.
+    team:
+    - name: Jon Battiston
+      email: jonbatti@buffalo.edu
+  - title: Tire Data Extraction
+    description: >
+      This project combines an iOS app with text extraction to read key data from the sides of automobile tires from images taken from the app camera.
+    team:
+    - name: Akshay Verma
+      email: akshayve@buffalo.edu
+    - name: Adityan Harikrishnan
+      email: adityanh@buffalo.edu
+    - name: Roshni Murali
+      email: rmurali@buffalo.edu
+  - title: Platter Restaurant App
+    description: >
+      This project creates a proof of concept mobile app for startup Platter, which creates a subscription system for diners looking for discounts.
+    team:
+    - name: Shubham Gulati
+      email: sgulati3@buffalo.edu
+- title: "Applied NLP and Computational Social Science"
+  code: CSE 702
+  projects:
+  - title: "A Replication of Language Understanding for Text-based Games using Deep Reinforcement Learning"
+    team: 
+    - name: Yuhao Du
+  - title: "A Replication of Fake news on Twitter during the 2016 U.S. presidential election"
+    team:
+    - name: Aamir Masood
+    - name: Sanjay B.
+  - title: "Seq2Seq machine translation and gender bias analysis"
+    team:
+    - name: Payraw Salih
+      email: payrawsa@buffalo.edu
+    - name: Parth Shah
+      email: parthnay@buffalo.edu
+  - title: "A Replication of Reducing Gender Bias Amplification using Corpus-level Constraints"
+    team:
+    - name: Nishi Mehta
+    - name: Pratik Kubal
+  - title: 'A Replication of "From Amateurs to Connoisseurs: Modeling the Evolution of User Expertise through Online Reviews" '
+    team:
+    - name: Dipannita Adhikary
+    - name: Neeraj Abhyankar
+  - title: 'A Replication of Exploring identity usage patterns in tweets and profile descriptions'
+    team:
+    - name: Arjunil Pathak
+    - name: Gokul Premaj
+  - title: 'A Replication of “How Old Do You Think I Am?”: A Study of Language and Age in Twitter'
+    team:
+    - name: Anish Gadekar
+    - name: Shruti Bendale
+    - name: Chris Chan
+- title: "Independent Study"
+  projects:
+  - title: "Anonymous public perception - An analysis of r/RoastMe and r/ToastMe"
+    team: 
+    - name: Niharika Raut
+    - name: Gokul Premraj
+  - title: "Fake news in public WhatsApp groups during the 2019 Indian Election"
+    team: 
+    - name: Abhishek Bhave
+    - name: Sidharth Pati
+    - name: Ateendra Ramesh 
+  - title: "What's influencing the president?"
+    team: 
+    - name: Akshada Chandrakant Bhor
+    - name: Ruturaj Tukaram Molawade
+  - title: "SAM Research Database"
+    description: >
+      A sample-tracking database for the SAM Environmental Health Longitudinal Study.
+    team:
+    - name: Blake Cooper
+    - name: Alex Liu 
+    - name: Lisa Kanbur
+- title: "Database Systems - Databake-Off"
+  code: CSE 4/562
+  projects:
+  - title: "Lone Wolf"
+    bakeoff: 2nd place (tie)
+    description: >
+      This database once punched a table so hard that it became the first column store.
+    team: 
+    - name: Varsha Ganesh
+  - title: "Neflix and Chill"
+    description: >
+      This database doesn't need indexes.  It just intimidates tuples off the IO path.
+    team: 
+    - name: Thejasweni Prakash Mysore
+    - name: Anunay Rao
+    - name: Apoorva Biseria
+  - title: "Databass"
+    description: >
+      Built using a volcano style implementation, this database buries its competition under a flow of molten tuples.
+    team:
+    - name: Deepak Ranjan
+    - name: Swarit Sanjiv Shah
+    - name: Yash Narendra Saraf
+  - title: "Megalodons"
+    description: >
+      This database once computed π exactly.
+    team: 
+    - name: Aditya Agarwal
+    - name: Shubham Gulati
+    - name: Ram Vallabh Singh.
+  - title: "slow mo guys"
+    bakeoff: 1st place
+    description: >
+      Not actually a database, but actually a quantum simulation of all possible computer programs.
+    team: 
+    - name: Hariprasath Parthasarathy
+    - name: Syed Aqhib Ahmed
+    - name: Mohammad Umair
+  - title: "Lannisters"
+    bakeoff: 2nd place (tie)
+    description: >
+      A Lannister always pays his DBAs.
+    team: 
+    - name: Srinivas Rishindra Pothireddi
+    - name: Lakshmi Narasimhavihari Vemuri
+    - name: Sri Harsha

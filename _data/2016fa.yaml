@@ -1,0 +1,38 @@
+- title: Advanced Computer Systems
+  code: CSE 622
+  projects:
+    - title: "Automatic login for WiFi captive portals"
+      description: "This project enables automatic login for WiFi captive portals on Android, e.g., Starbucks, Tim Hortons, UB Guest, etc. A user logs in to a captive portal once, and the system will record the actions and later reply them to automatically log in."
+    - title: "Incognito mode for apps"
+      description: "This project enables \"Incognito Mode\" for Android apps, similar in a way that Chrome does for web browsing. A user can enable this and use an app; after the user closes the app, nothing gets stored on the phone."
+    - title: "App overlay for quick use"
+      description: "This project allows an app to appear on top of another app on Android, in a smaller size screen. Sometimes a user wants to quickly use one app linked from another app, and come back; this enables such use."
+    - title: "End user 'wakelock' for energy efficiency"
+      description: "This project allows end users to control wakelocks held by different apps on Android. For example, YouTube holds a screen-on wakelock on Android to prevent the screen to go off while watching, which is inconvenient and energy wasting if a user just wants to listen to a song; it would be nice to be able to control the wakelock so the user can safely turn off the screen. This system allows such wakelock control."
+    - title: "Context-aware, user- and developer-configurable notification system"
+      description: "This project enables Android users to configure when to receive and when not to receive notifications based on contexts, e.g, time, location, lighting conditions, and other environmental conditions. The system does not display notifications until user-provided conditions are met or vice versa."
+    - title: "Context-aware UI action record and replay"
+      description: "This project allows certain UI actions on Android to be performed depending on contexts, e.g., time, location, etc. For example, a user can record a bus-schedule app launching UI actions, i.e., clicks, and asks the system to replay those actions when the user is near a bus stop."
+    - title: "Gesture-based button control"
+      description: "This project allows Android users to associate gestures with buttons on a smartphone, e.g., power on/off, volume control, home button, etc. A user can use apredefined gestures to use buttons."
+    - title: "A new photo data management framework"
+      description: "This project designs a new photo data management framework on Android, that allows photo management apps, photo editors, and photo filters to be developed separately and used together to serve users better."
+    - title: "New cloud-database sync mechanisms"
+      description: "This project presents new mechanisms to sync Android databases with cloud storage services. DB syncing was previously not well-investigated, and this project presents three mechanisms to do so."
+    - title: "Text filtering for apps"
+      description: "This project allows users to filter the text displayed on an Android app. This is useful for parental control and general content filtering."
+    - title: "Context-aware app suggestions"
+      description: "This project enables the Android lock screen to suggest relevant apps based on contexts. For example, if a user is running, the system displays fitness apps or music apps on the lock screen, so that the user can quickly open them if necessary."
+- title: Languages and Runtimes for Big Data
+  code: CSE 662
+  projects:
+    - title: "PocketData summarization"
+      description: "Utilizing Android query logs, we model common behaviors and interesting patterns which can be used to realistically emulate workloads created by Android applications and point out to possible bugs or performance improvement opportunities."
+    - title: "NLP Queries and Table Synthesis"
+      description: "Integrating a Natural Language Processing module in Mimir which is capable of solving a non-SQL user’s queries, proposing and adding tables/ column nodes to an existing ontological network."
+    - title: "On-the-fly CSV parser"
+      description: "Building different techniques to parse a CSV file on-the-fly and comparing their performances"
+    - title: "Sideways and on-demand cracking"
+      description: "Implementing and evaluating an adaptive indexing strategy called sideways cracking, under a different set of workloads."
+    - title: "Just-in-time data structure policy design"
+      description: "Implementing an organizational strategy called a just-in-time data structure policy to handle workloads that change over time, creating different optimal layouts."

@@ -1,0 +1,272 @@
+- title: 'Masters Capstone Project'
+  code: CSE 611
+  projects:
+  - title: ACVMeasure
+    description: ACVMeasure - Specialized augmented reality based damage quantification
+      on vehicles.
+    team:
+    - name: Trijala Reddy Gangasani
+      email: trijalar@buffalo.edu
+      github: https://github.com/trijala/
+      linkedin: https://www.linkedin.com/in/trijala-reddy-gangasani/
+      twitter: https://twitter.com/reddy_trijala
+    - name: Manasa Susirla
+      email: manonmay@buffalo.edu
+      github: https://github.com/manasa-susirla
+      linkedin: https://www.linkedin.com/in/manasa-susirla/
+    - name: Vaibhav Chhajed
+      email: vchhajed@buffalo.edu
+      linkedin: https://www.linkedin.com/in/vaibhav-chhajed-0805bb111/
+    - name: Sanjay Lnu
+      email: sanjay@buffalo.edu
+      github: https://github.com/sanjaykig/
+      linkedin: https://www.linkedin.com/in/sanjaykig/
+      othersocial: https://www.coursera.org/verify/specialization/VCL9SAFA9HY7
+  - title: CAMO - Digitize and Summarize
+    description: Daily operations in large businesses involves processing of legal
+      and financial documents. One convenient way to tackle the problem of reading
+      through these tens to hundreds of pages is to get an effective summary of the
+      document using our app - Digitize and Summarize!  Save billions of dollars of
+      errors happening due to financial and legal mishaps and understand the important
+      details of your document without the need to go through the entire document
+      at question.
+    url: https://play.google.com/store/apps/details?id=com.usercamo.tele
+    team:
+    - name: Baoqian Zhang
+      email: baoqianz@buffalo.edu
+    - name: Aditi Ghatge
+      email: aghatge@buffalo.edu
+      linkedin: https://www.linkedin.com/in/aditi-ghatge-8825a197
+    - name: Shreya Pampattiwar
+      email: spampatt@buffalo.edu
+      linkedin: www.linkedin.com/in/shreya-pampattiwar
+    - name: Harsh Shah
+      email: harshhem@buffalo.edu
+      linkedin: https://www.linkedin.com/in/harsshah/
+  - title: Buffalo and Erie County Botanical Gardens Tributes Website
+    description: Buffalo Botanical Gardens Tributes website is built for the staff
+      at Botanical Gardens as well as the public to access the tribute collection
+      present in the garden. The staff members can update and maintain the data in
+      the tribute collection as and when needed. The website can allow viewers to
+      intuitively browse the complete selection of tributes or to search for specific
+      tributes of interest. This website acts like a virtual information desk to potential
+      visitors and the public. The user interface is easy to use but at the same time
+      is artistic and peaceful akin to the spirit of reminiscence.
+    team:
+    - name: Anand Jhamnani
+      email: anandarj@buffalo.edu
+      linkedin: http://linkedin.com/in/anand-jhamnani
+    - name: Naturepreet
+      email: naturepr@buffalo.edu
+      linkedin: https://www.linkedin.com/in/naturepreet-benipal-79755877/
+    - name: Thushara Tirupathi
+      email: ttirupat@buffalo.edu
+      linkedin: https://www.linkedin.com/in/thushara-tirupathi/
+    - name: Utkarsh Behre
+      email: ubehre@buffalo.edu
+      github: https://github.com/UtkarshBehre
+      linkedin: https://www.linkedin.com/in/utkarsh-behre/
+      othersocial: utkarshbehre.com
+    url: http://71.186.160.170/tribute/Home/Index
+  - title: Classroom Scanner
+    description: The Classroom Scanner makes it easy for elementary students to scan
+      and store digital copies of the work they complete on paper. It bridges the
+      gap between the use of digital technology and paper in the classroom.
+    team:
+    - name: Hari Guhan Thillairajan
+      email: hariguha@buffalo.edu
+      linkedin: https://www.linkedin.com/in/guhan-me/
+    - name: Venugopal
+      email: vchintha@buffalo.edu
+      linkedin: https://www.linkedin.com/in/venugopalcg/
+    - name: Shathesh
+      email: shathesh@buffalo.edu
+      linkedin: http://linkedin.com/in/shathesh
+    - name: Kavitha C
+      email: kavithac@buffalo.edu
+    url: https://classroomscanner.org/
+  - title: Truee Recycle
+    description: Search the product you are trying to recycle and the Truee Recycle
+      app tells you how to recycle it correctly, based on the city you live in. It
+      also reminds you take recycling out.
+    url: https://play.google.com/store/apps/details?id=com.trueerecycle.trueerecycle2
+    team:
+    - name: Anjana Tejaswini Kalava
+      email: anjanate@buffalo.edu
+    - name: Sindhuja Parnam
+      email: sparnam@buffalo.edu
+    - name: Sindhu Sola
+      email: sindhuso@buffalo.edu
+    - name: Shravya Pentaparthi
+      email: shravyap@buffalo.edu
+  - title: Independence skills assessment App
+    description: The Independence skills assessment web application helps to evaluate
+      a student based on their skills. The app provides a set of questions for the
+      provided goal and evaluates the independent skills of the student.
+    team:
+    - name: Siddarth Gaikwad
+      email: sgaikwad@buffalo.edu
+      github: https://github.com/SiddGaikwad
+      linkedin: https://www.linkedin.com/in/sid-gaiks/
+    - name: Akash Malla
+      email: amalla@buffalo.edu
+      github: https://github.com/akashmalla307
+      linkedin: www.linkedin.com/in/akash-malla-ub
+    - name: Manasa Rao Chakunta
+      email: manasara@buffalo.edu
+      github: https://github.com/chmanasarao
+      linkedin: https://www.linkedin.com/in/manasa-rao-chakunta-555298116
+    - name: Pranali Maroti Deogade
+      email: pranalim@buffalo.edu
+      github: https://github.com/pranalideogade
+      linkedin: https://www.linkedin.com/in/pranali-deogade/
+    - name: Sumit Kumar
+      email: skumar34@buffalo.edu
+      github: https://github.com/iSumitYadav
+      linkedin: https://www.linkedin.com/in/isumityadav/
+    url: https://isaub.azurewebsites.net/
+  - title: Insta-Auction
+    description: InstaAuction, an application developed in iOS is essentially a guide
+      to the ACV inspector helping him/her to get a gist of the 360 imagery of the
+      car. The application uses latest technologies like Depth Sensing, Machine Learning,
+      Image Detection, Stabilization to achieve what it promises. It involves the
+      inspector moving around the car capturing the best possible frames by following
+      the instructions provided by the application. The application is smart enough
+      to sense the car, detect the side of the car, how far the user is moving around
+      the car and how far is he/she away from the car. It combines all the technologies
+      and generates a 360 imagery low frame rate video.
+    team:
+    - name: Krishna Teja Mellacheruvu
+      email: kmellach@buffalo.edu
+      github: https://github.com/krishnatejakt
+      linkedin: https://www.linkedin.com/in/krishnateja1997/
+    - name: Avinash Parasurampuram
+      email: avinash.parasurampuram@gmail.com
+      github: https://github.com/avinashpatnaik
+      linkedin: https://www.linkedin.com/in/avinash-parasurampuram/
+    - name: Bharat Sesham
+      email: bharatse@buffalo.edu
+      github: https://github.com/bharatsesham
+      linkedin: https://www.linkedin.com/in/bharat-sesham/
+    - name: Upmanyu Tyagi
+      email: upmanyut@buffalo.edu
+      linkedin: http://www.linkedin.com/in/upmanyu
+    - name: Sandesh Kumar Srivastava
+      email: sandesh.srivastava@gmail.com
+      github: https://github.com/sandeshsri
+      linkedin: https://www.linkedin.com/in/sandeshsrivastava/
+    url: https://github.com/bharatsesham/InstaAuction
+  - title: Client Quality Systems
+    description: A sleek and intuitive web app designed to digitize and unify a quality
+      assurance process
+    team:
+    - name: Mrunal Narendra Inge
+      linkedin: http://linkedin.com/in/mrunal-inge-6537a4a5
+    - name: Meghana Narvangla Prasanna
+      linkedin: https://www.linkedin.com/in/meghana-n-p/
+    - name: Mridula Rao
+    - name: Andrew Woloszyn
+  - title: Step Challenge
+    description: Step Challenge is a web Application for users to track  steps and
+      compete for the prizes both individually and as a team. This application offers
+      users an intuitive interface for daily progress and leader board positions.
+    team:
+    - name: Maruthi Reddy Alamuri
+      email: maruthir@buffalo.edu
+      linkedin: https://www.linkedin.com/in/maruthi1
+    - name: Sai Kumar Vemula
+      email: svemula2@buffalo.edu
+      linkedin: https://www.linkedin.com/in/saikumar-vemula-3b8640b8
+    - name: Hima Bindu Pamukuntla
+      email: hpamukun@buffalo.edu
+      linkedin: https://www.linkedin.com/in/himabindupamukuntla/
+    - name: Preethi Thota
+      email: preethit@buffalo.edu
+      linkedin: https://www.linkedin.com/in/thota-preethi
+  - title: Look the part
+    description: "FEATURES\L\L+ Find Exact Matches & Inspired Styles\L+ Shop by Character,\
+      \ TV Show, or Recent Trends\L+ Save Items\L+ Curate Collections\L+ Similar Product\
+      \ Suggestions\L+ Enhanced Search Engine\L\LEXACT MATCHES & INSPIRED STYLES\L\
+      While we try to find exact matches wherever possible, we are equally focused\
+      \ on finding products that are both in-stock AND cost-effective alternatives.\
+      \ Any products that are identical to the photos will have an “Exact Match” icon;\
+      \ so you can easily delineate actual vs. inspired styles.\L\LSIMILAR PRODUCTS\L\
+      Find a style you love? Shop our Similar Products feature to find the best version\
+      \ to fit your occasion, body type, or budget.\L\LSEARCH / DISCOVER:\LOur enhanced\
+      \ search feature allows you to enter keywords and locate products by style,\
+      \ occasion, brand, or retailer. \L\LSAVE & CURATE\LCreate style boards where\
+      \ you can customize selections of your favorite items!"
+    team:
+    - name: Charan
+      email: charanna@buffalo.edu
+    - name: Piyali Banerjee
+      email: piyaliba@buffalo.edu
+    - name: Ajit Bhat
+      email: abhat3@buffalo.edu
+    - name: Anuj Narayanaswamy
+      email: anujnara@buffalo.edu
+    url: https://apps.apple.com/us/app/look-the-part/id1508417933
+  - title: Essential Machine
+    description: Essential Machine is an attempt at solving the problem of reducing
+      contact in School places by manufacturing vending machines (referred to as Essential
+      Machine) that dispense masks, gloves, sanitizers in a safer, more convenient
+      manner compared to physical stores. The Essential Machine is more advanced &
+      safer than the typical vending machine allowing mobile payments.
+    team:
+    - name: Bhoomi Manish Gandhi
+    - name: Ashik Poovanna
+    - name: Manjunath Ramachandra Bhat
+    - name: Sandeep Kumar Yadlapalli
+  - title: Don't Buy Me
+    description: “Don’t Buy Me!” is a Chrome extension. It notifies collectors of
+      CD, DVD, Blu-ray, Vinyl, and books from buying duplicates when shopping on Amazon.
+      It allows users to login with their Google accounts, add and manage the information
+      of items in their accounts. If the user is viewing a product on Amazon, the
+      application will show a notification about its owning status.
+    team:
+    - name: Songtao Wei
+      email: songtaow@buffalo.edu
+      github: https://github.com/zergpvz141
+      linkedin: https://www.linkedin.com/in/songtao-wei-723922190/
+    - name: Xingtong Li
+      email: xli228@buffalo.edu
+      github: https://github.com/xingtongli
+      linkedin: https://www.linkedin.com/in/xingtong-li-03b568164/
+    - name: Xiaoxiao Lei
+      email: xlei@buffalo.edu
+      github: https://github.com/Dark417
+      linkedin: https://www.linkedin.com/in/xiaoxiaolei/
+    code: https://github.com/zergpvz141/DBM_extension
+  - title: Medical Sample Database
+    description: The SAM research Database is a web application which helps to minimize
+      the task of maintaining the record of the results obtained after conducting
+      tests on medical samples of children.
+    team:
+    - name: Venkata Narayana Rohit Kintali
+      email: vkintali@buffalo.edu
+      github: https://github.com/prabha1729/medicalsample
+    - name: Prabhakar Reddy Gaddam
+      email: pgaddam@buffalo.edu
+      github: https://github.com/prabha1729/medicalsample
+    - name: Charan Reddy
+      email: charanre@buffalo.edu
+      github: https://github.com/prabha1729/medicalsample
+    - name: Anjali Bachani
+      email: abachani@buffalo.edu
+      github: https://github.com/prabha1729/medicalsample
+    url: http://stark.cse.buffalo.edu:3000
+  - title: Dinotech
+    description: Dinotech is a web application that offers its users an interactive
+      interface to build a taxonomy for their data. It helps the user organize their
+      data into categories and fetch them when needed. The application also lets the
+      user record memories about an item. These memories can be viewed all at once
+      or in an item specific manner.
+    team:
+    - name: Bharathi Kothandan
+      email: bkothand@buffalo.edu
+      github: https://github.com/I-am-bharathi
+      linkedin: https://www.linkedin.com/in/bharathikothandan/
+    - name: Maheshwar Reddy Baddam
+    - name: Sruthi Sri Pochiraju
+    - name: Vamshi Gujjari
+    url: http://35.172.165.107/

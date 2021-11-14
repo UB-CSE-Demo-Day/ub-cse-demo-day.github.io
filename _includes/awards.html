@@ -1,0 +1,19 @@
+
+
+{% for award in include.awards %}
+
+<h4>{{ award["award"] }}</h4>
+
+<ul class="award">
+  {% for recipient in award["recipients"] %}
+    <li class="recipient">
+      <div class="project">{{ recipient["project"] }}</div>
+      <div class="awardees">
+        {{ recipient["awardees"] | join: ", " }}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+
+
+{% endfor %}
