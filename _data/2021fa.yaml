@@ -1,0 +1,295 @@
+- code: CSE 611
+  projects:
+  - description: Matchboard brings together people with complementary skill sets,
+      helping to form teams that are dynamic enough to successfully explore new ventures.
+    team:
+    - name: Abhilash Kalwa
+    - name: Amneet Kaur
+    - name: Hemant Das
+    - name: Mayank Lara
+    - name: Vinay Chilaka
+    title: Team Matchboard
+    url: http://stark.cse.buffalo.edu:5002/
+  - description: Open Beats, is a Digital Audio Workstation (DAW) that aims to allow
+      artists to collaborate with others on music synchronously and remotely.
+    team:
+    - name: Ashish Naware
+    - name: Sachin Tiwary
+    - name: Shashank Priya
+    - name: Abheejeet Singh
+    title: OpenBeats
+    url: enbeats--frontend.s3-website.us-east-2.amazonaws.com
+  - description: "A Common platform for Ub to speak their heart out! The goal of this\
+      \ project is to build a web portal \u201CBlog Platform\u201D (an open-source\
+      \ website) for people who are interested in writing articles and reports and\
+      \ want to publish it for the interested audience and garner some experience.\
+      \ The \u201CBlog Platform\u201D would host articles, blogs, write-ups and experiences\
+      \ from students on various topics. Gadget reviews, movie reviews, current affairs,\
+      \ tour experiences are few examples of categories that the website could offer\
+      \ to the reader.<br><br>Some of the features that we plan to build and integrate\
+      \ successfully are as follows:<br>\u2219 Blogging platforms shall enable direct\
+      \ reader participation with the host blogger by<br>enabling user comments.<br>\u2219\
+      \ The reader could find all the related articles under one category and bookmark\
+      \ the<br>interested categories.<br>\u2219 Notifications tab for the user for\
+      \ any new blogs under a category that the user has<br>expressed interest in."
+    team:
+    - name: Dewang Rajkakati
+    - name: Swastik Wakde
+    - name: Yashwanth Reddy Katam
+    - name: Isha Narula
+    - name: Pauravi Sawant
+    - name: Surya Vamsi Saripudi
+    - name: Swapnil Satpute
+    title: Blog Platform
+  - description: QAS.ai provides AI-driven software that is used for surgery assistance.
+      We created a product to access the AI Models which gets us the probability of
+      unsuccessful treatment during endovascular treatment. This has been deployed
+      in the Qas.ai internal production servers which only certain institutions has
+      access to.
+    team:
+    - name: Kaviarasu Sakthivadivel
+    - name: Sendil Balan Palanivel
+    - name: Purushothaman Aravamuthan
+    - name: Froyston Mendonca
+    - name: Prajwal S
+    title: QAS.AI
+  - description: Develop app for the University at Buffalo that displays deals offered
+      by partners of the university and display events from the UB Calendar in a concise
+      and informative way to the downloaders.
+    team:
+    - name: Steven Pittaro
+    - name: Hannah Wlasowicz
+    - name: Ariel Shevah
+    - name: Matthew Rwasenge
+    - name: Felipe Canales
+    - name: Chia Chen Chen
+    title: UB Student Experience App
+  - description: ACV Auctions has an iOS app that enables agents to document the condition
+      of a used car with photos which include various pictures of the windshield and
+      other areas of the car that contain glass. The project uses a combination of
+      different algorithms to enable automatic glass crack detection and a sample
+      iOS Application to implement the Algorithm. We apply the combination of two
+      machine learning models and some image processing methods to detect the crack
+      with an estimated confidence rate. <br><br>The Mobile Application has an option
+      to upload the image of the car component having glass or take a live picture
+      which is then fed to the first pretrained model to extract the glass from it
+      and then the second model generates a confidence score for crack to be present.
+    team:
+    - name: Abhivardhan Reddy Saddikuti
+    - name: Ananth Deepak Sharma
+    - name: Ashish Ravi
+    - name: Leela Sairam Saladi
+    - name: Jahnavi Parni
+    - name: Shamanthakamani Kyasaram
+    title: 'ACV Auctions: Glass Crack Detection'
+  - description: Look the Part is a mobile app that identifies fashion & beauty products
+      seen on TV shows. The app offers a range of experiences including a newsfeed,
+      character profiles, curated seasonal collections, and the ability to save items
+      and organize them into custom style boards. The goal is to build software that
+      captures and analyzes screen-based media to connect viewers with existing content
+      in Look the Parts mobile app and provide an instant and effortless way to connect
+      viewers and users with items they wish to purchase based on their favourite
+      tv shows.
+    team:
+    - name: Harsh
+    - name: Nihal
+    - name: Dhruv
+    - name: Deepak
+    - name: Gautam
+    - name: Manushree
+    - name: Rohan
+    title: Look The Part (Fashion Finder)
+    url: https://apps.apple.com/us/app/look-the-part/id1508417933
+  - description: It is a web application which captures majorly the recorder functionality
+      of the endoscopy and the report building for the patient.
+    team:
+    - name: Anoosha Seelam
+    - name: Aparna Ananthakrishnan
+    - name: Kaumudi Moholkar
+    - name: Manasa Motamarry
+    - name: Priyanka Tajane
+    title: Patcom Medical
+    url: https://ubuffalo.patcommedical.xyz/
+  - description: A standalone Business Intelligence (B.I.) Platform that aggregates
+      and<br>synthesizes data from 4 of Look the Part's sales channels (Rakuten, CJ
+      Affiliate, Sovrn, Impact)
+    team:
+    - name: Supraja
+    - name: Akhil
+    - name: Vivek
+    - name: Kranthi
+    - name: Shweta
+    - name: Eshwar
+    - name: Omkar
+    title: Look the Part (BI Tool)
+  - description: The platform will become a tool to help households improve their
+      waste sorting habits in a simple and correct way. Moreover, there will be an
+      integrated motivational component to sort a waste in general. In turn, feedback
+      from households can improve the services provided by recycling companies.<br><br>Our
+      project is based on a new (theoretical) concept of significant improvement of
+      waste sorting and recycling in Buffalo (Erie county) area.
+    team:
+    - name: Ilja Afanasjevs
+    - name: Andris Ozols
+    - name: Anita Avisane
+    - name: Maris Krastins
+    - name: Sai Preetham Reddy
+    - name: Naga Venkata Sai Abhijith P
+    - name: Mounika Marnen
+    title: Truee Recycling
+    url: trueerecycle.info
+  - description: "\u2018Entertain Me\u2019 is a cross-platform mobile application\
+      \ that connects freelance entertainers, artists, and socialites to businesses\
+      \ and hosts that are looking to hire entertainers to their events. It provides\
+      \ entertainers a platform to showcase and market their talents to a wide audience."
+    team:
+    - name: Maruf Shaikh
+    - name: Devya Singh
+    - name: Darshan Bhojani
+    - name: Eshwar N Kumar
+    title: EntertainMe
+  - description: Currently there is no fun way to discover or share food socially
+      within the digital world. Available food discovery tools are cumbersome and
+      inefficient in their design, leading to a frustrating user experience. Also,
+      they are designed around 1 person making a food decision. The goal of this project
+      is to create an app that encourages foodies to share what they are eating and
+      discover what others are eating to ultimately help solve the problem of not
+      knowing what they want to eat in a fun, interactive way.
+    team:
+    - name: Akshay Bhatt
+    - name: Jyeshtha Vartak
+    - name: Keshav murthy Ramachandra
+    - name: Mohit Shetty
+    - name: Yohanth Shetty
+    title: The Food Court
+  - description: Essential Machine is an attempt at solving the problem of reducing
+      contact in School places by manufacturing vending machines (referred to as Essential
+      Machine) that dispense various commercial products in a more convenient manner
+      compared to physical stores. The Essential Machine is more advanced & safer
+      than the typical vending machine allowing mobile payments and a smooth and faster
+      checkout experience without the need of physical form of currencies.
+    team:
+    - name: Niharika
+    - name: Paramesh
+    - name: Shweta
+    - name: Viswapujitha
+    - name: Sravya
+    title: The Essential Vending Machine
+  - description: "SportStretch Recovery On The Go is envisioned as a mobile application\
+      \ that will connect professional athletes with legitimate bodywork professionals\
+      \ in their area. The initial plan is to enable working with Licensed Massage\
+      \ Therapists (LMT's) and eventually opening it up to Sports Chiropractors, Sports\
+      \ Acupuncturists etc. <br><br>The objective of creating this product is to remove\
+      \ the client\u2019s direct involvement from the booking process while ensuring\
+      \ access to legitimate and professional services from qualified and licensed\
+      \ therapists.<br><br>\u25CF Our app supports three user roles: athletes, therapists\
+      \ and admin.<br>   On successful login, each type of user will be redirected\
+      \ to their appropriate dashboards. <br><br>\u25CF The application was developed\
+      \ using React Native and APIs with Node JS.<br><br>Our application has the following\
+      \ main components:<br>-    User Authentication and Authorization.<br>For Athlete<br>-\
+      \    Dashboard with appointment scheduler.<br>-    Maps integration showing\
+      \ the location of nearby therapists.<br>-    Past bookings and upcoming bookings\
+      \ are updated in the app dashboard.<br>-    Rate any previously booked therapist.<br>For\
+      \ Therapist<br>-    Switch himself to available or unavailable.<br>-    Accept\
+      \ or Decline an athlete's appointment.<br>-    His past bookings and upcoming\
+      \ booking status are updated in the app dashboard.<br>For Admin<br>-    Approve\
+      \ or Deny a new therapist request.<br>-    Temporarily enable or disable a therapist.<br>-\
+      \    View all bookings made using the application."
+    team:
+    - name: Jain Zachariah
+    - name: Digant Gupta
+    - name: Elizabeth Maria Joseph
+    - name: Gurleen Kaur
+    - name: Chaitanya Uppuluri
+    title: SportStretch Recovery On The Go
+  - description: A virtual companion that is designed for health care for the elders
+    team:
+    - name: Yonghui Lin
+    - name: Zhongen Shi
+    - name: Zhongai Shi
+    - name: Anjie Sun
+    - name: Chenyu Xu
+    title: Virtual Companion
+  - description: "Parkinson\u2019s disease is a common condition that affects more\
+      \ than 200,000 US cases per year. Since there is no cure to it, developing an\
+      \ application that could potentially help is an inspiration. This app would\
+      \ help improve gait of people with Parkinson's. This app aims to improve the\
+      \ speed and stability of people with this condition using non invasive and medicinal\
+      \ therapies i.e. music"
+    team:
+    - name: Vineet Jain
+    - name: Soham Patel
+    - name: Rishabh Kumar
+    - name: Shreyas Vedantam
+    - name: Manasa Challa
+    title: Parkinson Gait Assistance
+  - description: 'A web based application that is paired with a smart watch, which
+      aids patients in detecting the likelihood of experiencing an abdominal leak
+      based on their symptoms and allows the doctors to monitor the patients'' health
+      in a timely manner.<br><br>Tech stack: Java, Spring, Bootstrap, HTML, CSS, JavaScript,
+      PostgreSQL'
+    team:
+    - name: Qamar Nadeem
+    - name: Vidhya Suresh
+    - name: Soukhya Kunda
+    - name: Sree Sushma Rangareddygari
+    - name: Venkat Saneet Valluru
+    - name: HarshithSai Peram
+    title: Limitless Medical Technology
+  - description: The LifeTreeWNY web application was created to provide tracking and
+      associated metrics for services purchased by customers. The goal of this project
+      is to enhance existing dashboards for the client which in turn enables their
+      team to effectively orchestrate, co-ordinate and seamlessly deliver services
+      pertaining to tree removal, tree pruning, stump grinding, storm damage repair,
+      cabling and risk assessments.
+    team:
+    - name: Susmitha Ainampudi
+    - name: Srishti Chadha
+    - name: Arjun Chaurasia
+    - name: Aditya Balasubramanyam
+    title: Scrumbledores
+  title: Master's Capstone Project
+- code: CSE 442
+  projects:
+  - description: A platformer game centered around the idea that you must progress
+      through the story by completing stages of the game. The player has control of
+      their character to run, jump, and climb onto different platforms on the screen
+      to collect Crewels and unlock the keys to progress to the next level. The crewels
+      are used as currency in the game to buy powerups in the game store.
+    team:
+    - name: PM Hakeem
+    - name: Chaktim
+    - name: Lila
+    - name: Eric
+    - name: Eliza
+    - name: Will
+    title: Crewel
+    url: https://crewel.herokuapp.com/
+  - description: The project has two main goals:<br>1) Allow courses to define and
+      ask pre-class poll questions as an incentive for getting students into the classroom
+      early;<br>2) Allow a professor to collect and monitor how students are feeling
+      about the pace of a lecture. The process is simple for students to provide feedback
+      and gives professors a real-time view of how or whether they are being understood.
+    team:
+    - name: Lauren Richardson
+    - name: Ethan Richardson
+    - name: Inesh Jupudy
+    - name: Mohammad Latif
+    title: Class Observer
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2021-Summer/cse-442f/login.php
+  - description: Zoom, Teams, Club Penguin only have a subset of our features. We
+      marry them all into one fantastic project! <br><br>Project MVP is a running
+      web-based gamified conferencing app that allows attendees to move around the
+      "room" and hear people talking nearby their character and join conversations.
+      The app also provides a classical text chat and one-on-one video call options.<br><br>And
+      there is so much more we could do with this app in the future!
+    team:
+    - name: Malika Kodial
+    - name: David Palumbo
+    - name: Zack Laistner
+    - name: Manaswini Burugupalli
+    - name: Kevin Huang
+    - name: PM - Liga Ozolina
+    title: MegaMindz / Meet'n'Greet
+    url: https://meet--n--greet.herokuapp.com/
+  title: Software Engineering
