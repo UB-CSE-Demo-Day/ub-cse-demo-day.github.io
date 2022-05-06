@@ -1,0 +1,516 @@
+- code: 611
+  projects:
+  - description: Distributed systems simulator is a web application that lets users
+      simulate distributed systems protocols interactively. The primary intent of
+      the application is to help students who take up distributed system classes,
+      understand and visualize its protocols. Distributed systems are hard to understand,
+      the protocols deal with unreliable clocks, process pauses, partial failures
+      involving many parameters. Our interactive simulator will help distributed systems
+      enthusiasts visualize and understand the concepts more intuitively by letting
+      the users play with node failure, and other factors involved with the specific
+      protocol, which will help the users deepen their understanding.  <br><br>-
+    team:
+    - name: Jayanth Gollapinni  - sgollapi@buffalo.edu
+    - name: ''
+    - name: Mahideep Tumati - ntumati@buffalo.edu
+    - name: ''
+    - name: Sai Teja Veluru - sveluru2@buffalo.edu
+    - name: ''
+    - name: Tejaswini Sana - sairamat@buffalo.edu
+    - name: ''
+    - name: Vinay V.M. Urlam - vurlam@buffalo.edu
+    title: Distributed systems simulator
+  - description: The goal of this project is to develop a restaurant dashboard, add
+      analytics in the admin and restaurant consoles and enhance the existing mobile
+      application that encourages people to share what they are eating and discover
+      what others are eating to ultimately help solve the problem of not knowing what
+      they want to eat in a fun, interactive way (group foodie).<br><br>1. Group foodie
+      (Group of users can easily decide on what to eat and where to eat in their vicinity)<br>2.
+      Analytics in the admin console with graphical representation (Daily, Weekly,
+      Monthly)<br>3. Managing restaurants (Search, add and update menu items, update
+      restaurant information, analytics)
+    team:
+    - name: 1. Radhakrishna Mohan Eadara (readara@buffalo.edu)
+    - name: 2. Shiva Kumar Mukkapati (smukkapa@buffalo.edu)
+    - name: 3. Niharika Talluri (ntalluri@buffalo.edu)
+    - name: 4. Ritwik Doppalapudi (sdoppala@buffalo.edu)
+    - name: 5. Varshith Reddy Danda (vdanda@buffalo.edu)
+    title: Food Court
+  - description: Helpt is an On-Demand Services company looking to create a two-way
+      delivery system for freelancers and clients to meet together.<br><br>Helpt was
+      created to help as many people as possible with not only a great product but
+      also by building a great community. A single platform to connect both freelancers
+      and clients. <br><br>With Helpt, your help is at your fingertips. Just open
+      the app and enter what service you need help with, and a nearby helper will
+      help you complete the job reliably.
+    team:
+    - name: Akshaya Mohan - akshayam@buffalo.edu
+    - name: Akshay Sahai - asahai2@buffalo.edu
+    - name: Aravind Balakrishnan - balakri2@buffalo.edu
+    - name: Kiranmai Namburu - kiranmai@buffalo.edu
+    - name: Prasad Shirvandkar - prasadda@buffalo.edu
+    title: Helpt App
+    url: https://helpt.app/
+  - description: "Look the Part is an IOS based application. As a part of this project,\
+      \ we will be implementing a new feature for an existing iOS mobile application\
+      \ that uses Machine learning to allow users to scan for a digital image depicting\
+      \ TV characters, wearing different outfits, and mapping those outfits with the\
+      \ exact or similar clothing items in our database with<br>an embedded link to\
+      \ the third party websites, where the user can actually buy the product. The\
+      \ application also consists of character wise product filters which the user\
+      \ can use to check out the clothes worn by their favorite TV Characters if the\
+      \ scanned results are not appropriate. This feature is considered as the \u2018\
+      Shazam\u2018 of the fashion world.<br><br>The Features developed as a part of\
+      \ this project:<br>1. Recognizing the similar clothes that the user uploads\
+      \ in the form of a video clip or an image(Object Detection using Mask RCNN &\
+      \ Color Detection using K-means).<br>2. Image Upload and Video Capture functionality.<br>3.\
+      \ Push Notifications<br>4. Session Metrics<br>5. Google Sign-in<br>6. Result\
+      \ Screens, Filters and UI Enhancements."
+    team:
+    - name: varshith@buffalo.edu
+    - name: mmusku@buffalo.edu
+    - name: bandarup@buffalo.edu
+    - name: mythreye@buffalo.edu
+    - name: saisrava@buffalo.edu
+    - name: sitikala@buffalo.edu
+    title: Look the Part
+  - description: "The goal of this project is to build a mobile application and a\
+      \ web console called Time Capsule. TimeCapsule is an app that helps you to talk\
+      \ to your future self and also with future generations - family/friends so that\
+      \ you are more connected to your loved ones, anywhere, anytime, even after you\
+      \ are gone. This allows your legacy to live on for many generations to come.\
+      \ <br><br>The project is to Create, preserve memories and experiences to cherish\
+      \ by looking at those after some long time and also to remind beautiful moments\
+      \ to the future generations. In the application, The users must sign up. Free\
+      \ tier includes storage upto 50gb. Premium service includes different plans\
+      \ and users can sign up for premium service based on their needs. Users can\
+      \ book a session with a time capsule by selecting the \u201CContact us\u201D\
+      \ section of the mobile application. Admin can access the web application and\
+      \ upload videos of a particular user in their premium section.<br><br>Essentially,\
+      \ The time capsule app assists in saving important events that the user wants\
+      \ to preserve and can share among other users within the app. Users can set\
+      \ up (create an account) their profile in the time capsule app. Upon creating\
+      \ a new account. <br>The user can perform the following actions with the application.<br>-\
+      \ The user can save photos, videos, voice recordings, descriptions.  <br>- The\
+      \ user data is saved in a timely fashion which means the user selects any year\
+      \ and he can go through the saved events anytime and anywhere.   <br>- The user\
+      \ can retrieve the saved data from a cloud storage. <br>- The user can share\
+      \ the data with other users. <br>- It has inbuilt video player , Audio player\
+      \ and Image viewer for the users to access their contents."
+    team:
+    - name: kc64746@buffalo.edu - 50418476
+    - name: sakethba@buffalo.edu - 50414412
+    - name: sahithba@buffalo.edu  - 50414758
+    - name: lalithsa@buffalo.edu    - 50414463
+    - name: hramdas@buffalo.edu  - 50376171
+    title: Timecapsule
+    url: https://timecapsuleapplication.com/
+  - description: Dancestry is an interactive, app-based lineal network illustrating
+      connections between dance artists, their teachers and choreographers they have
+      danced in the work of.<br><br>We will be illustrating lineal network in form
+      of a interactive network graph.
+    team:
+    - name: Srikar Panuganti <srikarpa@buffalo.edu>
+    - name: Tarun Kodavati <vkodavat@buffalo.edu>
+    - name: Jeevan Sagar Batana <jbatana@buffalo.edu>
+    - name: Tejasri Karuturi <tejasrik@buffalo.edu>
+    - name: Sumanth Reddy Adupala <sadupala@buffalo.edu>
+    - name: Bharath Gangishetti <bgangish@buffalo.edu>
+    title: Dancestry
+  - description: 'STOOTY, an online service in the Entertainment fintech and Creative
+      production domain, solves the problem of creators and studio operators by providing
+      them a platform to perform activities like book spaces and services simply and
+      instantly, and studio owners can easily finance, market, book, and manage their
+      production services using this platform.<br><br>We have added the following
+      features in the application for a smooth user experience wherein the creators
+      and artists will be able to share their social media platforms to display their
+      content and vice versa, they can use @ or # to search for a user or a listing
+      respectively, we have also given admin rights to manage multiple users, a listing
+      can also be promoted which shows up as a sponsored ad banner to the users, users
+      can comment and give reviews on studio spaces and services, the booking details
+      can also be integrated with google calendar of the user. <br><br>Tech Stack:<br>Languages:Front-end
+      :HTML/CSS3, BOOTSTRAP5, JAVASCRIPT, JQUERY<br>Back-endPHP<br>Database:MySql<br>Cloud
+      Service:Namecheap<br>Version Control:git'
+    team:
+    - name: Adithya Venkatesh-venkate9@buffalo.edu
+    - name: Ankit Shetty- ankitdiw@buffalo.edu
+    - name: Neha Bisht - nehabish@buffalo.edu
+    - name: Shubhangi Balasubramanian- balasub7@buffalo.edu
+    - name: Sushikth Shetty- sushikth@buffalo.edu
+    - name: Meet Thosani - meetpiyu@buffalo.edu
+    title: STOOTY
+    url: https://stooty.app/
+  - description: An ML object detection application built with PyTorch and YOLO5 to
+      identify instrument cluster lights in vehicles, streamlining an otherwise manual,
+      error prone, and time-consuming process.<br><br>Demo involves a live dashboard
+      and imaging to demonstrate real-time the object detection capabilities of the
+      application.
+    team:
+    - name: Rithvik - Rithvikas@buffalo.edu
+    - name: Bhushan Parwani - Bhushanp@buffalo.edu
+    - name: Ed Christian - Christi6@buffalo.edu (will not be in attendance on presentation
+        day due to conflict)
+    title: ACV Auctions
+  - description: The project is a web application for the management of services provided
+      by the business LifeTreeWNY in the Western New York region. The webapp houses
+      the entire lifecycle right from getting customer orders to managing invoices,
+      to ensuring the the job is done with automatic follow up emails and a maps view
+      to visualize the locations of jobs to be performed.  <br><br>The project integrates
+      Quickbooks, an accounting software along with dropbox to provide employees access
+      to customer files and uses google maps to provide the location data of the customer's
+      requests.
+    team:
+    - name: dgarude@buffalo.edu
+    - name: anishana@buffalo.edu
+    - name: ldodda@buffalo.edu
+    - name: anushnag@buffalo.edu
+    - name: shaikazi@buffalo.edu
+    title: LifeTreeWNY
+    url: http://137.184.136.1/
+  - description: "Findings of Endoscopic evaluation of swallowing<br><br>The project\
+      \ is a web-based application that allows authorized medical users to do the\
+      \ FEES study, create reports and store the patient\u2019s information. The user\
+      \ can log on to the application, record the videos through the endoscopic cameras.\
+      \ While recording the videos, a manual process of screenshotting the video can\
+      \ be done. These are later added to the reports respective to the patients via\
+      \ basic button click. Furthermore, screenshots can be edited using basic graphic\
+      \ tools to highlight interesting or crucial parts of the image."
+    team:
+    - name: Mounisha Kallepalli - mounisha@buffalo.edu
+    - name: Vishnu Priya Bollam - vbollam@buffalo.edu
+    - name: Kaushik Reddy Kadapakonda - kkadapak@buffalo.edu
+    - name: "Sai Teja Cherukuri \u2013 cheruku3@buffalo.edu"
+    - name: "Rahul Reddy Karumuri \u2013 rkarumur@buffalo.edu"
+    - name: "Dileep Narayana Garimella \u2013 dileepna@buffalo.edu"
+    title: Patcom Medical
+  - description: "Essential Vending is a mobile application that aims to make the\
+      \ process of purchasing items from the vending machine more convenient. Currently\
+      \ the vending machines only accept payments through cash. However, this method\
+      \ is rather inefficient since more than 60% of people don\u2019t carry cash\
+      \ everyday. Our goal is to design a system that is capable of enabling hassle-free\
+      \ purchase of items within the vending machine through several online payment\
+      \ options. <br><br>The application also includes features such as navigation\
+      \ using Google Maps to locate the vending machines, giving detailed statistics\
+      \ and insights about the purchases and user activity to the administrators as\
+      \ well as incorporating ads and promotions within the application."
+    team:
+    - name: Saqlain Naveed Ahmed (sahmed34@buffalo.edu)
+    - name: Pranav Moreshwar Sorte (pranavmo@buffalo.edu)
+    - name: Nupur Atul Chauhan (nupuratu@buffalo.edu)
+    - name: Shreya Satish Shetty (sshetty5@buffalo.edu)
+    - name: Carolyn Joseph Bose (cbose@buffalo.edu)
+    title: Essential Vending
+  - description: "Limitless medical technologies<br><br>Anastocare is a web and mobile\
+      \ application that evaluates a patient's health and alerts the user and their\
+      \ healthcare professional if the patient is at risk of developing an abdominal\
+      \ leak in the near future. This allows both the doctor and the patient to be\
+      \ aware of the patient\u2019s health condition and take appropriate measures\
+      \ to avert complications."
+    team:
+    - name: Dexson (dexsonjo@buffalo.edu)
+    - name: Anuj (anujswap@buffalo.edu)
+    - name: Saistha (saisthak@buffalo.edu)
+    - name: Mojitha (mojitham@buffalo.edu)
+    - name: Mousam (mousamsa@buffalo.edu)
+    title: Anastocare
+    url: http://anastocarebucket.s3-website-us-east-1.amazonaws.com/signin
+  - description: The Ionita project principally aims to develop a tool that can help
+      the surgeons real-time<br>during an aneurysm treatment. It analyses the DSA
+      ( Digital Subtraction Angiography) images taken before and after the aneurysm
+      procedure and predicts the possibility of success of the treatment. Angiographic
+      Parametric Imaging Maps (API) are generated from the fed DSA images, and specific
+      key parameters are measured using the tool, which are required for the prediction.<br><br>NA
+    team:
+    - name: Kusal Nagabhairava ( kusalnag@buffalo.edu)
+    - name: Praneeth Sai Kotha (pkotha@buffalo.edu)
+    - name: Sri Rudra Tetali (srirudra@buffalo.edu)
+    - name: Jeevana Chintapalli (jeevanac@buffalo.edu)
+    - name: Manoj Reddy Kesireddy ( mkesired@buffalo.edu).
+    title: Ionita Lab Project
+  - description: SportStrechUSA is an app that connects recovery specialists with
+      athletes for the most part. It is for just about anyone who is looking to gain
+      flexibility in order to perform better on the field, in the gym, and in everyday
+      activities. The appointments need to be scheduled in advance and the payment
+      is done after the service is completed. This is where our app comes into the
+      picture i.e. it helps the recovery specialists to manage their calendar and
+      allot the slots for the user to book. The users can select from a list of recovery
+      specialists in the location of their choosing and can decide whom to choose
+      based on their ratings and reviews. Also, the admin can manage the recovery
+      specialists registered with the app and can see all the appointments made through
+      the app.<br><br>The app has an interactive calendar feature, google maps are
+      integrated directly into the UI, payment module offered through the square is
+      used for the transactions in the app.<br><br>The recovery specialists have the
+      ability to choose the radius around them i.e. how far they can travel to serve
+      their appointments. They can also decide the cost of a particular appointment
+      based on parking availability, elevator availability, pets, etc. There are also
+      subscription tiers that have certain perks as the tier goes up.<br><br>Admin
+      can keep or remove the recovery specialists from the app based on their credibility
+      and reputation.
+    team:
+    - name: Akhil Reddy Yeredla (ayeredla@buffalo.edu)
+    - name: Teja Reddy Alla (tejaredd@buffalo.edu)
+    - name: Bhargav Sai Kantipudi (bkantipu@buffalo.edu)
+    - name: Harikanth Dasoji (harikant@buffalo.edu)
+    - name: ''
+    - name: Venkata Prathima Bhargavi Karri (vkarri@buffalo.edu)
+    title: SportStretchUSA
+  - description: Educational Training website to inform people of Housing and Tenant
+      Laws as well as giving the HOME team information to best reach out to more people<br><br>Admin
+      console allows HOME staff to view user data, video and quiz analytics, as well
+      as adding/editing videos and quizzes for future trainings
+    team:
+    - name: Kyle Pellechia ktpellec@buffalo.edu
+    - name: Meghna Sriram meghnasr@buffalo.edu
+    - name: Lakshmi Chandana Yarramreddy lyarramr@buffalo.edu
+    - name: Gurudev Yalagala gurudevy@buffalo.edu
+    - name: Sai Chetan Thalla saicheta@buffalo.edu
+    - name: Atharva Avinash Deshpande deshpan5@buffalo.edu
+    title: HOME
+  - description: An efficient crowd sourcing engine for mapping road geometry.<br><br>An
+      end-to-end system, that segments crowd-sourced data from mobile devices referencing
+      open street maps road data. This can be used for various mapping applications
+      such as road geometry estimation, road quality (pothole/s) estimation, etc.
+      Users can then interact with the generated mapping data road-segment wise on
+      a web app.
+    team:
+    - name: Steve Thomas - stevetho@buffalo.edu
+    - name: Anup Atul Thakkar - anupatul@buffalo.edu
+    - name: Tanuja Joshi - tanujajo@buffalo.edu
+    - name: Kunal Pal Varma - kunalpal@buffalo.edu
+    - name: Pushkaraj Joshi - pjoshi6@buffalo.edu
+    title: Road Geometry
+  - description: Maternal Health care website would help pregnant women to understand
+      what kind of help or which kind of specialty they need to choose. Using the
+      same information the patient can look for and make booking at their nearest
+      specialist available in real time. In this project, the doctors can register
+      themselves and manage the patient's booking and help them as per their need.
+      There is also a complaint/review section that allows patients to provide their
+      feedback on the appointment made.<br><br>A website for pregnant women to get
+      the help they would want to consult online regarding their pregnancy and a portal
+      where they can book appointments for the help/service they require.
+    team:
+    - name: Abhiramasundari Vijayakumar - vijayak2@buffalo.edu
+    - name: Aishwarya Rath - arath@buffalo.edu
+    - name: Daksh Khorana - dakshsac@buffalo.edu
+    - name: Dakshil Shah - dakshilk@buffalo.edu
+    - name: Parth Dixit - parthjig@buffalo.edu
+    - name: Shraddha Singireddy - ssingire@buffalo.edu
+    title: CamoHealth
+  - description: "Vizier is a reproducibility-oriented notebook environment. Currently\
+      \ code can be edited in the notebook itself. The aim of this project is to add\
+      \ a feature to open code in a local editor and enable code completion for python\
+      \ in user's default code editor.<br>Vizier notebooks do not have all the features\
+      \ of a text/code editor such as sophisticated autocomplete, documentation, shortcuts\
+      \ etc. The ability to edit on the local default editor would put the user in\
+      \ a familiar environment. With the \u201COpen In Editor\u201D button the user\
+      \ does not have to copy code to and from the Vizier notebook. Integrating linting\
+      \ with mypy plugin in user's local editor. Thus with these features the developer\
+      \ experience with VizierDB is enhanced. <br><br>This is the only notebook which\
+      \ provides seamless swithching between web ui and local editor. The feature\
+      \ we have implemented is cross platform. This can be precursor for direct editor\
+      \ integration."
+    team:
+    - name: 'Name: Keshannagari'
+    - name: Sphoorthi
+    - name: 'Email: skeshann@buffalo.edu'
+    - name: 'Name: Mehra'
+    - name: Sakshi
+    - name: 'Email: sakshime@buffalo.edu'
+    - name: 'Name: M'
+    - name: Anvesh
+    - name: 'Email: somanaga@buffalo.edu'
+    - name: 'Name: Parvat'
+    - name: Aniruddha
+    - name: 'Email: aparvat@buffalo.edu'
+    - name: 'Name: Singh'
+    - name: Paramveer
+    - name: 'Email: psingh46@buffalo.edu'
+    - name: 'Name: Vatwani'
+    - name: Nikhil
+    - name: 'Email: nvatwani@buffalo.edu'
+    title: Vizier DB
+    url: https://github.com/sakshi-mehra/vizier-scala
+  title: Master's Capstone Project
+- code: null
+  projects:
+  - description: MakeOpenSource Authenticator is an open-source authenticator app
+      with additional quality-of-life features that easily integrates into existing
+      applications and offers similar levels of security and convenience to paid alternatives.<br><br>MOS
+      Authenticator is built by students at MakeOpenSource, UB's open source development
+      club. If anyone is interested in joining, feel free to visit our website at
+      https://makeopensource.org!
+    team:
+    - name: Emil Kovacev emilkova
+    - name: ''
+    - name: John Abramo jmabramo
+    - name: ''
+    - name: Alan Soto alansoto
+    - name: ''
+    - name: Matt Rubino mrrubino
+    title: MOS Authenticator
+    url: https://github.com/makeopensource/Authenticator
+  title: Open-Source Programming Club
+- code: 603
+  projects:
+  - description: SCoOL is a simple programming model designed to facilitate and accelerate
+      the search space exploration phase of the optimization processes. Although the
+      programming model is simple, SCoOL is written in C++, which is not! This project
+      adds Python bindings to the SCoOL library, allowing users to define the optimization
+      details with simple Python semantics while execution remains delegated to more
+      rapid C++ code.<br><br>N/A
+    team:
+    - name: Matt Ferrera <msferrer@buffalo.edu>
+    - name: Raman Ghimire <ramanghi@buffalo.edu>
+    - name: Shriram Ravi <shriramr@buffalo.edu>
+    title: PySCoOL
+  title: ''
+- code: 499
+  projects:
+  - description: An embedded control system that allows the robot to balance itself
+      through a PID controller.<br><br>A physical demo will be present at the event.
+    team:
+    - name: Andrew Woska - agwoska
+    - name: Daniel Maas - dwmaas
+    - name: Imani Muhammad-Graham - imanimuh
+    title: Statera
+    url: https://github.com/agwoska/cse499-portfolio
+  title: Embedded Controls
+- code: 603
+  projects:
+  - description: Dynamic Optimization of File Transfers | OneDataShare.org<br><br>OneDataShare
+      is an open-source tool for fast and secure file transfer with support for most
+      cloud storage services and protocols like Google Drive, Amazon S3, etc. It aims
+      to remove the burden of managing end-to-end data transfers from the shoulders
+      of users. The file transfer is optimized based on certain parameters that remain
+      constant throughout. In this project, we change the optimization parameters
+      of the transfer at runtime and improve the transfer rate. The parameters are
+      fine tuned dynamically using a Bayes Optimizer. Further, we also collect and
+      report the state of the network to allow the user to understand the bottlenecks
+      in their network.
+    team:
+    - name: Aman Harsh (amanhars@buffalo.edu)
+    - name: Deepika Ghodki (dghodki@buffalo.edu)
+    - name: Jacob Goldverg (jacobgol@buffalo.edu )
+    - name: Neha Mishra (nehamish@buffalo.edu )
+    title: ODS Loggers
+    url: https://onedatashare.org/
+  title: Parallel and Distributed Processing
+- code: 603
+  projects:
+  - description: Developed a general-purpose runtime execution engine for SCoOL (a
+      framework for scalable search space exploration and optimization) using HPX
+      (a parallel runtime framework similar to MPI)<br><br>The runtime execution engine
+      is implemented for a shared memory system. It takes advantage of framework features
+      like HPX futures and HPX threads for asynchronous processing of workload. The
+      solution also relies on phmap's implementation of flat hash set that is much
+      more efficient than the unordered set. The executor strictly confirms to the
+      BSP model enforced by the SCoOL framework
+    team:
+    - name: Sai Vishwanath Venkatesh - saivishw@buffalo.edu
+    - name: Zainul Abideen Sayed - zsayed@buffalo.edu
+    - name: Nithin Sastry Tellapuri - ntellapu@buffalo.edu
+    title: PoLaRis
+  title: Parallel and Distributed Processing
+- code: 442
+  projects:
+  - description: We have built a web application that allows users to find the cheapest
+      alcohol in their area and also provide directions, the second half of our project
+      is signing up store accounts which can manage their inventory and prices and
+      those would then show up on our map.<br><br>signing up by address instead of
+      latitude or longitude
+    team:
+    - name: 'David Livadhi: davidliv@buffalo.edu'
+    - name: 'Naqi Haider: naquihaid@buffalo.edu'
+    - name: 'Michael Focacci: mcfocacc@buffalo.edu'
+    - name: 'Sean Timmons: smtimmon@buffalo.edu'
+    title: Liquor Looker
+    url: cheshire.cse.buffalo.edu:1831
+  title: Software Engineering
+- code: 700
+  projects:
+  - description: "Ostreidae: Serenades for Settling\u201D is multimedia operatic installation\
+      \ that examines how oyster settlement patterns are impacted by anthropogenic\
+      \ noise. The project focuses on the oyster reseeding initiatives in the waterways\
+      \ of New York City\u2019s harbor \u2014 once the largest harvesting region for\
+      \ oysters in the 1800\u2019s. Sound responsive robotic oysters created at different\
+      \ stages of their life cycle (larvae, pediveliger, reproductive adult, etc)\
+      \ will respond to sonic data collected from the harbor.<br>In this project,\
+      \ we designed the actuation mechanism for a 3-D printed Oyster to open and close,\
+      \ and a mechanism to spew water. The oyster sits in water, listens to ambient\
+      \ sounds and spews water based on the degree of anthropogenic noise heard. Future\
+      \ plans include developing a mechanism for the oyster to walk on the waterbed.<br><br>Joint\
+      \ Collaboration with University at Buffalo Department of Art and the School\
+      \ of Engineering and Applied Sciences"
+    team:
+    - name: Stephanie Rothenberg (Department Chair
+    - name: Department of Art
+    - name: College of Arts and Sciences)
+    - name: sjr6@buffalo.edu
+    - name: Karthik Dantu (Associate Professor
+    - name: DRONES Lab
+    - name: Department of Computer Science and Engineering)
+    - name: kdantu@buffalo.edu
+    - name: Ralfy Chettiar (pursuing MS Engineering Sciences (Robotics))
+    - name: ralfyfra@buffalo.edu
+    - name: Chetan Palkar (pursuing MS Engineering Sciences (Robotics))
+    - name: cpalkar@buffalo.edu
+    title: 'Tending Ostreidae: Serenades for Settling (Sub Module: Bio-inspired Robotic
+      Oysters)'
+    url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
+  title: TUT Independent Study
+- code: 700
+  projects:
+  - description: "GEP<br>Is a project based on interactive devices that seek to enhance\
+      \ the creating, exploring and/or experience sound.<br>It is anchored on the\
+      \ idea of \u2018Enactivism\u2019 which, simply put, states that perception is\
+      \ constituted from the interactions between an entity and the environment. Both,\
+      \ entities and environments, mutually influence each other in a constant changing\
+      \ system. In this sense, GEP is aimed to enhance the experience of becoming\
+      \ aware of the constantly changing relations we establish with our environment.<br>Thus\
+      \ its potential to serve for artistic but also educational purposes as well.\
+      \ Each of the devices act as an extension of the person interacting by reading\
+      \ motions form the body or parts of the body. In turn, these readings will modify,\
+      \ create or change the sounds from the environment where the actions are taking\
+      \ place. Potentially speaking, this can entail learning processes that can go\
+      \ from learning to use the devices to create them and code the program that\
+      \ will ultimately define what each device will do.<br>The nature of the project\
+      \ is of being Open Source. This means, that the devices themselves can be altered,\
+      \ reshape, refactor, and so on. Therefore, they can be adapted for the needs\
+      \ of specific individuals or communities. Because they are MIDI devices they\
+      \ can be hooked up to any computer that is capable to run any MIDI compatible\
+      \ software. This gives a wide range of possibilities from paid to free applications\
+      \ available to download from the internet.<br>The project is based on the use\
+      \ of open source hardware, essentially Arduino and clone types of microcontrollers.\
+      \ This allows for affordable and accessible learning experiences. These microcontrollers\
+      \ open the way to include coding and hardware design as part of an artistic\
+      \ project as well as for educational curricula.<br><br>GEP Pedal (interactive\
+      \ shoe)<br>Wearable devices that reacts to different foot motions. It is built\
+      \ with 4 different sensors (light, pressure, accelerometer and distance). Each\
+      \ of this sensors can be used separately or combined creating a diverse palette\
+      \ of sound shaping effects. Given that it uses MIDI communication to the computer,\
+      \ it can be assigned to any parameter that is MIDI compatible in the host application.<br>GEP\
+      \ Tebukuro (interactive glove)<br>Similar to the shoe, a wearable device still\
+      \ under development. It consists of flex sensors that read the motions from\
+      \ three fingers, an accelerometer and a touch sensitive fader. As with the shoe,\
+      \ these sensors can be combined or used separately. Also using MIDI protocol,\
+      \ it can be connected to any application capable of reading MIDI messages.<br>GEP\
+      \ Sensing Motion Module<br>A modular arrangement of sensors. Each module consists\
+      \ of 6 distance sensors that work as three different units within the module.\
+      \ Each of these unites give a unique MIDI message that can be assigned to different\
+      \ variables. This sensing module was designed with two main purposes: a) as\
+      \ a module for art productions including (but not limited to) dancers that can\
+      \ modify the sounds from any sound sources (instruments, recordings, environmental\
+      \ music, etc.), and b) for educational purposes. For the latter, it entails\
+      \ a type of interaction that makes necessary to be aware of others and what\
+      \ they are doing in terms to coordinate, collaborate and engage in a communal\
+      \ bond. Within a classroom environment it can signify the breakdown<br>Matias\
+      \ Homar<br>of barriers allowing the differences to arise in a positive and constructive\
+      \ way. Each person involve can truly contribute with their uniqueness. And from\
+      \ this divers universe of possibilities it can emerge a representative work\
+      \ that is based in our shared humanity."
+    team:
+    - name: Matias Homar
+    - name: matiasho
+    title: GEP interactive musical devices
+    url: https://www.youtube.com/watch?v=LKnkbQC_YCM&list=PLSrPY5_Dn6K6N98ZVuZYZQ6EU_sheh8KB
+  title: Ethan Blanton
