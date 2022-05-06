@@ -1,4 +1,4 @@
-- code: 611
+- code: CSE 611
   projects:
   - description: Distributed systems simulator is a web application that lets users
       simulate distributed systems protocols interactively. The primary intent of
@@ -350,7 +350,7 @@
     title: MOS Authenticator
     url: https://github.com/makeopensource/Authenticator
   title: Open-Source Programming Club
-- code: 603
+- code: CSE 603
   projects:
   - description: SCoOL is a simple programming model designed to facilitate and accelerate
       the search space exploration phase of the optimization processes. Although the
@@ -364,7 +364,7 @@
     - name: Shriram Ravi <shriramr@buffalo.edu>
     title: PySCoOL
   title: ''
-- code: 499
+- code: CSE 499
   projects:
   - description: An embedded control system that allows the robot to balance itself
       through a PID controller.<br><br>A physical demo will be present at the event.
@@ -375,7 +375,7 @@
     title: Statera
     url: https://github.com/agwoska/cse499-portfolio
   title: Embedded Controls
-- code: 603
+- code: CSE 603
   projects:
   - description: Dynamic Optimization of File Transfers | OneDataShare.org<br><br>OneDataShare
       is an open-source tool for fast and secure file transfer with support for most
@@ -395,7 +395,7 @@
     title: ODS Loggers
     url: https://onedatashare.org/
   title: Parallel and Distributed Processing
-- code: 603
+- code: CSE 603
   projects:
   - description: Developed a general-purpose runtime execution engine for SCoOL (a
       framework for scalable search space exploration and optimization) using HPX
@@ -411,7 +411,7 @@
     - name: Nithin Sastry Tellapuri - ntellapu@buffalo.edu
     title: PoLaRis
   title: Parallel and Distributed Processing
-- code: 442
+- code: CSE 442
   projects:
   - description: We have built a web application that allows users to find the cheapest
       alcohol in their area and also provide directions, the second half of our project
@@ -426,7 +426,7 @@
     title: Liquor Looker
     url: cheshire.cse.buffalo.edu:1831
   title: Software Engineering
-- code: 700
+- code: CSE 700
   projects:
   - description: "Ostreidae: Serenades for Settling\u201D is multimedia operatic installation\
       \ that examines how oyster settlement patterns are impacted by anthropogenic\
@@ -458,7 +458,7 @@
       Oysters)'
     url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
   title: TUT Independent Study
-- code: 700
+- code: CSE 700
   projects:
   - description: "GEP<br>Is a project based on interactive devices that seek to enhance\
       \ the creating, exploring and/or experience sound.<br>It is anchored on the\
