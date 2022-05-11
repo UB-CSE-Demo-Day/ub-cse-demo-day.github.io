@@ -437,7 +437,51 @@
     - name: Raman Ghimire <ramanghi@buffalo.edu>
     - name: Shriram Ravi <shriramr@buffalo.edu>
     title: PySCoOL
-  title: ''
+  - description: Dynamic Optimization of File Transfers | OneDataShare.org<br><br>OneDataShare
+      is an open-source tool for fast and secure file transfer with support for most
+      cloud storage services and protocols like Google Drive, Amazon S3, etc. It aims
+      to remove the burden of managing end-to-end data transfers from the shoulders
+      of users. The file transfer is optimized based on certain parameters that remain
+      constant throughout. In this project, we change the optimization parameters
+      of the transfer at runtime and improve the transfer rate. The parameters are
+      fine tuned dynamically using a Bayes Optimizer. Further, we also collect and
+      report the state of the network to allow the user to understand the bottlenecks
+      in their network.
+    team:
+    - name: Aman Harsh (amanhars@buffalo.edu)
+    - name: Deepika Ghodki (dghodki@buffalo.edu)
+    - name: Jacob Goldverg (jacobgol@buffalo.edu )
+    - name: Neha Mishra (nehamish@buffalo.edu )
+    title: ODS Loggers
+    url: https://onedatashare.org/
+  - description: Developed a general-purpose runtime execution engine for SCoOL (a
+      framework for scalable search space exploration and optimization) using HPX
+      (a parallel runtime framework similar to MPI)<br><br>The runtime execution engine
+      is implemented for a shared memory system. It takes advantage of framework features
+      like HPX futures and HPX threads for asynchronous processing of workload. The
+      solution also relies on phmap's implementation of flat hash set that is much
+      more efficient than the unordered set. The executor strictly confirms to the
+      BSP model enforced by the SCoOL framework
+    team:
+    - name: Sai Vishwanath Venkatesh - saivishw@buffalo.edu
+    - name: Zainul Abideen Sayed - zsayed@buffalo.edu
+    - name: Nithin Sastry Tellapuri - ntellapu@buffalo.edu
+    title: PoLaRis
+  - description: Developed a general-purpose runtime system for SCoOL (Scalable Common
+      Optimization) Library using OpenMP. This library helps in solving large scale
+      optimization problems in shared memory cluster.<br><br>The runtime execution
+      system is implemented for solving large scale optimization problems in shared
+      memory systems. This uses task based parallel programming techniques and is
+      built on Intel OpenMP API but can be extended to support other shared memory
+      programming models. The executor is akin to the classic Bulk Synchronous Parallel
+      (BSP) model.
+    team:
+    - name: Krishna prasad Porandla - kporandl@buffalo.edu
+    - name: Suhas Reddy Edavalli - suhasred@buffalo.edu
+    - name: Viswa Nihar Nukala - viswanih@buffalo.edu
+    title: Processing Pandas
+    url: https://gitlab.com/SCoRe-Group/scool
+  title: Parallel and Distributed Processing
 - code: CSE 499
   projects:
   - description: An embedded control system that allows the robot to balance itself
@@ -462,43 +506,14 @@
     - name: gsyengle@buffalo.edu
     title: Automated Blind Control
     url: https://github.com/bodhiswa/CSE499_EmbeddedControls
+  - description: A self balancing ball and beam PID system.<br><br>N/A
+    team:
+    - name: Ben Miller (bdm23)
+    - name: Andrew Zhou (amzhou)
+    - name: Maryam Nisar (maryamni)
+    title: Swinging Pendulums
+    url: https://github.com/gytanzo/reversependulum
   title: Embedded Controls
-- code: CSE 603
-  projects:
-  - description: Dynamic Optimization of File Transfers | OneDataShare.org<br><br>OneDataShare
-      is an open-source tool for fast and secure file transfer with support for most
-      cloud storage services and protocols like Google Drive, Amazon S3, etc. It aims
-      to remove the burden of managing end-to-end data transfers from the shoulders
-      of users. The file transfer is optimized based on certain parameters that remain
-      constant throughout. In this project, we change the optimization parameters
-      of the transfer at runtime and improve the transfer rate. The parameters are
-      fine tuned dynamically using a Bayes Optimizer. Further, we also collect and
-      report the state of the network to allow the user to understand the bottlenecks
-      in their network.
-    team:
-    - name: Aman Harsh (amanhars@buffalo.edu)
-    - name: Deepika Ghodki (dghodki@buffalo.edu)
-    - name: Jacob Goldverg (jacobgol@buffalo.edu )
-    - name: Neha Mishra (nehamish@buffalo.edu )
-    title: ODS Loggers
-    url: https://onedatashare.org/
-  title: Parallel and Distributed Processing
-- code: CSE 603
-  projects:
-  - description: Developed a general-purpose runtime execution engine for SCoOL (a
-      framework for scalable search space exploration and optimization) using HPX
-      (a parallel runtime framework similar to MPI)<br><br>The runtime execution engine
-      is implemented for a shared memory system. It takes advantage of framework features
-      like HPX futures and HPX threads for asynchronous processing of workload. The
-      solution also relies on phmap's implementation of flat hash set that is much
-      more efficient than the unordered set. The executor strictly confirms to the
-      BSP model enforced by the SCoOL framework
-    team:
-    - name: Sai Vishwanath Venkatesh - saivishw@buffalo.edu
-    - name: Zainul Abideen Sayed - zsayed@buffalo.edu
-    - name: Nithin Sastry Tellapuri - ntellapu@buffalo.edu
-    title: PoLaRis
-  title: Parallel and Distributed Processing
 - code: CSE 442
   projects:
   - description: We have built a web application that allows users to find the cheapest
@@ -538,7 +553,7 @@
     title: TERMS&Co
     url: https://www-student.cse.buffalo.edu/CSE442-542/2022-Spring/cse-442s/static/
   title: Software Engineering
-- code: CSE 700
+- code: null
   projects:
   - description: "Ostreidae: Serenades for Settling\u201D is multimedia operatic installation\
       \ that examines how oyster settlement patterns are impacted by anthropogenic\
@@ -569,7 +584,34 @@
     title: 'Tending Ostreidae: Serenades for Settling (Sub Module: Bio-inspired Robotic
       Oysters)'
     url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
-  title: TUT Independent Study
+  - description: "\u201CTending Ostreidae: Serenades for Settling\u201D is multimedia\
+      \ operatic installation that examines how oyster settlement patterns are impacted\
+      \ by anthropogenic noise. The project focuses on the oyster reseeding initiatives\
+      \ in the waterways of New York City\u2019s harbor \u2014 once the largest harvesting\
+      \ region for oysters in the 1800\u2019s. Sound responsive robotic oysters created\
+      \ at different stages of their life cycle (larvae, pediveliger, reproductive\
+      \ adult, etc) will respond to sonic data collected from the harbor.<br><br>In\
+      \ this project, we designed the actuation mechanism for a 3-D printed Oyster\
+      \ to open and close, and a mechanism to spew water. The oyster sits in water,\
+      \ listens to ambient sounds and spews water based on the degree of anthropogenic\
+      \ noise heard. Future plans include developing a mechanism for the oyster to\
+      \ walk on the water bed.<br><br>This work is joint between Prof. Karthik Dantu\
+      \ in CSE, Prof. Stephanie Rothenberg in Dept of Art and Suzanne Thorpe from\
+      \ Columbia University/Billion Oyster Project"
+    team:
+    - name: chetan palkar cpalkar@buffalo.edu
+    - name: Ralfy Chettiar ralfyfra@buffalo.edu
+    - name: Stephanie Rothenberg sjr6@buffalo.edu
+    - name: Karthik Dantu kdantu@buffalo.edu
+    title: Bio-inspired Robotic Oysters
+    url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
+  - description: A simple and easy to use mobile application to track your weight
+      training progress. This app can track weight and repetitions to show you how
+      well you are performing at the gym.
+    team:
+    - name: Jean Vigroux - jeanvigr@buffalo.edu
+    title: Workout Tracker
+  title: Independent Study
 - code: CSE 700
   projects:
   - description: "GEP<br>Is a project based on interactive devices that seek to enhance\
@@ -626,16 +668,6 @@
     title: GEP interactive musical devices
     url: https://www.youtube.com/watch?v=LKnkbQC_YCM&list=PLSrPY5_Dn6K6N98ZVuZYZQ6EU_sheh8KB
   title: Ethan Blanton
-- code: CSE 499
-  projects:
-  - description: A self balancing ball and beam PID system.<br><br>N/A
-    team:
-    - name: Ben Miller (bdm23)
-    - name: Andrew Zhou (amzhou)
-    - name: Maryam Nisar (maryamni)
-    title: Swinging Pendulums
-    url: https://github.com/gytanzo/reversependulum
-  title: ''
 - code: null
   projects:
   - description: DRONES Lab graduate students will present their work on visual perception
@@ -655,24 +687,26 @@
     - name: Pragati Nagar (pragatin@buffalo.edu)
     - name: Aryan Saini (asaini2@buffalo.edu)
     title: Group 26
-  title: Reinforcement Learning Project
-- code: CSE 603
-  projects:
-  - description: Developed a general-purpose runtime system for SCoOL (Scalable Common
-      Optimization) Library using OpenMP. This library helps in solving large scale
-      optimization problems in shared memory cluster.<br><br>The runtime execution
-      system is implemented for solving large scale optimization problems in shared
-      memory systems. This uses task based parallel programming techniques and is
-      built on Intel OpenMP API but can be extended to support other shared memory
-      programming models. The executor is akin to the classic Bulk Synchronous Parallel
-      (BSP) model.
+  - description: 'Exploring how fairness can be applied to Multi Agents systems using
+      Deep RL. Applied scenarios of 1. Resource sharing, 2. Time limit, 3. Individual
+      Priorities on Agents<br><br>Using Deep Reinforcement Learning algorithms: Q-Learning,
+      Deep Q-networks and Double Deep Q-networks to solve the fairness among agents
+      in Multi Agents systems.'
     team:
-    - name: Krishna prasad Porandla - kporandl@buffalo.edu
-    - name: Suhas Reddy Edavalli - suhasred@buffalo.edu
-    - name: Viswa Nihar Nukala - viswanih@buffalo.edu
-    title: Processing Pandas
-    url: https://gitlab.com/SCoRe-Group/scool
-  title: Parallel and Distributed Processing
+    - name: Nandini Chinta - nandinic@buffalo.edu
+    title: Fairness in Multi Agent Reinforcement Learning
+  - description: We have used DDPG and TD3 with the objective to maximize profits
+      trading stocks for a period of 100 days.<br><br>Our long term objective is to
+      create a portfolio optimization tool where one can hedge their position using
+      options and ride out volatile periods in the stock market, we currently have
+      positive returns over 100 trading days and we will be further refining our DDPG
+      and TD3 models and try out other reinforcement learning models. We also will
+      be extending this to option trading.
+    team:
+    - name: Naman Tejaswi     namantej@buffalo.edu
+    - name: Arshabh Semwal  arshabhs@buffalo.edu
+    title: Stock Trading using RL (Team 33 ub learns))
+  title: Reinforcement Learning Project
 - code: null
   projects:
   - description: Our group is tasked with creating a reinforcement learning model
@@ -685,61 +719,3 @@
     - name: Prajit Krishna Kumar (prajitkr@buffalo.edu)
     title: Vertiport-1
   title: MAE 600 / CSE 610 course project
-- code: null
-  projects:
-  - description: "\u201CTending Ostreidae: Serenades for Settling\u201D is multimedia\
-      \ operatic installation that examines how oyster settlement patterns are impacted\
-      \ by anthropogenic noise. The project focuses on the oyster reseeding initiatives\
-      \ in the waterways of New York City\u2019s harbor \u2014 once the largest harvesting\
-      \ region for oysters in the 1800\u2019s. Sound responsive robotic oysters created\
-      \ at different stages of their life cycle (larvae, pediveliger, reproductive\
-      \ adult, etc) will respond to sonic data collected from the harbor.<br><br>In\
-      \ this project, we designed the actuation mechanism for a 3-D printed Oyster\
-      \ to open and close, and a mechanism to spew water. The oyster sits in water,\
-      \ listens to ambient sounds and spews water based on the degree of anthropogenic\
-      \ noise heard. Future plans include developing a mechanism for the oyster to\
-      \ walk on the water bed.<br><br>This work is joint between Prof. Karthik Dantu\
-      \ in CSE, Prof. Stephanie Rothenberg in Dept of Art and Suzanne Thorpe from\
-      \ Columbia University/Billion Oyster Project"
-    team:
-    - name: chetan palkar cpalkar@buffalo.edu
-    - name: Ralfy Chettiar ralfyfra@buffalo.edu
-    - name: Stephanie Rothenberg sjr6@buffalo.edu
-    - name: Karthik Dantu kdantu@buffalo.edu
-    title: Bio-inspired Robotic Oysters
-    url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
-  title: independent study with Dr. Karthik Dantu
-- code: CSE 546
-  projects:
-  - description: 'Exploring how fairness can be applied to Multi Agents systems using
-      Deep RL. Applied scenarios of 1. Resource sharing, 2. Time limit, 3. Individual
-      Priorities on Agents<br><br>Using Deep Reinforcement Learning algorithms: Q-Learning,
-      Deep Q-networks and Double Deep Q-networks to solve the fairness among agents
-      in Multi Agents systems.'
-    team:
-    - name: Nandini Chinta - nandinic@buffalo.edu
-    title: Fairness in Multi Agent Reinforcement Learning
-  title: Reinforcement Learning
-- code: CSE 546
-  projects:
-  - description: We have used DDPG and TD3 with the objective to maximize profits
-      trading stocks for a period of 100 days.<br><br>Our long term objective is to
-      create a portfolio optimization tool where one can hedge their position using
-      options and ride out volatile periods in the stock market, we currently have
-      positive returns over 100 trading days and we will be further refining our DDPG
-      and TD3 models and try out other reinforcement learning models. We also will
-      be extending this to option trading.
-    team:
-    - name: Naman Tejaswi     namantej@buffalo.edu
-    - name: Arshabh Semwal  arshabhs@buffalo.edu
-    title: Stock Trading using RL (Team 33 ub learns))
-  title: Reinforcement Learning
-- code: null
-  projects:
-  - description: A simple and easy to use mobile application to track your weight
-      training progress. This app can track weight and repetitions to show you how
-      well you are performing at the gym.
-    team:
-    - name: Jean Vigroux - jeanvigr@buffalo.edu
-    title: Workout Tracker
-  title: Independent Study
