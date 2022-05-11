@@ -8,7 +8,14 @@
       involving many parameters. Our interactive simulator will help distributed systems
       enthusiasts visualize and understand the concepts more intuitively by letting
       the users play with node failure, and other factors involved with the specific
-      protocol, which will help the users deepen their understanding.  <br><br>-
+      protocol, which will help the users deepen their understanding.  <br><br>Distributed
+      systems simulator includes Discrete event simulator API which has features of
+      creating the computer nodes and network connecting these nodes, send message
+      between these nodes, drop the message, turn the nodes off and on, simulation
+      timers etc. Currently the application consists a Heartbeat protocol and a PUB-SUB
+      protocol. This API will be helpful in creating any new protocol simulation.
+      This application is developed in HTML, CSS and JS. The application runs in browser
+      that supports javascript version ES6.
     team:
     - name: Jayanth Gollapinni  - sgollapi@buffalo.edu
     - name: ''
@@ -51,21 +58,19 @@
     - name: Prasad Shirvandkar - prasadda@buffalo.edu
     title: Helpt App
     url: https://helpt.app/
-  - description: "Look the Part is an IOS based application. As a part of this project,\
-      \ we will be implementing a new feature for an existing iOS mobile application\
-      \ that uses Machine learning to allow users to scan for a digital image depicting\
-      \ TV characters, wearing different outfits, and mapping those outfits with the\
-      \ exact or similar clothing items in our database with<br>an embedded link to\
-      \ the third party websites, where the user can actually buy the product. The\
-      \ application also consists of character wise product filters which the user\
-      \ can use to check out the clothes worn by their favorite TV Characters if the\
-      \ scanned results are not appropriate. This feature is considered as the \u2018\
-      Shazam\u2018 of the fashion world.<br><br>The Features developed as a part of\
-      \ this project:<br>1. Recognizing the similar clothes that the user uploads\
-      \ in the form of a video clip or an image(Object Detection using Mask RCNN &\
-      \ Color Detection using K-means).<br>2. Image Upload and Video Capture functionality.<br>3.\
-      \ Push Notifications<br>4. Session Metrics<br>5. Google Sign-in<br>6. Result\
-      \ Screens, Filters and UI Enhancements."
+  - description: Look the Part is an IOS based application. As a part of this project,
+      we will be implementing a new feature for an existing iOS mobile application
+      that uses Machine learning to allow users to scan for a digital image depicting
+      TV characters, wearing different outfits, and mapping those outfits with the
+      exact or similar clothing items in our database with<br>an embedded link to
+      the third party websites, where the user can actually buy the product. The application
+      also consists of character wise product filters which the user can use to check
+      out the clothes worn by their favorite TV Characters if the scanned results
+      are not appropriate.<br><br>The Features developed as a part of this project:<br>1.
+      Recognizing the similar clothes that the user uploads in the form of a video
+      clip or an image(Object Detection using Mask RCNN & Color Detection using K-means).<br>2.
+      Image Upload and Video Capture functionality.<br>3. Push Notifications<br>4.
+      Session Metrics<br>5. Google Sign-in<br>6. Result Screens, Filters and UI Enhancements.
     team:
     - name: varshith@buffalo.edu
     - name: mmusku@buffalo.edu
@@ -285,9 +290,7 @@
       specialist available in real time. In this project, the doctors can register
       themselves and manage the patient's booking and help them as per their need.
       There is also a complaint/review section that allows patients to provide their
-      feedback on the appointment made.<br><br>A website for pregnant women to get
-      the help they would want to consult online regarding their pregnancy and a portal
-      where they can book appointments for the help/service they require.
+      feedback on the appointment made.<br><br>-
     team:
     - name: Abhiramasundari Vijayakumar - vijayak2@buffalo.edu
     - name: Aishwarya Rath - arath@buffalo.edu
@@ -330,6 +333,77 @@
     - name: 'Email: nvatwani@buffalo.edu'
     title: Vizier DB
     url: https://github.com/sakshi-mehra/vizier-scala
+  - description: A web platform that lets music artists & producers:<br><br>1.) Collaborate
+      on music remotely.<br><br>2.) Distribute music to social media with one click.<br><br>3.)
+      Stream music in uncompromised quality.<br><br>Open Beats is a music studio in
+      the cloud. It provides a digital audio workstation for music artists to collaborate
+      remotely and a social media platform to connect with other artists looking to
+      collaborate and share music.
+    team:
+    - name: Harman Singh (harmansi@buffalo.edu)
+    - name: Akshata Singh (akshatas@buffalo.edu)
+    - name: Ruthvik Ledalla (ruthvikl@buffalo.edu)
+    - name: Srilakshmi Velpuri (svelpuri@buffalo.edu)
+    - name: Bhavyasai Survepalli (bhavyasa@buffalo.edu)
+    - name: Venkata Siva Naga Sai Aravind Kollipara (vkollipa@buffalo.edu)
+    - name: ''
+    title: Open Beats
+    url: tryopenbeats.com
+  - description: When performing calculations to make inferences based on sensory/input
+      data, one of the most costly operations is transferring data between CPU and
+      memory.  This is done in order for the CPU to complete some calculation, then
+      propagate the resulting data back to memory. These transfers are debilitating
+      to devices that must be energy-efficient due to their nature (drones, etc.),
+      since energy is used for this transfer process. <br><br>To remedy this, models
+      of memory hardware capable of in-memory processing have been developed to use
+      within devices that must make decisions based on some algorithm or decision
+      model. If a machine learning model is trained and its training weights are used
+      within memory to perform the computation-transfer heavy operations, then rapid
+      inferences can be made from input.<br><br>To improve upon the model used within
+      the previous paper, two more models have been developed and tested. The MNIST
+      handwritten number dataset was simply used to simulate an input and classifications
+      problem- any situation in which a system must make inferences based off of a
+      trained model may replicate a similar hardware and algorithm solution.<br><br><br>see
+      project description
+    team:
+    - name: 'Montana Lee: montanal; Emma Waldvogel: emmawald'
+    title: Energy-Effecient In-Memory Acceleration for Edge Devices
+  - description: 'The project is called "Adawi" and there are two sides for this project:
+      Admin and User. There can be three types of users; patient, caregiver, or both.
+      Patients can either manage their own prescriptions or ask caregiver to do it
+      for them. Sometimes, it is difficult to recognize a medicine just by a name.
+      In order to avoid the confusion, we have included images, audio, and description
+      of the medicine so that the user can easily identify it. User can either choose
+      an existing medicine, or can add the medicine with their own images and audio.
+      If they are not feeling good either with the UI or the medicine, they can chat
+      with the administrator and get their problems resolved. The major role of the
+      admin is to approve the medicines, add medicine to the database, and resolve
+      the complaints of the user. Our project is a web-based application and the tech
+      stack used for this project is Java, React, AWS, and MySQL. <br><br>Not Applicable'
+    team:
+    - name: 1. Shreya Jain - sjain28@buffalo.edu
+    - name: 2. Sasank Yalavarthi - sasankya@buffalo.edu
+    - name: 3. Aprishyta Nayak - aprishyt@buffalo.edu
+    - name: 4. Vishal Patil - vpatil4@buffalo.edu
+    - name: 5. Palek Naithani - paleknai@buffalo.edu
+    - name: 6. Aniket Bhamani - abhamani@buffalo.edu
+    title: Drug Simplifier
+    url: https://www.adawihealth.com
+  - description: 'Find a mechanic is a mobile application that allows the general
+      public to locate trustworthy and genuine mechanics or automobile technicians
+      in their preferred locality to take care of their car.<br><br>1)Mobile application
+      - Used by users and mechanics (features : Calendar, Time slot, cancel appointment,
+      Car details) .<br>2)SCO web application - Will be used by SCO ( features : Calendar,
+      Time slot, Repair history, Front desk ) .<br>3)Admin web application - Will
+      be used by Admin.'
+    team:
+    - name: Shivani Reddy Katta - skatta@buffalo.edu
+    - name: Saideep ganireddy - saideepg@buffalo.edu
+    - name: Nikhil Bandari - nbandari@buffalo.edu
+    - name: Venkata Subramanya Krishna Kuruganty - vkurugan@buffalo.edu
+    - name: Ashiwn Panditrao Jadhav - ajadhav5@buffalo.edu
+    - name: Roshan Saundankar- rsaundan@buffalo.edu
+    title: Find a Mechanic
   title: Master's Capstone Project
 - code: null
   projects:
@@ -374,6 +448,20 @@
     - name: Imani Muhammad-Graham - imanimuh
     title: Statera
     url: https://github.com/agwoska/cse499-portfolio
+  - description: The embedded control system will take into account the amount of
+      transient light available and the external temperature to deduce if the blinds
+      need to be drawn or not. <br><br>A typical household loses about 10% of its
+      heat through its windows. In an industrial building, the amount of heat energy
+      loss would be at least thrice the amount. To counteract this loss of heat energy,
+      heater and air ventilation systems produce more heat. This energy inefficiency
+      could be cut down sufficiently with smart blind control.
+    team:
+    - name: jessebot@buffalo.edu
+    - name: bodhiswa@buffalo.edu
+    - name: avitomba@buffalo.edu
+    - name: gsyengle@buffalo.edu
+    title: Automated Blind Control
+    url: https://github.com/bodhiswa/CSE499_EmbeddedControls
   title: Embedded Controls
 - code: CSE 603
   projects:
@@ -425,6 +513,30 @@
     - name: 'Sean Timmons: smtimmon@buffalo.edu'
     title: Liquor Looker
     url: cheshire.cse.buffalo.edu:1831
+  - description: "A friendly Discord bot for organizing & scheduling tasks<br><br>A\
+      \ Discord bot that enables its users to schedule their daily tasks as well as\
+      \ create individualized channels to sort their tasks & priorities by. Our bot\
+      \ enable users to manipulate their schedule (Create-Read-Update-Delete) using\
+      \ features like add, edit, delete, and mark task as important or completed.\
+      \ The Discord bot notifies the user/s at the time their task is due by sending\
+      \ them a friendly message via the discord channel. A feature we take most pride\
+      \ in is that users can also specify the mood of the notification: casual, motivational,\
+      \ and normal. We have a login feature to redirect the user to their unique webpage\
+      \ (name appears on top right & only their tasks show up) where they can clearly\
+      \ see their tasks in different sections namely \u201Cin progress\u201D, \u201D\
+      completed\u201D & \u201Coverdue\u201D."
+    team:
+    - name: Tanvie Kirane <tanvieki@buffalo.edu>
+    - name: ''
+    - name: Rami Khammash <ramikham@buffalo.edu>
+    - name: ''
+    - name: Michael Geraci <megeraci@buffalo.edu>
+    - name: ''
+    - name: Snigdha Motadaka <snigdham@buffalo.edu>
+    - name: ''
+    - name: Elijah Washington <ejwashin@buffalo.edu>
+    title: TERMS&Co
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2022-Spring/cse-442s/static/
   title: Software Engineering
 - code: CSE 700
   projects:
@@ -514,3 +626,120 @@
     title: GEP interactive musical devices
     url: https://www.youtube.com/watch?v=LKnkbQC_YCM&list=PLSrPY5_Dn6K6N98ZVuZYZQ6EU_sheh8KB
   title: Ethan Blanton
+- code: CSE 499
+  projects:
+  - description: A self balancing ball and beam PID system.<br><br>N/A
+    team:
+    - name: Ben Miller (bdm23)
+    - name: Andrew Zhou (amzhou)
+    - name: Maryam Nisar (maryamni)
+    title: Swinging Pendulums
+    url: https://github.com/gytanzo/reversependulum
+  title: ''
+- code: null
+  projects:
+  - description: DRONES Lab graduate students will present their work on visual perception
+      for space robotics applications.<br><br>N/A
+    team:
+    - name: Timothy Chase - tbchase@buffalo.edu
+    - name: Sannihith Kilaru - sannihit@buffalo.edu
+    - name: Shivendra Srinivas - sriniva7@buffalo.edu
+    title: DRONES Lab Space Vision Research
+  title: DRONES Lab Research Demonstration
+- code: CSE 546
+  projects:
+  - description: Implementing Parallel DQN to solve a complex environment. Our environment
+      is Flatland Environment.<br><br>How to efficiently manage dense traffic on complex
+      railway networks? We aim to solve this by the use of Parallel DQN algorithm.
+    team:
+    - name: Pragati Nagar (pragatin@buffalo.edu)
+    - name: Aryan Saini (asaini2@buffalo.edu)
+    title: Group 26
+  title: Reinforcement Learning Project
+- code: CSE 603
+  projects:
+  - description: Developed a general-purpose runtime system for SCoOL (Scalable Common
+      Optimization) Library using OpenMP. This library helps in solving large scale
+      optimization problems in shared memory cluster.<br><br>The runtime execution
+      system is implemented for solving large scale optimization problems in shared
+      memory systems. This uses task based parallel programming techniques and is
+      built on Intel OpenMP API but can be extended to support other shared memory
+      programming models. The executor is akin to the classic Bulk Synchronous Parallel
+      (BSP) model.
+    team:
+    - name: Krishna prasad Porandla - kporandl@buffalo.edu
+    - name: Suhas Reddy Edavalli - suhasred@buffalo.edu
+    - name: Viswa Nihar Nukala - viswanih@buffalo.edu
+    title: Processing Pandas
+    url: https://gitlab.com/SCoRe-Group/scool
+  title: Parallel and Distributed Processing
+- code: null
+  projects:
+  - description: Our group is tasked with creating a reinforcement learning model
+      for an air traffic control agent to allocate tasks to un-manned aerial vehicles,
+      while navigating a terrain riddled with uncertainties.<br><br>This project started
+      as a course endeavor for MAE 600 / CSE 610, and will likely go on to compete
+      at conferences later this year, notably DARS and Scitech.
+    team:
+    - name: Jhoel Witter (jhoelwit@buffalo.edu)
+    - name: Prajit Krishna Kumar (prajitkr@buffalo.edu)
+    title: Vertiport-1
+  title: MAE 600 / CSE 610 course project
+- code: null
+  projects:
+  - description: "\u201CTending Ostreidae: Serenades for Settling\u201D is multimedia\
+      \ operatic installation that examines how oyster settlement patterns are impacted\
+      \ by anthropogenic noise. The project focuses on the oyster reseeding initiatives\
+      \ in the waterways of New York City\u2019s harbor \u2014 once the largest harvesting\
+      \ region for oysters in the 1800\u2019s. Sound responsive robotic oysters created\
+      \ at different stages of their life cycle (larvae, pediveliger, reproductive\
+      \ adult, etc) will respond to sonic data collected from the harbor.<br><br>In\
+      \ this project, we designed the actuation mechanism for a 3-D printed Oyster\
+      \ to open and close, and a mechanism to spew water. The oyster sits in water,\
+      \ listens to ambient sounds and spews water based on the degree of anthropogenic\
+      \ noise heard. Future plans include developing a mechanism for the oyster to\
+      \ walk on the water bed.<br><br>This work is joint between Prof. Karthik Dantu\
+      \ in CSE, Prof. Stephanie Rothenberg in Dept of Art and Suzanne Thorpe from\
+      \ Columbia University/Billion Oyster Project"
+    team:
+    - name: chetan palkar cpalkar@buffalo.edu
+    - name: Ralfy Chettiar ralfyfra@buffalo.edu
+    - name: Stephanie Rothenberg sjr6@buffalo.edu
+    - name: Karthik Dantu kdantu@buffalo.edu
+    title: Bio-inspired Robotic Oysters
+    url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
+  title: independent study with Dr. Karthik Dantu
+- code: CSE 546
+  projects:
+  - description: 'Exploring how fairness can be applied to Multi Agents systems using
+      Deep RL. Applied scenarios of 1. Resource sharing, 2. Time limit, 3. Individual
+      Priorities on Agents<br><br>Using Deep Reinforcement Learning algorithms: Q-Learning,
+      Deep Q-networks and Double Deep Q-networks to solve the fairness among agents
+      in Multi Agents systems.'
+    team:
+    - name: Nandini Chinta - nandinic@buffalo.edu
+    title: Fairness in Multi Agent Reinforcement Learning
+  title: Reinforcement Learning
+- code: CSE 546
+  projects:
+  - description: We have used DDPG and TD3 with the objective to maximize profits
+      trading stocks for a period of 100 days.<br><br>Our long term objective is to
+      create a portfolio optimization tool where one can hedge their position using
+      options and ride out volatile periods in the stock market, we currently have
+      positive returns over 100 trading days and we will be further refining our DDPG
+      and TD3 models and try out other reinforcement learning models. We also will
+      be extending this to option trading.
+    team:
+    - name: Naman Tejaswi     namantej@buffalo.edu
+    - name: Arshabh Semwal  arshabhs@buffalo.edu
+    title: Stock Trading using RL (Team 33 ub learns))
+  title: Reinforcement Learning
+- code: null
+  projects:
+  - description: A simple and easy to use mobile application to track your weight
+      training progress. This app can track weight and repetitions to show you how
+      well you are performing at the gym.
+    team:
+    - name: Jean Vigroux - jeanvigr@buffalo.edu
+    title: Workout Tracker
+  title: Independent Study
