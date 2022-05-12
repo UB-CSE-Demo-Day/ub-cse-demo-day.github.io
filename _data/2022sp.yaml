@@ -552,6 +552,32 @@
     - name: Elijah Washington <ejwashin@buffalo.edu>
     title: TERMS&Co
     url: https://www-student.cse.buffalo.edu/CSE442-542/2022-Spring/cse-442s/static/
+  - description: 'Generate mosaicked images for the user without the need for learning
+      or knowledge of photo-editing skills <br><br>Potentially other types of image
+      editing: black and white, photoshop'
+    team:
+    - name: Jia Hou - jhhou
+    - name: Helen Luo - helenluo
+    - name: Alex Yan - alexyan
+    - name: Liam Mullen - liammull
+    - name: ''
+    title: Mosaic Maker/ Team Arson
+    url: http://www-student.cse.buffalo.edu:5432
+  - description: CodeHub's objective provides a tool that help CS students, professors,
+      software engineers to have a easier time understanding/presenting code.<br><br>Our
+      motivation comes from our frustration of understanding code from a big project
+      and want to create a solution for simplify code for a wide audience.
+    team:
+    - name: Anthony Mendez
+    - name: amendez8@buffalo.edu
+    - name: Matthew Johnson
+    - name: mrj26@buffalo.edu
+    - name: Ronald Chen
+    - name: rchen56@buffalo.edu
+    - name: Senhuang Cai
+    - name: senhuang@buffalo.edu
+    title: CodeHub/Bees
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2022-Spring/cse-442v/public_html/
   title: Software Engineering
 - code: null
   projects:
@@ -686,7 +712,8 @@
     team:
     - name: Pragati Nagar (pragatin@buffalo.edu)
     - name: Aryan Saini (asaini2@buffalo.edu)
-    title: Group 26
+    - name: Divyansh Chopra (dchopra2@buffalo.edu)
+    title: Solving Flatland Env using Parallel RL Techniques
   - description: 'Exploring how fairness can be applied to Multi Agents systems using
       Deep RL. Applied scenarios of 1. Resource sharing, 2. Time limit, 3. Individual
       Priorities on Agents<br><br>Using Deep Reinforcement Learning algorithms: Q-Learning,
@@ -719,3 +746,25 @@
     - name: Prajit Krishna Kumar (prajitkr@buffalo.edu)
     title: Vertiport-1
   title: MAE 600 / CSE 610 course project
+- code: CSE 446
+  projects:
+  - description: AWS deepracer project using RL <br><br>https://aws.amazon.com/deepracer/
+    team:
+    - name: jaskara2@buffalo.edu
+    - name: mukeshga@buffalo.edu
+    title: AWS DeepRacer
+    url: https://docs.google.com/presentation/d/13xUokIMvdD8V79nEp-ZMseVEMJJtyFNx/edit#slide=id.p1
+  title: ''
+- code: null
+  projects:
+  - description: Empathetic Dialogue Generation using Deep Reinforcement Learning<br><br>Empathetic
+      dialogue generation in chatbot using Offline Reinforcement Learning and Proximal
+      Policy Optimization models.
+    team:
+    - name: Prajvala Sonawane (prajvala@buffalo.edu)
+    - name: ''
+    - name: Nikita Desai (ndesai2@buffalo.edu)
+    - name: ''
+    - name: Baasit Sharief (baasitsh@buffalo.edu)
+    title: Team 32
+  title: 4/546 Reinforcement Learning
