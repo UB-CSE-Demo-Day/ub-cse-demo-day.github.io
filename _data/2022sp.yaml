@@ -513,6 +513,15 @@
     - name: Maryam Nisar (maryamni)
     title: Swinging Pendulums
     url: https://github.com/gytanzo/reversependulum
+  - description: A model car that utilizes PID Control to avoid obstacles and drive
+      in a safe path. We made this possible by utilizing a LiDAR sensor and two ultrasonic
+      sensors for detecting obstacles, a servo motor to control the steering angle,
+      and a DC motor to control the rear wheel drive.<br><br>N/A
+    team:
+    - name: Mohammad Tamzeed Moazzem - mmoazzem@buffalo.edu
+    - name: Hasaan Saleh - hasaansa@buffalo.edu
+    title: Self-Driving Model Car
+    url: https://github.com/areicher22/CSE-499
   title: Embedded Controls
 - code: CSE 442
   projects:
@@ -579,65 +588,6 @@
     title: CodeHub/Bees
     url: https://www-student.cse.buffalo.edu/CSE442-542/2022-Spring/cse-442v/public_html/
   title: Software Engineering
-- code: null
-  projects:
-  - description: "Ostreidae: Serenades for Settling\u201D is multimedia operatic installation\
-      \ that examines how oyster settlement patterns are impacted by anthropogenic\
-      \ noise. The project focuses on the oyster reseeding initiatives in the waterways\
-      \ of New York City\u2019s harbor \u2014 once the largest harvesting region for\
-      \ oysters in the 1800\u2019s. Sound responsive robotic oysters created at different\
-      \ stages of their life cycle (larvae, pediveliger, reproductive adult, etc)\
-      \ will respond to sonic data collected from the harbor.<br>In this project,\
-      \ we designed the actuation mechanism for a 3-D printed Oyster to open and close,\
-      \ and a mechanism to spew water. The oyster sits in water, listens to ambient\
-      \ sounds and spews water based on the degree of anthropogenic noise heard. Future\
-      \ plans include developing a mechanism for the oyster to walk on the waterbed.<br><br>Joint\
-      \ Collaboration with University at Buffalo Department of Art and the School\
-      \ of Engineering and Applied Sciences"
-    team:
-    - name: Stephanie Rothenberg (Department Chair
-    - name: Department of Art
-    - name: College of Arts and Sciences)
-    - name: sjr6@buffalo.edu
-    - name: Karthik Dantu (Associate Professor
-    - name: DRONES Lab
-    - name: Department of Computer Science and Engineering)
-    - name: kdantu@buffalo.edu
-    - name: Ralfy Chettiar (pursuing MS Engineering Sciences (Robotics))
-    - name: ralfyfra@buffalo.edu
-    - name: Chetan Palkar (pursuing MS Engineering Sciences (Robotics))
-    - name: cpalkar@buffalo.edu
-    title: 'Tending Ostreidae: Serenades for Settling (Sub Module: Bio-inspired Robotic
-      Oysters)'
-    url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
-  - description: "\u201CTending Ostreidae: Serenades for Settling\u201D is multimedia\
-      \ operatic installation that examines how oyster settlement patterns are impacted\
-      \ by anthropogenic noise. The project focuses on the oyster reseeding initiatives\
-      \ in the waterways of New York City\u2019s harbor \u2014 once the largest harvesting\
-      \ region for oysters in the 1800\u2019s. Sound responsive robotic oysters created\
-      \ at different stages of their life cycle (larvae, pediveliger, reproductive\
-      \ adult, etc) will respond to sonic data collected from the harbor.<br><br>In\
-      \ this project, we designed the actuation mechanism for a 3-D printed Oyster\
-      \ to open and close, and a mechanism to spew water. The oyster sits in water,\
-      \ listens to ambient sounds and spews water based on the degree of anthropogenic\
-      \ noise heard. Future plans include developing a mechanism for the oyster to\
-      \ walk on the water bed.<br><br>This work is joint between Prof. Karthik Dantu\
-      \ in CSE, Prof. Stephanie Rothenberg in Dept of Art and Suzanne Thorpe from\
-      \ Columbia University/Billion Oyster Project"
-    team:
-    - name: chetan palkar cpalkar@buffalo.edu
-    - name: Ralfy Chettiar ralfyfra@buffalo.edu
-    - name: Stephanie Rothenberg sjr6@buffalo.edu
-    - name: Karthik Dantu kdantu@buffalo.edu
-    title: Bio-inspired Robotic Oysters
-    url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
-  - description: A simple and easy to use mobile application to track your weight
-      training progress. This app can track weight and repetitions to show you how
-      well you are performing at the gym.
-    team:
-    - name: Jean Vigroux - jeanvigr@buffalo.edu
-    title: Workout Tracker
-  title: Independent Study
 - code: CSE 700
   projects:
   - description: "GEP<br>Is a project based on interactive devices that seek to enhance\
@@ -733,6 +683,16 @@
     - name: Naman Tejaswi     namantej@buffalo.edu
     - name: Arshabh Semwal  arshabhs@buffalo.edu
     title: Stock Trading using RL (Team 33 ub learns))
+  - description: Empathetic Dialogue Generation using Deep Reinforcement Learning<br><br>Empathetic
+      dialogue generation in chatbot using Offline Reinforcement Learning and Proximal
+      Policy Optimization models.
+    team:
+    - name: Prajvala Sonawane (prajvala@buffalo.edu)
+    - name: ''
+    - name: Nikita Desai (ndesai2@buffalo.edu)
+    - name: ''
+    - name: Baasit Sharief (baasitsh@buffalo.edu)
+    title: Team 32
   title: Reinforcement Learning Project
 - code: null
   projects:
@@ -746,6 +706,36 @@
     - name: Prajit Krishna Kumar (prajitkr@buffalo.edu)
     title: Vertiport-1
   title: MAE 600 / CSE 610 course project
+- code: null
+  projects:
+  - description: "\u201CTending Ostreidae: Serenades for Settling\u201D is multimedia\
+      \ operatic installation that examines how oyster settlement patterns are impacted\
+      \ by anthropogenic noise. The project focuses on the oyster reseeding initiatives\
+      \ in the waterways of New York City\u2019s harbor \u2014 once the largest harvesting\
+      \ region for oysters in the 1800\u2019s. Sound responsive robotic oysters created\
+      \ at different stages of their life cycle (larvae, pediveliger, reproductive\
+      \ adult, etc) will respond to sonic data collected from the harbor.<br><br>In\
+      \ this project, we designed the actuation mechanism for a 3-D printed Oyster\
+      \ to open and close, and a mechanism to spew water. The oyster sits in water,\
+      \ listens to ambient sounds and spews water based on the degree of anthropogenic\
+      \ noise heard. Future plans include developing a mechanism for the oyster to\
+      \ walk on the water bed.<br><br>This work is joint between Prof. Karthik Dantu\
+      \ in CSE, Prof. Stephanie Rothenberg in Dept of Art and Suzanne Thorpe from\
+      \ Columbia University/Billion Oyster Project"
+    team:
+    - name: chetan palkar cpalkar@buffalo.edu
+    - name: Ralfy Chettiar ralfyfra@buffalo.edu
+    - name: Stephanie Rothenberg sjr6@buffalo.edu
+    - name: Karthik Dantu kdantu@buffalo.edu
+    title: Bio-inspired Robotic Oysters
+    url: https://stephanierothenberg.com/tending-ostreidae-serenades-for-settling/
+  - description: A simple and easy to use mobile application to track your weight
+      training progress. This app can track weight and repetitions to show you how
+      well you are performing at the gym.
+    team:
+    - name: Jean Vigroux - jeanvigr@buffalo.edu
+    title: Workout Tracker
+  title: Independent Study
 - code: CSE 446
   projects:
   - description: AWS deepracer project using RL <br><br>https://aws.amazon.com/deepracer/
@@ -755,16 +745,3 @@
     title: AWS DeepRacer
     url: https://docs.google.com/presentation/d/13xUokIMvdD8V79nEp-ZMseVEMJJtyFNx/edit#slide=id.p1
   title: ''
-- code: null
-  projects:
-  - description: Empathetic Dialogue Generation using Deep Reinforcement Learning<br><br>Empathetic
-      dialogue generation in chatbot using Offline Reinforcement Learning and Proximal
-      Policy Optimization models.
-    team:
-    - name: Prajvala Sonawane (prajvala@buffalo.edu)
-    - name: ''
-    - name: Nikita Desai (ndesai2@buffalo.edu)
-    - name: ''
-    - name: Baasit Sharief (baasitsh@buffalo.edu)
-    title: Team 32
-  title: 4/546 Reinforcement Learning
