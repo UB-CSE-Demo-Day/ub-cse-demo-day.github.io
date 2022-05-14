@@ -58,19 +58,7 @@
     - name: Prasad Shirvandkar - prasadda@buffalo.edu
     title: Helpt App
     url: https://helpt.app/
-  - description: Look the Part is an IOS based application. As a part of this project,
-      we will be implementing a new feature for an existing iOS mobile application
-      that uses Machine learning to allow users to scan for a digital image depicting
-      TV characters, wearing different outfits, and mapping those outfits with the
-      exact or similar clothing items in our database with<br>an embedded link to
-      the third party websites, where the user can actually buy the product. The application
-      also consists of character wise product filters which the user can use to check
-      out the clothes worn by their favorite TV Characters if the scanned results
-      are not appropriate.<br><br>The Features developed as a part of this project:<br>1.
-      Recognizing the similar clothes that the user uploads in the form of a video
-      clip or an image(Object Detection using Mask RCNN & Color Detection using K-means).<br>2.
-      Image Upload and Video Capture functionality.<br>3. Push Notifications<br>4.
-      Session Metrics<br>5. Google Sign-in<br>6. Result Screens, Filters and UI Enhancements.
+  - description: ''
     team:
     - name: varshith@buffalo.edu
     - name: mmusku@buffalo.edu
