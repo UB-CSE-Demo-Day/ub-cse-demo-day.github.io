@@ -1,0 +1,834 @@
+- code: DRONES Lab - Department of Arts collaboration Project
+  projects:
+  - description: " \u201CTending Ostreidae: Serenades for Settling,\u201D is an interdisciplinary\
+      \ project exploring how anthropogenic noise in New York City\u2019s busy waterways\
+      \ impacts marine organisms, specifically oysters. Since oyster reefs provide\
+      \ habitat for hundreds of species, prevent erosion along the shorelines, and\
+      \ can filter about 30 to 50 gallons of water every day, oyster restoration in\
+      \ New York Harbor is a priority.  "
+    team:
+    - email: sjr6@buffalo.edu
+      name: Stephanie Rothenberg
+    - email: kdantu@buffalo.edu
+      name: Karthik Dantu
+    - email: ralfyfra@buffalo.edu
+      name: Ralfy Chettiar
+    - email: cpalkar@buffalo.edu
+      name: Chetan Palkar
+    - email: sdhande@buffalo.edu
+      name: Sanket Dhande
+    title: Bio-inspired Robotic Oysters
+    url: https://www.buffalo.edu/ubnow/stories/2022/08/robotic-oysters.html
+- code: PhD Poster Competition
+  projects:
+  - description: Deepfake technologies, which allow malicious actors to produce fake
+      images, videos, and audio clips, are reaching an unprecedented convergence of
+      quality, scalability, and ease of use. It will soon be possible to mass produce
+      highly realistic synthetic content that may be generated and spread faster than
+      fake media detectors can manage. The proliferation of these technologies poses
+      clear threats to society and democracy (for example, consider the dangers of
+      shared videos wherein politicians give fake speeches). It appears that the future
+      of information channels which we rely on when forming our beliefs and opinions,
+      is on the shaky ground unless detection technology can gain the upper hand.
+      Synthetic audio detection is one key element in managing this threat.
+    team:
+    - email: csun22@buffalo.edu
+      name: Chengzhe Sun
+    - email: siweilyu@buffalo.edu
+      name: Siwei Lyu
+    title: Detcting Deepfake Audio/UB Media Forensic Lab
+    url: https://www.buffalo.edu/eln/students/project-portal/host-page.host.html/content/shared/www/eln/project-portal/project-profiles/active-projects/detecting-deepfake-audio.detail.html
+  - description: 'Visual SLAM is a long-standing research area with many significant
+
+      advances over the years. New systems typically build on previous
+
+      contributions, but this requires significant development overhead, a
+
+      highly detailed understanding of previous system implementations,
+
+      and is rife with programming pitfalls. To enable fast experimentation and reduce
+      the need for researchers to re-invent the wheel, we propose a modular, extensible
+      Visual SLAM framework.'
+    team:
+    - email: sofiyase@buffalo.edu
+      name: Sofiya Semenova
+    - email: pranaywa@buffalo.edu
+      name: Pranay Meshram
+    title: 'Darvis: A modular, extensible framework for modern visual SLAM systems'
+  - description: 'Metagenomic classification is a form of DNA analysis that aims to
+      classify organisms based on their DNA fragments present in a biological sample.
+      The recent introduction of portable DNA sequencers has fostered great interest
+      in performing metagenomic classification in mobile settings, motivated by applications
+      such as rapid medical diagnosis, detection and tracking of infectious diseases,
+      automated bioterrorism response systems, monitoring dynamic microbial communities,
+      and more. However, the software to perform metagenomic classification remains
+      incompatible with mobile workflows. Metagenomic classification is extremely
+      resource intensive in terms of compute, memory, energy, network, and storage,
+      and typical tools are designed to operate in large data centers, on supercomputers,
+      and in the cloud, whose resources far outclass those available to mobile devices.
+      Despite the advancements in portable DNA sequencing technology, the question
+      of how to design software systems for metagenomics that are capable of mobile
+      deployments remains wholly unanswered.
+
+
+      In this project, we introduces Coriolis, a metagenomic classifier designed from
+      the ground up to be efficient in mobile environments. Coriolis is based on novel
+      programming abstractions and data structures that enable efficient management
+      of scarce resources on mobile devices. These programming abstractions are packaged
+      in the form of SMARTEn, a programming model and framework for expressing metagenomic
+      classification algorithms. SMARTEn decomposes the metagenomic classification
+      process into individual tasks, opening up opportunities to automatically manage
+      and optimize their execution at runtime. To manage the massive reference database
+      of known genomes required for metagnomic classification, we introduce the compact
+      string B-tree (CSBT) as a practical data structure for managing unstructured
+      text on disk. The CSBT is a space-efficient and generalized variant of (Ferragina
+      and Grossi, 1999)''s string B-tree (SBT). At a high level, the CSBT can be thought
+      of as a B+-tree of suffix offsets where each node''s key set is represented
+      as a suffix array augmented with information on the mismatched characters between
+      adjacent suffixes. We prove that this information is sufficient to identify
+      a query string''s rank in a CSBT node while performing only a single disk access,
+      and we give an I/O optimal algorithm for finding all occurrences of the longest
+      matching prefix of a pattern in the text. The resulting representation is an
+      order of magnitude smaller than the SBT, resulting in far better throughput
+      and space usage. Furthermore, additional techniques enable the CSBT to index
+      multiple texts while eliminating the need to store duplicate information, significantly
+      improving performance for practical applications. Rigorous theoretical and experimental
+      analysis demonstrates that Coriolis outperforms the state-of-the-art and enables
+      real-time in the field metagenomics.'
+    team:
+    - email: ajmikals@buffalo.edu
+      name: Andrew Mikalsen
+    title: Metagenomic Classification on Mobile Devices
+    url: https://cse.buffalo.edu/~jzola/smarten/
+  - description: "The ARM Cortex-M microcontroller architecture is designed for embedded\
+      \ and Internet of things (IoT) applications. \nTo facilitate efficient execution,\
+      \ it has some unique hardware optimization. \nFor example, Cortex-M TrustZone\
+      \ has a fast state switch mechanism that allows direct control-flow transfer\
+      \ from secure privileged mode to non-secure unprivileged mode. \nIn this paper,\
+      \ we demonstrate how this fast state switch mechanism can be exploited for arbitrary\
+      \ code execution with escalated privilege in the non-secure state\nby introducing\
+      \ a new exploitation technique, namely return-to-non-secure (ret2ns).\nTo defend\
+      \ against ret2ns attacks, we design two address sanity checking mechanisms that\
+      \ verify the target address in the non-secure state is not unprivileged. "
+    team:
+    - email: zheyuanm@buffalo.edu
+      name: Zheyuan Ma
+    - email: xitan@buffalo.edu
+      name: Xi Tan
+    - email: zimingzh@buffalo.edu
+      name: Ziming Zhao
+    title: ret2ns
+  - description: "With the increasing deployment of the Internet of Things, their\
+      \ security is more important than ever. Many attacks, such as Return-Oriented\
+      \ Programming, aim to hijack the control flows of IoT programs.Control-flow\
+      \ Integrity is a promising approach to defend against such attacks. While existing\
+      \ solutions rely on instrumenting the code, which introduces extra execution\
+      \ complexity. \nIn this work, we present Sherloc, which provides efficient control-flow\
+      \ violation detection to enhance the security of embedded systems without instrumentation.\n\
+      Sherloc combines static analysis on the target program's binary and run-time\
+      \ hardware support tracing mechanism to reconstruct run-time executions to detect\
+      \ control-flow hijackings.\nTo protect the trace packets and detection engine,\
+      \ it utilizes TurstZone and places the target program in the non-secure state.\n\
+      We implemented and evaluated Sherloc on ARMv8-M architecture. Our evaluation\
+      \ shows Sherloc introduces a low overhead."
+    team:
+    - email: xitan@buffalo.edu
+      name: Xi Tan
+    - email: zimingzh@buffalo.edu
+      name: Ziming Zhao
+    title: Sherloc
+  - description: "Existing Trusted Execution Environments (TEE) or enclaves\nare built\
+      \ on proprietary hardware, such as Intel SGX and Arm\nTrustZone. Despite of\
+      \ the benefits, they have been criticized\nfor lack of transparency, vulnerabilities,\
+      \ and various restrictions. For example, proprietary hardware only provide a\
+      \ static\nand fixed hardware Trusted Computing Base (TCB). Existing\nTEEs time-share\
+      \ a processor core with the Rich Execution\nEnvironment (REE), making execution\
+      \ less efficient and vulnerable to cache side-channel attacks. While previous\
+      \ projects\nattempted to address one or more issues by building software\nlayers\
+      \ on SGX, TrustZone, or RISC-V, some issues are rooted\nin the design of hardware\
+      \ system; therefore they cannot be\naddressed by software alone.\nIn this project,\
+      \ we present BYOTEE (Build Your Own\nTrusted Execution Environments), which\
+      \ is an easy-to-use\nhardware and software co-design infrastructure for building\n\
+      enclaves using Field Programmable Gate Arrays (FPGA).\nBYOTEE creates enclaves\
+      \ with customized hardware TCBs\nand establishes a dynamic root of trust that\
+      \ allows untampered execution of Security-Sensitive Applications (SSA) from\n\
+      preexisting software on the hardcore system. Additionally, BYOTEE provides mechanisms\
+      \ to attest the integrity of enclaves\u2019\nhardware and software stacks. We\
+      \ implement a BYOTEE\nsystem for the Xilinx System-on-Chip (SoC) FPGA. The evaluations\
+      \ on the low-end Zynq-7000 system for four SSAs and\n12 benchmark applications\
+      \ demonstrate the usage, security,\neffectiveness, and performance of the BYOTEE\
+      \ framework."
+    team:
+    - email: mdarmanu@buffalo.edu
+      name: MD Armanuzzaman
+    - email: zimingzh@buffalo.edu
+      name: Ziming Zhao
+    title: 'BYOTEE: Towards Building Your Own Trusted Execution Environments Using
+      FPGA'
+    url: https://github.com/CactiLab/BYOTee-Build-Your-Own-TEEs
+  - description: In this paper we present AMPNet, an acoustic abnormality detection
+      model deployed at ACV Auctions to automatically identify engine faults of vehicles
+      listed on the ACV Auctions platform. We investigate the problem of engine fault
+      detection and discuss our approach of deep-learning based audio classification
+      on a large-scale automobile dataset collected at ACV Auctions. Specifically,
+      we discuss our data collection pipeline and its challenges, dataset preprocessing
+      and training procedures, and deployment of our trained models into a production
+      setting. We perform empirical evaluations of AMPNet and demonstrate that our
+      framework is able to successfully capture various engine anomalies agnostic
+      of vehicle type. Finally we demonstrate the effectiveness and impact of AMPNet
+      in the real world, specifically showing a 20.85% reduction in vehicle arbitrations
+      on ACV Auctions' live auction platform.
+    team:
+    - email: dcfedori@buffalo.edu
+      name: Dennis Fedorishin
+    title: 'Large-Scale Acoustic Automobile Fault Detection: Diagnosing Engines Through
+      Sound'
+  - description: 'RidgeBase consists of more than 15,000 contactless and contact-based
+      fingerprint image pairs acquired from 88 individuals under different background
+      and lighting conditions using two smartphone cameras and one flatbed contact
+      sensor. RidgeBase is designed to promote research under different matching scenarios
+      that include Single Finger Matching and Multi-Finger Matching for both contactless-to-contactless
+      (CL2CL) and contact-to-contactless (C2CL) verification and identification.
+
+
+      RidgeBase dataset can be used for training and evaluating contactless fingerprint
+      matching algorithms (CL2CL and C2CL) for three types of tasks:
+
+
+      Task 1: Single Finger Matching
+
+      Task 2: Four Finger Matching
+
+      Task 3: Set-Based Matching'
+    team:
+    - email: bhavinja@buffalo.edu
+      name: Bhavin Jawade
+    - email: dmohan@buffalo.edu
+      name: Deen Dayal Mohan
+    - email: setlur@buffalo.edu
+      name: Srirangaraj Setlur
+    - email: govind@buffalo.edu
+      name: Venu Govindaraju
+    title: 'RidgeBase: Multifinger Cross Sensor Fingerprint matcher'
+    url: https://www.buffalo.edu/cubs/research/datasets/ridgebase-benchmark-dataset.html
+  - description: The rocketed population of Internet of Things(IoT) devices has turned
+      out to be ideal targets for attackers recently due to budget constraints and
+      the enormous number of vulnerabilities with such IoT devices. Therefore, it
+      is crucial to understand and detect the IoT malware remote infection before
+      adversaries monetize the compromised IoT devices. This winning paper presents
+      a study on a large-scale dataset covering 403,464 IoT malware samples with a
+      deep insight into the IoT malware remote infection characteristics. Furthermore,
+      to realize the early detection of remote infection, they developed an infection
+      detector to monitor ongoing remote infection activities based on the infection
+      capabilities. With deploying the infection detector on the software IoT honeypots
+      for almost one year, they detected  147,860 remote infections with a 99.22%
+      detection rate.
+    team:
+    - email: qiqinghu@buffalo.edu
+      name: Qiqing Huang
+    - email: hongxinh@buffalo.edu
+      name: Hongxin Hu
+    title: 'Understanding and detecting IoT malware remote infection '
+    url: https://github.com/soter-project/soter
+  - description: In this work, we propose three novel studies to understand V\&L models'
+      generalizability for new types of hateful memes and the relationship between
+      visual and textual modalities during prediction. To study generalizability,
+      we use COVID-19 as a case study and conduct a large-scale measurement of state-of-the-art
+      models to investigate their generalizability on COVID-19-related hateful memes.
+      Furthermore, we conduct two novel experiments to understand the relationship
+      between visual and textual modalities. Using gradient-based explanation techniques,
+      we explore the importance attributed to each modality. Then, using ablations
+      of the modalities, we scrutinize the impacts of textual and visual inputs on
+      the models' prediction. Our studies show that these models are not generalizable
+      to new types of hateful memes (average F1-score of only 0.2), give significantly
+      more importance to the visual modality during prediction (about 2X higher average
+      importance than textual modality), and that the textual modality actually provides
+      significantly greater valid information to detect new types of hateful memes.
+    team:
+    - email: Keyan Guo@buffalo.edu
+      name: Name
+    - email: keyanguo@buffalo.edu
+      name: Email
+    - email: keyanguo@buffalo.edu
+      name: id
+    title: Understanding COVID19-Related Hateful Memes
+  - description: 'FoodNet is a community-powered social network built around a community''s
+      food system. FoodNet is a lightweight web application that helps community members
+      locate inexpensive, fresh,local produce. '
+    team:
+    - email: dmohan@buffalo.edu
+      name: Deen Dayal Mohan
+    - email: bhavinja@buffalo.edu
+      name: Bhavin Jawade
+    - email: najimoha@buffalo.edu
+      name: Naji Mohamed Ali
+    - email: rahulnai@buffalo.edu
+      name: Rahul Nair
+    title: 'SCC-PG: A Sustainable and Connected Community-Scale Food System to Empower
+      Consumers, Farmers, and Retailers'
+- code: A programming competition
+  projects:
+  - description: A Low Power Object detection design on FPGA system with high accuracy
+      and low power consumption. We worked on the problem statement of, how to design
+      a lower power object detection AI algorithm that can be implemented and demonstrated
+      on a piece of real computing hardware platform that can be attached to drones.
+    team:
+    - email: pranaywa@buffalo.edu
+      name: Pranay Meshram
+    - email: naveenae@buffalo.edu
+      name: Naveena Elango
+    - email: sheenara@buffalo.edu
+      name: Sheena Ratnam Priya
+    - email: ardemart@buffalo.edu
+      name: Anthony DeMartino
+    - email: yashturk@buffalo.edu
+      name: Yash Turkar
+    - email: kdantu@buffalo.edu
+      name: Karthik Dantu
+    - email: jinjun@buffalo.edu
+      name: Jinjun Xiong
+    title: Low Power Object detection on FPGA system
+- code: 'CSE 611: Master''s Capstone Project'
+  projects:
+  - description: Networthy is a personal finance startup focused on helping young
+      alumni achieve financial wellness and freedom. This project involves building
+      a web-based platform that allows customers (alumni) to list their financial
+      goals, view related content (as per goal tags) provided by the coaches, work
+      towards that goal, and progress through the goal stages.
+    team:
+    - email: rs284@buffalo.edu
+      name: Rahul Sharma
+    - email: rshahi@buffalo.edu
+      name: Rahul Shahi
+    - email: amolghar@buffalo.edu
+      name: Amol Gharpure
+    - email: sumantra@buffalo.edu
+      name: Sumantra Sharma
+    title: NetWorthy / Goally Finance
+  - description: A Decentralized Marketplace for Solar Energy
+    team:
+    - email: akumar59@buffalo.edu
+      name: Ashish Kumar
+    title: Power2Peer
+  - description: The food court will be an app available on iOS and android. It will
+      allow people to rediscover food, allowing them to seamlessly swipe through food,
+      recipes and restaurants on the fly. The app will allow groups to combine their
+      preferences to find something perfect to eat and cook.
+    team:
+    - email: gliu25@buffalo.edu
+      name: Gaoxiang Liu
+    - email: yuanpuzh@buffalo.edu
+      name: Yuanpu Zhang
+    - email: yingyinl@buffalo.edu
+      name: Ying Yin Li
+    - email: hongyuke@buffalo.edu
+      name: Hongyu Ke
+    title: The Food Court
+  - description: 'Rentals and friends is an application which aims to find rental
+      apartments to people and as well as find tenants to sublease their apartments '
+    team:
+    - email: vanithar@buffalo.edu
+      name: Vanitha Ravichandran
+    - email: induraju@buffalo.edu
+      name: Indu Raju
+    - email: manojcho@buffalo.edu
+      name: Manoj Chowdary Raavi
+    - email: rakshoki@buffalo.edu
+      name: Rakshokini Umasankar
+    - email: hrisheek@buffalo.edu
+      name: Hrisheekesh Talari
+    title: Rentals&Friends
+  - description: 'Building a digital solution empowering birthing parents and caregivers
+      to
+
+      take charge of their prenatal and post-partum care.'
+    team:
+    - email: smuthyal@buffalo.edu
+      name: Sai Meghana Muthyala
+    - email: sravyapo@buffalo.edu
+      name: Sravya Polina
+    - email: sumanara@buffalo.edu
+      name: Sumana Radham
+    - email: lokeshwa@buffalo.edu
+      name: Lokesh Chilamcharla
+    - email: vn35@buffalo.edu
+      name: Venkata Sai Dheeraj Narayanabhatla
+    - email: sowbhagy@buffalo.edu
+      name: Sowbhagya Veera
+    title: Camo App (Maternal Health Project)
+  - description: 'Collaborative Clinical Tracker is a web application that can be
+      used as a one-stop solution for students to log activities, track their progress,
+      and generate reports of their training activities online, Instead of going through
+      all the paperwork. It also helps department faculty and supervisors to easily
+      access, monitor, and approve student training activities. '
+    team:
+    - email: smadhadi@buffalo.edu
+      name: Sai Kumar Madhadi
+    - email: vkumar34@buffalo.edu
+      name: Vinay Kumar
+    - email: sampathb@buffalo.edu
+      name: Sampath Bhargav Pinnam
+    - email: rajeshre@buffalo.edu
+      name: Rajesh Reddy Mekala
+    - email: sonalimi@buffalo.edu
+      name: Sonali Misra
+    - email: rshah8@buffalo.edu
+      name: Rahul KaushikBhai Shah
+    title: Collaborative Clinical Tracker
+    url: http://gseweb.gse.buffalo.edu:3000/login
+  - description: 'Building a web application for our client, which enables him to
+      share his RV location and other events with his users and allow customers to
+      book appointments for a haircut. '
+    team:
+    - email: banand@buffalo.edu
+      name: Bhavan Anand
+    - email: dgowda@buffalo.edu
+      name: Deepak Gowda
+    - email: syma@buffalo.edu
+      name: Shashank Yama
+    - email: abhapkar@buffalo.edu
+      name: Apoorva Bhapkar
+    - email: spatil24@buffalo.edu
+      name: Sushmita Patil
+    - email: ssarsamb@buffalo.edu
+      name: Sachin Ramesh Sarsambi
+    title: AFM-HD
+    url: https://architectformobilehairdesign.com/home
+  - description: A knowledge-sharing platform for K-12 Students/Faculty to learn and
+      help others through various discussion threads
+    team:
+    - email: spasupat@buffalo.edu
+      name: Sivakumar Pasupathi
+    - email: vruppaga@buffalo.edu
+      name: Vaishnavi Ruppa Gangadharan
+    - email: saiprash@buffalo.edu
+      name: Sai Prashanth Selvaganapathy
+    - email: brindaas@buffalo.edu
+      name: Brinda Ashar
+    - email: rajendr3@buffalo.edu
+      name: Parthiban Rajendran
+    title: K-12 Q&A
+  - description: One stop portal for students to enroll into projects, for clients
+      to manage their projects, judges to judge projects on any event and instructor
+      to manage his courses, projects in courses and students.
+    team:
+    - email: rpothams@buffalo.edu
+      name: Ramesh Pavan Pothamsetty
+    - email: pchavan4@buffalo.edu
+      name: Pratik Chavan
+    - email: svinchan@buffalo.edu
+      name: Shreya Anil Vinchankar
+    - email: adsouza@buffalo.edu
+      name: Ashley Dsouza
+    - email: nandaku3@buffalo.edu
+      name: Nandakumar Shubhankar
+    - email: schillal@buffalo.edu
+      name: Siddharth Chillale
+    title: Capstone Project Management
+    url: http://stark.cse.buffalo.edu/capstone/
+  - description: This is an interactive Web Application with a smart AI chatbot that
+      analyzes the profile requirements with user interaction. It generates curated
+      search results of potential matches based on the conversational anchor points.
+    team:
+    - email: asheeque@buffalo.edu
+      name: Asheeque Chericham Veettil Maliyakkal
+    - email: mthengum@buffalo.edu
+      name: Mathew Thengumpallil Jose
+    - email: annkonna@buffalo.edu
+      name: Ann Gina Konnayil
+    - email: ganeshna@buffalo.edu
+      name: Ganesh Nayar Harindranathu
+    - email: vmanchik@buffalo.edu
+      name: Ritesh Manchikanti
+    title: Catalyst Ops
+    url: http://chatbot-362823.uk.r.appspot.com/userdashboard
+  - description: "The project \u201CFind a Mechanic\u201D is a mobile application\
+      \ that will be used by the public to find a genuine and suitable car repair\
+      \ service with the requirements needed for the car owner nearby their location\
+      \ just by going through the app. As well as local repair services will also\
+      \ be able to promote and expand their business by the increase in the services\
+      \ and orders made through this app. This application will provide a lot of opportunities\
+      \ for local businesses and mechanics. And make it easier for car owners to repair\
+      \ their cars by finding a nearby mechanic with good skills and being able to\
+      \ check the status of their car."
+    team:
+    - email: ygundela@buffalo.edu
+      name: Yashwanth Gundela
+    - email: roshansa@buffalo.edu
+      name: Roshan Sanjay Karamchandani
+    - email: chitrava@buffalo.edu
+      name: Chitravardhini Bellamkonda
+    - email: vtammadw@buffalo.edu
+      name: Vaishnav Tammadwar
+    title: Find A Mechanic
+  - description: 'Our project will provide the functionality to create an applicant
+      profile and
+
+      upload the resume. The parser would then extract relevant information from the
+      resume.
+
+      Our matcher would subsequently try to match this extracted information with
+      the job
+
+      openings based on different matching metrics. Finally, the system will suggest
+      suitable
+
+      job openings to candidates based on insights from the matcher. '
+    team:
+    - email: manorraj@buffalo.edu
+      name: Manor Deshmukh
+    - email: pkatre@buffalo.edu
+      name: Paritosh Katre
+    - email: rahulsen@buffalo.edu
+      name: Rahul Senapati
+    - email: vidushis@buffalo.edu
+      name: Vidushi Sharma
+    - email: harishch@buffalo.edu
+      name: Harish Chandrasekaran
+    title: Resume Parser and Intelligent Job Suggestions
+  - description: 'Dancestry is an interactive, app-based lineal network illustrating
+      connections between dance artists, their mentors and choreographers they have
+      danced in the work of. Part social network and part archive, Dancestry collects,
+      preserves, analyzes, and makes accessible dance lineage: who dancers have studied
+      under and the choreographers whose work they have danced in. Dancestry is intended
+      as a global resource for investigating artistic influences, career paths, choreographic
+      connections and professional relationships.'
+    team:
+    - email: saineera@buffalo.edu
+      name: 1. Sai Neeraj Sabbisetti
+    - email: girijapo@buffalo.edu
+      name: 2. Girija Polamreddy
+    - email: gpendyal@buffalo.edu
+      name: 3. Gopi Chand Pendyala
+    - email: harineep@buffalo.edu
+      name: 4. Harinee Purushothaman
+    - email: scheepur@buffalo.edu
+      name: 5. Srinivas Chaitanya Cheepuri
+    - email: gkadapar@buffalo.edu
+      name: 6. GOKUL SAI KADAPARTHI
+    title: Dancestry
+    url: http://choreographiclineage.buffalo.edu/
+  - description: 'The NY Cannabis Exchange. An auction site built for the future of
+      legal cannabis operations in New York. '
+    team:
+    - email: asriram3@buffalo.edu
+      name: Anirudh Sriram
+    - email: jmcaskie@buffalo.edu
+      name: Josh Caskie
+    - email: ethannha@buffalo.edu
+      name: Ethan Nhan
+    - email: mukuljes@buffalo.edu
+      name: Mukul Jeswani
+    - email: megeraci@buffalo.edu
+      name: Michael Geraci
+    title: NYCE
+    url: https://nycanx.com/
+  - description: A Resource-based Appointment Scheduling system to be able to cater
+      to all kinds of needs with fair logical seperation with administrative capabilities.
+    team:
+    - email: anujshee@buffalo.edu
+      name: Anuj Vadecha
+    - email: hsiddara@buffalo.edu
+      name: Harshitha Siddaramaiah
+    - email: gautham2@buffalo.edu
+      name: Gautham Kidiyoor
+    - email: vmurali2@buffalo.edu
+      name: Vamsikrishna Murali
+    title: 'Appoint-Mend '
+    url: http://appoint-mend.com/
+  - description: 'Fleet Tracker is a vehicle tracking system for car dealerships and
+      their customers. Ordered cars can be tracked through location sensors fitted
+      on them. We intend to access sensor data via the Helium blockchain API in future.
+
+      Car dealerships can create an account on the app, add new vehicles, assign vehicles
+      to customer email, assign devices to vehicles, view current location and location
+      history of vehicles in their inventory. Customers may also view the live location
+      of their car being delivered which facilitates smooth operation of the delivery.'
+    team:
+    - email: srinanda@buffalo.edu
+      name: Srinand Andey
+    - email: elijahei@buffalo.edu
+      name: Elijah Einstein
+    - email: xhuang35@buffalo.edu
+      name: Xiaobing Huang
+    - email: saketdix@buffalo.edu
+      name: Saket Dixit
+    title: Fleet Tracker
+  - description: Sonar is a Chrome extension for students/professionals that returns
+      read receipts for outgoing emails with the aim of making collaborative environments
+      more efficient and updating an aging communication technology  for a modern
+      world.
+    team:
+    - email: mitalipr@buffalo.edu
+      name: Mitali Prabhakar Sable
+    - email: gunjanvi@buffalo.edu
+      name: Gunjan Vivek Swamy
+    - email: klakshmi@buffalo.edu
+      name: Kartikeyan Lakshminarayanan Vignesh
+    - email: lalithab@buffalo.edu
+      name: Lalitha Bhavani Palaparthi
+    - email: cchen248@buffalo.edu
+      name: Chia Chen Chen
+    title: Sonar Team
+- code: CSE 410
+  projects:
+  - description: We made an action game with Unreal Engine 5.
+    team:
+    - email: yiyuanwa@buffalo.edu
+      name: Yiyuan Wang
+    - email: jwang279@buffalo.edu
+      name: Jiacheng Wang
+    title: 'Project: Hunt'
+  - description: '"One Choice, Choose Wisely". A turn-based playing card game themed
+      around the ancient Greek gods. Made in Unreal Engine 5. '
+    team:
+    - email: hekloss@buffalo.edu
+      name: Hannah Kloss
+    - email: riagupta@buffalo.edu
+      name: Ria Gupta
+    - email: ajw48@buffalo.edu
+      name: Alex Wright
+    title: The Draw
+  - description: Fantasy RPG
+    team:
+    - email: joeypobl@buffalo.edu
+      name: Joey Naval Poblete Jr
+    - email: jamesaqu@buffalo.edu
+      name: James Christopher Aquilina III
+    - email: rupinraj@buffalo.edu
+      name: Rupin Raj Kumar Pradeep
+    - email: buulam@buffalo.edu
+      name: David Lam
+    title: TaxOfWar
+- code: CSE 410 3D Game Development in Unreal Demo
+  projects:
+  - description: This is a student group project video game created for the CSE 410
+      3D Game Development in Unreal course. The video game is an action hack-and-slash,
+      and showcases the skills and progress we have made in the course.
+    team:
+    - email: sunghogo@buffalo.edu
+      name: Sungho Gold
+    - email: hlin56@buffalo.edu
+      name: Haoxiang Lin
+    - email: haohuili@buffalo.edu
+      name: Haohui Lin
+    title: 'The Legend of Pirate: Breath of the Sea'
+- code: CSE410 PAUL
+  projects:
+  - description: Dating Sim/Visual Novel Game set in a cafe! Serve coffee to the gods
+      and then maybe date them?!
+    team:
+    - email: ruslanab@buffalo.edu
+      name: Ruslana Savchuk
+    - email: halaalfa@buffalo.edu
+      name: Hala Alfadhli
+    - email: abbysmar@buffalo.edu
+      name: Abby Smardz
+    - email: susanbre@buffalo.edu
+      name: and Susan Brethauer
+    title: Medusa Cafe
+- code: 'CSE 546: Reinforcement Learning'
+  projects:
+  - description: Millions of Americans travel by plane every day, and the safety of
+      our airspace should be a top concern for all of us. Air Traffic Control is time-consuming
+      and laborious due to the human element. Therefore, the automation of such a
+      process is much needed. Utilizing advanced reinforcement learning methods (PPO),
+      we have created a model which allows for automated traffic control of many agents
+      so that they reach their destinations without conflict in a timely manner.
+    team:
+    - email: masonlar@buffalo.edu
+      name: Mason Lary
+    - email: jueguo@buffalo.edu
+      name: Jue (Bob) Guo
+    - email: yhu54@buffalo.edu
+      name: Yuting Hu
+    title: Air Traffic ContrRL
+  - description: 'Amazon''s AWS DeepRacer is a globally hosted competition where developers
+      must program an RC racecar to complete laps around a circuit as fast as possible.
+      The car is equipped with only a front-facing camera and no prior knowledge of
+      the track.
+
+
+      Reinforcement Learning (a branch of machine learning where agents are trained
+      to take actions in an environment to maximize some reward) is used to tackle
+      AWS DeepRacer. We have implemented several RL models using Soft Actor-Critic
+      and Proximal Policy Optimization and compared them to a baseline from AWS. Our
+      RC car is able to stay on the track at high speeds and complete a lap in under
+      a minute.'
+    team:
+    - email: junqiwu@buffalo.edu
+      name: Junqi Wu
+    - email: amudhesw@buffalo.edu
+      name: Amudheswaran Sankaranarayanan
+    - email: sampath2@buffalo.edu
+      name: Abhilash Sampath
+    title: Comparing RL Methods in AWS DeepRacer
+    url: https://aws.amazon.com/deepracer/
+  - description: Stock trading strategies play a critical role in investment. However,
+      it is challenging to design a profitable strategy in a complex and dynamic stock
+      market. In this project, we design strategies that employ deep reinforcement
+      learning to maximize profit in a simulated day trading environment.
+    team:
+    - email: vyelchur@buffalo.edu
+      name: Venkata Sai Kiran Yelchuri
+    - email: droy2@buffalo.edu
+      name: Debasmit Roy
+    title: Automated Stock Trading using Deep Reinforcement Learning
+- code: CSE 546
+  projects:
+  - description: The goal of the project is to aid both autonomous vehicles and drivers
+      alike to make smart driving decisions which helps save time and impact the environment
+      in a positive way by reducing carbon emissions(Traffic). We have used several
+      real life driving scenarios and have trained a model to navigate through the
+      given task in the most efficient way .
+    team:
+    - email: abilashc@buffalo.edu
+      name: Abilash Chittrarasu
+    - email: yeseswin@buffalo.edu
+      name: Yeseswin Ashutosh Santhanam
+    title: Solving complex driving scenarios using deep RL
+- code: 'CSE 546 : Reinforcement Learning '
+  projects:
+  - description: With the advent of self-learning and self- managing technologies,
+      we choose to concentrate on the topic of using reinforcement learning for increasing
+      accessibility for the specially abled. In this project we have considered a
+      future where there are self-driving wheelchairs just like self-drive cars, and
+      chose to explore the problem of comfort for the passenger in the wheelchair.
+      We have used DQN to propose different routes for a person to reach a destination
+      and help choose between reaching a place early or reaching a place comfortably.
+    team:
+    - email: namankhu@buffalo.edu
+      name: Naman Khurpia
+    - email: mshaik6@buffalo.edu
+      name: Mohammed Junaid Shaik
+    - email: komalvai@buffalo.edu
+      name: Komal Pulla
+    title: ACCESSIBILITY IN REINFORCEMENT LEARNING
+- code: 'CSE 498TUT: Ug Research & Creative act'
+  projects:
+  - description: FoodSystems project where we setup a data processing workflow starting
+      with static sources and incorporate dynamic information. The purpose of this
+      research is to facilitate Western New York population to be able to find nearest
+      food resources with ease. Project is don using VizierDB a multi-lingual and
+      multi-modal data centric notebook where spreadsheets, python and SQL are used
+      for different purpose throughout the research.
+    team:
+    - email: maalolan@buffalo.edu
+      name: Maalolan Bharaniraj
+    title: 'VizierDB: A Reactive Data Science Notebook'
+    url: https://ubodin.github.io/foodnet
+- code: 'CSE 442: Software Engineering'
+  projects:
+  - description: 'Fox in Socks developed an Android counter-part to the existing Look
+      the Part iOS app. The app is for users interested in fashion seen in popular
+      media, including TV shows. '
+    team:
+    - email: hopekara@buffalo.edu
+      name: Hope Kara
+    - email: hekloss@buffalo.edu
+      name: Hannah Kloss
+    - email: ikondrac@buffalo.edu
+      name: Isabelle Ondracek
+    - email: kgstock@buffalo.edu
+      name: Katherine Stock
+    - email: hiwilcox@buffalo.edu
+      name: Hannah Wilcox
+    title: Look the Part/Fox in Socks
+  - description: An educational game for medical students to diagnose damaged cranial
+      nerves by simulating doctor and patient interactions in an emergency room.
+    team:
+    - email: njmyers@buffalo.edu
+      name: Nicholas Myers
+    - email: ajhocken@buffalo.edu
+      name: Austin Hockenberry
+    - email: cjcheng@buffalo.edu
+      name: Cindy Cheng
+    - email: emilydes@buffalo.edu
+      name: Emily DeSantis
+    - email: taisiago@buffalo.edu
+      name: Taisia Goncharouk
+    title: Surgeon's Lair
+    url: https://www-student.cse.buffalo.edu/surgeonslair/main/semesterproject-surgeon-s-lair/homepage.html
+  - description: "Developed a sunglasses module to use with smart mirror. \nAllows\
+      \ future consumers to shop and try on sunglasses products using augmented reality\
+      \ and machine learning. \nCreated client facing UI where they are able to upload\
+      \ 2D images of sunglasses to the firebase database to allow consumers the different\
+      \ options to display on their face."
+    team:
+    - email: kchan42@buffalo.edu
+      name: Kelly Chan
+    - email: jhe38@buffalo.edu
+      name: Joyce He
+    - email: junqiwu@buffalo.edu
+      name: Junqi Wu
+    - email: awang35@buffalo.edu
+      name: Alexander Wang
+    - email: nilkumar@buffalo.edu
+      name: Nil Dhamecha
+    title: Smart Mirror/jjank
+- code: 'CSE 616: Multiagent Systems'
+  projects:
+  - description: In recent years, governments and humanitarian agencies have started
+      automating the refugee resettlement process. The problem is generally modeled
+      as a bipartite matching between families and locations with two-sided preferences
+      as well as demand and capacity constraints for a set of services. Researchers
+      have proposed several algorithmic solutions, each claiming to improve efficiency
+      or welfare in some aspect. The goal of this study is to evaluate and offer a
+      comprehensive comparison of three such algorithms. Further, we show that each
+      algorithm is susceptible to capacity manipulation, a form of strategic behavior
+      where locations can improve their outcomes by misreporting their capacity constraints.
+    team:
+    - email: fatimaum@buffalo.edu
+      name: Fatima Umar
+    title: Multi-Agent Systems Approach to Refugee Resettlement
+- code: 'CSE 410: Game Development'
+  projects:
+  - description: Turtle Life is a One-player adventure game. As a player you will
+      follow the life of a pet turtle interacting with the environment to survive,
+      explore, and ultimately escape the tank to the backyard pond. Throughout this
+      journey, the turtle will be traveling through rooms across the house collecting
+      strawberries and avoiding household obstacles such as a book maze, a roomba
+      guarded kitchen, animals in the pond attacking an unfamiliar face, and of course
+      the owner attempting to bring the turtle back home.
+    team:
+    - email: jajankow@buffalo.edu
+      name: Joshua Arthur Jankowski
+    - email: cjcheng@buffalo.edu
+      name: Cindy J Cheng
+    - email: thamaraf@buffalo.edu
+      name: Thamara Ghislane Ferreira Gourgue
+    - email: qtarbell@buffalo.edu
+      name: Raven Tarbell
+    title: Turtle Life
+- code: 'CSE 410: Unreal Game Development'
+  projects:
+  - description: "Based on the English tabletop soccer game \u201CSubbuteo\u201D,\
+      \ Kick Flicks is a physics based skill game that consists of two players going\
+      \ head to head in either a turn based or fast paced mode."
+    team:
+    - email: oakleyth@buffalo.edu
+      name: Oakley Thomas
+    - email: ajr33@buffalo.edu
+      name: Anthony Roberts
+    - email: hemasaim@buffalo.edu
+      name: Hema Bobba
+    - email: smtimmon@buffalo.edu
+      name: Sean Timmons
+    - email: brettsit@buffalo.edu
+      name: Brett Sitzman
+    title: Kick Flicks
+- code: 'CSE 410: Game Design'
+  projects:
+  - description: Survive a zombie Apocalypse while searching for your lost companion
+      who ran away when the virus outbreak began.
+    team:
+    - email: racalasc@buffalo.edu
+      name: Raymond Calascibetta
+    - email: jkubiak2@buffalo.edu
+      name: Jake Kubiak
+    - email: jskohn3@buffalo.edu
+      name: Justin Kohn
+    - email: dwu35@buffalo.edu
+      name: Danny Wu
+    title: Abarkalypse
+
