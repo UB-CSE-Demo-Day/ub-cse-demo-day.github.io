@@ -1,0 +1,95 @@
+- code: EAS 561, MS in Robotics, Masters Project
+  projects:
+  - description: This project is about developing a plant watering robot. The goal
+      is for the robot to water household plants autonomously. It should explore the
+      unknown environment and build a map, and scan for possible candidate targets
+      (plants) at the same time. It should validate the data with the user, through
+      a friendly interface. Once the map is finalized, the robot should be able to
+      navigate in the map and reach the plants avoiding obstacles, then water them
+      according to the user's preferences.
+    team:
+    - email: charminp@buffalo.edu
+      name: Charmin Desai
+    title: Autonomous Plant Watering Robot
+- code: 'CSE 611: Master''s Capstone Project'
+  projects:
+  - description: The Food Court app aims to help people discover food socially and
+      make food eating/preparing a social and fun experience. By providing a Tinder-style
+      interface, filtering options, and the ability to add/share food images, recipes
+      and restaurant info, the app will help users in decision making easier and discovering
+      new recipes to prepare together from their homes.
+    team:
+    - email: neelarvi@buffalo.edu
+      name: Neel Arvind Patel
+    - email: tejasgaj@buffalo.edu
+      name: Tejas Gajanan Bhitle
+    - email: rbarman@buffalo.edu
+      name: Rajeshwari Barman
+    - email: riddhamr@buffalo.edu
+      name: Riddham Rajeshbhai Suvagiya
+    - email: apaharia@buffalo.edu
+      name: Abhishek Paharia
+    title: The Food Court App
+  - description: "We created the IBM digital health diary, a smartphone app for tracking\
+      \ health, to assist users in performing routine health assessments and monitoring\
+      \ their progress over time. Flutter was implemented for the front-end, and Nodejs\
+      \ ,MongoDB and APIs were used for the back-development. It \_has additional\
+      \ features including the ability to update tasks on a calendar, provide analytics\
+      \ in the form of charts and plots, retrieve results according to date or task,\
+      \ and provide context for where a given result falls on the scale. Overall,\
+      \ a Digital Health Diary can provide patients with a convenient and accessible\
+      \ way to manage their health and help healthcare providers deliver more effective\
+      \ and personalized care."
+    team:
+    - email: buffalo.edu@buffalo.edu
+      name: arshiyac
+    - email: buffalo.edu@buffalo.edu
+      name: sowmiyam
+    - email: buffalo.edu@buffalo.edu
+      name: banerje3
+    - email: buffalo.edu@buffalo.edu
+      name: sagnikmo
+    - email: buffalo.edu@buffalo.edu
+      name: sk394
+    title: IBM Digital Health Diary App
+    url: https://github.com/xlab-classes/cse611-spring2023-team-IBMDigitalHealth
+- code: 'CSE 370 : Human Computer Interaction'
+  projects:
+  - description: 'An educational based discord style application that works as a hub
+      for students and professors '
+    team:
+    - email: ahotasam@buffalo.edu
+      name: Samur Rahman
+    - email: amai3@buffalo.edu
+      name: Allison Mai
+    - email: dekaylad@buffalo.edu
+      name: Dekayla Dubose
+    - email: rdprosse@buffalo.edu
+      name: Richard Prosser
+    - email: sjrichel@buffalo.edu
+      name: Sebastian Richel
+    - email: jakeguzz@buffalo.edu
+      name: Jake Guzzardo
+    title: Chalk-up/Seas
+    url: https://webdev.cse.buffalo.edu/hci/teams/seas
+  - description: 'This project aims to create a online application for users to document
+      all parts of their life - hence the name MyLyfe.
+
+
+      Our goal is to bring our users closer together and create a supportive community
+      for people looking to take steps towards improving their life.'
+    team:
+    - email: mgupta8@buffalo.edu
+      name: Mokshita Gupta
+    - email: teevans@buffalo.edu
+      name: Taylor Evans
+    - email: sahmad7@buffalo.edu
+      name: Shafin Ahmad
+    - email: mmushfiq@buffalo.edu
+      name: Muhtasim Mushfiq
+    - email: acao5@buffalo.edu
+      name: Andrew Cao
+    - email: mchekhov@buffalo.edu
+      name: Misha Chekhov
+    title: MyLyfe / aquafit
+
