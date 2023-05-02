@@ -570,7 +570,7 @@
     - email: cchen248@buffalo.edu
       name: Chia Chen Chen
     title: Sonar Team
-- code: CSE 410
+- code: 'CSE 410: 3D Game Development in Unreal'
   projects:
   - description: We made an action game with Unreal Engine 5.
     team:
@@ -589,19 +589,6 @@
     - email: ajw48@buffalo.edu
       name: Alex Wright
     title: The Draw
-  - description: Fantasy RPG
-    team:
-    - email: joeypobl@buffalo.edu
-      name: Joey Naval Poblete Jr
-    - email: jamesaqu@buffalo.edu
-      name: James Christopher Aquilina III
-    - email: rupinraj@buffalo.edu
-      name: Rupin Raj Kumar Pradeep
-    - email: buulam@buffalo.edu
-      name: David Lam
-    title: TaxOfWar
-- code: CSE 410 3D Game Development in Unreal Demo
-  projects:
   - description: This is a student group project video game created for the CSE 410
       3D Game Development in Unreal course. The video game is an action hack-and-slash,
       and showcases the skills and progress we have made in the course.
@@ -613,8 +600,6 @@
     - email: haohuili@buffalo.edu
       name: Haohui Lin
     title: 'The Legend of Pirate: Breath of the Sea'
-- code: CSE410 PAUL
-  projects:
   - description: Dating Sim/Visual Novel Game set in a cafe! Serve coffee to the gods
       and then maybe date them?!
     team:
@@ -627,6 +612,61 @@
     - email: susanbre@buffalo.edu
       name: and Susan Brethauer
     title: Medusa Cafe
+  - description: Fantasy RPG
+    team:
+    - email: joeypobl@buffalo.edu
+      name: Joey Naval Poblete Jr
+    - email: jamesaqu@buffalo.edu
+      name: James Christopher Aquilina III
+    - email: rupinraj@buffalo.edu
+      name: Rupin Raj Kumar Pradeep
+    - email: buulam@buffalo.edu
+      name: David Lam
+    title: TaxOfWar
+  - description: Turtle Life is a One-player adventure game. As a player you will
+      follow the life of a pet turtle interacting with the environment to survive,
+      explore, and ultimately escape the tank to the backyard pond. Throughout this
+      journey, the turtle will be traveling through rooms across the house collecting
+      strawberries and avoiding household obstacles such as a book maze, a roomba
+      guarded kitchen, animals in the pond attacking an unfamiliar face, and of course
+      the owner attempting to bring the turtle back home.
+    team:
+    - email: jajankow@buffalo.edu
+      name: Joshua Arthur Jankowski
+    - email: cjcheng@buffalo.edu
+      name: Cindy J Cheng
+    - email: thamaraf@buffalo.edu
+      name: Thamara Ghislane Ferreira Gourgue
+    - email: qtarbell@buffalo.edu
+      name: Raven Tarbell
+    title: Turtle Life
+  - description: "Based on the English tabletop soccer game \u201CSubbuteo\u201D,\
+      \ Kick Flicks is a physics based skill game that consists of two players going\
+      \ head to head in either a turn based or fast paced mode."
+    team:
+    - email: oakleyth@buffalo.edu
+      name: Oakley Thomas
+    - email: ajr33@buffalo.edu
+      name: Anthony Roberts
+    - email: hemasaim@buffalo.edu
+      name: Hema Bobba
+    - email: smtimmon@buffalo.edu
+      name: Sean Timmons
+    - email: brettsit@buffalo.edu
+      name: Brett Sitzman
+    title: Kick Flicks
+  - description: Survive a zombie Apocalypse while searching for your lost companion
+      who ran away when the virus outbreak began.
+    team:
+    - email: racalasc@buffalo.edu
+      name: Raymond Calascibetta
+    - email: jkubiak2@buffalo.edu
+      name: Jake Kubiak
+    - email: jskohn3@buffalo.edu
+      name: Justin Kohn
+    - email: dwu35@buffalo.edu
+      name: Danny Wu
+    title: Abarkalypse
 - code: 'CSE 546: Reinforcement Learning'
   projects:
   - description: Millions of Americans travel by plane every day, and the safety of
@@ -781,54 +821,4 @@
     - email: fatimaum@buffalo.edu
       name: Fatima Umar
     title: Multi-Agent Systems Approach to Refugee Resettlement
-- code: 'CSE 410: Game Development'
-  projects:
-  - description: Turtle Life is a One-player adventure game. As a player you will
-      follow the life of a pet turtle interacting with the environment to survive,
-      explore, and ultimately escape the tank to the backyard pond. Throughout this
-      journey, the turtle will be traveling through rooms across the house collecting
-      strawberries and avoiding household obstacles such as a book maze, a roomba
-      guarded kitchen, animals in the pond attacking an unfamiliar face, and of course
-      the owner attempting to bring the turtle back home.
-    team:
-    - email: jajankow@buffalo.edu
-      name: Joshua Arthur Jankowski
-    - email: cjcheng@buffalo.edu
-      name: Cindy J Cheng
-    - email: thamaraf@buffalo.edu
-      name: Thamara Ghislane Ferreira Gourgue
-    - email: qtarbell@buffalo.edu
-      name: Raven Tarbell
-    title: Turtle Life
-- code: 'CSE 410: Unreal Game Development'
-  projects:
-  - description: "Based on the English tabletop soccer game \u201CSubbuteo\u201D,\
-      \ Kick Flicks is a physics based skill game that consists of two players going\
-      \ head to head in either a turn based or fast paced mode."
-    team:
-    - email: oakleyth@buffalo.edu
-      name: Oakley Thomas
-    - email: ajr33@buffalo.edu
-      name: Anthony Roberts
-    - email: hemasaim@buffalo.edu
-      name: Hema Bobba
-    - email: smtimmon@buffalo.edu
-      name: Sean Timmons
-    - email: brettsit@buffalo.edu
-      name: Brett Sitzman
-    title: Kick Flicks
-- code: 'CSE 410: Game Design'
-  projects:
-  - description: Survive a zombie Apocalypse while searching for your lost companion
-      who ran away when the virus outbreak began.
-    team:
-    - email: racalasc@buffalo.edu
-      name: Raymond Calascibetta
-    - email: jkubiak2@buffalo.edu
-      name: Jake Kubiak
-    - email: jskohn3@buffalo.edu
-      name: Justin Kohn
-    - email: dwu35@buffalo.edu
-      name: Danny Wu
-    title: Abarkalypse
 
