@@ -7,7 +7,7 @@ layout: none
 
 <meta http-equiv="refresh" content="0;url={{
   site.by_year 
-    | where: "short_title", "Fall 2022"
+    | where: "short_title", "Spring 2023"
     | map: "url" 
     | first
   }}">
