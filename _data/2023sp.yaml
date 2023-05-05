@@ -1,0 +1,438 @@
+- code: EAS 561, MS in Robotics, Masters Project
+  projects:
+  - description: This project is about developing a plant watering robot. The goal
+      is for the robot to water household plants autonomously. It should explore the
+      unknown environment and build a map, and scan for possible candidate targets
+      (plants) at the same time. It should validate the data with the user, through
+      a friendly interface. Once the map is finalized, the robot should be able to
+      navigate in the map and reach the plants avoiding obstacles, then water them
+      according to the user's preferences.
+    team:
+    - email: charminp@buffalo.edu
+      name: Charmin Desai
+    title: Autonomous Plant Watering Robot
+- code: 'CSE 611: Master''s Capstone Project'
+  projects:
+  - description: The Food Court app aims to help people discover food socially and
+      make food eating/preparing a social and fun experience. By providing a Tinder-style
+      interface, filtering options, and the ability to add/share food images, recipes
+      and restaurant info, the app will help users in decision making easier and discovering
+      new recipes to prepare together from their homes.
+    team:
+    - email: neelarvi@buffalo.edu
+      name: Neel Arvind Patel
+    - email: tejasgaj@buffalo.edu
+      name: Tejas Gajanan Bhitle
+    - email: rbarman@buffalo.edu
+      name: Rajeshwari Barman
+    - email: riddhamr@buffalo.edu
+      name: Riddham Rajeshbhai Suvagiya
+    - email: apaharia@buffalo.edu
+      name: Abhishek Paharia
+    title: The Food Court App
+  - description: "We created the IBM digital health diary, a smartphone app for tracking\
+      \ health, to assist users in performing routine health assessments and monitoring\
+      \ their progress over time. Flutter was implemented for the front-end, and Nodejs\
+      \ ,MongoDB and APIs were used for the back-development. It \_has additional\
+      \ features including the ability to update tasks on a calendar, provide analytics\
+      \ in the form of charts and plots, retrieve results according to date or task,\
+      \ and provide context for where a given result falls on the scale. Overall,\
+      \ a Digital Health Diary can provide patients with a convenient and accessible\
+      \ way to manage their health and help healthcare providers deliver more effective\
+      \ and personalized care."
+    team:
+    - email: buffalo.edu@buffalo.edu
+      name: arshiyac
+    - email: buffalo.edu@buffalo.edu
+      name: sowmiyam
+    - email: buffalo.edu@buffalo.edu
+      name: banerje3
+    - email: buffalo.edu@buffalo.edu
+      name: sagnikmo
+    - email: buffalo.edu@buffalo.edu
+      name: sk394
+    title: IBM Digital Health Diary App
+    url: https://github.com/xlab-classes/cse611-spring2023-team-IBMDigitalHealth
+  - description: What Should I Wear is a website that provides details of weather
+      in the current location or the location that user has selected and website provides
+      user with appropriate clothing suggestions, Radar Information, Live Traffic
+      Camera Images and alerts. User has an opportunity to select his/her preferences
+      such as the workout (Run, Walk, Casual, Bike) and how do they feel (Normal,
+      Hot, Cold) and the website will suggest the list of clothing suggestions based
+      on the preferences.
+    team:
+    - email: mperam@buffalo.edu
+      name: Meghana Peram
+    - email: vupputu@buffalo.edu
+      name: Venkat Subrahmanyam Upputuri
+    - email: sangalak@buffalo.edu
+      name: Sai Kiran Angalakudhiti
+    - email: ekodaval@buffalo.edu
+      name: Esther Mona Kodavalli
+    - email: vamsiabh@buffalo.edu
+      name: Vamsi Abhiram Guru
+    title: What Should I Wear ?
+  - description: Developed an Event Management portal for Consentize for handling
+      multiple events
+    team:
+    - email: shubhisr@buffalo.edu
+      name: Shubhi Srivastava
+    - email: anaghavi@buffalo.edu
+      name: Anagha Vivekanand Joshi
+    - email: majmani@buffalo.edu
+      name: Manpreet Ajmani
+    - email: smritira@buffalo.edu
+      name: Smriti Rai
+    - email: mohitsun@buffalo.edu
+      name: Mohit Sunil Gandhi
+    title: Consentize Event Platform
+    url: http://18.117.106.223/fig-angular/home ( Development Environment)
+  - description: The objective is to create a website or dashboard that provides visualization
+      of the statistics of attendance and demographics of various visitors attending
+      spaces and events in a clear and straightforward format, along with options
+      to generate and download reports. The site will also have features like limited
+      access depending on the users, the capability to create QR codes for each space
+      and events as well as the ability to track live attendance by any hosts.
+    team:
+    - email: sjanga@buffalo.edu
+      name: Sai Kiran Janga
+    - email: hkakkad@buffalo.edu
+      name: Hrishikesh Kakkad
+    - email: ijajahme@buffalo.edu
+      name: Ijaj Ahmed
+    - email: subhojee@buffalo.edu
+      name: Subhojeet Roy
+    - email: mehulmit@buffalo.edu
+      name: Mehul Mittal
+    title: UB Attendance Tracker
+    url: http://stark.cse.buffalo.edu/attendance/
+  - description: NYCE (New York Cannabis Exchange) is a cutting-edge online platform
+      engineered to foster robust connections between cultivators, processors, and
+      dispensaries in the New York cannabis market. Utilizing a centralized auction
+      marketplace, our team has crafted a solution that emphasizes transparency, efficiency,
+      and a streamlined trading experience. Leveraging advanced features such as live
+      bidding, real-time notifications, secure transactions, and a seamless onboarding
+      process, NYCE enables sellers to maximize their revenue while providing buyers
+      with access to a wide array of premium cannabis products. The platform's sophisticated
+      technology stack includes React, Django, AWS, Redis, Docker, Git, and WeasyPrint,
+      ensuring a scalable and robust solution that revolutionizes cannabis trading.
+    team:
+    - email: kushande@buffalo.edu
+      name: Kushan Devarajegowda
+    - email: namanagr@buffalo.edu
+      name: Naman Agrawal
+    - email: pranayas@buffalo.edu
+      name: Pranaya Satwika Reddy Maddi
+    - email: hbommire@buffalo.edu
+      name: Harshavardhan Reddy Bommireddy
+    - email: hmutta@buffalo.edu
+      name: Hemanth Kumar Mutta
+    - email: vatukuri@buffalo.edu
+      name: Venkata Bala Vamsi Atukuri
+    title: NYCE
+    url: https://nycanx.com/
+  - description: 'An App that allows patients to view more details about their assigned
+      diagnosis and give permission to family or friends who wish to view it too. '
+    team:
+    - email: kevintru@buffalo.edu
+      name: Kevin Truong
+    - email: frankyda@buffalo.edu
+      name: Franky Naidu
+    - email: chaoping@buffalo.edu
+      name: Chaoping Lin
+    - email: honching@buffalo.edu
+      name: Hon Ching Li
+    - email: runkaiji@buffalo.edu
+      name: Runkai Jiang
+    title: Kaleida Health App
+  - description: 'Welcome to our photo editor web application, where you can edit
+      your photos with ease! Our web application offers a variety of features to help
+      you make your photos look great. Here are some of the features we offer:
+
+
+      1. Passport photo maker - Our web application allows you to create passport
+      photos that meet the standards of different countries. You can choose the country
+      you want to create the passport photo for, and our application will automatically
+      adjust the photo to meet the size, format, and other requirements of that country.
+
+
+      2. Resize - You can resize your photos to any size you want. Whether you want
+      to make your photos smaller or larger, our web application makes it easy for
+      you to do so.
+
+
+      3. Crop - You can crop your photos to remove unwanted parts or focus on specific
+      areas. Our web application offers crop options to help you achieve the desired
+      effect.
+
+
+      4. Format change - You can change the format of your photos to JPEG, PNG, or
+      other popular formats. This can be useful if you need to share your photos on
+      different platforms or devices.
+
+
+      5. PDF maker - Our web application allows you to convert your photos to PDF
+      format. This can be useful if you need to create a document that includes multiple
+      photos.
+
+
+      6. Photo collage - You can create a photo collage by combining multiple photos
+      into one. Our web application offers a variety of collage templates to help
+      you get started.
+
+
+      7. Mosaic - You can create a mosaic effect on your photos by  pixelating them.
+      striking variation of a photo collage where you place multiple photos next to
+      each other to create a bigger, often more impactful design. Just like the colorful
+      pieces in a jigsaw puzzle,
+
+
+      8. Background change - You can change the background of your photos to any color
+      you want. Our web application offers a variety of background options to help
+      you achieve the desired effect.
+
+
+      These are just some of the features we offer in our photo editor web application.
+      We hope you enjoy using our application to edit your photos!
+
+
+      '
+    team:
+    - email: mallikha@buffalo.edu
+      name: Mallikharjuna Rao Annam
+    - email: mgokavar@buffalo.edu
+      name: Manikanta kalyan Gokavarapu
+    - email: rgavara@buffalo.edu
+      name: Rakesh Kumar Gavara
+    - email: ruthikaj@buffalo.edu
+      name: Ruthika  Juluri
+    - email: khyathik@buffalo.edu
+      name: khyathi Reddy
+    title: Photo Editor
+    url: 'frontend : https://photoeditorui.11p5m57if4on.us-east.codeengine.appdomain.cloud/            backend
+      :  https://application-79.11p5m57if4on.us-east.codeengine.appdomain.cloud/'
+  - description: In this digital world every enterprise will have a lot of digital
+      assets which might include datasets, machine learning models, software code
+      etc. Oftentimes these digital assets need to be shared for collaboration purposes.
+      This project is a CLI tool - an extension built on top of the GitHub CLI which
+      makes the collaboration easier by providing the ability to perform CRUDS(Create,
+      read, update, delete, search) and other equivalent operations on the digital
+      assets right from the command line.
+    team:
+    - email: rajarama@buffalo.edu
+      name: Raja Ramachandra Murthy Nukala
+    - email: vishnuki@buffalo.edu
+      name: Vishnu Kiran Nemani
+    - email: tonyjaso@buffalo.edu
+      name: Tony Jason Anga
+    - email: spanduga@buffalo.edu
+      name: Solomon Raj Panduga Ebenezer Vinod
+    - email: hvejendl@buffalo.edu
+      name: Harichandana Vejendla
+    title: Self Describing Asset Catalog
+  - description: The goal of this project is to create a comprehensive, user-friendly
+      study platform for students being administered the New York State Math Regent
+      Examinations. Designed for all students this website aims to equip students
+      with the necessary tools and resources to excel in Algebra I, Algebra II and
+      Geometry. By providing problems from past Regent Exams, students have an authentic
+      opportunity to practice for their Exams. English Language Students have the
+      opportunity to practice questions in their home language whilst viewing the
+      English version of the question. Performance tracking will help students and
+      teachers monitor progress and identify areas of weakness. The Exam Study Tool
+      aims to empower students to reach their full potential and achieve proficiency
+      in these important exams.
+    team:
+    - email: srallaba@buffalo.edu
+      name: Subhasri Rallabandi
+    - email: abaruva@buffalo.edu
+      name: Aakash Baruva
+    - email: srisanni@buffalo.edu
+      name: Sri Sannihitha Gangina
+    - email: saishank@buffalo.edu
+      name: Saishankar Vanam
+    - email: vmantri@buffalo.edu
+      name: Sai Rochan Mantri
+    title: Exam Study Tool
+  - description: The Data volume reduction application introduces standard API to
+      filter large datasets on the metadata. Our interface API interacts with the
+      data provider On your behalf and enable you to explore the data before downloading.
+    team:
+    - email: suryakan@buffalo.edu
+      name: Suryakant Joshi
+    - email: msatao@buffalo.edu
+      name: Madhura Ashok Satao
+    - email: vineetka@buffalo.edu
+      name: Vineet Kalghatgi
+    - email: pranavbe@buffalo.edu
+      name: Pranav Bellam Prasad
+    title: Data Volume Reduction
+    url: https://datareductionui.11gtiop4cx3w.us-east.codeengine.appdomain.cloud/
+  - description: Revolutionize your food business with our all-in-one recipe management
+      and menu planning application.
+    team:
+    - email: pgodhwan@buffalo.edu
+      name: Prashant Godhwani
+    - email: rohithra@buffalo.edu
+      name: Rohith Ramichetty
+    - email: shrutias@buffalo.edu
+      name: Shruti Asthana
+    - email: praminen@buffalo.edu
+      name: Praveen Kumar Ramineni
+    - email: sambaval@buffalo.edu
+      name: Shubham Sunita Ambavale
+    title: An Extra Scoop
+    url: https://db.anextrascoop.com/
+- code: 'CSE 370 : Human Computer Interaction'
+  projects:
+  - description: 'An educational based discord style application that works as a hub
+      for students and professors '
+    team:
+    - email: ahotasam@buffalo.edu
+      name: Samur Rahman
+    - email: amai3@buffalo.edu
+      name: Allison Mai
+    - email: dekaylad@buffalo.edu
+      name: Dekayla Dubose
+    - email: rdprosse@buffalo.edu
+      name: Richard Prosser
+    - email: sjrichel@buffalo.edu
+      name: Sebastian Richel
+    - email: jakeguzz@buffalo.edu
+      name: Jake Guzzardo
+    title: Chalk-up/Seas
+    url: https://webdev.cse.buffalo.edu/hci/teams/seas
+  - description: 'This project aims to create a online application for users to document
+      all parts of their life - hence the name MyLyfe.
+
+
+      Our goal is to bring our users closer together and create a supportive community
+      for people looking to take steps towards improving their life.'
+    team:
+    - email: mgupta8@buffalo.edu
+      name: Mokshita Gupta
+    - email: teevans@buffalo.edu
+      name: Taylor Evans
+    - email: sahmad7@buffalo.edu
+      name: Shafin Ahmad
+    - email: mmushfiq@buffalo.edu
+      name: Muhtasim Mushfiq
+    - email: acao5@buffalo.edu
+      name: Andrew Cao
+    - email: mchekhov@buffalo.edu
+      name: Misha Chekhov
+    title: MyLyfe / aquafit
+  - description: 'BetterReads: a web application, similar to GoodReads, for discovering
+      new books to read and making book reviews'
+    team:
+    - email: susanbre@buffalo.edu
+      name: Susan Brethauer
+    - email: wrenmart@buffalo.edu
+      name: Wren Martinson
+    - email: jamesaqu@buffalo.edu
+      name: James Aquilina
+    - email: cjfinn3@buffalo.edu
+      name: Connor Finn
+    title: Echidna
+    url: https://webdev.cse.buffalo.edu/hci/teams/echidna/login
+- code: 'CSE 442: Software Engineering'
+  projects:
+  - description: A talent marketplace website that connects college musicians with
+      gigs posted by the community
+    team:
+    - email: oakleyth@buffalo.edu
+      name: Oakley Thomas
+    - email: mausamvo@buffalo.edu
+      name: Mausam Vora
+    - email: corymarg@buffalo.edu
+      name: Cory Margarucci
+    - email: syahrial@buffalo.edu
+      name: Abi Abisha
+    - email: adpandya@buffalo.edu
+      name: Aditya Pandya
+    title: Giggle
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2023-Spring/cse-442l/Giggle/
+  - description: 'Sixerr is a desktop and mobile web application where local communities
+      and/or individuals can interact with one another to exchange goods and services.
+      This app leverages the local community so that even the smallest issues can
+      be amended quickly. For example, students of UB can create a request asking
+      for a study partner, or make an offer to sell a textbook they no longer need.
+
+
+      College students buy many things that they do not end up needing. Many of these
+      things may be too trivial and unseen on sites like eBay, Facebook Marketplace,
+      or Amazon. With Sixerr, a student can sell a carton of eggs they no longer want
+      and someone else in the UB area can offer to buy those eggs and maybe offer
+      to trade for a jar of peanut butter. Anything goes (as long as it is safe and
+      legal).'
+    team:
+    - email: jdmorris@buffalo.edu
+      name: Jake Morrison
+    - email: jkxu@buffalo.edu
+      name: Jeffrey Xu
+    - email: Morabi@buffalo.edu
+      name: Nofle Al
+    - email: tli58@buffalo.edu
+      name: Timothy Li
+    - email: azhou7@buffalo.edu
+      name: Andy Zhou
+    title: Sixerr
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2023-Spring/cse-442t/
+  - description: 'Save your grocery shopping inventory and search for recipes that
+      include things you have in stock. Avoid food allergies by adding information
+      to your profile to help filter recipe search results. Ensure you stay on track
+      to use all of your groceries before they expire with a meal planner to save
+      recipe search results to. Keep your kitchen clean with a tracker on expiration
+      dates and a reminder for when it''s time to throw stuff out. '
+    team:
+    - email: mdsteven@buffalo.edu
+      name: Mikayla Stevens
+    - email: ahuynh3@buffalo.edu
+      name: Anthony Huynh
+    - email: jlin344@buffalo.edu
+      name: Jun Lin
+    - email: salimzed@buffalo.edu
+      name: Salim Zedni
+    title: PantryPal
+- code: CSE 540 Machine Learning and society
+  projects:
+  - description: The goal of this project is to develop a machine learning model that
+      can analyze textbook content and identify phrases and words that perpetuate
+      white supremacist ideologies or promote racial biases. By leveraging natural
+      language processing techniques, the model will assist in moderating textbook
+      standards and questioning the necessity of such content. This project aims to
+      address the issue of one-sided narratives in textbooks, providing a tool to
+      promote critical thinking and inclusivity in education. Additionally, collaborations
+      with teachers and organizations will be fostered to support the adoption and
+      implementation of this tool, ultimately working towards creating more balanced
+      and unbiased educational materials.
+    team:
+    - email: suradhya@buffalo.edu
+      name: Suradhya Gadde
+    - email: hmjennings@buffalo.edu
+      name: Hannah Jennings
+    - email: gsperez@buffalo.edu
+      name: Gabriela Perez
+    - email: harineep@buffalo.edu
+      name: Harinee Purushothaman
+    title: Team 6
+- code: CSE 546
+  projects:
+  - description: "We are working on an opensource environment RWARE with sparse reward\
+      \ structure and also tried to create our own environment similar to rware .Eligibility\
+      \ Sarsa, flavors UCB with q learning, DQN, but since the reward is so sparse\
+      \ we need to add more depth to the deep network or use a more complex algorithm\
+      \ like SEAC\_for the RWARE env ,we also created our custom env that we plan\
+      \ to use to teach the agent new to do tasks but training it to do tasks in order\
+      \ like first learning to reach the parcel /city and then increase complexity\
+      \ to first pick the parcel and then reach a goal, \_and then increase the number\
+      \ of parcels and/or the number of agents "
+    team:
+    - email: aditipur@buffalo.edu
+      name: Aditi Bobde
+    - email: mnunna@buffalo.edu
+      name: Mohit Sai Aravind Nunna
+    - email: shailraj@buffalo.edu
+      name: Shail Rajesh Shah
+    title: Reinforcement Learning for Optimizing Warehouse Management in Complex Industrial
+      Environments
+

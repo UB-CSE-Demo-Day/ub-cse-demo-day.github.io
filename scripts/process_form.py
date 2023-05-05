@@ -6,8 +6,8 @@ import yaml
 path = sys.argv[1]
 
 def parsemember(member):
-  if "-" in member or ":" in member or "，" in member:
-    match = re.split(":|-|@", member)
+  if "-" in member or ":" in member or "，" in member or "–" in member:
+    match = re.split(":|-|@|–", member)
     name = match[0]
     ubit = match[1]
   elif "<" in member or "(" in member:
