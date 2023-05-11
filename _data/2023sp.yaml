@@ -282,6 +282,96 @@
       name: Shubham Sunita Ambavale
     title: An Extra Scoop
     url: https://db.anextrascoop.com/
+  - description: Online Dictionary is a web application providing definitions and
+      meanings of words in the English language. In addition to word definitions,
+      the site also offers usage examples and pronunciation guides, making it an invaluable
+      tool for anyone looking to expand their vocabulary. Whether you are a student,
+      a teacher, a language learner, or just someone who loves words, this website
+      is a must-visit resource for anyone seeking to deepen their understanding of
+      the English language.
+    team:
+    - email: hamzaha2@buffalo.edu
+      name: Hamza Hafiz
+    - email: robinma2@buffalo.edu
+      name: Robin Mathew
+    - email: samarpra@buffalo.edu
+      name: Samar Pratap Singh
+    - email: asurakan@buffalo.edu
+      name: Akhil Surakanti
+    - email: chrisjac@buffalo.edu
+      name: Chris Yadala
+    title: Online Dictionary
+  - description: Deep Learning models on big datasets usually take hours to train
+      or maybe even weeks. If the model run is interrupted or crashed, a lot of data,
+      time, and effort might be lost. In order to prevent that, we can checkpoint
+      our models during training. This enables us to take a snapshot of the model
+      to prevent data loss of the entire run in case of failure. This will allow us
+      to restart the training from the latest checkpoint. This can be further optimized
+      by making the checkpoint mechanism real-time. We write the updated embedded
+      tables continuously to a log system like Kafka.
+    team:
+    - email: rajagop3@buffalo.edu
+      name: Karthikeyan Rajagopal
+    - email: dhayanes@buffalo.edu
+      name: Dhayaneshwar Balusamy
+    - email: slankire@buffalo.edu
+      name: Sasidharreddy Lankireddy
+    - email: vrashish@buffalo.edu
+      name: Vrashi Shrivastava
+    title: Continuous Checkpointing for Recommendation Systems
+  - description: Our powerful platform makes it easy to poll and plan meetings, book
+      appointments, and more - all in one place with just a few clicks. Try OES today
+      and discover a smarter way to plan!
+    team:
+    - email: lakshaye@buffalo.edu
+      name: Lakshaye Vaikunth Ganesh Kumar
+    - email: arjunrag@buffalo.edu
+      name: Arjun Ragavendaar Sripathy
+    - email: spalla3@buffalo.edu
+      name: Sri Harshitha Palla
+    - email: ds246@buffalo.edu
+      name: Divya Sharma
+    - email: mandapat@buffalo.edu
+      name: Venkatesh Mandapati
+    title: On-Demand Event Scheduler
+    url: https://application-oes.115t501qrjh8.us-east.codeengine.appdomain.cloud
+  - description: 'We are presenting an integrated platform/solution for all the dynamic
+      project management needs. You get detailed bite cards of projects and user profiles
+      for easy tracking. Effortlessly delegate and manage project assignments; notify
+      students of project enrollment status, categorize projects into different types
+      and support a combination of user roles.
+
+      Also, optimize performance on the go with improved session management and ad-hoc
+      bug fixes.'
+    team:
+    - email: anvithal@buffalo.edu
+      name: Anvitha Leti
+    - email: jkota@buffalo.edu
+      name: Jahnavi Kota
+    - email: vaidurya@buffalo.edu
+      name: Vaidurya Malathesha
+    - email: vaisaali@buffalo.edu
+      name: Vaisaali Murali Krishnan
+    title: Capstone Management Tool
+    url: http://stark.cse.buffalo.edu/capstone/
+  - description: LifetreeWNY is a web-based application that facilitates effective
+      business scaling and management for its users by streamlining various workflows,
+      thereby minimizing the need for manual communication. Through its automation
+      capabilities, the platform enables clients to optimize their operations and
+      achieve increased efficiency.
+    team:
+    - email: ranganad@buffalo.edu
+      name: Ranganadh Neelakantham
+    - email: sjain34@buffalo.edu
+      name: Sarthak Jain
+    - email: vputta@buffalo.edu
+      name: Venkata Sai Saran Putta
+    - email: rrajput2@buffalo.edu
+      name: Rohan Rajput
+    - email: rishabag@buffalo.edu
+      name: Rishab Aggarwal
+    title: LifeTreeWNY
+    url: https://dashboard.lifetreewny.com/
 - code: 'CSE 370 : Human Computer Interaction'
   projects:
   - description: 'An educational based discord style application that works as a hub
@@ -415,7 +505,7 @@
     - email: harineep@buffalo.edu
       name: Harinee Purushothaman
     title: Team 6
-- code: CSE 546
+- code: 'CSE 546: Reinforcement Learning'
   projects:
   - description: "We are working on an opensource environment RWARE with sparse reward\
       \ structure and also tried to create our own environment similar to rware .Eligibility\
@@ -435,4 +525,160 @@
       name: Shail Rajesh Shah
     title: Reinforcement Learning for Optimizing Warehouse Management in Complex Industrial
       Environments
+  - description: "The AWS Deep Racer is a self-driving 1/18th scale race car that\
+      \ serves as a platform for evaluating reinforcement learning models through\
+      \ real-world racing on a physical track. By employing cameras to perceive the\
+      \ track and using a reinforcement learning model to govern throttle and steering,\
+      \ the car demonstrates how a model trained in a simulated environment can be\
+      \ effectively deployed in the real world. Equipped with various sensors and\
+      \ cameras, the AWS Deep Racer is capable of perceiving its surroundings, including\
+      \ the layout of the track and any obstacles present. This data is then transmitted\
+      \ to a reinforcement learning model, which utilizes it to compute the appropriate\
+      \ steering and throttle commands for the car based on its current state and\
+      \ the environmental conditions. Not only is the AWS Deep Racer an enjoyable\
+      \ and interactive tool for gaining knowledge about autonomous driving and reinforcement\
+      \ learning, but it also showcases the possible applications of RL in various\
+      \ practical fields, including transportation, logistics, manufacturing,\_and\_\
+      robotics."
+    team:
+    - email: hbairare@buffalo.edu
+      name: Harshavardhan Baira Reddy
+    - email: mrangara@buffalo.edu
+      name: Madhavan Rangarajan
+    - email: dgunashe@buffalo.edu
+      name: Dhiraj Gunasheela
+    title: RC CARS
+- code: 'CSE 540: ML and Society and Rage Against the Machine: HIS 419'
+  projects:
+  - description: 'Vision
+
+      We imagine a world without white supremacy would be a world where individuals
+      of all races and ethnicities would have equal opportunities, feel safe, and
+      be treated with respect. A world where the systems and institutions would not
+      be designed to benefit one group of people.'
+    team:
+    - email: kashyapd@buffalo.edu
+      name: Kashyap Deveshbhai Soni
+    - email: iokafor@buffalo.edu
+      name: Ifeanyichukwu Frank Okafor
+    - email: mjcalien@buffalo.edu
+      name: Michael Caliendo
+    - email: dgunashe@buffalo.edu
+      name: Dhiraj
+    title: Combating White Supremacy in Hiring Discrimination
+- code: Reinforcement Learning Project (CSE 546)
+  projects:
+  - description: Evaluating and Comparing Advanced Reinforcement Learning Algorithms
+      on Cartpole and Pong Environment.
+    team:
+    - email: vivekasi@buffalo.edu
+      name: Viveka Siva Naga Nithin Annam
+    - email: vpalline@buffalo.edu
+      name: Venkata Sai Divya Pallineni
+    - email: nvikram@buffalo.edu
+      name: Niharika Vikram
+    title: Team 16
+- code: 'CSE 540: Machine learning and society'
+  projects:
+  - description: Impossible project based on the discussions happened in the course
+      CSE 540, throughout the semester. We are trying to solve the bigger problem
+      of white supremacy by choosing a subproblem of radicalization on internet. We
+      aim to solve it by discussing ideas on how to improve recommendation algorithms
+      and dealing with issues caused by the friction between technology and society
+      when not used right.
+    team:
+    - email: aditipur@buffalo.edu
+      name: Aditi Bobde
+    title: Improving recommendation algorithms to fight white supremacy
+- code: 'CSE 546 : Reinforcement Learning'
+  projects:
+  - description: Performance Analysis on various Multi-Agent Environments
+    team:
+    - email: thilakre@buffalo.edu
+      name: Thilak Reddy Dharam
+    - email: dhanushk@buffalo.edu
+      name: Dhanush Kumar Reddy Yarragonda
+    title: Team - 17
+  - description: 'In this research project, we investigate the efficacy of advanced
+      exploration strategies and state space optimization techniques in reinforcement
+      learning, specifically focusing on complex Atari game environments. By integrating
+      the Upper Confidence Bound (UCB) algorithm with Deep Q-Networks (DQNs), we aim
+      to balance the exploration-exploitation trade-off and improve AI agents'' performance
+      in high-dimensional state spaces.
+
+
+      Our methodology employs an encoder-decoder model to learn a compact representation
+      of the high-dimensional Atari state space, allowing for more efficient state
+      representation and action selection. We incorporate a multi-head attention mechanism
+      in the model to reduce noise and focus on essential components of the state
+      space, enhancing the model''s ability to learn relevant features and dependencies.
+      By pre-training the encoder and freezing its weights during the training phase,
+      we optimize the training process, reducing co-variate shift, accelerating convergence,
+      and improving the model''s stability and performance.
+
+
+      The results of our research demonstrate the effectiveness of combining advanced
+      exploration strategies, such as UCB, with state space optimization techniques
+      like multi-head attention and encoder-decoder models in enhancing reinforcement
+      learning models'' performance in complex environments. This approach leads to
+      more efficient training, higher reward returns, and increased adaptability of
+      AI agents across various tasks and environments. Our findings contribute to
+      the growing body of knowledge in reinforcement learning and have implications
+      for the development of sophisticated AI agents capable of addressing a wide
+      range of real-world challenges and applications.'
+    team:
+    - email: skuchibh@buffalo.edu
+      name: Vivek Kuchibhotla
+    - email: anurimav@buffalo.edu
+      name: Anurima Vaishnavi Kumar
+    title: Exploration is good, but to what extent?
+- code: (CSE 546)
+  projects:
+  - description: "In this project, our aim is to enhance the capabilities of a robot\
+      \ car, enabling it to become an agile ball-chasing machine that pursues and\
+      \ reaches its target goal. We employ various state-of-the-art Deep Reinforcement\
+      \ Learning (RL) algorithms, including A2C, DQN, PPO, and DDPG, and conduct a\
+      \ comparative study to evaluate their effectiveness in training the agent. Through\
+      \ this research, we aim to provide insights into the strengths and performance\
+      \ characteristics of each algorithm in achieving the project's\_objective."
+    team:
+    - email: atharvda@buffalo.edu
+      name: Atharv Dabhade
+    - email: sthiruna@buffalo.edu
+      name: Sai Sharan Thirunagari
+    - email: shivanin@buffalo.edu
+      name: Shivani Shingne
+    title: 'Transforming a Robot Car into an agile Ball-Chasing Machine: A Comparative
+      Study of Deep RL Algorithms'
+- code: CSE446
+  projects:
+  - description: "Performance Evaluation of Different Multi-Agent Reinforcement Learning\
+      \ Algorithms for Cooperative-Real World Applications \n"
+    team:
+    - email: madil2@buffalo.edu
+      name: Adil
+    title: Team-35
+- code: Independent Study project
+  projects:
+  - description: Detecting objects using computer vision and manipulation of robot
+      arm to pick and place the object
+    team:
+    - email: rkhatik@buffalo.edu
+      name: Raj Khatik
+    - email: Farshadg@buffalo.edu
+      name: Prof. Farshad Ghanei
+    title: Pick and place robot using computer vision
+- code: 700 Independent Study
+  projects:
+  - description: An interactive Web application for learning Reinforcement Learning
+      methods by exploring different algorithms, environments and hyperparameter settings.
+      The application would serve to simplify the complexities of reinforcement learning,
+      promoting a more intuitive and effective learning process. By providing students
+      with the ability to experiment with various settings, they can gain a deeper
+      understanding of the subject matter, ultimately leading to improved comprehension
+      and retention.
+    team:
+    - email: shekhar7@buffalo.edu
+      name: Shraddha Shekhar
+    title: 'Educational Web App to Visualize Reinforcement Learning Methods '
 
