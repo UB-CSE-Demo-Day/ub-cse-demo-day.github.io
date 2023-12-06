@@ -5,7 +5,7 @@ Hi, if you're here (yes, Alan, I'm talking to you), I assume you want to know ho
    - Update sponsors as needed
 2. Put image links for sponsors in `assets/images/sponsors`
 3. Generate participant data by feeding the output of the google form (as a 'csv' download) and piping the output into the data directory: `python3 scripts/process_form.py path/to/download.csv > _data/YYYYss.yaml`
-4. Update the default page by editing `[index.markdown](https://github.com/UB-CSE-Demo-Day/ub-cse-demo-day.github.io/blob/main/index.markdown)`
+4. Update the default page by editing [`index.markdown`](https://github.com/UB-CSE-Demo-Day/ub-cse-demo-day.github.io/blob/main/index.markdown)
 
 
 #### process_form.py
