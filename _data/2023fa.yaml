@@ -1,3 +1,306 @@
+- code: 'CSE 611: Master''s Capstone Project'
+  projects:
+  - description: "Cutting-edge mobile application.Say goodbye to the hassle of manual\
+      \ car appraisals\xE2\u20AC\u201Dour app takes the guesswork out of determining\
+      \ your car's worth by utilizing live car video recording. Whether you're looking\
+      \ to sell, trade, or simply curious about your car's current value, our app\
+      \ is your go-to companion."
+    team:
+    - email: hjaggava@buffalo.edu
+      name: Harshitha Reddy Jaggavarapu
+    - email: shivakar@buffalo.edu
+      name: Shiva Karthik Reddy Bathula
+    - email: yporandl@buffalo.edu
+      name: Yashwanth Krishna Porandla
+    - email: sufianud@buffalo.edu
+      name: Sufianuddin Mohammed
+    title: ACV Auctions
+  - description: Updating the old databases with the latest census information using
+      the API calls. Also, There is a My PM2.5 webpage that shows the particulate
+      emissions due to transportation, heating and electricity which causes health
+      impacts. So, this project gives a perspective on carbon emissions and particulate
+      emissions.
+    team:
+    - email: agolla@buffalo.edu
+      name: Akhila Golla
+    - email: vupputur@buffalo.edu
+      name: Venkata Subrahmanyam Upputuri
+    - email: kondamud@buffalo.edu
+      name: Vishnu Sai Teja Kondamudi
+    title: Carbon Tracker Data wrangling
+    url: https://cure100-prod.web.app/home
+  - description: Introducing our cutting-edge "Exhibit QR Code" Management System,
+      a powerful and intuitive solution designed to streamline the organization and
+      accessibility of exhibit data. This comprehensive web-based interface empowers
+      users to effortlessly manage, update, and showcase a diverse range of exhibits,
+      each assigned a unique QR code for instant access.
+    team:
+    - email: saijanha@buffalo.edu
+      name: Sai Janhavi Tamatam
+    - email: sguntur@buffalo.edu
+      name: Sri Venkat Guntur
+    - email: bghosiko@buffalo.edu
+      name: Bhanu Teja Ghosikonda
+    - email: madhavik@buffalo.edu
+      name: Madhavi Kolasani
+    title: Exhibit QR Code
+  - description: "Fresumes: Revolutionizing recruitment and job hunting! Explore our\
+      \ free resume website offering a robust resume builder and parser for candidates\
+      \ to create compelling profiles. For recruiters, our platform facilitates seamless\
+      \ candidate searches, mass emails, and messaging\xE2\u20AC\u201Dmaking Fresumes\
+      \ the ultimate hub for efficient hiring and standout career building. Streamline\
+      \ your hiring process with Fresumes, where talent meets opportunity seamlessly."
+    team:
+    - email: atishkum@buffalo.edu
+      name: Atish Sinha
+    - email: manohar4@buffalo.edu
+      name: Priyadharshan Manohar
+    - email: pshrimal@buffalo.edu
+      name: Priyal Shrimali
+    - email: rudramch@buffalo.edu
+      name: Rudram Bhimpure
+    - email: swarangi@buffalo.edu
+      name: Swarangi Tingne
+    title: Fresumes
+    url: http://18.217.18.223:3000/
+  - description: Unveiling a revolutionary platform catered to the global medical
+      community, our innovative website is a comprehensive hub designed for medical
+      professionals, researchers, and practitioners engaged in clinical trials. Users
+      can seamlessly create and manage trials, personalize them with distinctive names
+      and detailed descriptions, and integrate custom questionnaires effortlessly.
+      The platform's versatility extends to the creation of user groups within trials,
+      facilitating targeted engagement through tailored notifications. Practitioners
+      can efficiently notify specific user groups for questionnaire completion, fostering
+      a collaborative and engaged research environment. The system's efficiency shines
+      through in its user-friendly tabular format for response analysis, with the
+      added convenience of downloading responses in Excel format for in-depth studies.
+      Complementing this, our user-friendly mobile app ensures accessibility for all,
+      allowing easy sign-up, log-in, and participation in trials curated by researchers.
+      This intuitive interface promises a holistic and engaging experience for both
+      researchers and participants, marking a significant advancement in the landscape
+      of clinical research.
+    team:
+    - email: shenolik@buffalo.edu
+      name: Shalmalee Shenolikar
+    - email: vmatukum@buffalo.edu
+      name: Viswanath Matukumalli
+    - email: hseelam@buffalo.edu
+      name: Hariharan Seelam
+    title: Health 360
+  - description: This project introduces an efficient invoicing system integrated
+      with Jira, aimed at streamlining billing processes for digital service businesses.
+      Key features include real-time synchronization with Jira to track service tickets,
+      automated invoice generation, and a user-friendly interface. The system enhances
+      workflow efficiency, ensures billing accuracy, and includes an inventory management
+      module. Developed using React, Node.js, MySQL, and hosted on AWS, it offers
+      a reliable, scalable solution for improved client satisfaction and operational
+      effectiveness. Future updates may incorporate AI for advanced inventory management.
+    team:
+    - email: kethavar@buffalo.edu
+      name: Sai Prasanth Kethavarapu
+    - email: yadlapa2@buffalo.edu
+      name: Sai Pavan Kumar Yadlapalli
+    - email: lchittin@buffalo.edu
+      name: Lakshmi Naga Khyathi Chittineni
+    - email: spalli@buffalo.edu
+      name: Sai Sridhar Reddy Palli
+    title: Invoicing system with Jira Integration
+  - description: Offset CRBN is a comprehensive web platform designed for environmental
+      awareness, allowing users to easily calculate and manage their carbon footprint.
+      The user-friendly carbon calculator, customizable questionnaire, and administrative
+      dashboard empower users to make informed decisions. Admins have control over
+      questions, prices, and formulas, ensuring accuracy and adaptability. The platform
+      also features robust customer support, emission data visualization, and aims
+      to contribute to a more sustainable future by raising awareness and encouraging
+      eco-friendly choices.
+    team:
+    - email: suryasai@buffalo.edu
+      name: Surya Sai Kumar Narayana
+    - email: smandala@buffalo.edu
+      name: Sai Teja Mandala
+    - email: Sgharat@buffalo.edu
+      name: Sahil Gharat
+    - email: karanam@buffalo.edu
+      name: Vamsi Krishna Karanam
+    - email: rkurra@buffalo.edu
+      name: Ruchitha Kurra
+    title: Offset CRBN
+  - description: Online Dictionary is an web application designed for word lookup,
+      including definitions, etymology, synonyms, antonyms, and pronunciations. The
+      primary aim of this product is to assist various user groups, including students,
+      academicians, and professionals, by offering free access to dictionary services.
+      This initiative benefits educational institutions by providing ad-free and spam-free
+      access to dictionary. Our team is committed to enhancing the current system
+      by introducing features such as user login for personalized experiences, word
+      categorization, lookup history, favorites, and language-based suggestions.
+    team:
+    - email: sambasai@buffalo.edu
+      name: '?'
+    - email: blessybo@buffalo.edu
+      name: '?'
+    - email: rnikam@buffalo.edu
+      name: '?'
+    - email: as488@buffalo.edu
+      name: '?'
+    - email: ssingamp@buffalo.edu
+      name: '?'
+    title: Online Dictionary
+  - description: 'The Online Event Scheduler is a web-based application designed to
+      assist individuals in
+
+      efficiently scheduling, verifying availability, and organizing both individual
+      and group
+
+      meetings for University at Buffalo (UB) students and faculty members. This platform
+
+      eliminates the need for manual availability checks and streamlines the process
+      of
+
+      identifying a suitable common meeting time. The application prioritizes security
+
+      measures and offers a user-friendly interface, ultimately saving users valuable
+      time.'
+    team:
+    - email: divyajyo@buffalo.edu
+      name: Divyajyothi Hiremath
+    - email: praptimi@buffalo.edu
+      name: Prapti Miglani
+    - email: pbhatnag@buffalo.edu
+      name: Prakhar Bhatnagar
+    - email: sowmyava@buffalo.edu
+      name: Sowmya Iyer
+    - email: eshabhav@buffalo.edu
+      name: Esha Pabari
+    title: Online Event Scheduler
+    url: http://34.27.105.64/
+  - description: 'The Photo Editor Web Application is a versatile and user-friendly
+      tool designed for enhancing and manipulating digital images. Offering a comprehensive
+      set of features, this web application bridges the gap between basic photo editing
+      tools and advanced image editing software. The project targets a diverse audience,
+      including individuals, hobbyists, amateur photographers, professionals, students,
+      and businesses of all sizes.
+
+
+      Key Features:
+
+
+      Advanced Passport Creation: A unique feature allows users to enable/disable
+      the ''apply white background'' offering the choice between using high-end tools
+      or minimalistic features when generating passport images. Offers a wide range
+      of country selection and cropping based on the specific country requirements.
+
+
+      Editing Tools: Users can enjoy a variety of tools such as cropping, resizing,
+      noise removal, collage creation, mosaic application, and brightness/contrast
+      adjustment.
+
+
+      Image Format Support: The application supports various image formats, including
+      JPEG and PNG, ensuring compatibility with commonly used file types.
+
+
+      Compression Features: Users can compress both images and videos, optimizing
+      file sizes for efficient storage and sharing.
+
+
+      User-Friendly Interface: The software boasts a clean and intuitive interface,
+      providing a seamless experience for users to navigate and apply editing tools
+      with ease.
+
+
+      Output Options: Users have the flexibility to save edited images in different
+      file formats.'
+    team:
+    - email: ayeshahu@buffalo.edu
+      name: Ayesha Humaera
+    - email: tarakaro@buffalo.edu
+      name: Taraka Rohit Adusumilli
+    - email: pavanala@buffalo.edu
+      name: Pavana Lakshmi Venugopal
+    - email: saadahm2@buffalo.edu
+      name: Saad Ahmed
+    title: Photo Editor
+    url: 'http://xlabk8s3.cse.buffalo.edu:31110/ '
+  - description: "Ultimate toolkit for elevating athletic excellence! Unleash the\
+      \ full potential of your team with the cutting-edge application designed for\
+      \ coaches and athletes. Effortlessly create, manage, and track customized workout\
+      \ plans, while seamlessly monitoring and optimizing athlete performances. Elevate\
+      \ your training game, maximize results, and conquer the competition with Sports\
+      \ Performance Pro \xE2\u20AC\u201C where precision meets peak performance."
+    team:
+    - email: diptangs@buffalo.edu
+      name: Diptangshu De
+    - email: dvasprab@buffalo.edu
+      name: Darryl Vas Prabhu
+    - email: ayadav4@buffalo.edu
+      name: Akash Yadav
+    - email: tsharma5@buffalo.edu
+      name: Tanishka Sharma
+    title: Sports Perfornance Pro
+  - description: TukTuk is a ridesharing application developed by a team in Austin,
+      TX. The team at Buffalo is working with the Austin team to develop a revamped
+      application suitable for Buffalo. The application is meant to provide an easier
+      and safer mode of transportation for UB students to travel from one hotspot
+      to another within or outside the campus. The app is also meant to act as a source
+      of revenue for UB students by offering rides to other students while travelling
+      around Buffalo. The application is being developed ni React Native, Node js
+      and AWS services for deployment and storage.
+    team:
+    - email: aajith2@buffalo.edu
+      name: Akshay Ajith
+    - email: balajiha@buffalo.edu
+      name: Balaji hariharan
+    - email: karthik3@buffalo.edu
+      name: Karthik Ramanan
+    - email: ngovinda@buffalo.edu
+      name: Nithyashree Govindarajan
+    - email: ajayredd@buffalo.edu
+      name: Ajay Reddy Timmareddy
+    title: Team TukTuk
+  - description: The project aims to create a word database with metadata and phoneme
+      information, offering an API for querying this database and a user-friendly
+      web interface. It will include features such as scoring words based on popularity,
+      complexity, readability, and sound, storing metadata like categories and semantics.
+      displaying words based on specific phonetic queries, and presenting statistics
+      on phonemes. The tool is used to assist speech-language pathologists and can
+      be used to help children with pronunciation problems, teachers for educational
+      purposes, and general users looking to query and explore word-related data
+    team:
+    - email: ramkashy@buffalo.edu
+      name: Ram Kashyap
+    - email: harithak@buffalo.edu
+      name: Haritha Kunta
+    - email: shirsath@buffalo.edu
+      name: Pratiksha Shirsath
+    - email: jeyendra@buffalo.edu
+      name: Jeyendra Srinivas Datta Kanaparthi
+    - email: kriticha@buffalo.edu
+      name: Kriti Chapagain
+    title: Web Tool for Words and Phonemes
+    url: http://xlabk8s2.cse.buffalo.edu:30009/
+  - description: Youro is your comprehensive solution for optimal urologic health,
+      offering innovative features to simplify and elevate your healthcare experience.
+      Track your symptoms with our exclusive calculators, ensuring personalized care
+      and treatment. Schedule same- or next-day appointments with urology-trained
+      providers, fostering continuous communication through our app. Access up-to-date
+      educational materials related to your diagnosis, empowering you with knowledge.
+      Benefit from individualized care plans designed for your specific needs, guiding
+      you towards improved symptoms. With Youro's digital-first approach and 24/7
+      availability of urology-trained providers, achieving peak urologic health is
+      simple, enjoyable, and tailored to you.
+    team:
+    - email: vamshija@buffalo.edu
+      name: Vamshi Jamalpur
+    - email: shyderab@buffalo.edu
+      name: Sai Nath Hyderabad
+    - email: abhignas@buffalo.edu
+      name: Abhigna Sree Tumati
+    - email: rmandava@buffalo.edu
+      name: Ravindra Mandava
+    - email: skachava@buffalo.edu
+      name: Sri Sai Charan Kachavarapu
+    title: Youro
+    url: http://youro-ui.s3-website-us-east-1.amazonaws.com/
 - code: CSE 302
   projects:
   - description: This project aims to create a toolchain based around a compiler and
@@ -42,6 +345,21 @@
     - email: jackeywa@buffalo.edu
       name: Jackey Wang
     title: Manufacturing metaverse
+  - description: Our platform empowers instructors with an intuitive UI/UX, facilitating
+      seamless course, survey, and rubric management.
+    team:
+    - email: Reyes@buffalo.edu
+      name: Arianna Escobar
+    - email: jrvariar@buffalo.edu
+      name: Justin Variara
+    - email: koreyliu@buffalo.edu
+      name: Korey Liu
+    - email: ardianmu@buffalo.edu
+      name: Ardian Muriqi
+    - email: akalabad@buffalo.edu
+      name: Ahmed Alabadi
+    title: 'Teamwork Tool '
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2023-Fall/cse-302a/StudentSurvey/backend/instructor/fake_shibboleth.php
   - description: "Vizier is an advanced, reproducibility-focused notebook environment\
       \ that supports multiple languages like Scala, Python, and SQL. It uniquely\
       \ features a spreadsheet mode for direct dataframe editing, templated commands\
@@ -67,17 +385,6 @@
       name: Shreya Gupta
     title: Vizier
     url: https://github.com/VizierDB/vizier-scala/wiki
-- code: 'CSE 4/587 B: Data Intensive Computing'
-  projects:
-  - description: 'Our project focuses on to present the change in the climate over
-      the years in the major cities of world. This change is majorly determined by
-      the global temperature over the years. '
-    team:
-    - email: rsingh57@buffalo.edu
-      name: Radhika Singh
-    - email: ritikarekhi@buffalo.edu
-      name: Ritika Rekhi
-    title: Global Climate Change Analysis of the Major Cities over the Years
 - code: 'CSE 410: Game Design'
   projects:
   - description: Third person action Game
@@ -354,28 +661,35 @@
       name: Zhiyuan Liu
     title: Hungry All The Time
     url: https://www-student.cse.buffalo.edu/CSE442-542/2023-Fall/cse-442ad/hatt_dev/
+  - description: Shrubbery Quest is a 2D skill-based platformer game where you fight
+      your way through 20 unique and challenging levels to reach the golden shears
+      -- chopping down shrubs and (successfully or unsuccessfully) avoiding untimely
+      deaths along the way.
+    team:
+    - email: jtmcente@buffalo.edu
+      name: Jordan McEntee
+    - email: jdquinn2@buffalo.edu
+      name: Joshua Quinn
+    - email: jakeacoc@buffalo.edu
+      name: Jake Acocella
+    - email: blakedas@buffalo.edu
+      name: Blake Dase
+    - email: anh6@buffalo.edu
+      name: Alexis Hubbard
+    title: Shrubbery Quest by Nefariouz Gamez
+- code: Research Under Dr. Ratha
+  projects:
+  - description: In this work, we develop a secure potential disease classification
+      based on the symptoms provided by the user. We developed a customized fully
+      connected layer and utilized a ReLU approximation activation function that could
+      operate on CKKS-encrypted data.
+    team:
+    - email: amalik28@buffalo.edu
+      name: Aditya Malik
+    title: Chat-based Secure Disease classification based on symptoms using FHE and
+      Reinforcement Learning
 - code: CSE 587
   projects:
-  - description: 'Crime is a complex issue that affects every part of the globe and
-      poses a major threat to community safety and well-being. It is essential to
-      understand and tackle crime in a way that safeguards people and nurtures a sense
-      of peace in our society. In the midst of all the challenges the police forces
-      grapple with, our project can act as a guiding tool to deploy resources more
-      effectively and prevent crime. In other words, predictive policing is a method
-      that makes use of past social, demographic, and economic crime data to spot
-      trends and estimate where and when a crime is most likely to occur. Insights
-      from our application, serve as the foundation for creating effective strategies
-      to prevent and intervene in criminal activities. We provide a data-driven method
-      of analyzing crime that can be proactively used to reduce the crime rate and
-      foster a safe community.
-
-      '
-    team:
-    - email: charviku@buffalo.edu
-      name: Charvi Kusuma
-    - email: bhanucha@buffalo.edu
-      name: Bhanu Chakra Sai Tarun Reddi
-    title: 'Crimson Eye: A Data-driven Approach to Crime Analysis'
   - description: Crime is a complex issue that affects every part of the globe and
       poses a major threat to community safety and well-being. It is essential to
       understand and tackle crime in a way that safeguards people and nurtures a sense
@@ -428,293 +742,53 @@
     - email: hraman@buffalo.edu
       name: Haripriya Raman
     title: 'US Accident Prediction '
-- code: 'CSE 611: Master''s Capstone Project'
+- code: Research Project under Prof. Nalini
   projects:
-  - description: "Cutting-edge mobile application.Say goodbye to the hassle of manual\
-      \ car appraisals\xE2\u20AC\u201Dour app takes the guesswork out of determining\
-      \ your car's worth by utilizing live car video recording. Whether you're looking\
-      \ to sell, trade, or simply curious about your car's current value, our app\
-      \ is your go-to companion."
+  - description: 'Realistic Fingerprint Generation '
     team:
-    - email: hjaggava@buffalo.edu
-      name: Harshitha Reddy Jaggavarapu
-    - email: shivakar@buffalo.edu
-      name: Shiva Karthik Reddy Bathula
-    - email: yporandl@buffalo.edu
-      name: Yashwanth Krishna Porandla
-    - email: sufianud@buffalo.edu
-      name: Sufianuddin Mohammed
-    title: ACV Auctions
-  - description: Updating the old databases with the latest census information using
-      the API calls. Also, There is a My PM2.5 webpage that shows the particulate
-      emissions due to transportation, heating and electricity which causes health
-      impacts. So, this project gives a perspective on carbon emissions and particulate
-      emissions.
+    - email: ta47@buffalo.edu
+      name: Tejas Prakash Agrawal
+    title: FingerCraft
+- code: 'CSE 4/587 B: Data Intensive Computing'
+  projects:
+  - description: 'Our project focuses on to present the change in the climate over
+      the years in the major cities of world. This change is majorly determined by
+      the global temperature over the years. '
     team:
-    - email: agolla@buffalo.edu
-      name: Akhila Golla
-    - email: vupputur@buffalo.edu
-      name: Venkata Subrahmanyam Upputuri
-    - email: kondamud@buffalo.edu
-      name: Vishnu Sai Teja Kondamudi
-    title: Carbon Tracker Data wrangling
-    url: https://cure100-prod.web.app/home
-  - description: Introducing our cutting-edge "Exhibit QR Code" Management System,
-      a powerful and intuitive solution designed to streamline the organization and
-      accessibility of exhibit data. This comprehensive web-based interface empowers
-      users to effortlessly manage, update, and showcase a diverse range of exhibits,
-      each assigned a unique QR code for instant access.
+    - email: rsingh57@buffalo.edu
+      name: Radhika Singh
+    - email: ritikarekhi@buffalo.edu
+      name: Ritika Rekhi
+    title: Global Climate Change Analysis of the Major Cities over the Years
+- code: 'Research '
+  projects:
+  - description: '
+
+      Face recognition, a cornerstone of early deep learning methodologies, has become
+      a pivotal technology in AI systems, raising concerns regarding privacy and security
+      in widespread applications. Face embeddings, though essential for identity verification,
+      have been shown to be susceptible to leaks, enabling unauthorized access and
+      unintended information extraction. This research investigates existing template
+      protection techniques and their effectiveness in preventing biometric information
+      leaks. Our findings reveal vulnerabilities in many existing techniques, emphasizing
+      the need for enhanced privacy safeguards. To address this, we propose a novel
+      dual-layer protection method for face embeddings, combining established protection
+      schemes with an additional encryption layer to fortify privacy. The use of Fully
+      Homomorphic Encryption (FHE) enables secure analytics on encrypted templates.
+
+      Our approach successfully circumvents the shortcomings of individual protection
+      techniques, providing an elevated level of privacy and security. We demonstrate
+      the effectiveness of our method through face verification, age, gender and ethnicity
+      prediction tasks, achieving comparable performance to unprotected templates.
+      Leveraging FHE alongside conventional protection methods ensures irreversibility
+      and unlinkability, preserving accuracy while eliminating the risk of biometric
+      information leaks. The project presents comprehensive results supporting the
+      efficacy of our proposed approach in advancing the privacy and security landscape
+      of face recognition systems.'
     team:
-    - email: saijanha@buffalo.edu
-      name: Sai Janhavi Tamatam
-    - email: sguntur@buffalo.edu
-      name: Sri Venkat Guntur
-    - email: bghosiko@buffalo.edu
-      name: Bhanu Teja Ghosikonda
-    - email: madhavik@buffalo.edu
-      name: Madhavi Kolasani
-    title: Exhibit QR Code
-  - description: "Fresumes: Revolutionizing recruitment and job hunting! Explore our\
-      \ free resume website offering a robust resume builder and parser for candidates\
-      \ to create compelling profiles. For recruiters, our platform facilitates seamless\
-      \ candidate searches, mass emails, and messaging\xE2\u20AC\u201Dmaking Fresumes\
-      \ the ultimate hub for efficient hiring and standout career building. Streamline\
-      \ your hiring process with Fresumes, where talent meets opportunity seamlessly."
-    team:
-    - email: atishkum@buffalo.edu
-      name: Atish Sinha
-    - email: manohar4@buffalo.edu
-      name: Priyadharshan Manohar
-    - email: pshrimal@buffalo.edu
-      name: Priyal Shrimali
-    - email: rudramch@buffalo.edu
-      name: Rudram Bhimpure
-    - email: swarangi@buffalo.edu
-      name: Swarangi Tingne
-    title: Fresumes
-    url: http://18.217.18.223:3000/
-  - description: Unveiling a revolutionary platform catered to the global medical
-      community, our innovative website is a comprehensive hub designed for medical
-      professionals, researchers, and practitioners engaged in clinical trials. Users
-      can seamlessly create and manage trials, personalize them with distinctive names
-      and detailed descriptions, and integrate custom questionnaires effortlessly.
-      The platform's versatility extends to the creation of user groups within trials,
-      facilitating targeted engagement through tailored notifications. Practitioners
-      can efficiently notify specific user groups for questionnaire completion, fostering
-      a collaborative and engaged research environment. The system's efficiency shines
-      through in its user-friendly tabular format for response analysis, with the
-      added convenience of downloading responses in Excel format for in-depth studies.
-      Complementing this, our user-friendly mobile app ensures accessibility for all,
-      allowing easy sign-up, log-in, and participation in trials curated by researchers.
-      This intuitive interface promises a holistic and engaging experience for both
-      researchers and participants, marking a significant advancement in the landscape
-      of clinical research.
-    team:
-    - email: shenolik@buffalo.edu
-      name: Shalmalee Shenolikar
-    - email: vmatukum@buffalo.edu
-      name: Viswanath Matukumalli
-    - email: hseelam@buffalo.edu
-      name: Hariharan Seelam
-    title: Health 360
-  - description: This project introduces an efficient invoicing system integrated
-      with Jira, aimed at streamlining billing processes for digital service businesses.
-      Key features include real-time synchronization with Jira to track service tickets,
-      automated invoice generation, and a user-friendly interface. The system enhances
-      workflow efficiency, ensures billing accuracy, and includes an inventory management
-      module. Developed using React, Node.js, MySQL, and hosted on AWS, it offers
-      a reliable, scalable solution for improved client satisfaction and operational
-      effectiveness. Future updates may incorporate AI for advanced inventory management.
-    team:
-    - email: kethavar@buffalo.edu
-      name: Sai Prasanth Kethavarapu
-    - email: yadlapa2@buffalo.edu
-      name: Sai Pavan Kumar Yadlapalli
-    - email: lchittin@buffalo.edu
-      name: Lakshmi Naga Khyathi Chittineni
-    - email: spalli@buffalo.edu
-      name: Sai Sridhar Reddy Palli
-    title: Invoicing system with Jira Integration
-  - description: Offset CRBN is a comprehensive web platform designed for environmental
-      awareness, allowing users to easily calculate and manage their carbon footprint.
-      The user-friendly carbon calculator, customizable questionnaire, and administrative
-      dashboard empower users to make informed decisions. Admins have control over
-      questions, prices, and formulas, ensuring accuracy and adaptability. The platform
-      also features robust customer support, emission data visualization, and aims
-      to contribute to a more sustainable future by raising awareness and encouraging
-      eco-friendly choices.
-    team:
-    - email: suryasai@buffalo.edu
-      name: Surya Sai Kumar Narayana
-    - email: smandala@buffalo.edu
-      name: Sai Teja Mandala
-    - email: Sgharat@buffalo.edu
-      name: Sahil Gharat
-    - email: karanam@buffalo.edu
-      name: Vamsi Krishna Karanam
-    - email: rkurra@buffalo.edu
-      name: Ruchitha Kurra
-    title: Offset CRBN
-  - description: Online Dictionary is an web application designed for word lookup,
-      including definitions, etymology, synonyms, antonyms, and pronunciations. The
-      primary aim of this product is to assist various user groups, including students,
-      academicians, and professionals, by offering free access to dictionary services.
-      This initiative benefits educational institutions by providing ad-free and spam-free
-      access to dictionary. Our team is committed to enhancing the current system
-      by introducing features such as user login for personalized experiences, word
-      categorization, lookup history, favorites, and language-based suggestions.
-    team:
-    - email: sambasai@buffalo.edu
-      name: '?'
-    - email: blessybo@buffalo.edu
-      name: '?'
-    - email: rnikam@buffalo.edu
-      name: '?'
-    - email: as488@buffalo.edu
-      name: '?'
-    - email: ssingamp@buffalo.edu
-      name: '?'
-    title: Online Dictionary
-  - description: 'The Online Event Scheduler is a web-based application designed to
-      assist individuals in
-
-      efficiently scheduling, verifying availability, and organizing both individual
-      and group
-
-      meetings for University at Buffalo (UB) students and faculty members. This platform
-
-      eliminates the need for manual availability checks and streamlines the process
-      of
-
-      identifying a suitable common meeting time. The application prioritizes security
-
-      measures and offers a user-friendly interface, ultimately saving users valuable
-      time.'
-    team:
-    - email: divyajyo@buffalo.edu
-      name: Divyajyothi Hiremath
-    - email: praptimi@buffalo.edu
-      name: Prapti Miglani
-    - email: pbhatnag@buffalo.edu
-      name: Prakhar Bhatnagar
-    - email: sowmyava@buffalo.edu
-      name: Sowmya Iyer
-    - email: eshabhav@buffalo.edu
-      name: Esha Pabari
-    title: Online Event Scheduler
-    url: http://34.27.105.64/
-  - description: 'The Photo Editor Web Application is a versatile and user-friendly
-      tool designed for enhancing and manipulating digital images. Offering a comprehensive
-      set of features, this web application bridges the gap between basic photo editing
-      tools and advanced image editing software. The project targets a diverse audience,
-      including individuals, hobbyists, amateur photographers, professionals, students,
-      and businesses of all sizes.
-
-
-      Key Features:
-
-
-      Advanced Passport Creation: A unique feature allows users to enable/disable
-      the ''apply white background'' offering the choice between using high-end tools
-      or minimalistic features when generating passport images. Offers a wide range
-      of country selection and cropping based on the specific country requirements.
-
-
-      Editing Tools: Users can enjoy a variety of tools such as cropping, resizing,
-      noise removal, collage creation, mosaic application, and brightness/contrast
-      adjustment.
-
-
-      Image Format Support: The application supports various image formats, including
-      JPEG and PNG, ensuring compatibility with commonly used file types.
-
-
-      Compression Features: Users can compress both images and videos, optimizing
-      file sizes for efficient storage and sharing.
-
-
-      User-Friendly Interface: The software boasts a clean and intuitive interface,
-      providing a seamless experience for users to navigate and apply editing tools
-      with ease.
-
-
-      Output Options: Users have the flexibility to save edited images in different
-      file formats.'
-    team:
-    - email: ayeshahu@buffalo.edu
-      name: Ayesha Humaera
-    - email: tarakaro@buffalo.edu
-      name: Taraka Rohit Adusumilli
-    - email: pavanala@buffalo.edu
-      name: Pavana Lakshmi Venugopal
-    - email: saadahm2@buffalo.edu
-      name: Saad Ahmed
-    title: Photo Editor
-    url: 'http://xlabk8s3.cse.buffalo.edu:31110/ '
-  - description: TukTuk is a ridesharing application developed by a team in Austin,
-      TX. The team at Buffalo is working with the Austin team to develop a revamped
-      application suitable for Buffalo. The application is meant to provide an easier
-      and safer mode of transportation for UB students to travel from one hotspot
-      to another within or outside the campus. The app is also meant to act as a source
-      of revenue for UB students by offering rides to other students while travelling
-      around Buffalo. The application is being developed ni React Native, Node js
-      and AWS services for deployment and storage.
-    team:
-    - email: aajith2@buffalo.edu
-      name: Akshay Ajith
-    - email: balajiha@buffalo.edu
-      name: Balaji hariharan
-    - email: karthik3@buffalo.edu
-      name: Karthik Ramanan
-    - email: ngovinda@buffalo.edu
-      name: Nithyashree Govindarajan
-    - email: ajayredd@buffalo.edu
-      name: Ajay Reddy Timmareddy
-    title: Team TukTuk
-  - description: The project aims to create a word database with metadata and phoneme
-      information, offering an API for querying this database and a user-friendly
-      web interface. It will include features such as scoring words based on popularity,
-      complexity, readability, and sound, storing metadata like categories and semantics.
-      displaying words based on specific phonetic queries, and presenting statistics
-      on phonemes. The tool is used to assist speech-language pathologists and can
-      be used to help children with pronunciation problems, teachers for educational
-      purposes, and general users looking to query and explore word-related data
-    team:
-    - email: ramkashy@buffalo.edu
-      name: Ram Kashyap
-    - email: harithak@buffalo.edu
-      name: Haritha Kunta
-    - email: shirsath@buffalo.edu
-      name: Pratiksha Shirsath
-    - email: jeyendra@buffalo.edu
-      name: Jeyendra Srinivas Datta Kanaparthi
-    - email: kriticha@buffalo.edu
-      name: Kriti Chapagain
-    title: Web Tool for Words and Phonemes
-    url: http://xlabk8s2.cse.buffalo.edu:30009/
-  - description: Youro is your comprehensive solution for optimal urologic health,
-      offering innovative features to simplify and elevate your healthcare experience.
-      Track your symptoms with our exclusive calculators, ensuring personalized care
-      and treatment. Schedule same- or next-day appointments with urology-trained
-      providers, fostering continuous communication through our app. Access up-to-date
-      educational materials related to your diagnosis, empowering you with knowledge.
-      Benefit from individualized care plans designed for your specific needs, guiding
-      you towards improved symptoms. With Youro's digital-first approach and 24/7
-      availability of urology-trained providers, achieving peak urologic health is
-      simple, enjoyable, and tailored to you.
-    team:
-    - email: vamshija@buffalo.edu
-      name: Vamshi Jamalpur
-    - email: shyderab@buffalo.edu
-      name: Sai Nath Hyderabad
-    - email: abhignas@buffalo.edu
-      name: Abhigna Sree Tumati
-    - email: rmandava@buffalo.edu
-      name: Ravindra Mandava
-    - email: skachava@buffalo.edu
-      name: Sri Sai Charan Kachavarapu
-    title: Youro
-    url: http://youro-ui.s3-website-us-east-1.amazonaws.com/
+    - email: kaushik3@buffalo.edu
+      name: Arjun Ramesh Kaushik
+    title: Leveraging FHE for Enhancing Soft-Biometric Privacy
 - code: CSE302
   projects:
   - description: 'We helped prepare the launch of Dr. Ziming Zhao''s cybersecurity
@@ -728,4 +802,50 @@
       name: Wei Chen
     title: PWNIoT
     url: http://pwniot.cacti.academy
+- code: Research Project Under Prof. Nalini Ratha.
+  projects:
+  - description: We work on a privacy preserving sleep apnea detection method from
+      ECG signals using Fully Homomorphic Encryption (FHE) and Deep Learning. FHE
+      enables deep learning analysis on encrypted ECG signals thereby guaranteeing
+      security and privacy.
+    team:
+    - email: byalavar@buffalo.edu
+      name: Bharat Yalavarthi
+    - email: kaushik3@buffalo.edu
+      name: Arjun Kaushik
+    - email: tilaksha@buffalo.edu
+      name: Tilak Sharma
+    - email: nratha@buffalo.edu
+      name: and Prof. Nalini Ratha
+    title: Secure Sleep Apnea Detection using FHE
+- code: CSE 666
+  projects:
+  - description: "In this paper, we propose an end-to-end vascular feature recognition\
+      \ system built with the security and privacy of the template in mind. Our solution\
+      \ uses Resnet50 architecture coupled with biohashing to securely store and manage\
+      \ the biometric data of individuals. The system makes use of the images captured\
+      \ using a near-infrared light scanner. This image is processed to generate a\
+      \ biohash, a unique digital representation of the user\xE2\u20AC\u2122s vein\
+      \ pattern. The system also employs a matching algorithm that compares the user\xE2\
+      \u20AC\u2122s biohash with the stored biohash to verify the user\xE2\u20AC\u2122\
+      s identity. The core model achieved an accuracy of 95.58% compared to the state-of-the-art\
+      \ accuracy of 97.66%. However, our proposed solution achieves an EER rate of\
+      \ 0 after biohashing whereas the state-of-the-art model has an EER rate of 2.03,\
+      \ indicating 100% efficiency of biohashing."
+    team:
+    - email: chrishum@buffalo.edu
+      name: Chris Humphry
+    - email: sunilruf@buffalo.edu
+      name: Sunil Rufus Ramneedee Pushparaj
+    title: Secure Vascular Biometric Recognition
+- code: Independent Study/ Project
+  projects:
+  - description: 'A contactless fingerprint capture application with enrollment and
+      verification. '
+    team:
+    - email: suryavee@buffalo.edu
+      name: Suryaveer Singh
+    - email: bhavinja@buffalo.edu
+      name: Bhavin Jawade
+    title: Contactless Fingerprint Application
 
