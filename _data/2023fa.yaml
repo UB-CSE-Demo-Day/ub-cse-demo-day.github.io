@@ -134,16 +134,16 @@
       by introducing features such as user login for personalized experiences, word
       categorization, lookup history, favorites, and language-based suggestions.
     team:
-    - email: sambasai@buffalo.edu
-      name: '?'
-    - email: blessybo@buffalo.edu
-      name: '?'
-    - email: rnikam@buffalo.edu
-      name: '?'
     - email: as488@buffalo.edu
-      name: '?'
+      name: Ankita Sharma
+    - email: sambasai@buffalo.edu
+      name: Sagar Gopalasetti
+    - email: blessybo@buffalo.edu
+      name: Blessy Boby
+    - email: rnikam@buffalo.edu
+      name: Rushikesh Nikam
     - email: ssingamp@buffalo.edu
-      name: '?'
+      name: Sai Rohit Singampalli
     title: Online Dictionary
   - description: 'The Online Event Scheduler is a web-based application designed to
       assist individuals in
@@ -301,6 +301,39 @@
       name: Sri Sai Charan Kachavarapu
     title: Youro
     url: http://youro-ui.s3-website-us-east-1.amazonaws.com/
+  - description: Website, CMS system, admin portal and member portal for the AI for
+      Exceptional Education organization headed by UB
+    team:
+    - email: kashyapd@buffalo.edu
+      name: Kashyap Soni
+    - email: dhavalja@buffalo.edu
+      name: Dhaval Patel
+    - email: ak248@buffalo.edu
+      name: Atharva Kulkarni
+    - email: sk395@buffalo.edu
+      name: Shubham Kulkarni
+    - email: divyamur@buffalo.edu
+      name: Divya Muralidharan
+    title: CMS Mavens
+  - description: The objective of this project is to develop an application for museum
+      patrons to participate in a scavenger hunt application. The patrons would be
+      given a challenging set of scavenger hunt questions, they would have to find
+      the exhibit that satisfies the answer to the question and scan a near field
+      communications (NFC) chip with their smartphone to get credit for answering
+      the question. The application would time the execution of the scavenger hunt
+      and patrons will see their ranking at the end of the scavenger hunt. A companion
+      objective is to develop an administrative application to load and maintain the
+      scavenger hunt information, narrative, photos, etc. for consumption by the patron
+      application. The senior design class will be responsible for defining the project
+      requirements, creating a comprehensive plan, and overseeing its development
+      and deployment
+    team:
+    - email: vdib@buffalo.edu
+      name: '?'
+    - email: caceresw@buffalo.edu
+      name: '?'
+    title: 'museum Interactive exprience '
+    url: http://museum-scavenger-hunt.us-east-2.elasticbeanstalk.com/
 - code: CSE 302
   projects:
   - description: This project aims to create a toolchain based around a compiler and
@@ -562,6 +595,21 @@
     - email: zimingya@buffalo.edu
       name: Ziming Yang
     title: Undead Purge
+  - description: 'Help a steam like ghost in a cup named Ghup, make his way out a
+      childs bedroom to freedom. Navigate him through a platformer with obstacles
+      to the goal.
+
+      '
+    team:
+    - email: shawnabr@buffalo.edu
+      name: Shawn Abraham
+    - email: owenjin@buffalo.edu
+      name: Owen Jin
+    - email: annushap@buffalo.edu
+      name: Annusha Pervez
+    - email: jwong73@buffalo.edu
+      name: Jessica Wong
+    title: UpUpReunited
 - code: 'CSE 442: Software Engineering'
   projects:
   - description: 'A Chess engine website built in javascript '
@@ -677,6 +725,36 @@
     - email: anh6@buffalo.edu
       name: Alexis Hubbard
     title: Shrubbery Quest by Nefariouz Gamez
+  - description: 'Our project is a web application that allows students going to UB
+      to leave reviews for restaurants around or in the campus area. '
+    team:
+    - email: haoqinzh@buffalo.edu
+      name: Hao Zhu
+    - email: ryankhan@buffalo.edu
+      name: Ryan Khan
+    - email: hshi8@buffalo.edu
+      name: Haoyang Shi
+    - email: haobowan@buffalo.edu
+      name: Haobo Wang
+    - email: rzhang25@buffalo.edu
+      name: Ruifeng Zhang
+    title: Nutrient Fanclub
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2023-Fall/cse-442ae/build
+  - description: Our app allows the user to create their own account so they can create
+      music from scratch, practice instruments and songs and look up songs.
+    team:
+    - email: breckenm@buffalo.edu
+      name: Brecken McGeough
+    - email: js642@buffalo.edu
+      name: Jeremy Sprague
+    - email: conradbr@buffalo.edu
+      name: Conrad Bremer
+    - email: ejhong@buffalo.edu
+      name: Eric Hong
+    - email: cjlehr@buffalo.edu
+      name: Connor Lehr
+    title: 'Gig App/ Fugue State '
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2023-Fall/cse-442o/git_repo/project-group-fugue-state/Frontend/templates/homepage.php
 - code: Research Under Dr. Ratha
   projects:
   - description: In this work, we develop a secure potential disease classification
@@ -708,6 +786,15 @@
     - email: bhanucha@buffalo.edu
       name: Tarun Reddi
     title: 'Crimson Eye: A Data-driven Approach to Crime Analysis'
+  - description: 'Our project focuses on to present the change in the climate over
+      the years in the major cities of world. This change is majorly determined by
+      the global temperature over the years. '
+    team:
+    - email: rsingh57@buffalo.edu
+      name: Radhika Singh
+    - email: ritikare@buffalo.edu
+      name: Ritika Rekhi
+    title: Global Climate Change Analysis of the Major Cities over the Years
   - description: Our project involves utilizing a dataset comprising surveys from
       individuals experiencing mental health issues. The primary objective is to investigate
       whether individuals, despite receiving resources from their respective companies,
@@ -749,17 +836,6 @@
     - email: ta47@buffalo.edu
       name: Tejas Prakash Agrawal
     title: FingerCraft
-- code: 'CSE 4/587 B: Data Intensive Computing'
-  projects:
-  - description: 'Our project focuses on to present the change in the climate over
-      the years in the major cities of world. This change is majorly determined by
-      the global temperature over the years. '
-    team:
-    - email: rsingh57@buffalo.edu
-      name: Radhika Singh
-    - email: ritikarekhi@buffalo.edu
-      name: Ritika Rekhi
-    title: Global Climate Change Analysis of the Major Cities over the Years
 - code: 'Research '
   projects:
   - description: '
@@ -802,6 +878,16 @@
       name: Wei Chen
     title: PWNIoT
     url: http://pwniot.cacti.academy
+  - description: The purpose of this project is to be able to integrate Machine Learning
+      models onto the MLModelScope platform; A hardware/software agnostic allowing
+      novice users to run and benchmark Machine Learning models. For our demo, we
+      are featuring the testing and running of two models.
+    team:
+    - email: yuanjiex@buffalo.edu
+      name: Yuanjie Xu
+    - email: harveykw@buffalo.edu
+      name: Harvey Kwong
+    title: ML model recommendation and benchmark systems
 - code: Research Project Under Prof. Nalini Ratha.
   projects:
   - description: We work on a privacy preserving sleep apnea detection method from
@@ -838,6 +924,11 @@
     - email: sunilruf@buffalo.edu
       name: Sunil Rufus Ramneedee Pushparaj
     title: Secure Vascular Biometric Recognition
+  - description: A system for forgery detection and palmprint authentication
+    team:
+    - email: vatsalag@buffalo.edu
+      name: '?'
+    title: A Two Stage Hybrid Methodology For Forgery Detection And Palmprint Authentication
 - code: Independent Study/ Project
   projects:
   - description: 'A contactless fingerprint capture application with enrollment and
@@ -848,4 +939,30 @@
     - email: bhavinja@buffalo.edu
       name: Bhavin Jawade
     title: Contactless Fingerprint Application
+- code: Research
+  projects:
+  - description: 'This research introduces an approach to overcoming the limitations
+      of unimodal biometric systems through the development of a secure multimodal
+      biometric system. The core of this system lies in its encrypted score/decision-level
+      fusion, which integrates various biometric traits such as face, fingerprint,
+      and iris. Utilizing the power of non-interactive homomorphic encryption, this
+      system significantly enhances the accuracy, security, and privacy aspects, making
+      it particularly suitable for cloud-based biometric services.
+
+      '
+    team:
+    - email: tilaksha@buffalo.edu
+      name: '?'
+    - email: nratha@buffalo.edu
+      name: '?'
+    title: Fully Homomorphic Encryption Operators for Score and Decision Fusion in
+      Biometric Identification
+- code: EAS 561 TUT Robotics Project
+  projects:
+  - description: 'Create an algorithm to solve the rubiks race puzzle, implement it
+      on DOFBOT and control it by ROS. '
+    team:
+    - email: sjadhav4@buffalo.edu
+      name: '?'
+    title: Playing Rubik's Race Using a Robot
 
