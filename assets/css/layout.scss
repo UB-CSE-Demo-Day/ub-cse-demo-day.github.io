@@ -124,6 +124,15 @@ img.scalable {
   opacity:0.5;
   margin-top: -10px;
 }
+.detailblock{
+  display:flex;
+  background:#2f9fd0;
+  color:white;
+  font-family: "Roboto Slab", serif;
+  padding:5px;
+  border-radius:10px;
+  width:50%;
+}
 section.content .course {
   border-top:    5px solid $bairdpoint;
   border-bottom: 5px solid $bairdpoint;

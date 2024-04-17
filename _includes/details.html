@@ -1,17 +1,18 @@
 
-<div>
+<div style="display:flex">
 {% for detail in include.details %}
   {% if detail[0] == "where" %}
-    <div>
-      <img src="/assets/images/map.svg" />Where: <p> {{detail[1]}}</p>
+    <div class="detailblock">
+      <img src="/assets/images/map.svg" width="50px" />Where: <p> {{detail[1]}}</p>
     </div>  
   {% endif %}
   {% if detail[0] == "when" %}
-    <div>
-      <img src="/assets/images/clock.svg" />When: <p> {{detail[1]}}</p>
+    <div class="detailblock">
+      <img src="/assets/images/clock.svg" width="50px" />When: <p> {{detail[1]}}</p>
     </div>  
   {% endif %}
   {% if detail[0] == "schedule" %}
+    <br>
     <dl class="details">
     <dt>{{ detail[0] | capitalize }}</dt>
     
