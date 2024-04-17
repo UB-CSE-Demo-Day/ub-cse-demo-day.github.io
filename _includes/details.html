@@ -1,6 +1,4 @@
 
-
-
 {% for detail in include.details %}
   {% if detail[0] == "where" %}
     <div>
@@ -13,17 +11,18 @@
     </div>  
   {% endif %}
   {% if detail[0] == "schedule" %}
-  <dt>{{ detail[0] | capitalize }}</dt>
-  
-    <dd class="schedule">
-    {% for event in detail[1] %}
-      <div class="event">
-        <span class="description">{{ event["what"] }}</span> -
-        <span class="time">{{ event["when"] }}</span>
-      </div>
-    {% endfor %}
-    </dd>
- 
+    <dl class="details">
+    <dt>{{ detail[0] | capitalize }}</dt>
+    
+      <dd class="schedule">
+      {% for event in detail[1] %}
+        <div class="event">
+          <span class="description">{{ event["what"] }}</span> -
+          <span class="time">{{ event["when"] }}</span>
+        </div>
+      {% endfor %}
+      </dd>
+    </dl>
   {% endif %}
 {% endfor %}
 
