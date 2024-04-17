@@ -117,7 +117,11 @@ img.scalable {
   max-width: 100%;
   height: auto;
 }
-
+.header {
+  margin-left: -40px;
+  margin-right: -40px;
+  opacity:0.3;
+}
 section.content .course {
   border-top:    5px solid $bairdpoint;
   border-bottom: 5px solid $bairdpoint;
