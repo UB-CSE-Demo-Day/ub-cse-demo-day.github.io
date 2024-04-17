@@ -27,6 +27,7 @@ section.content {
 }
 
 section.content h1 {
+  font-family: "Roboto Slab", serif;
   margin-left: -40px;
   margin-right: -40px;
   margin-top: -20px;
@@ -118,9 +119,10 @@ img.scalable {
   height: auto;
 }
 .header {
-  margin-left: -40px;
-  margin-right: -40px;
-  opacity:0.3;
+  margin-left: -20px;
+  margin-right: -60px;
+  opacity:0.5;
+  margin-top: -10px;
 }
 section.content .course {
   border-top:    5px solid $bairdpoint;
