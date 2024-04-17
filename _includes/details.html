@@ -1,5 +1,6 @@
 
-<div style="display:flex">
+<div>
+  <div style="display:flex">
 {% for detail in include.details %}
   {% if detail[0] == "where" %}
     <div class="detailblock">
@@ -12,7 +13,7 @@
     </div>  
   {% endif %}
   {% if detail[0] == "schedule" %}
-    <br>
+    </div>
     <dl class="details">
     <dt>{{ detail[0] | capitalize }}</dt>
     
