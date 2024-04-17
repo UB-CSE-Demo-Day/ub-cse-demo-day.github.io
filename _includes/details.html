@@ -1,4 +1,35 @@
-<dl class="details">
+
+
+
+{% for detail in include.details %}
+  {% if detail[0] == "where" %}
+    <div>
+      <img src="/assets/images/map.svg" />Where: <p> {{detail[1]}}</p>
+    </div>  
+  {% endif %}
+  {% if detail[0] == "when" %}
+    <div>
+      <img src="/assets/images/clock.svg" />When: <p> {{detail[1]}}</p>
+    </div>  
+  {% endif %}
+  {% if detail[0] == "schedule" %}
+  <dt>{{ detail[0] | capitalize }}</dt>
+  
+    <dd class="schedule">
+    {% for event in detail[1] %}
+      <div class="event">
+        <span class="description">{{ event["what"] }}</span> -
+        <span class="time">{{ event["when"] }}</span>
+      </div>
+    {% endfor %}
+    </dd>
+ 
+  {% endif %}
+{% endfor %}
+
+
+<!--
+  dl class="details">
 {% for detail in include.details %}
   <dt>{{ detail[0] | capitalize }}</dt>
   {% if detail[0] == "schedule" %}
@@ -15,3 +46,4 @@
   {% endif %}
 {% endfor %}
 </dl>
+-->
