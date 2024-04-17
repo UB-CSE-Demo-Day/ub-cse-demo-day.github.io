@@ -1,0 +1,71 @@
+- code: 'CSE 700: Independent Study'
+  projects:
+  - description: This research employs advanced machine learning and neural network
+      models to analyze crime types, predict hotspots, and uncover latent topics within
+      Los Angeles crime data. By integrating spatial, temporal, and textual analysis,
+      it offers valuable insights for law enforcement on crime patterns and prevention
+      strategies.
+    team:
+    - email: bhanucha@buffalo.edu
+      name: Tarun Reddi
+    - email: charviku@buffalo.edu
+      name: Charvi Kusuma
+    title: 'Crime Dynamics Mapping: Textual, Spatial and Temporal Perspectives'
+- code: 'Independent study masters project. '
+  projects:
+  - description: 'Financial Management and Recommendation platform. '
+    team:
+    - email: lsreeram@buffalo.edu
+      name: Lakshmi Priyanka
+    title: WealthWise
+- code: CSE 302/303
+  projects:
+  - description: 'Indoor Wireless Localization (specifically Wi-Fi) has become quite
+      widespread, there is an active Task Group 802.11bf as well to bring this into
+      standards and there are many learning based solutions to bring localization
+      accuracy to sub-meter level. While, this is great news for indoor automation,
+      there are deployability concerns in terms of generalizability and privacy concerns
+      surrounding it. While, the most popular approach is to use data based ML-models
+      to provide sub-meter accurate localization algorithms, there are still requirements
+      for generalization to different environments and better accuracy.
+
+
+      We developed a web-app to get data from Wi-Fi routers for a given smartphone.
+      The data is then to be processed online to pass through an ML-model. We also
+      developed an android app that can allow us to navigate within the first and
+      third floors of the Davis Hall.'
+    team:
+    - email: ahszykow@buffalo.edu
+      name: Anthony Szykowny
+    - email: cgvarghe@buffalo.edu
+      name: Christopher Varghese
+    - email: cheung44@buffalo.edu
+      name: Matthew Cheung
+    - email: doralei@buffalo.edu
+      name: Dora Lei
+    - email: schan48@buffalo.edu
+      name: Sydney Chan
+    - email: athannon@buffalo.edu
+      name: Ashton Hannon
+    title: EL/R - Indoor Wi-Fi Localization and Navigation App
+    url: https://webdev.cse.buffalo.edu/elr/sp24/#indoor-wireless-localization-roshan-ayyalasomayajula
+- code: 'CSE 700TUT : Independent Study'
+  projects:
+  - description: "\"Experience the 'Code-Free Data Science Pipeline,' a user-friendly\
+      \ platform tailored for beginners and seasoned professionals alike. Simplifying\
+      \ machine learning model creation and data preprocessing, our intuitive interface\
+      \ guides users through every step. With automated data cleansing and transformation,\
+      \ users can prepare datasets effortlessly. The platform's standout feature is\
+      \ its ability to generate tailored models based on user preferences and dataset\
+      \ characteristics. Say goodbye to manual coding and debugging\xE2\u20AC\u201D\
+      unlock valuable insights with ease. Whether you're diving into data science\
+      \ or streamlining your workflow, our platform empowers you to harness the power\
+      \ of machine learning effortlessly.\""
+    team:
+    - email: ullasred@buffalo.edu
+      name: Chennuri Ullas Reddy
+    - email: sboddu@buffalo.edu
+      name: Boddu Srivatsa
+    title: '"Code-Free Data Science Pipeline: Tailored Machine Learning Models with
+      Automated Data Preprocessing Platform"'
+
