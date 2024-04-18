@@ -1,8 +1,7 @@
-<details class='details'>
+
 {% for event in include.events %}
-  <summary>{{ event["title"] | capitalize }}</summary>
+  <H2>{{ event["title"] | capitalize }}</H2>
  
     <p>{{ event["details"] }}</p>
   
 {% endfor %}
-</details>
