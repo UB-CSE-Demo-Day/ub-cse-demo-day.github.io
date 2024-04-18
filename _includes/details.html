@@ -14,18 +14,17 @@
   {% endif %}
   {% if detail[0] == "schedule" %}
     </div>
-    <dl class="details">
-    <dt>{{ detail[0] | capitalize }}</dt>
+    <div class="schedule">
+    <h2>{{ detail[0] | capitalize }}</h2>
     
-      <dd class="schedule">
+      
       {% for event in detail[1] %}
         <div class="event">
           <span class="description">{{ event["what"] }}</span> -
           <span class="time">{{ event["when"] }}</span>
         </div>
       {% endfor %}
-      </dd>
-    </dl>
+    </div>
   {% endif %}
 {% endfor %}
 </div>

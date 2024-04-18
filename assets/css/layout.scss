@@ -118,11 +118,29 @@ img.scalable {
   max-width: 100%;
   height: auto;
 }
+.events h2{
+  font-family: "Roboto Slab", serif;
+  border-bottom:none;
+  text-align: left;
+  margin-top: 10px;
+}
+
+.events p {
+  max-width:90%;
+  padding-right:40px;
+}
+
 .header {
   margin-left: -20px;
   margin-right: -60px;
   opacity:0.5;
   margin-top: -10px;
+}
+.schedule{
+  background:lightgray;
+  padding:30px;
+  border-radius:10px;
+  
 }
 .detailblock{
   display:flex;
