@@ -133,7 +133,10 @@ img.scalable {
   border-radius:10px;
   width:50%;
   align-items:center;
-  
+  margin-right:20px;
+}
+.detailblock:last-of-type{
+  margin-right:0px;
 }
 section.content .course {
   border-top:    5px solid $bairdpoint;

@@ -1,8 +1,8 @@
 <dl class='details'>
 {% for event in include.events %}
-  <dt>{{ event[0] | capitalize }}</dt>
+  <dt>{{ event["title"] | capitalize }}</dt>
  
-    <dd>{{ event[1] }}</dd>
+    <dd>{{ event["details"] }}</dd>
   
 {% endfor %}
 </dl>
