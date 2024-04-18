@@ -50,12 +50,18 @@ section.content h2 {
   margin-top: 30px;
 }
 */
+.subhead{
+    text-align:center;
+    
+}
 .contentblock{
+  text-align:center;
+  margin-top:20px;
+}
+.contentblock h2{
   background:lightgray;
   padding:5px;
   border-radius:10px;
-}
-.contentblock h2{
   font-family: "Roboto Slab", serif;
   margin-left: auto;
   margin-right: auto;
