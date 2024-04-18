@@ -148,7 +148,7 @@ p.events  {
   margin-top:20px;
 
 }
-h2.schedule{
+.schedule h2{
   font-family: "Roboto Slab", serif;
   text-align: center;
 
@@ -156,9 +156,9 @@ h2.schedule{
 .scheduledetails{
   width:60%;
   margin:auto;
-  display:flex;
-  justify-content: center;
+  
 }
+
 .detailblock{
   display:flex;
   background:#2f9fd0;
