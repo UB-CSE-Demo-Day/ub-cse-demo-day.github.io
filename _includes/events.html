@@ -2,6 +2,6 @@
 {% for event in include.events %}
   <H2 class="events">{{ event["title"] | capitalize }}</H2>
  
-    <p>{{ event["details"] }}</p>
+    <p class="events">{{ event["details"] }}</p>
   
 {% endfor %}

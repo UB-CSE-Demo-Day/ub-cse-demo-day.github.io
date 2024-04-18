@@ -17,13 +17,14 @@
     <div class="schedule">
     <h2>{{ detail[0] | capitalize }}</h2>
     
-      
+      <div class="scheduledetails">
       {% for event in detail[1] %}
         <div class="event">
           <span class="description">{{ event["what"] }}</span> -
           <span class="time">{{ event["when"] }}</span>
         </div>
       {% endfor %}
+    </div>
     </div>
   {% endif %}
 {% endfor %}
