@@ -1,16 +1,5 @@
 - code: CSE 700
   projects:
-  - description: This research employs advanced machine learning and neural network
-      models to analyze crime types, predict hotspots, and uncover latent topics within
-      Los Angeles crime data. By integrating spatial, temporal, and textual analysis,
-      it offers valuable insights for law enforcement on crime patterns and prevention
-      strategies.
-    team:
-    - email: bhanucha@buffalo.edu
-      name: Tarun Reddi
-    - email: charviku@buffalo.edu
-      name: Charvi Kusuma
-    title: 'Crime Dynamics Mapping: Textual, Spatial and Temporal Perspectives'
   - description: "\"Experience the 'Code-Free Data Science Pipeline,' a user-friendly\
       \ platform tailored for beginners and seasoned professionals alike. Simplifying\
       \ machine learning model creation and data preprocessing, our intuitive interface\
@@ -28,15 +17,249 @@
       name: Boddu Srivatsa
     title: '"Code-Free Data Science Pipeline: Tailored Machine Learning Models with
       Automated Data Preprocessing Platform"'
-- code: 'CSE 700 '
-  projects:
-  - description: 'Financial Management and Recommendation platform. '
+  - description: This research employs advanced machine learning and neural network
+      models to analyze crime types, predict hotspots, and uncover latent topics within
+      Los Angeles crime data. By integrating spatial, temporal, and textual analysis,
+      it offers valuable insights for law enforcement on crime patterns and prevention
+      strategies.
     team:
-    - email: lsreeram@buffalo.edu
-      name: Lakshmi Priyanka
-    title: WealthWise
+    - email: bhanucha@buffalo.edu
+      name: Tarun Reddi
+    - email: charviku@buffalo.edu
+      name: Charvi Kusuma
+    title: 'Crime Dynamics Mapping: Textual, Spatial and Temporal Perspectives'
+- code: 'CSE 370: HCI'
+  projects:
+  - description: A social media platform for gamers all alike to post, rank, and find
+      each other based on game that they play.
+    team:
+    - email: adavitaj@buffalo.edu
+      name: Adavita Jain
+    - email: kzhong2@buffalo.edu
+      name: Kevin Zhong
+    - email: mye23@buffalo.edu
+      name: Michelle Ye
+    - email: tasneemz@buffalo.edu
+      name: Neem Zaman
+    - email: zheng43@buffalo.edu
+      name: Jason Zheng
+    title: 200 OK
+    url: https://webdev.cse.buffalo.edu/hci/teams/ok/
+  - description: '
+
+      Recipe Pantry is a social media application designed to assist those looking
+      to share, receive, and search for recipes. Our app makes usability the utmost
+      priority for the end of streamlining users towards discovering the recipes they''re
+      going to be most interested in.
+
+
+      The flames fueling the fire behind Recipe Pantry cook in Recipe Creation and
+      Cookbook Curation. The former allows one to title a recipe, describe the ingredients
+      and preparation steps therein, and to accompany it with an appetizing image.
+      Cookbooks allow for the collation of recipes into a cohesive whole - say a collection
+      of Latin cuisine, or perhaps Asian Fusion? Recipe Pantry grants the whole world
+      of cuisine at an instant!'
+    team:
+    - email: aolansen@buffalo.edu
+      name: Andrew O'Lansen
+    - email: huiqicai@buffalo.edu
+      name: Tiffany Cai
+    - email: jcmui@buffalo.edu
+      name: Jessica Mui
+    - email: journeys@buffalo.edu
+      name: Journey Spratt
+    - email: shebadel@buffalo.edu
+      name: Sheba DeLozier
+    title: UI maxxing
+    url: https://webdev.cse.buffalo.edu/hci/teams/uimax
+  - description: 'Trek is a place where nature lovers will be able to gather to plan
+      and share hiking trips. Users can engage with two main sections: the gallery
+      page and the hikes page. The gallery page is a feed that allows users to post
+      pictures/descriptions relating to hikes they are on/have been on, and other
+      users can interact with these posts (like/comment). The hikes page is a feed
+      dedicated to posting/planning hikes. On this page, posts would include the location
+      where the user is planning to take the hike, a description, tags that specify
+      which type of hike is it, and the level of difficulty. Other users can like,
+      and comment on these posts as well as join the hike and will be put into a group
+      chat to communicate with all hikers part of the hike. Users have the choice
+      to restrict the visibility of their hike and gallery posts to friends to protect
+      their privacy and limit people who can join their hike to friends. Once the
+      hike is over the post owner can mark it as completed and the post will no longer
+      show up on the hikes page. Users can see all of their completed and upcoming
+      hikes on their profile page alongside stats like total miles hiked, and total
+      hikes completed.'
+    team:
+    - email: dmorlok@buffalo.edu
+      name: Devon Morlok
+    - email: iallahbu@buffalo.edu
+      name: Ibrahim Allahbukhsh
+    - email: jmabramo@buffalo.edu
+      name: John Abramo
+    - email: Enamorado@buffalo.edu
+      name: Robert Reyes
+    - email: smaranve@buffalo.edu
+      name: Smaran Vedantam
+    - email: owenjin@buffalo.edu
+      name: Owen Jin
+    title: Won One
+    url: https://webdev.cse.buffalo.edu/hci/teams/wonone
+- code: 'CSE 442: Software Engineering'
+  projects:
+  - description: 'Transforming Retail with Smart Self-Checkout: Revolutionizing shopping
+      experiences through innovative, user-friendly kiosks for seamless transactions
+      and elevated efficiency.'
+    team:
+    - email: atisdale@buffalo.edu
+      name: Alex Tisdale
+    - email: alpbuz@buffalo.edu
+      name: Alp Buz
+    - email: bcoconne@buffalo.edu
+      name: Brendan O'Connell
+    - email: mscollop@buffalo.edu
+      name: Matt Collopy
+    - email: mmhartma@buffalo.edu
+      name: Marcus Hartman
+    title: Backend Boys
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442m/
+  - description: An RPG based around the day-to-day experiences of a computer science
+      major with fantastical elements intermixed.
+    team:
+    - email: eaturcio@buffalo.edu
+      name: Eduardo Turcios
+    - email: cdearing@buffalo.edu
+      name: Chris Dearing
+    - email: ajgherar@buffalo.edu
+      name: Alexander Gherardi
+    - email: jlee265@buffalo.edu
+      name: James Lee
+    - email: jontankh@buffalo.edu
+      name: Jontan Khuu
+    title: Diet Coke
+  - description: University at Buffalo campus navigation app. A navigation web application
+      to help students traverse the complex web that is UB's North Campus.
+    team:
+    - email: cepotts@buffalo.edu
+      name: Christopher Potts
+    - email: sgupta45@buffalo.edu
+      name: Shreya Gupta
+    - email: mdjim@buffalo.edu
+      name: Jim Md
+    - email: rplawren@buffalo.edu
+      name: Lawrence Richard
+    - email: tariqbiv@buffalo.edu
+      name: Biviji Tariq
+    title: Guac and Roll
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442k/build/
+  - description: UB professor ranking and reviewing web app
+    team:
+    - email: Jiewenhu@buffalo.edu
+      name: Jiewenhu
+    - email: swu65@buffalo.edu
+      name: swu65
+    - email: Yzhu53@buffalo.edu
+      name: Yzhu53
+    - email: iallahbu@buffalo.edu
+      name: iallahbu
+    title: InSight
+    url: 'https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442ac/ '
+  - description: Multi and single player Chinese chess web app
+    team:
+    - email: jkelmasr@buffalo.edu
+      name: member
+    - email: henrylee@buffalo.edu
+      name: member
+    - email: mhaynes@buffalo.edu
+      name: member
+    - email: jobayedb@buffalo.edu
+      name: member
+    - email: zheng43@buffalo.edu
+      name: member
+    title: Power Chess
+    url: 'https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442ad/dist/ '
+  - description: A website that blends the repository sharing capabilities of GitHub
+      with the interconnectedness of LinkedIn.
+    team:
+    - email: ss649@buffalo.edu
+      name: Shreyas Narayanan Sridhar
+    - email: vrushaal@buffalo.edu
+      name: Vrushaali Nagaraj
+    - email: eaundrus@buffalo.edu
+      name: Eleanora Undrus
+    - email: sjbowen@buffalo.edu
+      name: Sebastien Bowen
+    - email: riagupta@buffalo.edu
+      name: Ria Gupta
+    title: SERVS
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442r/servs/login.php
+  - description: A centralized, accessible site for users to log their exercise and
+      nutrition habits all in one place.
+    team:
+    - email: donovanb@buffalo.edu
+      name: Donovan Blount
+    - email: dreilly5@buffalo.edu
+      name: David Reilly
+    - email: aidanodo@buffalo.edu
+      name: Aidan O'Donnell
+    - email: nikkosro@buffalo.edu
+      name: Nikkos Rose
+    - email: annushap@buffalo.edu
+      name: Annusha Pervez
+    title: The Climb
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442s/TheClimb/public/login_page.php
+  - description: The project is a fun and interactive 2D Dungeon-Style single-player
+      game that allows the user to add computer enemies to their party to play alongside
+      them.
+    team:
+    - email: braedenc@buffalo.edu
+      name: Braeden Cairns
+    - email: edwiniri@buffalo.edu
+      name: Edwin Irizarry
+    - email: nnakka@buffalo.edu
+      name: Navaneeth Nakka
+    - email: jnn2@buffalo.edu
+      name: Jason Nguyen
+    - email: jepodbie@buffalo.edu
+      name: Justin Podbielak
+    title: The Fortniters
+  - description: Journalist is a dynamic online journaling platform tailored for University
+      of Buffalo students.
+    team:
+    - email: rudraaks@buffalo.edu
+      name: Rudraaksh Karthick Bhuvaneswari
+    - email: beibitzh@buffalo.edu
+      name: Beibit Zhylkaidar
+    - email: kkhatri@buffalo.edu
+      name: Karthik Khatri
+    - email: nlsukhde@buffalo.edu
+      name: Nick Sukhdeo
+    title: The Journalists
+    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442l/
+- code: '312'
+  projects:
+  - description: A full stack single page webapp with full multi-player, player vs
+      engine, and a forum for updates on everything chess related!
+    team:
+    - email: dylanzin@buffalo.edu
+      name: dylanzin
+    - email: lgrichar@buffalo.edu
+      name: lgrichar
+    - email: masonpug@buffalo.edu
+      name: masonpug
+    title: BlueBrilliantv2
 - code: CSE 302/303
   projects:
+  - description: Choreographic programming aims to simplify distributed systems /
+      concurrent systems programming by allowing a programmer to specify the system
+      in its entirety
+    team:
+    - email: doyoonki@buffalo.edu
+      name: Alex Kim
+    - email: huiqicai@buffalo.edu
+      name: Tiffany Cai
+    - email: xiexianc@buffalo.edu
+      name: Vincent Chan
+    title: 'Choreographic Programming '
+    url: https://github.com/akhirsch/Pirouette-Compiler
   - description: 'Indoor Wireless Localization (specifically Wi-Fi) has become quite
       widespread, there is an active Task Group 802.11bf as well to bring this into
       standards and there are many learning based solutions to bring localization
@@ -66,6 +289,17 @@
       name: Ashton Hannon
     title: EL/R - Indoor Wi-Fi based Localization and Navigation App
     url: https://webdev.cse.buffalo.edu/elr/sp24/#indoor-wireless-localization-roshan-ayyalasomayajula
+  - description: Porting a B-Tree database structure from being a postgres plugin,
+      to being a standalone C library that can be plugged-in to any relational databse.
+    team:
+    - email: wpeng2@buffalo.edu
+      name: Winston Peng
+    - email: yudianke@buffalo.edu
+      name: Yudian Ke
+    - email: marcusgu@buffalo.edu
+      name: Marcus Guild
+    title: pgAQP Plugin
+    url: https://github.com/UB-ADBLAB/abtree/tree/elr-sp23-onboarding
   - description: 'The Teamwork Tool project exists for UB faculty to distribute peer
       evaluations among their
 
@@ -117,238 +351,61 @@
       name: Lawrence Yao
     title: 'Vizier: Data Visualization Notebook'
     url: 'https://vizierdb.info/ '
-  - description: Porting a B-Tree database structure from being a postgres plugin,
-      to being a standalone C library that can be plugged-in to any relational databse.
+  - description: Our project aims to design an interface that takes in Android or
+      Java source code and outputs any detected leaks of sensitive information. We
+      use visual debugging to represent the worklist algorithm that traverses a piece
+      of code and detects if it is malware or not.
     team:
-    - email: wpeng2@buffalo.edu
-      name: Winston Peng
-    - email: yudianke@buffalo.edu
-      name: Yudian Ke
-    - email: marcusgu@buffalo.edu
-      name: Marcus Guild
-    title: pgAQP Plugin
-    url: https://github.com/UB-ADBLAB/abtree/tree/elr-sp23-onboarding
-- code: 'CSE 442: Software Engineering'
-  projects:
-  - description: 'Transforming Retail with Smart Self-Checkout: Revolutionizing shopping
-      experiences through innovative, user-friendly kiosks for seamless transactions
-      and elevated efficiency.'
-    team:
-    - email: atisdale@buffalo.edu
-      name: Alex Tisdale
-    - email: alpbuz@buffalo.edu
-      name: Alp Buz
-    - email: bcoconne@buffalo.edu
-      name: Brendan O'Connell
-    - email: mscollop@buffalo.edu
-      name: Matt Collopy
-    - email: mmhartma@buffalo.edu
-      name: Marcus Hartman
-    title: Backend Boys
-    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442m/
-  - description: A centralized, accessible site for users to log their exercise and
-      nutrition habits all in one place.
-    team:
-    - email: donovanb@buffalo.edu
-      name: Donovan Blount
-    - email: dreilly5@buffalo.edu
-      name: David Reilly
-    - email: aidanodo@buffalo.edu
-      name: Aidan O'Donnell
-    - email: nikkosro@buffalo.edu
-      name: Nikkos Rose
-    - email: annushap@buffalo.edu
-      name: Annusha Pervez
-    title: The Climb
-    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442s/TheClimb/public/login_page.php
-  - description: A website that blends the repository sharing capabilities of GitHub
-      with the interconnectedness of LinkedIn.
-    team:
-    - email: ss649@buffalo.edu
-      name: Shreyas Narayanan Sridhar
-    - email: vrushaal@buffalo.edu
-      name: Vrushaali Nagaraj
-    - email: eaundrus@buffalo.edu
-      name: Eleanora Undrus
-    - email: sjbowen@buffalo.edu
-      name: Sebastien Bowen
     - email: riagupta@buffalo.edu
       name: Ria Gupta
-    title: SERVS
-    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442r/servs/login.php
-  - description: An RPG based around the day-to-day experiences of a computer science
-      major with fantastical elements intermixed.
-    team:
-    - email: eaturcio@buffalo.edu
-      name: Eduardo Turcios
-    - email: cdearing@buffalo.edu
-      name: Chris Dearing
-    - email: ajgherar@buffalo.edu
-      name: Alexander Gherardi
-    - email: jlee265@buffalo.edu
-      name: James Lee
-    - email: jontankh@buffalo.edu
-      name: Jontan Khuu
-    title: Diet Coke
-  - description: The project is a fun and interactive 2D Dungeon-Style single-player
-      game that allows the user to add computer enemies to their party to play alongside
-      them.
-    team:
-    - email: braedenc@buffalo.edu
-      name: Braeden Cairns
-    - email: edwiniri@buffalo.edu
-      name: Edwin Irizarry
-    - email: nnakka@buffalo.edu
-      name: Navaneeth Nakka
-    - email: jnn2@buffalo.edu
-      name: Jason Nguyen
-    - email: jepodbie@buffalo.edu
-      name: Justin Podbielak
-    title: The Fortniters
-  - description: University at Buffalo campus navigation app. A navigation web application
-      to help students traverse the complex web that is UB's North Campus.
-    team:
-    - email: cepotts@buffalo.edu
-      name: Christopher Potts
-    - email: sgupta45@buffalo.edu
-      name: Shreya Gupta
-    - email: mdjim@buffalo.edu
-      name: Jim Md
-    - email: rplawren@buffalo.edu
-      name: Lawrence Richard
-    - email: tariqbiv@buffalo.edu
-      name: Biviji Tariq
-    title: Guac and Roll
-    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442k/build/
-  - description: Journalist is a dynamic online journaling platform tailored for University
-      of Buffalo students.
-    team:
-    - email: rudraaks@buffalo.edu
-      name: Rudraaksh Karthick Bhuvaneswari
-    - email: beibitzh@buffalo.edu
-      name: Beibit Zhylkaidar
-    - email: kkhatri@buffalo.edu
-      name: Karthik Khatri
-    - email: nlsukhde@buffalo.edu
-      name: Nick Sukhdeo
-    title: The Journalists
-    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442l/
-  - description: UB professor ranking and reviewing web app
-    team:
-    - email: Jiewenhu@buffalo.edu
-      name: member
-    - email: swu65@buffalo.edu
-      name: member
-    - email: Yzhu53@buffalo.edu
-      name: member
-    - email: iallahbu@buffalo.edu
-      name: member
-    title: InSight
-    url: 'https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442ac/ '
-  - description: Multi and single player Chinese chess web app
-    team:
-    - email: jkelmasr@buffalo.edu
-      name: member
-    - email: henrylee@buffalo.edu
-      name: member
-    - email: mhaynes@buffalo.edu
-      name: member
-    - email: jobayedb@buffalo.edu
-      name: member
-    - email: zheng43@buffalo.edu
-      name: member
-    title: Power Chess
-    url: 'https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442ad/dist/ '
-- code: 'CSE 635: Natural Language Processing '
-  projects:
-  - description: This project developed a Retrieval-Augmented Generative AI to assist
-      University at Buffalo students with academic planning. It leveraged LangChain,
-      Pinecone, and a sentence transformer model to encode course data into semantic
-      vectors, enabling efficient semantic search. The top retrieved results were
-      fed into Hugging Face's Llama-2-7b LLM to generate comprehensive natural language
-      responses.
-    team:
-    - email: lalla@buffalo.edu
-      name: Lalla
-    title: Elective Genie
-    url: https://github.com/SrijaAlla/Electice-Genie
-- code: '312'
-  projects:
-  - description: A full stack single page webapp with full multi-player, player vs
-      engine, and a forum for updates on everything chess related!
-    team:
-    - email: dylanzin@buffalo.edu
-      name: dylanzin
-    - email: lgrichar@buffalo.edu
-      name: lgrichar
-    - email: masonpug@buffalo.edu
-      name: masonpug
-    title: BlueBrilliantv2
-- code: 'CSE 370: HCI'
-  projects:
-  - description: A social media platform for gamers all alike to post, rank, and find
-      each other based on game that they play.
-    team:
-    - email: adavitaj@buffalo.edu
-      name: Adavita Jain
-    - email: kzhong2@buffalo.edu
-      name: Kevin Zhong
-    - email: mye23@buffalo.edu
-      name: Michelle Ye
-    - email: tasneemz@buffalo.edu
-      name: Neem Zaman
-    - email: zheng43@buffalo.edu
-      name: Jason Zheng
-    title: 200 OK
-    url: https://webdev.cse.buffalo.edu/hci/teams/ok/
-  - description: '
-
-      Trek is a place where nature lovers will be able to gather to plan and share
-      hiking trips.'
-    team:
-    - email: dmorlok@buffalo.edu
-      name: Devon Morlok
-    - email: iallahbu@buffalo.edu
-      name: Ibrahim Allahbukhsh
-    - email: jmabramo@buffalo.edu
-      name: John Abramo
-    - email: Enamorado@buffalo.edu
-      name: Robert Reyes
-    - email: smaranve@buffalo.edu
-      name: Smaran Vedantam
-    - email: owenjin@buffalo.edu
-      name: Owen Jin
-    title: Won One
-    url: https://webdev.cse.buffalo.edu/hci/teams/wonone
-  - description: '
-
-      Recipe Pantry is a social media application designed to assist those looking
-      to share, receive, and search for recipes. Our app makes usability the utmost
-      priority for the end of streamlining users towards discovering the recipes they''re
-      going to be most interested in.
-
-
-      The flames fueling the fire behind Recipe Pantry cook in Recipe Creation and
-      Cookbook Curation. The former allows one to title a recipe, describe the ingredients
-      and preparation steps therein, and to accompany it with an appetizing image.
-      Cookbooks allow for the collation of recipes into a cohesive whole - say a collection
-      of Latin cuisine, or perhaps Asian Fusion? Recipe Pantry grants the whole world
-      of cuisine at an instant!'
-    team:
-    - email: aolansen@buffalo.edu
-      name: Andrew O'Lansen
-    - email: huiqicai@buffalo.edu
-      name: Tiffany Cai
-    - email: jcmui@buffalo.edu
-      name: Jessica Mui
-    - email: journeys@buffalo.edu
-      name: Journey Spratt
-    - email: shebadel@buffalo.edu
-      name: Sheba DeLozier
-    title: UI maxxing
-    url: https://webdev.cse.buffalo.edu/hci/teams/uimax
+    - email: vrushaal@buffalo.edu
+      name: Vrushaali Nagaraj
+    - email: ss649@buffalo.edu
+      name: Shreyas Sridhar
+    - email: jackeywa@buffalo.edu
+      name: Jackey Wang
+    - email: nawarkho@buffalo.edu
+      name: Nawar Khouri
+    title: Java and Android Malware Detection Using SootUp
+    url: https://github.com/lziarek/ELR-malware-detection/
 - code: 'CSE 611: Master''s Capstone Project'
   projects:
+  - description: 'This project presents the redone interfaces with augmented backend
+      support. In the new website, patients can share their medical journeys, see
+      diagnoses and info assigned to them by doctors, etc. Doctors and admins can
+      use their respective views to edit, assign, delete, and more on patients, specialities,
+      medical centres. '
+    team:
+    - email: mgupta8@buffalo.edu
+      name: Mokshita Gupta
+    - email: hrhutton@buffalo.edu
+      name: Harrison Hutton
+    - email: crdushko@buffalo.edu
+      name: Christopher Dushkoff
+    - email: jtsang3@buffalo.edu
+      name: Jennifer Tsang
+    - email: gsingh37@buffalo.edu
+      name: Gursimrat Tiwana
+    title: CSE611 Kaleida Health
+    url: http://kaleida-dev.s3-website.us-east-2.amazonaws.com/#
+  - description: 'Find a Mechanic is an application that allows users to book appointments
+      with local automotive service centers and lets them exchange messages with these
+      garages to ensure complete transparency regarding the status of their appointments.
+      Service Centers may sign up for a different type of account that will make them
+      discoverable by users, and allows them to manage employees, garage information,
+      and appointments within the app. '
+    team:
+    - email: tklandiv@buffalo.edu
+      name: Tyler Landivar
+    - email: sonambar@buffalo.edu
+      name: Sonam Barnala
+    - email: sairanga@buffalo.edu
+      name: Sai Ranganadha Nisanth Chilakamarri
+    - email: rohithme@buffalo.edu
+      name: Rohith Merugu
+    - email: saisreep@buffalo.edu
+      name: Saisree Peddireddy
+    title: Find a Mechanic
   - description: 'This fashion app allows enthusiasts to purchase apparel and accessories
       inspired by TV shows and celebrities, offering an interactive platform to buy
       outfits that match those seen on their favorite stars. Built with React Native,
@@ -376,42 +433,31 @@
     - email: sgadde3@buffalo.edu
       name: Sai Venkata Swetha Gadde
     title: Look The Part
-  - description: 'Find a Mechanic is an application that allows users to book appointments
-      with local automotive service centers and lets them exchange messages with these
-      garages to ensure complete transparency regarding the status of their appointments.
-      Service Centers may sign up for a different type of account that will make them
-      discoverable by users, and allows them to manage employees, garage information,
-      and appointments within the app. '
+  - description: "Redprint is a robust and user-friendly platform designed to streamline\
+      \ gym management, enhance user relations, and facilitate organizational management.\
+      \ It serves as a one-stop solution for gym owners, staff, trainers, and administrators,\
+      \ offering a range of features tailored to each user\xE2\u20AC\u2122s role and\
+      \ access level.\n\nFrom a business perspective, Redprint serves as a valuable\
+      \ tool for managing gym operations, maintaining user relations, and ensuring\
+      \ smooth organizational management. It allows for efficient delegation of responsibilities\
+      \ based on user roles and enhances the overall productivity of the gym management\
+      \ process.\n\nFrom a user perspective, Redprint offers a seamless and intuitive\
+      \ user experience. Each user role has access to features that are relevant and\
+      \ necessary for their responsibilities, ensuring a streamlined and efficient\
+      \ workflow."
     team:
-    - email: tklandiv@buffalo.edu
-      name: Tyler Landivar
-    - email: sonambar@buffalo.edu
-      name: Sonam Barnala
-    - email: sairanga@buffalo.edu
-      name: Sai Ranganadha Nisanth Chilakamarri
-    - email: rohithme@buffalo.edu
-      name: Rohith Merugu
-    - email: saisreep@buffalo.edu
-      name: Saisree Peddireddy
-    title: Find a Mechanic
-  - description: 'This project presents the redone interfaces with augmented backend
-      support. In the new website, patients can share their medical journeys, see
-      diagnoses and info assigned to them by doctors, etc. Doctors and admins can
-      use their respective views to edit, assign, delete, and more on patients, specialities,
-      medical centres. '
-    team:
-    - email: mgupta8@buffalo.edu
-      name: Mokshita Gupta
-    - email: hrhutton@buffalo.edu
-      name: Harrison Hutton
-    - email: crdushko@buffalo.edu
-      name: Christopher Dushkoff
-    - email: jtsang3@buffalo.edu
-      name: Jennifer Tsang
-    - email: gsingh37@buffalo.edu
-      name: Gursimrat Tiwana
-    title: CSE611 Kaleida Health
-    url: http://kaleida-dev.s3-website.us-east-2.amazonaws.com/#
+    - email: cyendru@buffalo.edu
+      name: Chaitanya
+    - email: vijayred@buffalo.edu
+      name: Vijay
+    - email: suryapav@buffalo.edu
+      name: Surya
+    - email: lsreeram@buffalo.edu
+      name: Priyanka
+    - email: pchalla@buffalo.edu
+      name: Poojitha
+    title: RedPrint - Fitness
+    url: https://18.144.85.242
   - description: "Youro is a healthcare web application that enables patients to consult\
       \ qualified doctors for a wide range of urological issues and conditions virtually.\
       \ For doctors, this application provides a comprehensive dashboard with patient\
@@ -444,6 +490,37 @@
     - email: spothuga@buffalo.edu
       name: Santhosh Pothuganti
     title: Youro
+- code: CSE 498
+  projects:
+  - description: 'An exploration of Intrusion Detection Systems (IDS) and how they
+      can efficiently perform their tasks to detect malicious packets. In particular,
+      signature-based detection is implemented in Go by experimenting with a variety
+      of string-matching algorithms for performance (Boyer-Moore, Rabin-Karp, Knuth-Morris-Pratt,
+      and Aho-Corasick).
+
+
+      Additionally, this project explores how an IDS would communicate to a Security
+      Information and Event Management (SIEM) system once a match was found. A simplistic
+      SIEM web interface with a single IDS sensor (attached to a vulnerable Apache
+      machine) is implemented to perform this task, using syslog-ng for communication.'
+    team:
+    - email: mjkreuze@buffalo.edu
+      name: Matt Kreuzer
+    title: Efficient Signature-Based Intrusion Detection Systems
+    url: https://github.com/mjkrooz/cse498-nids
+- code: 'CSE 635: Natural Language Processing '
+  projects:
+  - description: This project developed a Retrieval-Augmented Generative AI to assist
+      University at Buffalo students with academic planning. It leveraged LangChain,
+      Pinecone, and a sentence transformer model to encode course data into semantic
+      vectors, enabling efficient semantic search. The top retrieved results were
+      fed into Hugging Face's Llama-2-7b LLM to generate comprehensive natural language
+      responses.
+    team:
+    - email: lalla@buffalo.edu
+      name: Lalla
+    title: Elective Genie
+    url: https://github.com/SrijaAlla/Electice-Genie
 - code: 'CSE 468/568 Robotics Algorithms '
   projects:
   - description: Join us for a live demonstration featuring the top performers from
@@ -478,4 +555,53 @@
     - email: mjs227@buffalo.edu
       name: Michael Sullivan
     title: It is Not True that Transformers are Inductive Learners
+- code: 'CSE 700 '
+  projects:
+  - description: 'Financial Management and Recommendation platform. '
+    team:
+    - email: lsreeram@buffalo.edu
+      name: Lakshmi Priyanka
+    title: WealthWise
+- code: 'CSE 676: Deep Learning'
+  projects:
+  - description: "Compression of RGB-D data is a challenging and important task because\
+      \ uncompressed RGB-D data can be extremely slow to transmit over the transmission\
+      \ channel. AR-VR applications rely on fast and optimized streaming of large\
+      \ amounts of RGB-D data. Hence for optimized bandwidth utilization, compression\
+      \ is required. The challenge here is to gain a high compression ratio as well\
+      \ as have a high quality reconstruction of the compressed images at the users\xE2\
+      \u20AC\u2122 end. \n\nPresenting \"HoloZipper\", an end-to-end trainable self-supervised\
+      \ learning model architecture that can achieve a compression ratio of 64 on\
+      \ RGB-D data. HoloZipper consists of two separate encoder-decoder architectures\
+      \ that take as input RGB and Depth data respectively. The encoder returns a\
+      \ compressed representation of the data and feeds it into the decoder architecture.\
+      \ The decoder then reconstructs the compressed data into the original data with\
+      \ an average PSNR of 28. Unlike typical autoencoder architectures, HoloZipper\
+      \ uses discrete encoder-decoder models to better serve real world applications."
+    team:
+    - email: debosmit@buffalo.edu
+      name: Debosmit Neogi
+    - email: shivanma@buffalo.edu
+      name: Shivan Mathur
+    title: 'HoloZipper: A Self Supervised Learning based RGB-D Image Compression Algorithm'
+- code: 'CSE 676 : Deep Learning'
+  projects:
+  - description: ADAS is a deep learning model for recognizing traffic sign board
+      images. The problem revolves around the need for efficient and accurate recognition
+      of traffic signs in real-time scenarios. With the increasing prevalence of autonomous
+      vehicles, robust traffic sign recognition is crucial for enhancing road safety
+      and improving navigation systems. Also, equipping non-autonomous vehicles with
+      this system to assist drivers to improve the quality of driving and ensuring
+      safety. By leveraging deep learning techniques, this project seeks to address
+      the challenges associated with varied lighting conditions, occlusions, and diverse
+      sign designs, making it an interesting endeavor in the realm of deep learning
+      and transportation technology.
+    team:
+    - email: saideepm@buffalo.edu
+      name: Sai Deep Muvva
+    - email: koppula2@buffalo.edu
+      name: Sachin kumar Koppula
+    - email: srijakod@buffalo.edu
+      name: Kodakandla Srija
+    title: ADAS (Advanced Driver Assistance System)
 
