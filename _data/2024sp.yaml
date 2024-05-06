@@ -135,21 +135,6 @@
     - email: jontankh@buffalo.edu
       name: Jontan Khuu
     title: Diet Coke
-  - description: University at Buffalo campus navigation app. A navigation web application
-      to help students traverse the complex web that is UB's North Campus.
-    team:
-    - email: cepotts@buffalo.edu
-      name: Christopher Potts
-    - email: sgupta45@buffalo.edu
-      name: Shreya Gupta
-    - email: mdjim@buffalo.edu
-      name: Jim Md
-    - email: rplawren@buffalo.edu
-      name: Lawrence Richard
-    - email: tariqbiv@buffalo.edu
-      name: Biviji Tariq
-    title: Guac and Roll
-    url: https://www-student.cse.buffalo.edu/CSE442-542/2024-Spring/cse-442k/build/
   - description: UB professor ranking and reviewing web app
     team:
     - email: Jiewenhu@buffalo.edu
@@ -368,6 +353,20 @@
       name: Nawar Khouri
     title: Java and Android Malware Detection Using SootUp
     url: https://github.com/lziarek/ELR-malware-detection/
+  - description: An extensible code autograding web service built as an alternative
+      to Autolab. Built for students and instructors alike, DevU offers a simple yet
+      powerful way to manage and automatically grade programming assignments.
+    team:
+    - email: Suszek@buffalo.edu
+      name: Keifer Myers
+    - email: saiwangx@buffalo.edu
+      name: Saiwang Xiang
+    - email: kzhong2@buffalo.edu
+      name: Kevin Zhong
+    - email: rsahu@buffalo.edu
+      name: Rishi Sahu
+    title: DevU
+    url: http://fiona.cse.buffalo.edu:9000
 - code: 'CSE 611: Master''s Capstone Project'
   projects:
   - description: 'This project presents the redone interfaces with augmented backend
@@ -570,7 +569,7 @@
       \ amounts of RGB-D data. Hence for optimized bandwidth utilization, compression\
       \ is required. The challenge here is to gain a high compression ratio as well\
       \ as have a high quality reconstruction of the compressed images at the users\xE2\
-      \u20AC\u2122 end. \n\nPresenting \"HoloZipper\", an end-to-end trainable self-supervised\
+      \u20AC\u2122 end. \n\nPresenting HoloZipper, an end-to-end trainable self-supervised\
       \ learning model architecture that can achieve a compression ratio of 64 on\
       \ RGB-D data. HoloZipper consists of two separate encoder-decoder architectures\
       \ that take as input RGB and Depth data respectively. The encoder returns a\
@@ -584,6 +583,47 @@
     - email: shivanma@buffalo.edu
       name: Shivan Mathur
     title: 'HoloZipper: A Self Supervised Learning based RGB-D Image Compression Algorithm'
+  - description: 'SAARTHI (Smart Auto Assessment & Roadside Technical Help Interface)
+      is a cutting-edge web application designed to revolutionize how car owners manage
+      vehicle damage. This innovative platform utilizes advance AI technologies, including
+      object detection, instance segmentation, and salient object detection. It also
+      swiftly and accurately assess damage from user-uploaded image. Upon assessment,
+      SAARTHI classifies the damages into major or minor categories and provides an
+      immediate repair cost estimate. This seamless integration of AI not only allows
+      users to receive real-time damage evaluations but also enables them to interact
+      directly with our chatbot for various roadside assistance services, such as
+      calling for instant help, on-the-spot repairs, or towing. Each user creates
+      a personal account on our portal, ensuring a personalized and secure experience.
+      Once damage is reported and assessed, users can engage with the chatbot to generate
+      detailed assessment reports and initiate contact with nearby affiliated repair
+      shops for prompt service, all through the SAARTHI application.
+
+
+      Beyond its technical capabilities, SAARTHI offers significant benefits by enhancing
+      transparency and efficiency in the automotive repair and insurance sectors.
+      Users are protected from inflated charges with a trustworthy, independent assessment,
+      aiding them in navigating the complexities of car repair and insurance claims.
+      Additionally, the system streamlines operations for insurance companies by reducing
+      reliance on manual inspections, which can be time-consuming and occasionally
+      inaccurate. SAARTHI also promotes social well-being by ensuring fair transactions
+      and fostering trust in automotive services, ultimately contributing positively
+      to societal equity. This project demonstrates its potential to transform the
+      automotive service industry through technology-driven solutions and a customer-centric
+      design.'
+    team:
+    - email: chirayus@buffalo.edu
+      name: Chirayu Sanghvi
+    title: 'SAARTHI '
+  - description: Eyes on Eats is a project that leverages deep learning for object
+      detection and text generation to analyze images of ingredients and create personalized
+      recipes, reducing food and financial waste, saving time on meal planning, and
+      making cooking accessible to everyone.
+    team:
+    - email: bhanucha@buffalo.edu
+      name: Tarun Reddi
+    - email: charviku@buffalo.edu
+      name: Charvi Kusuma
+    title: 'Eyes on Eats: From Image to Formula'
 - code: 'CSE 676 : Deep Learning'
   projects:
   - description: ADAS is a deep learning model for recognizing traffic sign board
@@ -604,4 +644,93 @@
     - email: srijakod@buffalo.edu
       name: Kodakandla Srija
     title: ADAS (Advanced Driver Assistance System)
+- code: 'CSE 546: Reinforcement Learning'
+  projects:
+  - description: 'This project aims to train cricket batting and bowling agents to
+      operate within an adversarial Multi-Agent Reinforcement Learning (MARL) environment,
+      where they compete to gain rewards against each other. The batting agent focuses
+      on scoring runs efficiently, while the bowling agent strives to take wickets
+      and restrict runs. By simulating competitive scenarios, the agents learn strategic
+      decision-making, ultimately enhancing their performance in real-game situations.
+
+
+      We developed the innovative Decomposed Heuristic Advantage-Driven Efficient
+      Learning(DHADEL) technique by decomposing complex tasks into manageable actions
+      and rewarding each phase based on advantages gained. This approach enables agents
+      to effectively learn intricate skills in cricket batting and bowling, leading
+      to improved performance through strategic decision-making.'
+    team:
+    - email: ajayanth@buffalo.edu
+      name: Anirudh Jayanthi Rama Sesharka
+    - email: kbobba2@buffalo.edu
+      name: Karthik Pavan Chowdary Bobba
+    - email: garlapat@buffalo.edu
+      name: Garlapati Sushma Reddy
+    title: Double DHADEL - MARL for Cricket
+- code: 'CSE 676 B: Deep Learning'
+  projects:
+  - description: "Signify is an interactive web application designed to bridge the\
+      \ communication gap between ASL users and non-users by providing real-time detection\
+      \ and translation of American Sign Language (ASL) using deep learning technology.\
+      \ This application aims to bridge the communication gap between ASL users and\
+      \ those who do not understand ASL, facilitating smoother and more effective\xC2\
+      \_interactions."
+    team:
+    - email: mjadhav@buffalo.edu
+      name: Manasi Jadhav
+    - email: singh43@buffalo.edu
+      name: Sneha Singh
+    - email: snehayad@buffalo.edu
+      name: Sneha Yadav
+    title: Signify - Web Application for ASL detection using deep learning model
+- code: Deep learning
+  projects:
+  - description: s
+    team:
+    - email: mahithb@buffalo.edu
+      name: Mahitha balumuri
+    title: Deep fake image classification
+- code: Would like to showcase what i have been working on
+  projects:
+  - description: The project demonstrates implementation of multi modal LLM on humanoid
+      robot pepper to understand human speech and answer question based on what it
+      sees through computer vision and vision models. Prime goal of this project is
+      to showcase AI deployed on robots in real world scenario
+    team:
+    - email: rkhatik@buffalo.edu
+      name: Raj Khatik
+    - email: nratha@buffalo.edu
+      name: Nalini Ratha
+    title: Kai
+- code: CSE 676
+  projects:
+  - description: "We built an automated system that transcribes live lectures using\
+      \ Speech to Text API.  \nIt also generates concise summaries using our trained\
+      \ summarization model, for every specified minutes. Both live transcription\
+      \ and generated summary is displayed to the listeners in the real time. We have\
+      \ also provided the interface to join and create the meeting."
+    team:
+    - email: jggandha@buffalo.edu
+      name: Jayakrishna Gandhamalla
+    - email: anipkuma@buffalo.edu
+      name: Anip Kumar Paul
+    - email: ashithen@buffalo.edu
+      name: Ashith Nithyananda
+    title: Enhancing Educational Accessibility
+- code: CSE799
+  projects:
+  - description: 'Pepper- A robot assistant who can answer all university related
+      queries of students and general queries using Language models.
+
+      Nao- A small friendly Humanoid robot who can imitate movements of people infront
+      of it and alert it detects someone falling.
+
+      Unitree Go2- A quadruped that can listen to  voice commands, follow people around
+      and detect unidentified objects.'
+    team:
+    - email: yadvende@buffalo.edu
+      name: Yadvender Singh
+    - email: sunilruf@buffalo.edu
+      name: Sunil Rufus Ramneedee Pushparaj
+    title: Human robot interaction with Nao, Pepper and Unitree Go2
 
