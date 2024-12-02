@@ -1,0 +1,891 @@
+- code: CSE662
+  projects:
+  - description: Graph Db extension to enforce AReBAC priviege
+    team:
+    - email: malam22@buffalo.edu
+      name: malam22
+    title: DBSecureGen
+    url: https://github.com/UB-ADBLAB/cse662_fa24_t5
+  - description: We implement and analyze the usage of SQLite on a microcontroller
+      (an STM32 board in our case), and replicate it in real time to a host system
+      that needs to perform timely queries on it.
+    team:
+    - email: suvigyav@buffalo.edu
+      name: suvigyav
+    - email: ajr33@buffalo.edu
+      name: ajr33
+    - email: sivakum3@buffalo.edu
+      name: sivakum3
+    title: uQLite - SQL on a microcontroller!
+- code: CSE 410 Game Design
+  projects:
+  - description: 'Only Up: The Prologue, draws its inspiration from the highly acclaimed
+      platformer known as Only Up, hailed by many as one of the most challenging games
+      in its class. The original game is no longer available on the Steam marketplace,
+      though it has left a mark on the fans. So we took this as an opportunity to
+      reimagine it and bring it to life with more intense difficulty levels and captivating
+      gameplay that keeps players on their toes. With hope, Only Up: The Prologue
+      will be equally challenging and unforgettable both for advanced players and
+      beginners. Good luck, and have a good climb!'
+    team:
+    - email: kenyu@buffalo.edu
+      name: Ken Yu
+    - email: jlao3@buffalo.edu
+      name: Aaron Lao
+    - email: xiangjia@buffalo.edu
+      name: Xiangjian Zeng
+    - email: hongbinz@buffalo.edu
+      name: Hongbin Zhang
+    title: 'Only Up: The Prologue'
+    url: https://github.com/Ken-256/Only-Up-The-Prologue
+  - description: Zombie Parkour game inspired by the Dying Light series you are tasked
+      with delivering the cure to save the human race from the zombie virus.
+    team:
+    - email: osmondwa@buffalo.edu
+      name: Osmond
+    - email: treypaul@buffalo.edu
+      name: Trey
+    - email: irivera2@buffalo.edu
+      name: Isaiah
+    - email: xinyutan@buffalo.edu
+      name: Xinyu
+    title: 'The Last Run: Project Hope'
+  - description: 'The game is set in a tear in the multiverse. You play as Sonic in
+      the various universes, including his own. Players must navigate each environment,
+      overcoming obstacles to reach the end of the level as quickly as possible. '
+    team:
+    - email: naiyyirh@buffalo.edu
+      name: Naiyyir
+    - email: Hoziarza@buffalo.edu
+      name: Hoziar
+    - email: mosesmic@buffalo.edu
+      name: Moses
+    - email: nagoke@buffalo.edu
+      name: Nathan
+    title: Multiverse Run
+  - description: an elemental game where the player plays as a mad man
+    team:
+    - email: chrisjak@buffalo.edu
+      name: chris
+    - email: zcai4@buffalo.edu
+      name: eric
+    - email: haoyanga@buffalo.edu
+      name: haoyan
+    title: Bizarre Bender
+  - description: 410 game that is a unique interpretation of the classic endless runner
+      genre.
+    team:
+    - email: rtan8@buffalo.edu
+      name: Raymond Tan
+    - email: xunlin@buffalo.edu
+      name: Xun Lin
+    title: Brainrot Runner
+  - description: You play as the evil dragon who has escaped his prison and is trying
+      to destroy the world.
+    team:
+    - email: Mat25@buffalo.edu
+      name: Michael Thompson
+    - email: Npula@buffalo.edu
+      name: Nick Pula
+    - email: Pb44@buffalo.edu
+      name: Partho Bhattacharya
+    - email: junpengl@buffalo.edu
+      name: Junpeng Liao
+    title: Conquest of the Chaos Dragon
+  - description: "Within the pit of hell that humans once called Earth, players will\
+      \ assume the role of German government official Fredrick Stombon on his hate-filled\
+      \ adventure to send the Z\xE2\u20AC\u2122s back to the fiery cesspit of HELL\
+      \ they sprouted from! "
+    team:
+    - email: zowraizq2buffalo.edu@buffalo.edu
+      name: Zowraiz Qureshi
+    - email: goodric2@buffalo.edu
+      name: Justin Goodrich
+    - email: tauhidur@buffalo.edu
+      name: Tauhidur Anjan
+    title: Area - 51- Z
+  - description: A multiplayer arcade game where 2 players take turns preparing moves
+      and shots that then get released at the same time. Littering the environment
+      with persistent bullet trails that the players have to keep avoiding until the
+      end of the game!
+    team:
+    - email: mrbienie@buffalo.edu
+      name: mrbienie
+    - email: maxwilde@buffalo.edu
+      name: maxwilde
+    - email: nvdeluci@buffalo.edu
+      name: nvdeluci
+    - email: mlklee@buffalo.edu
+      name: mlklee
+    title: ShotCallers
+  - description: A sound-based cave exploration horror game
+    team:
+    - email: ronaldzh@buffalo.edu
+      name: Ronald Zhang
+    - email: khuang55@buffalo.edu
+      name: Kelvin Huang
+    - email: lejimene@buffalo.edu
+      name: Leo Jimenez
+    title: Resonance
+    url: https://github.com/RonZ0810/CSE410_Game
+  - description: A round-based third person zombie shooter with advanced gameplay
+      mechanics. Will you survive?
+    team:
+    - email: kli73@buffalo.edu
+      name: Kaifeng Li
+    - email: jwong92@buffalo.edu
+      name: Jeffrey Wong
+    title: Last Stand
+    url: https://last-stand@dev.azure.com/last-stand/Last%20Stand/_git/Last%20Stand
+  - description: 'Our game concept  is based on a mother who is looking for her child.
+      There a three levels the player has to go through to find their child. Theres
+      a list of items to find, once found the next level unlocks. '
+    team:
+    - email: ugonnaof@buffalo.edu
+      name: Ugonna Ofrum
+    - email: Williams Nwosu chibudom@buffalo.edu
+      name: Williams Nwosu chibudom
+    - email: oobabalo@buffalo.edu
+      name: Yemisi Babalola
+    title: 'Search Frenzy '
+  - description: This is a video game created in Unreal Engine 5.The game will be
+      a horror series of escape rooms. Players will have the task of solving numerous
+      puzzles that will require critical thinking and problem-solving skills that
+      will be required to escape.
+    team:
+    - email: acudeobi@buffalo.edu
+      name: Abigail Udeobi
+    - email: esomchuk@buffalo.edu
+      name: Nicole Ewenike
+    - email: lydiacen@buffalo.edu
+      name: Lydia Cenac
+    title: Whispers in House of Scares
+  - description: A video game based off of the Portal franchise, implemented in Unreal
+      Engine 5. Levels are designed by the team members, following the story of the
+      facility's founder being stuck and needed to be freed. As the player, you make
+      your way through the puzzles, going deeper into the chambers, with the ultimate
+      goal of getting to the founder.
+    team:
+    - email: jacobzal@buffalo.edu
+      name: Jacob Zalot
+    - email: mrdugan@buffalo.edu
+      name: Michael Dugan
+    - email: yueshao@buffalo.edu
+      name: Yue Shao
+    - email: prshea@buffalo.edu
+      name: Patrick Shea
+    title: Portal 3-ish
+    url: https://jjz-guy.itch.io/portal-3-ish
+  - description: Horror/Story Game Developed in Unreal Engine 5
+    team:
+    - email: dmnieves@buffalo.edu
+      name: Dominic Nieves
+    - email: colecacc@buffalo.edu
+      name: Cole Caccamise
+    title: Night Shift At Harper
+- code: CSE 302/303
+  projects:
+  - description: 'Indoor Wireless Localization (specifically Wi-Fi) has become quite
+      widespread, there is an active Task Group 802.11bf as well to bring this into
+      standards and there are many learning based solutions to bring localization
+      accuracy to sub-meter level. While, this is great news for indoor automation,
+      there are deployability concerns in terms of generalizability and privacy concerns
+      surrounding it. While, the most popular approach is to use data based ML-models
+      to provide sub-meter accurate localization algorithms, there are still requirements
+      for generalization to different environments and better accuracy.
+
+
+      During the first semester, the students will develop a web-app to get data from
+      Wi-Fi routers for a given smartphone. The data is then to be processed online
+      to pass through an ML-model. While, there is a baseline ML-model, they should
+      develop and improve the generalizability and accuracy of the localization algorithm
+      (which would be almost similar to object detection problems). The next stage
+      of the project would be to develop quantifiable differential privacy for these
+      learning models, by adding quantifiable noise to the input images.'
+    team:
+    - email: jagow2@buffalo.edu
+      name: Jessica Gow
+    - email: tientran@buffalo.edu
+      name: Tien Tran
+    - email: hemoore3@buffalo.edu
+      name: Harrison Moore
+    - email: sameepko@buffalo.edu
+      name: Sameep Kotecha
+    - email: gauravji@buffalo.edu
+      name: (PM) Gary Chhina
+    title: EL/R Wireless Localization
+    url: https://github.com/WS-UB/WLMap/tree/main, https://github.com/WS-UB/WL-Local-Server
+  - description: 'Choreographic programming aims to simplify distributed systems /
+      concurrent systems programming by allowing a programmer to specify the system
+      in its entirety - participants, their computations, and communication patterns.
+      From this high level choreographic program, we can synthesize concrete implementations
+      for each node in the distributed system or each thread in the concurrent system. '
+    team:
+    - email: ecanton@buffalo.edu
+      name: Ethan Canton
+    - email: Alex Kim doyoonki@buffalo.edu
+      name: Alex Kim doyoonki
+    - email: xiexianc@buffalo.edu
+      name: Vincent Chan
+    title: Choreographic Programming
+  - description: Fresumes is a platform offering over 500+ free resumes from real
+      people to help employers find talent and job seekers connect with opportunities.
+      With seamless viewing, support for various file formats, and easy access from
+      any device, users can upload or browse resumes effortlessly in just a few clicks.
+    team:
+    - email: ktang9@buffalo.edu
+      name: ktang9
+    - email: orniepay@buffalo.edu
+      name: orniepay
+    - email: ahmedbou@buffalo.edu
+      name: ahmedbou
+    - email: jaiswal3@buffalo.edu
+      name: jaiswal3
+    title: Fresumes
+    url: https://fresumes.com/
+  - description: Our systems validation research, which began with an instructional
+      overview of distributed systems and the investigation of an existing means of
+      evaluating system performance, extended to a central focus on distributed SQL
+      database CockroachDB. Through modifications to the CockroachDB codebase, we
+      evaluated the performance of running YCSB workloads on clusters of CockroachDB
+      nodes with multiple constraints, which include Zipfian constants (the underlying
+      statistical distribution for the workload), read-write fractions (the ratio
+      of YCSB workload operations), and database field lengths. From there, we summarized
+      and analyzed our findings through line graphs to formally represent how various
+      conditions affect the performance of a workload run on a distributed system.
+    team:
+    - email: jmbelaso@buffalo.edu
+      name: Jessica Belasoto
+    - email: ikimos@buffalo.edu
+      name: Isabel Kimos
+    - email: Hooke@buffalo.edu
+      name: Marie Leopold
+    - email: ptle@buffalo.edu
+      name: Thien Phuc Le
+    - email: winsonzh@buffalo.edu
+      name: Winson Zhu
+    title: Systems Validation Research
+- code: 'Summer2024 Highschool Intern '
+  projects:
+  - description: 'Fake review detection has become increasingly im-
+
+      portant as online platforms rely heavily on user-generated content
+
+      to influence consumer decisions. Fake reviews can distort public
+
+      perception, undermine trust in services, and mislead potential
+
+      buyers. Detecting these deceptive reviews is a challenging task
+
+      due to their subtle nature and the sheer volume of data on
+
+      digital platforms. Machine learning (ML) offers a powerful
+
+      solution to this problem by automatically identifying patterns
+
+      and anomalies in large datasets that may indicate fraudulent
+
+      activity. By analyzing textual features and review behavior, ML
+
+      models can classify reviews as fake or genuine with high accuracy,
+
+      providing a scalable and efficient way to safeguard the integrity
+
+      of online platforms. This project implements machine learning
+
+      algorithms to build a robust system for detecting fake reviews,
+
+      aiming to enhance trust in digital marketplaces by ensuring the
+
+      reliability of user feedback'
+    team:
+    - email: srwarjj7@buffalo.edu
+      name: srwarjj7
+    - email: shamsadp@buffalo.edu
+      name: shamsadp
+    title: Study of Fake review detection using Machine learning Algorithms
+- code: Independent Study / Research
+  projects:
+  - description: Our project, explores the simulation of dementia-like speech patterns
+      using advanced neural networks. By manipulating the weights of Tacotron 2, a
+      popular text-to-speech model, we introduce characteristics such as word repetition,
+      incorrect word usage, and vocal irregularities to mirror symptoms seen in dementia.
+      The generated speech is analyzed through mel-spectrogram comparisons between
+      normal and modified outputs, providing a visual representation of differences
+      in speech patterns. This research aims to enhance understanding of dementia-related
+      vocal cues, with potential applications in both clinical and assistive technologies.
+    team:
+    - email: amrutpra@buffalo.edu
+      name: Amrut Prasad Kulkarni
+    - email: npatil2@buffalo.edu
+      name: Nikita Anil Patil
+    title: Dementia Voice Dynamics (DVD)
+  - description: This project focuses on developing a real-time driver distraction
+      detection model using a lightweight CNN architecture with Histogram of Oriented
+      Gradients (HOG) features and Channel Attention mechanisms. The model accurately
+      identifies driver behaviors with high computational efficiency, making it suitable
+      for deployment in in-vehicle monitoring systems. By providing quick and precise
+      detection of distracted driving, this project aims to enhance road safety and
+      contribute to the development of intelligent transportation systems.
+    team:
+    - email: sbankar@buffalo.edu
+      name: Shweta Ganesh Bankar
+    title: Efficient Driver Distraction Detection Using HOG Features and Channel Attention
+      Mechanism
+  - description: In today's digital age, Twitter emerges as a crucial platform for
+      real-time expression and connection, offering a rich dataset for sentiment analysis.
+      This project focuses on harnessing Twitter's rapid data flow to enhance emergency
+      response and humanitarian efforts. Despite challenges like the platform's brief
+      message format and informal language, advancements in machine learning and natural
+      language processing have improved sentiment analysis accuracy. By refining these
+      techniques, the project aims to provide actionable insights for businesses,
+      policymakers, and especially emergency teams, improving societal resilience
+      and response effectiveness during crises. This endeavor not only seeks to elevate
+      public sector responsiveness but also empowers humanitarian agencies with precise,
+      timely data to optimize their emergency interventions.
+    team:
+    - email: saiaakas@buffalo.edu
+      name: saiaakas
+    title: Harnessing Social Media Sentiments for Strategic Disaster Management
+  - description: 'Here''s a concise, single-paragraph description:
+
+
+      WealthWise is a comprehensive financial management platform that revolutionizes
+      how you handle your money by bringing all your bank accounts together in one
+      powerful dashboard. Instead of juggling multiple banking apps and websites,
+      users can seamlessly view, track, and analyze all their financial transactions
+      in a single, secure location. The platform offers real-time balance updates,
+      smart expense categorization, and sophisticated spending analytics that help
+      you understand where your money goes. Whether you''re looking to gain better
+      control over your expenses, streamline your financial management, or simply
+      get a clearer picture of your overall financial health.'
+    team:
+    - email: lsreeram@buffalo.edu
+      name: lsreeram
+    title: WealthWIse
+  - description: 'Deep neural networks have demonstrated remarkable success in learning
+      visual representations for image classification across diverse applications.
+      In this study, we introduce a novel neural network architecture tailored for
+      classifying skin lesions based on their visual characteristics and appearance.
+      Our approach utilizes a pretrained ResNet50 backbone, fine-tuned specifically
+      for the task of skin lesion classification using publicly available datasets,
+      including HAM10000 and ISIC. To further enhance classification accuracy, we
+      propose a custom image preprocessing pipeline that highlights critical features
+      while suppressing background noise. Furthermore, we design an innovative loss
+      function that refines the feature space by clustering similar images and distancing
+      dissimilar ones. Our method sets a new benchmark, outperforming existing solutions
+      in the domain of skin lesion classification.
+
+      '
+    team:
+    - email: spandey8@buffalo.edu
+      name: spandey8
+    title: Skin Lesion Classification
+  - description: "Pedestrian safety is a key element of Advanced Driver Assistance\
+      \ Systems (ADAS), particularly in urban environments where diverse contextual\
+      \ and behavioral factors influence actions. This project introduces an adaptive\
+      \ driver assistance framework using a single Vision Transformer (ViT) model\
+      \ with Low-Rank Adaptation (LoRA) for efficient multi-task classification, significantly\
+      \ reducing parameters while maintaining high accuracy. Leveraging the JAAD dataset,\
+      \ our approach integrates YOLOv8 for pedestrian detection and a contextual classification\
+      \ framework to assess pedestrian density, road type, time of day, and weather.\
+      \ Pedestrian behavior is modeled by predicting crossing intent, occlusion, and\
+      \ gaze direction, with a rule-based system for adaptive decision-making in critical\
+      \ scenarios. By experimenting with various LoRA techniques\xE2\u20AC\u201Dsuch\
+      \ as AdaLoRA, IA3, LoHA, and LoKr\xE2\u20AC\u201Dwe reduce trainable parameters\
+      \ to 0.35\\%, achieving high computational efficiency without sacrificing accuracy.\
+      \ Our model achieves over 90\\% accuracy across tasks, demonstrating the robustness\
+      \ of this adaptive approach for real-time applications. This work provides a\
+      \ scalable solution for integrating scene contextual and pedestrian behavioral\
+      \ data in ADAS, enhancing pedestrian safety in autonomous systems."
+    team:
+    - email: bhanucha@buffalo.edu
+      name: Tarun Reddi
+    - email: charviku@buffalo.edu
+      name: Charvi Kusuma
+    title: 'Adaptive Driver Assistance: Context-based Approach to Pedestrian Safety'
+  - description: InsightBot is a dynamic Retrieval Augmented Generation (RAG) application
+      that transforms how users interact with diverse content. Users can upload YouTube
+      links, documents, and text files to create a rich, queryable knowledge base.
+      The system processes and indexes content in real-time, using advanced AI to
+      understand user queries and retrieve relevant information. As content is added
+      or modified, InsightBot automatically updates its knowledge base, ensuring responses
+      are always current. This versatile tool is ideal for research, content analysis,
+      customer support, and knowledge management, offering a comprehensive solution
+      for extracting valuable insights from various information sources.
+    team:
+    - email: jatinjay@buffalo.edu
+      name: Jatin Chhabria
+    - email: aneeshkr@buffalo.edu
+      name: Aneesh Krishna
+    title: InsightBot
+  - description: The goal of this project is to optimize latency in geo-replicated
+      databases by developing and implementing a novel queue management and transaction
+      reordering system. This project focuses on Juicer, a latency-optimization layer
+      within the CockroachDB key-value layer. The key innovation in this project is
+      the use of intelligent queue management and transaction reordering strategies,
+      specifically designed for CockroachDB's distributed architecture. By addressing
+      the challenges inherent in handling concurrent transactions across geographically
+      distributed nodes, Juicer aims to reduce transaction wait times and improve
+      response times without using machine learning, relying instead on heuristic-based
+      queue management.
+    team:
+    - email: suvigyav@buffalo.edu
+      name: suvigyav
+    title: 'Juicer: Improving Latency in Geo-Replicated Databases'
+  - description: This project employs collaborative sensing technology to optimize
+      communication among vehicles, effectively addressing blind spot issues. By sharing
+      environmental data, vehicles enhance traffic safety and operational efficiency.
+    team:
+    - email: Yang Lee wlee45@buffalo.edu
+      name: Wei
+    title: Collaborative Sensing
+  - description: Achieving vehicle autonomy in space presents unique challenges due
+      to the complexities of extraterrestrial environments. Simultaneous Localization
+      and Mapping (SLAM) is a key technique enabling vehicles to navigate and map
+      unknown terrains autonomously. This project explored terrestrial SLAM methods
+      applied to various space-like environments, highlighting the limitations and
+      obstacles faced in achieving reliable space autonomy. The findings provide valuable
+      insights into advancing autonomous navigation technologies for future space
+      exploration.
+    team:
+    - email: ambaloti@buffalo.edu
+      name: Andrew Balotin
+    title: SLAM in Space
+  - description: This project involves the design and implementation of a remote-controlled
+      car, which can be driven using USB HID devices. The system utilizes an ARM-based
+      microcontroller and various embedded systems protocols for user input and motion
+      control.
+    team:
+    - email: jtsang3@buffalo.edu
+      name: Jennifer Tsang
+    title: RC Car with HID-Based Control
+- code: CSE 555 Introduction to Pattern Recognition
+  projects:
+  - description: The Multimodal Video Emotion Recognition project focuses on developing
+      a robust AI system that accurately detects and interprets emotions from diverse
+      data streams, including video, audio, and facial expressions. Leveraging advances
+      in deep learning and multimodal fusion techniques, this project integrates visual
+      cues from facial expressions, auditory signals like tone and pitch, and contextual
+      video content to recognize and classify emotional states more effectively than
+      single-modal approaches. The model combines features from each modality, using
+      specialized architectures such as CNNs for facial analysis, LSTMs or transformers
+      for temporal sequences in video and audio, and multimodal attention mechanisms
+      to weigh the importance of each input. By fusing these data streams, the project
+      aims to enhance emotion recognition accuracy and provide insights into real-time
+      applications, such as improving human-computer interactions, video content analysis,
+      and mental health monitoring.
+    team:
+    - email: debosmit@buffalo.edu
+      name: Debosmit Neogi
+    - email: shivanma@buffalo.edu
+      name: Shivan Mathur
+    title: Multimodal Video Emotion Recognition in the wild
+- code: CSE 555 Pattern Recognition
+  projects:
+  - description: An AI model that translates lip movements into text, enhancing communication
+      accessibility for the deaf and improving speech recognition in noisy environments.
+    team:
+    - email: tehaseen@buffalo.edu
+      name: Tehaseen Hussain Mohammad
+    title: 'Lip syn detection '
+  - description: A Machine Learning project based around predicting an NFL offense's
+      play outcome based off of the Quarterback's actions.
+    team:
+    - email: aidenfer@buffalo.edu
+      name: Aiden Ferguson
+    title: 'QBSNet: NFL Quarterback-based Analytical Prediction on an Offense''s success
+      per play'
+- code: CSE 4/546 Reinforcement Learning
+  projects:
+  - description: 'This project aims to develop an efficient multi-agent reinforcement
+      learning algorithm applied to autonomous driving environments. Based on the
+      A3C architecture, we implemented both the A3C algorithm and an enhanced version
+      of the PPO algorithm. By introducing entropy-based exploration strategies, we
+      enhanced the robustness of the PPO algorithm, and by employing memory optimization
+      techniques, we reduced resource consumption.
+
+
+      To improve the parallel efficiency of the algorithm, we parallelized it using
+      multiprocessing. During parameter updates, we utilized resource locks and checking
+      mechanisms to ensure safe and efficient inter-process synchronization. The optimized
+      algorithm achieved near-global optimal performance in the TrafficJunction10-v0
+      simulation environment.'
+    team:
+    - email: xwang277@buffalo.edu
+      name: xwang277
+    - email: jiaxingl@buffalo.edu
+      name: jiaxingl
+    title: 'AutoDrive-MARL: Autonomous Driving Multi-Agent Reinforcement Learning
+      Optimization'
+- code: 'CSE 611: Master''s Capstone Project'
+  projects:
+  - description: "An interactive scavenger hunt for the Niagara Aerospace Museum.\
+      \ A mobile web application prompts players with questions to find different\
+      \ exhibits within the museum. Once an exhibit is located, scanning its NFC token\
+      \ reveals if it\xE2\u20AC\u2122s the correct match. Players or teams compete\
+      \ for the fastest completion times and earn themselves a spot on the leaderboard. "
+    team:
+    - email: ambaloti@buffalo.edu
+      name: Andrew Balotin
+    - email: ibtidaah@buffalo.edu
+      name: Ibtida Ahmed
+    - email: tanviran@buffalo.edu
+      name: Tanvi Ranga
+    - email: accostan@buffalo.edu
+      name: Tina Costanza
+    title: Niagara Aerospace Museum Scavenger Hunt
+  - description: Look The Part is an innovative mobile application that combines fashion
+      technology and personalized styling to help users look and feel their best.
+      The app provides tailored outfit recommendations making fashion accessible,
+      sustainable, and effortless.
+    team:
+    - email: cjonnala@buffalo.edu
+      name: cjonnala
+    - email: pkadampa@buffalo.edu
+      name: pkadampa
+    - email: prabhasv@buffalo.edu
+      name: prabhasv
+    title: Look The Part
+  - description: Maverick Health is a comprehensive health tracking app designed to
+      empower users to take charge of their well-being through personalized assessments
+      and actionable insights. The app offers a dynamic approach to health management
+      by integrating multiple features that help individuals monitor, learn, and improve
+      their overall health.
+    team:
+    - email: divijaan@buffalo.edu
+      name: Divija Ankam
+    - email: rkonjeti@buffalo.edu
+      name: Roshini Konjeti
+    - email: skumar52@buffalo.edu
+      name: Sumanth Kumar
+    - email: rakeshme@buffalo.edu
+      name: Rakesh Medasani
+    title: Maverick Health
+    url: http://54.224.12.117/
+  - description: The RedPrint Project focuses on streamlining gym management processes,
+      enhancing user experience, and providing efficient communication between trainers,
+      staff, and gym members. The project explores user role management, user engagement,
+      and real-time data tracking to improve gym operations.
+    team:
+    - email: rbalinen@buffalo.edu
+      name: "Revanth\xC2\_Balineni"
+    - email: vbellam@buffalo.edu
+      name: Vamsi Krishna Bellam
+    - email: dramados@buffalo.edu
+      name: Dhanush Babu Ramadoss
+    - email: kishoren@buffalo.edu
+      name: Kishore Nithin Sridhar
+    - email: sumanama@buffalo.edu
+      name: Sumana Madhireddy
+    title: RedPrint
+    url: https://testapp.redprintfit.com/
+  - description: In request tracker AI we have included the features such as sentiment
+      analysis of the ticket, ticket summarisation of stream of tickets on a particular
+      issue, text autocompletion to assist the users with suggestions to their content
+      and text translation within multiple languages. This features will provide assistance
+      to users and enhance their experience with the product.
+    team:
+    - email: neelvish@buffalo.edu
+      name: neelvish
+    - email: shivanma@buffalo.edu
+      name: shivanma
+    - email: avijan@buffalo.edu
+      name: avijan
+    - email: paragsha@buffalo.edu
+      name: paragsha
+    - email: ayushgoe@buffalo.edu
+      name: ayushgoe
+    title: Request Tracker AI
+    url: https://github.com/Neilpatel5502/rt-extension-ai
+  - description: Provide a virtual social space for EHS safety professionals to connect,
+      network, and discuss about safety.
+    team:
+    - email: parampar@buffalo.edu
+      name: Param Sagparia
+    - email: nagasita@buffalo.edu
+      name: Naga Sitaram Guduri
+    - email: cyeole@buffalo.edu
+      name: Chaitanya Yeole
+    - email: stutisur@buffalo.edu
+      name: Stuti Patel
+    title: Safety Knights
+  - description: Build a comprehensive system featuring Patient, Doctor, and Admin
+      portals. The Patient portal should allow patients to view medical reports, daily
+      status updates, assignments, and notifications. They should also be able to
+      communicate with doctors through an integrated chat system, which includes a
+      translation feature for multilingual support. The Doctor portal should enable
+      doctors to securely access and manage patient data, update treatment plans,
+      and monitor daily patient status, while also communicating with patients using
+      the chat system with translation capabilities. The Admin portal should provide
+      tools to oversee and administer organizational data, manage user roles (patients
+      and doctors), and handle administrative tasks such as assigning roles and generating
+      notifications. The system must ensure secure handling of all data and maintain
+      robust privacy standards across all portals.
+    team:
+    - email: phanivis@buffalo.edu
+      name: phanivis
+    - email: pavankul@buffalo.edu
+      name: pavankul
+    - email: nagajasw@buffalo.edu
+      name: nagajasw
+    - email: scilamko@buffalo.edu
+      name: scilamko
+    - email: vamballa@buffalo.edu
+      name: vamballa
+    title: Kaleida Health
+    url: http://13.59.50.91:3000/
+  - description: Youro is a health platform that connects patients with urologists
+      for convenient virtual care, making urologic healthcare more accessible, straightforward,
+      and personalized. We offer virtual consultations, 24/7 expert advice, and seamless
+      coordination for video appointments to address a range of urologic concerns,
+      including recurring UTIs, kidney stones, and erectile dysfunction. With a strong
+      focus on privacy, evidence-based treatments, and patient-centered care, Youro
+      combines advanced technology with skilled specialists to deliver high-quality,
+      tailored solutions. Our personalized diagnosis questionnaire collects vital
+      details about symptoms and medical history to ensure optimized diagnostics,
+      while our symptom severity scores provide valuable insights for informed decisions.
+      Patients receive customized care plans, including detailed notes, prescriptions,
+      and feedback from doctors. Additionally, Youro promotes holistic wellness and
+      proactive healthcare through its My Diagnosis section, empowering individuals
+      with the knowledge to make informed health choices.
+    team:
+    - email: amruthap@buffalo.edu
+      name: Amrutha Pullagummi
+    - email: saisavit@buffalo.edu
+      name: Sai Savithru Mohan Pishka
+    - email: tharunga@buffalo.edu
+      name: Tharun Gangaraju
+    - email: vjayaram@buffalo.edu
+      name: Vamsikrishna Jayaraman
+    - email: mbaradi@buffalo.edu
+      name: Madhuri Reddy Baradi
+    title: Youro
+- code: CSE 455
+  projects:
+  - description: 'This project delves into the world of Formula 1 racing, leveraging
+      historical race data and  statistical techniques to predict future race outcomes
+      and driver performance. '
+    team:
+    - email: eabock@buffalo.edu
+      name: Lizzy Bock
+    title: 'Predicting the Podium: F1'
+  - description: Classification of objects within an image
+    team:
+    - email: jjjeong@buffalo.edu
+      name: Jonathan Jeong
+    - email: btrambo@buffalo.edu
+      name: Bryan Rambo
+    title: JJ+BR
+- code: CSE 555
+  projects:
+  - description: Predict and compare the effectiveness of Hidden Markov Models (HMMs)
+      and Convolutional Neural Networks (CNNs) separately in predicting the secondary
+      structure of proteins, analyzing how each model handles sequence dependencies
+      and spatial patterns within amino acid sequences.
+    team:
+    - email: deepniti@buffalo.edu
+      name: Deep Shahane
+    - email: zerinalm@buffalo.edu
+      name: Zerin Arif
+    title: Protein Structure Prediction
+  - description: Using diffusion model to impute spacialtemporal data
+    team:
+    - email: xchen326@buffalo.edu
+      name: xiaofengchen
+    title: Using diffusion model to impute spacialtemporal data
+- code: 'CSE 546: Reinforcement Learning'
+  projects:
+  - description: In this project, we explore the application of advanced reinforcement
+      learning (RL) techniques to the classic platform game Dangerous Dave, a game
+      renowned for its sparse rewards and challenging navigation. Drawing inspiration
+      from the success of exploration-focused algorithms like Random Network Distillation
+      (RND) and Go-Explore in similarly complex games, we adapted these approaches
+      to improve learning efficiency and agent performance in this unique environment.
+      By designing a custom game environment tailored to RL frameworks and iteratively
+      refining the reward structures, we achieved significant advancements in exploration,
+      learning efficiency, and the agent's ability to generalize strategies to new
+      levels, offering valuable insights into overcoming challenges in sparse reward
+      settings.
+    team:
+    - email: suvigyav@buffalo.edu
+      name: Suvigya Vijay
+    - email: dhruvitb@buffalo.edu
+      name: Dhruvit Bharat Kothari
+    - email: skhare@buffalo.edu
+      name: Swapnil Ajay Khare
+    title: 'Daring Dave: An RL Approach to Dangerous Dave'
+    url: https://github.com/suvigyavijay/ddave-rl
+- code: CSE555
+  projects:
+  - description: LSTM based model to detect the changes in emotions and facial expressions
+      from input video or pictorial data
+    team:
+    - email: gopalak4@buffalo.edu
+      name: Nishanth Gopalakrishnan
+    title: Dynamic Facial Expression Analysis for Video/ Photo Based Emotion Recognition
+  - description: "A uniquely empathetic AI companion that reflects not just your words,\
+      \ but your emotional state. Built on lean, mean, quantized open source models,\
+      \ Zxora is an emotional chameleon that learns to speak in your voice while reading\
+      \ between the lines of your texts. It\xE2\u20AC\u2122s a virtual confidant that\
+      \ can blend empathy with information retrieval from your own datasets and image\
+      \ generation from your text."
+    team:
+    - email: chaudhu2@buffalo.edu
+      name: Sayan Chaudhuri
+    - email: shkhan4@buffalo.edu
+      name: Sakib Khan
+    title: 'Zxora: Multimodal Mental Health Chatbot'
+- code: CSE 445
+  projects:
+  - description: Kolmogorov Arnold Networks For Image Classification
+    team:
+    - email: manaswim@buffalo.edu
+      name: manaswim
+    title: ImKAN
+- code: Cse 4/555 Introduction to pattern recognition
+  projects:
+  - description: Lip reading using computer vision interpreting speech by analyzing
+      lip movements in video.
+    team:
+    - email: tehaseen@buffalo.edu
+      name: Tehaseen Hussain Mohammad
+    title: Lip reading using computer vision
+- code: 'CSE 442: Software Engineering'
+  projects:
+  - description: 'A python based 2D local multiplayer fighter game
+
+      '
+    team:
+    - email: bowenson@buffalo.edu
+      name: Bowen Song
+    - email: bmconway@buffalo.edu
+      name: Brody Conway
+    - email: shaoweiw@buffalo.edu
+      name: Shaowei Wu
+    - email: junyizhe@buffalo.edu
+      name: Junyi Zheng
+    - email: enhuidon@buffalo.edu
+      name: Enhui Dong
+    title: Sugarmen from Sugartown
+  - description: GitGraph serves as a companion to GitHub. Users can view view information
+      about their repositories in graph formats, search commit messages,  sort through
+      branches, and more in this interactive web app.
+    team:
+    - email: dylanclo@buffalo.edu
+      name: Dylan Clouden
+    - email: badrkadm@buffalo.edu
+      name: Andrew Kadmari
+    - email: chaseall@buffalo.edu
+      name: Chase Allard
+    - email: joshphil@buffalo.edu
+      name: Josh Philip
+    - email: lmarchib@buffalo.edu
+      name: Leslie Archibald
+    title: GitGraph
+    url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442o/
+  - description: '" Stop Buggin'' " is a fun and engaging tower defense game where
+      players use animal towers to protect against waves of invading bugs. Designed
+      with young teenagers in mind, the game offers simple yet strategic gameplay
+      with bright, cartoonish visuals and a focus on accessibility. Players will build
+      and sell towers, earn food as currency, and progress through levels with increasing
+      challenges. With a tutorial for new players and progressive difficulty increase
+      for veterans, "Stop Buggin''" delivers an enjoyable and rewarding experience
+      for all skill levels.'
+    team:
+    - email: khenniga@buffalo.edu
+      name: Kate Hennigan
+    - email: avmangin@buffalo.edu
+      name: Aaron Mangino
+    - email: sammyalg@buffalo.edu
+      name: Sammy Algharazi
+    - email: wfgroetz@buffalo.edu
+      name: Wolfgang Groetz
+    - email: blakepin@buffalo.edu
+      name: Blake Pinos
+    - email: saj24@buffalo.edu
+      name: Sabrina Johnson
+    title: 'Project Name: " Stop Buggin'' ", Group Name: "The Users"'
+    url: https://github.com/cse442-at-ub/fa24-semesterproject-the-users
+  - description: TBD aims to be the premier music recommender, revolutionizing music
+      discovery by seamlessly connecting listeners with tracks that fit their tastes
+      while encouraging exploration of new genres and artists. Our vision is to create
+      a deeply personal listening experience that evolves with each user, adapting
+      to their changing moods and preferences over time. As listeners grow, TBD will
+      grow with them, providing a dynamic and evolving music discovery journey.
+    team:
+    - email: anasca@buffalo.edu
+      name: Arianna Nasca
+    - email: asaha5@buffalo.edu
+      name: Animesh Saha
+    - email: nafismor@buffalo.edu
+      name: Nafis Mortuza
+    - email: skim243@buffalo.edu
+      name: Seohyeon Kim
+    - email: lianamia@buffalo.edu
+      name: Liana Miao
+    - email: saj24@buffalo.edu
+      name: Sabrina Johnson
+    title: 'Project Name: "TDB", Group Name: "ToBeDetermined"'
+    url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442l/
+  - description: A powerful note-taking and organization app designed for seamless
+      real-time collaboration and effortless productivity. Group and organize content
+      dynamically within pages, enabling clear structure and easy navigation. With
+      live editing and sharing, teams can stay connected and aligned, transforming
+      ideas into action.
+    team:
+    - email: jordanhi@buffalo.edu
+      name: Liandra Hissin
+    - email: ckansah@buffalo.edu
+      name: Christopher Ansah
+    - email: cmolkows@buffalo.edu
+      name: Collin Olkowski
+    - email: mdrum2@buffalo.edu
+      name: Matthew Drum
+    - email: amarteag@buffalo.edu
+      name: Anthony Arteaga
+    title: C5-Note
+    url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442al/
+- code: CSE 446
+  projects:
+  - description: Optimizing Ventilator Settings with Batch-Constrained Reinforcement
+      Learning Using ICU Data
+    team:
+    - email: henrylee@buffalo.edu
+      name: henrylee
+    title: BREATHE - Batch-constrained Reinforcement Environment for Airway Therapy
+      Health Enhancement
+- code: CSE 460/560
+  projects:
+  - description: "This project aims to analyze the efficiency of football/soccer strikers\
+      \ across Europe\xE2\u20AC\u2122s top leagues using data from\n2022/2023. Our\
+      \ targeted performance metrics, including goals\nscored, assists contributed,\
+      \ dribbles made etc, are processed and\nanalyzed using PySpark\xE2\u20AC\u2122\
+      s distributed capabilities for scalable\ndata cleaning and machine learning.\
+      \ The insights help identify\ntop-performing strikers, offering valuable data-driven\
+      \ guidance\nfor player recruitment and performance management."
+    team:
+    - email: adwibedi@buffalo.edu
+      name: Aditya Kumar Dwibedi
+    - email: mlarbida@buffalo.edu
+      name: Mohamed Ali Larbi Daho Bachir
+    title: "The Science of Scoring: Evaluating Efficiency Among Europe\xE2\u20AC\u2122\
+      s Top Strikers"
+- code: CSE 487
+  projects:
+  - description: 'Our Project we are presenting is DiffReg, a novel diffusion-based
+      method for 3D point cloud registration. Inspired by diffusion models, DiffReg
+      iteratively refines the predicted correspondences between two point clouds by
+      progressively denoising their coordinates. This approach achieves state-of-the-art
+      performance on both ModelNet and 3DMatch.
+
+      '
+    team:
+    - email: colinwon@buffalo.edu
+      name: Colin Wong
+    - email: qiweidu@buffalo.edu
+      name: Qiwei Du
+    - email: vkyatham@buffalo.edu
+      name: Vamshi Krishna Kyatham
+    title: 'DiffReg: Diffusion Model for Point Cloud Registration'
+

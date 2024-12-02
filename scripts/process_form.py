@@ -14,6 +14,10 @@ def parsemember(member):
     match = re.match("([^<(]+)(\\(|<)([^\\)>@]+)", member)
     name = match.group(1)
     ubit = match.group(3)
+  elif "@" in member:
+    match = re.split("@", member)
+    name = match[0]
+    ubit = match[0]
   else:
     raise Exception(member)
   return {
