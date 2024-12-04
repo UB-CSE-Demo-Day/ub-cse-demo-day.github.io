@@ -183,6 +183,57 @@
     - email: colecacc@buffalo.edu
       name: Cole Caccamise
     title: Night Shift At Harper
+  - description: A rouge like game, where you the character need to escape an underground
+      pyramid. Fight enemies, avoid traps, and solve puzzles to get out.
+    team:
+    - email: tjmehok@buffalo.edu
+      name: Thomas Mehok
+    - email: amittzad@buffalo.edu
+      name: Amit Tzadok
+    - email: CalebHei@buffalo.edu
+      name: Caleb Heigl
+    - email: jjjeong@buffalo.edu
+      name: Jon Jeong
+    title: Hidden Sands
+  - description: FPS Magic Shooter
+    team:
+    - email: thinhbui@buffalo.edu
+      name: Thomas Bui
+    - email: caydenla@buffalo.edu
+      name: Cayden La Bara
+    - email: ericconr@buffalo.edu
+      name: Eric Conroy
+    title: Arcane Ascension
+  - description: A TPS wave-based survival game.
+    team:
+    - email: mwhorvat@buffalo.edu
+      name: mwhorvat
+    - email: kli73@buffalo.edu
+      name: kli73
+    - email: jwong92@buffalo.edu
+      name: jwong92
+    title: Last Stand
+  - description: CSE410 Project to learn unreal engine 5. Inspiration taken from subway
+      surfers and other endless runner type games.
+    team:
+    - email: rtan8@buffalo.edu
+      name: Raymond Tan
+    - email: xunlin@buffalo.edu
+      name: Xun Lin
+    title: Brainrot Runner
+  - description: Gambler's Ruin is a blackjack-themed roguelike-style card video game
+      developed in Unreal Engine 5. You will go through a gauntlet where you will
+      play blackjack and wager chips to decide your fate.
+    team:
+    - email: arekas@buffalo.edu
+      name: Adrian Rekas
+    - email: jmgensel@buffalo.edu
+      name: Matt Gensel
+    - email: ekwong@buffalo.edu
+      name: Everett Wong
+    - email: mcratel@buffalo.edu
+      name: Michael Ratel
+    title: Gambler's Ruin
 - code: CSE 302/303
   projects:
   - description: 'Indoor Wireless Localization (specifically Wi-Fi) has become quite
@@ -265,6 +316,81 @@
     - email: winsonzh@buffalo.edu
       name: Winson Zhu
     title: Systems Validation Research
+  - description: "Find a mechanic of FAM for short is a service based webpage and\
+      \ app with the goal of becoming a doordash and/or instacart of trades and services.\
+      \ As of right now we\xE2\u20AC\u2122re focusing on the mechanics trade due to\
+      \ it being the largest and having year round work.\n\nThis software has 3 core\
+      \ portions. A marketplace webpage for a shop to administer and delegate time,\
+      \ work, and resources internal to customer issues and communicate and do the\
+      \ entire workflow process with customers. The other two portions are an app\
+      \ that has two uses. 1st use is for a worker of the shop to have work delegated\
+      \ to them from the shop webpage that allows them to update on progress of a\
+      \ vehicle and a user facing app that allows them to find a shop of their desired\
+      \ niche by reviews. The user can interact with the shop from start to finish\
+      \ from the app."
+    team:
+    - email: yudianke@buffalo.edu
+      name: Yudian Ke
+    - email: jstromme@buffalo.edu
+      name: Jason Trommetter
+    - email: ajfeng@buffalo.edu
+      name: Alex Feng
+    - email: akshayus@buffalo.edu
+      name: Akshay Bajpai
+    - email: ddparris@buffalo.edu
+      name: David Parris
+    - email: saisreep@buffalo.edu
+      name: Saisree Peddireddy
+    title: Find a Mechanic
+  - description: DevU is a modern replacement for AutoLab, designed to provide automated
+      code grading capabilities with extensibility at its core. The platform features
+      a comprehensive API that empowers both instructors and students to develop custom
+      integrations, expanding functionality beyond built-in features.
+    team:
+    - email: kzhong2@buffalo.edu
+      name: Kevin Zhong
+    - email: rsahu@buffalo.edu
+      name: Rishi Sahu
+    - email: tasneemz@buffalo.edu
+      name: Neem Zaman
+    - email: yessicaq@buffalo.edu
+      name: Quinonez Yessica
+    title: DevU
+  - description: GraSPI is graph-based structure property identifier software implemented
+      as a C/C++ package. GraSPI computes a library of descriptors for a segmented
+      microstructure and computes descriptors that are relevant for organic solar
+      cells performance. The package represents microstructure as a graph and harnesses
+      the graph-based theory to compute wide range of descriptors at low computational
+      cost. A suite of tools for data conversion between various formats and for post-processing
+      the raw results from the graph analysis is provided. Our main objective was
+      to enhance this project by translating it into python using various Python-based
+      libraries.
+    team:
+    - email: mleung8@buffalo.edu
+      name: Michael Leung
+    - email: zzhou42@buffalo.edu
+      name: Jerry Zhou
+    - email: wenqizhe@buffalo.edu
+      name: Wenqi Zheng
+    - email: qipan@buffalo.edu
+      name: Qi Pan
+    - email: kem44@buffalo.edu
+      name: Kevin Martinez Sanchez
+    title: Material Microstructure
+    url: https://github.com/owodolab/py-graspi/tree/main
+  - description: DevU is an extensible autograding service being developed at the
+      University At Buffalo. DevU aims to allow instructors to create and add functionality
+      as they see fit.
+    team:
+    - email: kzhong2@buffalo.edu
+      name: Kevin Zhong
+    - email: rsahu@buffalo.edu
+      name: Rishi Sahu
+    - email: yessicaq@buffalo.edu
+      name: Quinonez Yessica
+    - email: tasneemz@buffalo.edu
+      name: Neem Zaman
+    title: DevU
 - code: 'Summer2024 Highschool Intern '
   projects:
   - description: 'Fake review detection has become increasingly im-
@@ -380,6 +506,8 @@
     team:
     - email: spandey8@buffalo.edu
       name: spandey8
+    - email: vamballa@buffalo.edu
+      name: vamballa
     title: Skin Lesion Classification
   - description: "Pedestrian safety is a key element of Advanced Driver Assistance\
       \ Systems (ADAS), particularly in urban environments where diverse contextual\
@@ -460,7 +588,49 @@
     - email: jtsang3@buffalo.edu
       name: Jennifer Tsang
     title: RC Car with HID-Based Control
-- code: CSE 555 Introduction to Pattern Recognition
+  - description: Deepfake o meter
+    team:
+    - email: rikyzhou@buffalo.edu
+      name: rikyzhou
+    title: UB Media Forensic Lab
+    url: https://zinc.cse.buffalo.edu/ubmdfl/deep-o-meter/landing_page
+  - description: LLM Auditor System - Toxicity System
+    team:
+    - email: vinitwad@buffalo.edu
+      name: Vinit Wadgaonkar
+    title: Vinit Wadgaonkar
+  - description: SEMI-HOMOGENEOUS DATA INTEGRATION IN LONGITUDINAL SURVEY INSTRUMENTS
+    team:
+    - email: pratikpo@buffalo.edu
+      name: Pratik Pokharel
+    title: ODIn-Theseus
+  - description: This project aims to create a state-of-the-art multimodal hateful
+      video detection system that integrates advanced machine learning techniques
+      to address the challenges of hate speech in video content. Using the HatefulVideo
+      dataset, the project evaluates various state-of-the-art vision models and employs
+      comprehensive error analysis to identify gaps in existing methods. The model
+      will leverage visual, audio, and transcript data, applying causal reasoning
+      to detect relationships within videos and enhance understanding of complex contexts
+      such as emerging slang and memes. Chain-of-thought methods will further strengthen
+      the model's reasoning capabilities, enabling detection of nuanced and evolving
+      hate speech trends.
+    team:
+    - email: Hongxin Hu@buffalo.edu
+      name: Supervisior
+    - email: keyanguo@buffalo.edu
+      name: Keyan Guo
+    - email: Ruijun Liu ruijunli@buffalo.edu
+      name: Ruijun Liu ruijunli
+    title: MLLM hateful video detection
+  - description: An on-disk Datalog engine for program analysis.
+    team:
+    - email: njbrown4@buffalo.edu
+      name: Nick Brown
+    - email: okennedy@buffalo.edu
+      name: Oliver Kennedy
+    title: Spinning Rust
+    url: https://git.odin.cse.buffalo.edu/Norn
+- code: CSE 4/555 Pattern Recognition
   projects:
   - description: The Multimodal Video Emotion Recognition project focuses on developing
       a robust AI system that accurately detects and interprets emotions from diverse
@@ -481,14 +651,36 @@
     - email: shivanma@buffalo.edu
       name: Shivan Mathur
     title: Multimodal Video Emotion Recognition in the wild
-- code: CSE 555 Pattern Recognition
-  projects:
   - description: An AI model that translates lip movements into text, enhancing communication
       accessibility for the deaf and improving speech recognition in noisy environments.
     team:
     - email: tehaseen@buffalo.edu
       name: Tehaseen Hussain Mohammad
     title: 'Lip syn detection '
+  - description: 'This project delves into the world of Formula 1 racing, leveraging
+      historical race data and  statistical techniques to predict future race outcomes
+      and driver performance. '
+    team:
+    - email: eabock@buffalo.edu
+      name: Lizzy Bock
+    title: 'Predicting the Podium: F1'
+  - description: Predict and compare the effectiveness of Hidden Markov Models (HMMs)
+      and Convolutional Neural Networks (CNNs) separately in predicting the secondary
+      structure of proteins, analyzing how each model handles sequence dependencies
+      and spatial patterns within amino acid sequences.
+    team:
+    - email: deepniti@buffalo.edu
+      name: Deep Shahane
+    - email: zerinalm@buffalo.edu
+      name: Zerin Arif
+    title: Protein Structure Prediction
+  - description: Classification of objects within an image
+    team:
+    - email: jjjeong@buffalo.edu
+      name: Jonathan Jeong
+    - email: btrambo@buffalo.edu
+      name: Bryan Rambo
+    title: JJ+BR
   - description: A Machine Learning project based around predicting an NFL offense's
       play outcome based off of the Quarterback's actions.
     team:
@@ -496,6 +688,35 @@
       name: Aiden Ferguson
     title: 'QBSNet: NFL Quarterback-based Analytical Prediction on an Offense''s success
       per play'
+  - description: LSTM based model to detect the changes in emotions and facial expressions
+      from input video or pictorial data
+    team:
+    - email: gopalak4@buffalo.edu
+      name: Nishanth Gopalakrishnan
+    title: Dynamic Facial Expression Analysis for Video/ Photo Based Emotion Recognition
+  - description: Using diffusion model to impute spacialtemporal data
+    team:
+    - email: xchen326@buffalo.edu
+      name: xiaofengchen
+    title: Using diffusion model to impute spacialtemporal data
+  - description: "A uniquely empathetic AI companion that reflects not just your words,\
+      \ but your emotional state. Built on lean, mean, quantized open source models,\
+      \ Zxora is an emotional chameleon that learns to speak in your voice while reading\
+      \ between the lines of your texts. It\xE2\u20AC\u2122s a virtual confidant that\
+      \ can blend empathy with information retrieval from your own datasets and image\
+      \ generation from your text."
+    team:
+    - email: chaudhu2@buffalo.edu
+      name: Sayan Chaudhuri
+    - email: shkhan4@buffalo.edu
+      name: Sakib Khan
+    title: 'Zxora: Multimodal Mental Health Chatbot'
+  - description: Lip reading using computer vision interpreting speech by analyzing
+      lip movements in video.
+    team:
+    - email: tehaseen@buffalo.edu
+      name: Tehaseen Hussain Mohammad
+    title: Lip reading using computer vision
 - code: CSE 4/546 Reinforcement Learning
   projects:
   - description: 'This project aims to develop an efficient multi-agent reinforcement
@@ -546,6 +767,8 @@
       name: pkadampa
     - email: prabhasv@buffalo.edu
       name: prabhasv
+    - email: damodarp@buffalo.edu
+      name: damodarp
     title: Look The Part
   - description: Maverick Health is a comprehensive health tracking app designed to
       empower users to take charge of their well-being through personalized assessments
@@ -661,39 +884,6 @@
     - email: mbaradi@buffalo.edu
       name: Madhuri Reddy Baradi
     title: Youro
-- code: CSE 455
-  projects:
-  - description: 'This project delves into the world of Formula 1 racing, leveraging
-      historical race data and  statistical techniques to predict future race outcomes
-      and driver performance. '
-    team:
-    - email: eabock@buffalo.edu
-      name: Lizzy Bock
-    title: 'Predicting the Podium: F1'
-  - description: Classification of objects within an image
-    team:
-    - email: jjjeong@buffalo.edu
-      name: Jonathan Jeong
-    - email: btrambo@buffalo.edu
-      name: Bryan Rambo
-    title: JJ+BR
-- code: CSE 555
-  projects:
-  - description: Predict and compare the effectiveness of Hidden Markov Models (HMMs)
-      and Convolutional Neural Networks (CNNs) separately in predicting the secondary
-      structure of proteins, analyzing how each model handles sequence dependencies
-      and spatial patterns within amino acid sequences.
-    team:
-    - email: deepniti@buffalo.edu
-      name: Deep Shahane
-    - email: zerinalm@buffalo.edu
-      name: Zerin Arif
-    title: Protein Structure Prediction
-  - description: Using diffusion model to impute spacialtemporal data
-    team:
-    - email: xchen326@buffalo.edu
-      name: xiaofengchen
-    title: Using diffusion model to impute spacialtemporal data
 - code: 'CSE 546: Reinforcement Learning'
   projects:
   - description: In this project, we explore the application of advanced reinforcement
@@ -716,26 +906,36 @@
       name: Swapnil Ajay Khare
     title: 'Daring Dave: An RL Approach to Dangerous Dave'
     url: https://github.com/suvigyavijay/ddave-rl
-- code: CSE555
-  projects:
-  - description: LSTM based model to detect the changes in emotions and facial expressions
-      from input video or pictorial data
+  - description: "Advanced Deep Reinforcement Learning for Traffic Signal Optimization\
+      \ in Vehicular \nNetworks Using SUMO and TraCI - This project leverages deep\
+      \ reinforcement learning (DRL) and real-time vehicular network data, simulated\
+      \ in SUMO, to optimize traffic signal control. Unlike traditional fixed-duration\
+      \ methods, our approach models intersections as grids, using advanced techniques\
+      \ like DQN, A2C, and PER to improve traffic flow, reduce delays, and \nenable\
+      \ adaptive traffic management."
     team:
+    - email: khansakh@buffalo.edu
+      name: Khansa Khanam Umar Sultan
     - email: gopalak4@buffalo.edu
       name: Nishanth Gopalakrishnan
-    title: Dynamic Facial Expression Analysis for Video/ Photo Based Emotion Recognition
-  - description: "A uniquely empathetic AI companion that reflects not just your words,\
-      \ but your emotional state. Built on lean, mean, quantized open source models,\
-      \ Zxora is an emotional chameleon that learns to speak in your voice while reading\
-      \ between the lines of your texts. It\xE2\u20AC\u2122s a virtual confidant that\
-      \ can blend empathy with information retrieval from your own datasets and image\
-      \ generation from your text."
+    - email: anantha2@buffalo.edu
+      name: Ram Narayanan Ananthakrishnapuram Sampath
+    title: Team "AInspire"
+    url: https://github.com/KhansaKhanam/ReinforcementLearning_FinalCourseProject.git
+  - description: "In this project, we are focusing on improving the real time network\
+      \ traffic using the Reinforcement Learning algorithm by dynamically optimizing\
+      \ the routing paths and exponential growth in data and devices connected over\
+      \ the networks. We have designed the environment for our proposed dynamic network\
+      \ routing problem and applied several Reinforcement Learning algorithm like\
+      \ Q \xE2\u20AC\u201C learning, DDQN, Actor-Critic to simulate our traffic network."
     team:
-    - email: chaudhu2@buffalo.edu
-      name: Sayan Chaudhuri
-    - email: shkhan4@buffalo.edu
-      name: Sakib Khan
-    title: 'Zxora: Multimodal Mental Health Chatbot'
+    - email: anipkuma@buffalo.edu
+      name: Anip Kumar Paul
+    - email: k33@buffalo.edu
+      name: Krishnanand
+    - email: spandey5@buffalo.edu
+      name: Saumya Pandey
+    title: 'Project: Reinforced Learning for Real-Time Network Traffic Path Optimization'
 - code: CSE 445
   projects:
   - description: Kolmogorov Arnold Networks For Image Classification
@@ -743,14 +943,6 @@
     - email: manaswim@buffalo.edu
       name: manaswim
     title: ImKAN
-- code: Cse 4/555 Introduction to pattern recognition
-  projects:
-  - description: Lip reading using computer vision interpreting speech by analyzing
-      lip movements in video.
-    team:
-    - email: tehaseen@buffalo.edu
-      name: Tehaseen Hussain Mohammad
-    title: Lip reading using computer vision
 - code: 'CSE 442: Software Engineering'
   projects:
   - description: 'A python based 2D local multiplayer fighter game
@@ -846,6 +1038,42 @@
       name: Anthony Arteaga
     title: C5-Note
     url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442al/
+  - description: A survival game where you gather resources, develop a base, and fight
+      enemies with the goal of finding a way off of an island
+    team:
+    - email: alansoto@buffalo.edu
+      name: Alan Soto
+    - email: lukedebr@buffalo.edu
+      name: Luke Debritz
+    - email: junpengl@buffalo.edu
+      name: Junpeng Liao
+    - email: sauravji@buffalo.edu
+      name: Samreet Chhina
+    - email: caydenla@buffalo.edu
+      name: Cayden La Bara
+    title: Survival Island
+  - description: "DormRaters is an online platform where students can find and review\
+      \ local dorms, helping others make informed choices.\n\nOur Mission\nAt DormRaters,\
+      \ we believe in the power of local communities. Our mission is to connect people\
+      \ with great dorms, fostering a space where consumers can share honest feedback\
+      \ and discover trusted recommendations.\n\nFrom local to graduate students,\
+      \ we\xE2\u20AC\u2122re here to elevate voices, celebrate authenticity, and support\
+      \ the vibrant tapestry of campus life. By connecting consumers and businesses,\
+      \ we aim to build stronger communities and create meaningful connections that\
+      \ empower every user to make informed choices."
+    team:
+    - email: alrifat@buffalo.edu
+      name: Al Rifat
+    - email: tcroma@buffalo.edu
+      name: Thomas Roma
+    - email: manavkan@buffalo.edu
+      name: Manav Kanaganapalli
+    - email: qgao5@buffalo.edu
+      name: Qi Gao
+    - email: marcomuy@buffalo.edu
+      name: Marco Muya
+    title: DormRaters
+    url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442af/fa24-semesterproject-dormraters/frontend/
 - code: CSE 446
   projects:
   - description: Optimizing Ventilator Settings with Batch-Constrained Reinforcement
@@ -888,4 +1116,16 @@
     - email: vkyatham@buffalo.edu
       name: Vamshi Krishna Kyatham
     title: 'DiffReg: Diffusion Model for Point Cloud Registration'
+- code: 'CSE 587: Data Intensive Computing'
+  projects:
+  - description: Network Attack Detection using Machine Learning
+    team:
+    - email: sgupta67@buffalo.edu
+      name: Shivansh Gupta
+    - email: sadakaka@buffalo.edu
+      name: Sada Kakarla
+    - email: rahuleka@buffalo.edu
+      name: Rahul Ekambaram
+    title: Neural Nomads
+    url: https://github.com/shivansh052k/NAD-Machine-Learning
 
