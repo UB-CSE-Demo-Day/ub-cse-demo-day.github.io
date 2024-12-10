@@ -72,14 +72,6 @@
     - email: haoyanga@buffalo.edu
       name: haoyan
     title: Bizarre Bender
-  - description: 410 game that is a unique interpretation of the classic endless runner
-      genre.
-    team:
-    - email: rtan8@buffalo.edu
-      name: Raymond Tan
-    - email: xunlin@buffalo.edu
-      name: Xun Lin
-    title: Brainrot Runner
   - description: You play as the evil dragon who has escaped his prison and is trying
       to destroy the world.
     team:
@@ -104,20 +96,6 @@
     - email: tauhidur@buffalo.edu
       name: Tauhidur Anjan
     title: Area - 51- Z
-  - description: A multiplayer arcade game where 2 players take turns preparing moves
-      and shots that then get released at the same time. Littering the environment
-      with persistent bullet trails that the players have to keep avoiding until the
-      end of the game!
-    team:
-    - email: mrbienie@buffalo.edu
-      name: mrbienie
-    - email: maxwilde@buffalo.edu
-      name: maxwilde
-    - email: nvdeluci@buffalo.edu
-      name: nvdeluci
-    - email: mlklee@buffalo.edu
-      name: mlklee
-    title: ShotCallers
   - description: A sound-based cave exploration horror game
     team:
     - email: ronaldzh@buffalo.edu
@@ -182,6 +160,8 @@
       name: Dominic Nieves
     - email: colecacc@buffalo.edu
       name: Cole Caccamise
+    - email: cmsingo@buffalo.edu
+      name: Chad Singo
     title: Night Shift At Harper
   - description: A rouge like game, where you the character need to escape an underground
       pyramid. Fight enemies, avoid traps, and solve puzzles to get out.
@@ -204,15 +184,6 @@
     - email: ericconr@buffalo.edu
       name: Eric Conroy
     title: Arcane Ascension
-  - description: A TPS wave-based survival game.
-    team:
-    - email: mwhorvat@buffalo.edu
-      name: mwhorvat
-    - email: kli73@buffalo.edu
-      name: kli73
-    - email: jwong92@buffalo.edu
-      name: jwong92
-    title: Last Stand
   - description: CSE410 Project to learn unreal engine 5. Inspiration taken from subway
       surfers and other endless runner type games.
     team:
@@ -221,6 +192,20 @@
     - email: xunlin@buffalo.edu
       name: Xun Lin
     title: Brainrot Runner
+  - description: A multiplayer arcade game where 2 players take turns preparing moves
+      and shots that then get released at the same time. Littering the environment
+      with persistent bullet trails that the players have to keep avoiding until the
+      end of the game!
+    team:
+    - email: mrbienie@buffalo.edu
+      name: mrbienie
+    - email: maxwilde@buffalo.edu
+      name: maxwilde
+    - email: nvdeluci@buffalo.edu
+      name: nvdeluci
+    - email: mlklee@buffalo.edu
+      name: mlklee
+    title: ShotCallers
   - description: Gambler's Ruin is a blackjack-themed roguelike-style card video game
       developed in Unreal Engine 5. You will go through a gauntlet where you will
       play blackjack and wager chips to decide your fate.
@@ -378,19 +363,6 @@
       name: Kevin Martinez Sanchez
     title: Material Microstructure
     url: https://github.com/owodolab/py-graspi/tree/main
-  - description: DevU is an extensible autograding service being developed at the
-      University At Buffalo. DevU aims to allow instructors to create and add functionality
-      as they see fit.
-    team:
-    - email: kzhong2@buffalo.edu
-      name: Kevin Zhong
-    - email: rsahu@buffalo.edu
-      name: Rishi Sahu
-    - email: yessicaq@buffalo.edu
-      name: Quinonez Yessica
-    - email: tasneemz@buffalo.edu
-      name: Neem Zaman
-    title: DevU
 - code: 'Summer2024 Highschool Intern '
   projects:
   - description: 'Fake review detection has become increasingly im-
@@ -532,21 +504,6 @@
     - email: charviku@buffalo.edu
       name: Charvi Kusuma
     title: 'Adaptive Driver Assistance: Context-based Approach to Pedestrian Safety'
-  - description: InsightBot is a dynamic Retrieval Augmented Generation (RAG) application
-      that transforms how users interact with diverse content. Users can upload YouTube
-      links, documents, and text files to create a rich, queryable knowledge base.
-      The system processes and indexes content in real-time, using advanced AI to
-      understand user queries and retrieve relevant information. As content is added
-      or modified, InsightBot automatically updates its knowledge base, ensuring responses
-      are always current. This versatile tool is ideal for research, content analysis,
-      customer support, and knowledge management, offering a comprehensive solution
-      for extracting valuable insights from various information sources.
-    team:
-    - email: jatinjay@buffalo.edu
-      name: Jatin Chhabria
-    - email: aneeshkr@buffalo.edu
-      name: Aneesh Krishna
-    title: InsightBot
   - description: The goal of this project is to optimize latency in geo-replicated
       databases by developing and implementing a novel queue management and transaction
       reordering system. This project focuses on Juicer, a latency-optimization layer
@@ -588,6 +545,21 @@
     - email: jtsang3@buffalo.edu
       name: Jennifer Tsang
     title: RC Car with HID-Based Control
+  - description: InsightBot is a dynamic Retrieval Augmented Generation (RAG) application
+      that transforms how users interact with diverse content. Users can upload YouTube
+      links, documents, and text files to create a rich, queryable knowledge base.
+      The system processes and indexes content in real-time, using advanced AI to
+      understand user queries and retrieve relevant information. As content is added
+      or modified, InsightBot automatically updates its knowledge base, ensuring responses
+      are always current. This versatile tool is ideal for research, content analysis,
+      customer support, and knowledge management, offering a comprehensive solution
+      for extracting valuable insights from various information sources.
+    team:
+    - email: jatinjay@buffalo.edu
+      name: Jatin Chhabria
+    - email: aneeshkr@buffalo.edu
+      name: Aneesh Krishna
+    title: InsightBot
   - description: Deepfake o meter
     team:
     - email: rikyzhou@buffalo.edu
@@ -630,6 +602,16 @@
       name: Oliver Kennedy
     title: Spinning Rust
     url: https://git.odin.cse.buffalo.edu/Norn
+  - description: 'wSignGen: Word-Conditioned 3D American Sign Language Motion Generation'
+    team:
+    - email: ludong@buffalo.edu
+      name: Lu Dong
+    - email: xwang277@buffalo.edu
+      name: Xiao Wang
+    - email: inwogu@buffalo.edu
+      name: Ifeoma Nwogu
+    title: 'HBML Lab '
+    url: https://dongludeeplearning.github.io/wSignGen.html
 - code: CSE 4/555 Pattern Recognition
   projects:
   - description: The Multimodal Video Emotion Recognition project focuses on developing
@@ -651,12 +633,6 @@
     - email: shivanma@buffalo.edu
       name: Shivan Mathur
     title: Multimodal Video Emotion Recognition in the wild
-  - description: An AI model that translates lip movements into text, enhancing communication
-      accessibility for the deaf and improving speech recognition in noisy environments.
-    team:
-    - email: tehaseen@buffalo.edu
-      name: Tehaseen Hussain Mohammad
-    title: 'Lip syn detection '
   - description: 'This project delves into the world of Formula 1 racing, leveraging
       historical race data and  statistical techniques to predict future race outcomes
       and driver performance. '
@@ -976,6 +952,27 @@
       name: Leslie Archibald
     title: GitGraph
     url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442o/
+  - description: TBD aims to be the premier music recommender, revolutionizing music
+      discovery by seamlessly connecting listeners with tracks that fit their tastes
+      while encouraging exploration of new genres and artists. Our vision is to create
+      a deeply personal listening experience that evolves with each user, adapting
+      to their changing moods and preferences over time. As listeners grow, TBD will
+      grow with them, providing a dynamic and evolving music discovery journey.
+    team:
+    - email: anasca@buffalo.edu
+      name: Arianna Nasca
+    - email: asaha5@buffalo.edu
+      name: Animesh Saha
+    - email: nafismor@buffalo.edu
+      name: Nafis Mortuza
+    - email: skim243@buffalo.edu
+      name: Seohyeon Kim
+    - email: lianamia@buffalo.edu
+      name: Liana Miao
+    - email: saj24@buffalo.edu
+      name: Sabrina Johnson
+    title: TDB
+    url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442l/
   - description: '" Stop Buggin'' " is a fun and engaging tower defense game where
       players use animal towers to protect against waves of invading bugs. Designed
       with young teenagers in mind, the game offers simple yet strategic gameplay
@@ -997,29 +994,8 @@
       name: Blake Pinos
     - email: saj24@buffalo.edu
       name: Sabrina Johnson
-    title: 'Project Name: " Stop Buggin'' ", Group Name: "The Users"'
+    title: Stop Buggin
     url: https://github.com/cse442-at-ub/fa24-semesterproject-the-users
-  - description: TBD aims to be the premier music recommender, revolutionizing music
-      discovery by seamlessly connecting listeners with tracks that fit their tastes
-      while encouraging exploration of new genres and artists. Our vision is to create
-      a deeply personal listening experience that evolves with each user, adapting
-      to their changing moods and preferences over time. As listeners grow, TBD will
-      grow with them, providing a dynamic and evolving music discovery journey.
-    team:
-    - email: anasca@buffalo.edu
-      name: Arianna Nasca
-    - email: asaha5@buffalo.edu
-      name: Animesh Saha
-    - email: nafismor@buffalo.edu
-      name: Nafis Mortuza
-    - email: skim243@buffalo.edu
-      name: Seohyeon Kim
-    - email: lianamia@buffalo.edu
-      name: Liana Miao
-    - email: saj24@buffalo.edu
-      name: Sabrina Johnson
-    title: 'Project Name: "TDB", Group Name: "ToBeDetermined"'
-    url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442l/
   - description: A powerful note-taking and organization app designed for seamless
       real-time collaboration and effortless productivity. Group and organize content
       dynamically within pages, enabling clear structure and easy navigation. With
@@ -1074,6 +1050,27 @@
       name: Marco Muya
     title: DormRaters
     url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442af/fa24-semesterproject-dormraters/frontend/
+  - description: "Are you a student or a person who takes a lot of notes? Do you struggle\
+      \ to find them in an endless abyss with no dates, subjects, or titles? Have\
+      \ you ever missed a lecture and needed your buddy to share their notes? Well,\
+      \ look no further than our web app called Noted! This collaborative web app\
+      \ allows users to take, organize, and share class notes using \"Course pools\"\
+      . In addition, our app has the following features listed below:\nNotes Annotation!\
+      \ We know plain simple text can be difficult to study so we added the ability\
+      \ to highlight and draw on your notes so that the most important concepts can\
+      \ be emphasized! \nLive Chat is akin to Discord. Users can chat with one another\
+      \ via chat messages\nTo-Do and Reminders Section where users can make a Do list,\
+      \ set a reminder, and have it appear in their calendar \nCustom Profile Making!\
+      \ Users can add images, and create a Bio! \n\nA sense of belonging is fostered\
+      \ for those who long to be in a community that evokes educational success and\
+      \ growth. Whatever you need we got that Noted! \xF0\u0178\u2018\u0160\n\n"
+    team:
+    - email: mosesmic@buffalo.edu
+      name: mosesmic
+    - email: nagoke@buffalo.edu
+      name: nagoke
+    title: CS Clowns
+    url: https://se-prod.cse.buffalo.edu/CSE442/2024-Fall/cse-442b/NotedApp/PHP/login.php
 - code: CSE 446
   projects:
   - description: Optimizing Ventilator Settings with Batch-Constrained Reinforcement
@@ -1128,4 +1125,24 @@
       name: Rahul Ekambaram
     title: Neural Nomads
     url: https://github.com/shivansh052k/NAD-Machine-Learning
+- code: CSE 546 - Reinforcement Learning
+  projects:
+  - description: 'We have Built a movie recommendation engine using Reinforcement
+      Learning Algorithms ( DDPG) that leverages user and movie embeddings, genre
+      preferences, and reinforcement learning to personalize recommendations dynamically.
+
+      Traditional recommendation systems rely on static collaborative filtering or
+      content-based techniques. Incorporating reinforcement learning improves adaptability
+      and decision-making by actively optimizing recommendations for user satisfaction.
+
+
+      '
+    team:
+    - email: achand3@buffalo.edu
+      name: Aishwarya Chand
+    - email: skumar52@buffalo.edu
+      name: Sumanth Kumar
+    - email: tharunkr@buffalo.edu
+      name: Tharun Krishna Reddy Thippireddy
+    title: 'Reinforcement Learning  powered : Movie Recommendation Engine'
 
