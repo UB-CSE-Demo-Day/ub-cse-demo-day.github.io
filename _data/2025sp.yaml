@@ -86,6 +86,59 @@
     - email: zaidarsh@buffalo.edu
       name: Zaid Arshad
     title: Redprint
+  - description: "Qu Anytime offers growth on demand\xE2\u20AC\u201Dfor everyone.\n\
+      Inspired by the simple truth that we grow most through experiences and other\
+      \ people, we built a way to access both\xE2\u20AC\u201Danytime, anywhere.\n\
+      Whether you\xE2\u20AC\u2122re on a personal growth journey, eager to explore\
+      \ the world, or craving deep conversation\xE2\u20AC\u201Dabout the future of\
+      \ our species, your favorite sports team, or a place you\xE2\u20AC\u2122ve always\
+      \ wanted to visit\xE2\u20AC\u201Devery topic and call is a chance to connect,\
+      \ learn, and grow with others.\nAlong the way, you\xE2\u20AC\u2122ll develop\
+      \ the Qu Mindset\xE2\u20AC\u201Dthe ability to learn and grow from every moment\xE2\
+      \u20AC\u201Dhelping you make the most of every experience, on Qu and in real\
+      \ life.\nChoose a topic.\nPick the length of time.\nSelect the number of people.\n\
+      Then connect, learn, and grow\xE2\u20AC\u201Dwith the world.\nPeople you\xE2\
+      \u20AC\u2122ve never met.\nInsights you\xE2\u20AC\u2122ll never forget.\nEvery\
+      \ call offers unlimited opportunities to grow.\nQu Anytime is for the curious,\
+      \ the driven, and those who want to realize their potential. \nStudents, creatives,\
+      \ professionals, and everyday explorers\xE2\u20AC\u201Danyone who wants to thrive\
+      \ in the modern world. \nThis isn\xE2\u20AC\u2122t social media.\nIt\xE2\u20AC\
+      \u2122s social growth. "
+    team:
+    - email: sv94@buffalo.edu
+      name: Sruthisri Venkateswaran
+    - email: jackeywa@buffalo.edu
+      name: Jackey Wang
+    - email: nawarkho@buffalo.edu
+      name: Nawar Khouri
+    - email: dsonawan@buffalo.edu
+      name: Darshan Sonawane
+    - email: gurleenr@buffalo.edu
+      name: Gurleen Rekhi
+    title: Qu Anytime
+  - description: 'In collaboration with Filmic, our project focuses on building an
+      integrated web and mobile application that bridges the gap between motion picture
+      archivists and potential funders. The platform enables archivists who possess
+      undigitized motion pictures to create profiles, showcase their collections,
+      and request funding for digital preservation efforts.
+
+
+      At the same time, individuals and organizations interested in supporting cultural
+      preservation whether out of personal passion or for tax rebate incentives can
+      browse through projects, learn about historical collections, and contribute
+      directly to the ones that resonate with them'
+    team:
+    - email: ankitmuk@buffalo.edu
+      name: Ankit Mukherjee
+    - email: cdearing@buffalo.edu
+      name: Chris Dearing
+    - email: ysandans@buffalo.edu
+      name: Yash Ravindra Sandansing
+    - email: aryamanm@buffalo.edu
+      name: Aryaman Mishra
+    - email: pgangapu@buffalo.edu
+      name: Praveen Kumar Gangapuram
+    title: Filmic
 - code: Blockchain Think Lab
   projects:
   - description: We propose a library in Golang to for parallelized homomorphic cosine
@@ -127,13 +180,13 @@
       name: Gokul Ram Subramani
     title: SAMO:A Lightweight Sharpness-Aware approach for Multi-Task optimization
       with Joint Global-Local Perturbation
-  - description: One Data Share is a web application used for cloning or transferring
+  - description: OneDataShare is a web application used for cloning or transferring
       your data from one cloud service to another cloud service in a very quick and
       an efficient way.
     team:
     - email: vkyatham@buffalo.edu
       name: Vamshi Krishna Kyatham
-    title: One Data Share
+    title: OneDataShare
   - description: "AI and Pharmacy leveraged research project focused on unraveling\
       \ the early progression of Alzheimer\xE2\u20AC\u2122s Disease by modeling causal\
       \ relationships between key biomarkers and genetic risk factors like APOE4.\
@@ -254,7 +307,65 @@
     - email: pmishra6@buffalo.edu
       name: pmishra6
     title: UnCypher
-- code: CSE 4/555
+  - description: Nexus is a powerful productivity and wellness application that helps
+      users manage their tasks effectively, track their mood, form healthy habits,
+      and unwind with integrated mini-games.  Nexus develops a customized path for
+      everyday optimization and emotional well-being using AI insights.  It will show
+      how users can easily monitor their emotions, create objectives, remain productive,
+      and take mindfulness breaks using a single, user-friendly platform.
+    team:
+    - email: hsriram@buffalo.edu
+      name: Hariharan Sriram
+    title: The Nexus App
+  - description: Sepsis Treatment Optimization via RL with BCQ+Attention
+    team:
+    - email: punitkum@buffalo.edu
+      name: Punit Kumar
+    - email: vsaran@buffalo.edu
+      name: Vaibhav Saran
+    - email: dpatel45@buffalo.edu
+      name: Divyesh Patel
+    title: Group 96
+  - description: "Multiplayer cooperative and competitive gaming platforms like Roblox,\
+      \ allows more dynamic in-game interactions providing immersive gaming experiences.\
+      \ To increase player communication, they incorporated voice chat features. The\
+      \ chat-features have brought significant safety concerns reported by parents\
+      \ and children on various social media platforms. \n\n"
+    team:
+    - email: rsingh57@buffalo.edu
+      name: rsingh57
+    - email: nmurali3@buffalo.edu
+      name: nmurali3
+    - email: keyanguo@buffalo.edu
+      name: keyanguo
+    - email: hongxinh@buffalo.edu
+      name: hongxinh
+    title: Toxic In-Game Voice Chat Moderation using Multimodal LLMs
+  - description: "MediLink MultiAgent Bot is an interactive, clinician-inspired chatbot\
+      \ designed to deliver reliable preliminary symptom diagnosis. It combines a\
+      \ MedAlpaca-7B CasualLM (LoRA-tuned) to mimic a physician\xE2\u20AC\u2122s workflow\
+      \ of predicting disease: extracting and standardizing free-text symptoms via\
+      \ UMLS and ICD-10, iteratively querying missing key symptoms through a co-occurrence\
+      \ engine, and grounding its final diagnosis in PubMed literature via retrieval-augmented\
+      \ generation. Dialogue memory is managed with LangChain to maintain context\
+      \ and personalize follow-ups, while confidence thresholds drive an ensemble\
+      \ of discriminative and generative predictions. Upon reaching sufficient certainty,\
+      \ the system issues a chain-of-thought explanation that cites evidence step\
+      \ by step and concludes with tailored precautions. Evaluated on a curated 1000\
+      \ unique disease corpus, MedLink achieves 95.4 % Top-1 and 99.2 % Top-5 diagnostic\
+      \ accuracy, alongside BLEU 45 % and ROUGE-L 52 % for its generated rationales\
+      \ outperforming traditional classifiers (\xE2\u2030\xA4 52 % accuracy) and single-pass\
+      \ LLMs. By uniting parameter-efficient fine-tuning (LoRA), DeepSpeed optimization,\
+      \ and a dynamic multi-agent loop, MedLink delivers transparent, high-fidelity\
+      \ diagnosis. Future extensions incorporating temporal symptom modeling, multimodal\
+      \ inputs, and expanded rare-disease coverage promise to further enhance its\
+      \ clinical realism and reach."
+    team:
+    - email: bhushanm@buffalo.edu
+      name: Bhushan Mahajan
+    title: 'Medilink: A Multi-Agent  Conversational  Pipeline for Evidence-Grounded  Symptom
+      Diagnosis'
+- code: 'CSE4/555: --Pattern Recognition'
   projects:
   - description: Facial Emotion Recognition using Deep Learning is a computer vision
       project that aims to identify human emotions from facial expressions in images/videos
@@ -267,6 +378,165 @@
     - email: christjo@buffalo.edu
       name: christjo
     title: 'Facial Emotion Recognition using Deep Learning '
+  - description: This project involves in the development of an AI-based system designed
+      to detect and reduce "revenue leakage" in the healthcare sector. While leveraging
+      datasets related to real-world claims and operational datasets, the solution
+      is mainly used while applying ML and graph-based techniques to understand and
+      uncover patterns of fraud and process inefficiencies. The idea to integrate
+      explainable AI with custom-built dashboards is proposed to help in financial
+      decision-making ability/analysis.
+    team:
+    - email: rahuleka@buffalo.edu
+      name: Rahul Ekambaram
+    - email: rishabda@buffalo.edu
+      name: Rishab Darshan Shylandra
+    title: 'Leveraging Pattern Recognition to Detect Revenue Leakage in Healthcare '
+  - description: Satellite Image Analysis for Land Cover Classification
+    team:
+    - email: atulpriy@buffalo.edu
+      name: Atul Pandey
+    - email: aprabhu5@buffalo.edu
+      name: Atharva Prabhu
+    - email: kalashth@buffalo.edu
+      name: Kalash Thakur
+    title: Lumon Industries
+  - description: We are designing and implementing a Transformers based deep learning
+      model to better capture patterns in demand forecasting tasks(Grocery Sales)
+      and leveraging multi-horizon time series forecasting techniques. The aim is
+      to understand trends/patterns and optimize inventory or to increase sales.
+    team:
+    - email: csomalar@buffalo.edu
+      name: csomalar
+    - email: mkomati@buffalo.edu
+      name: mkomati
+    - email: phanitar@buffalo.edu
+      name: phanitar
+    title: Demand Forecasting For Grocery sales using Transformers
+  - description: "This project builds an AI-powered avatar system that reacts to user\
+      \ text by generating matching facial expressions. It uses sentiment analysis\
+      \ to detect emotions in text and then creates or edits a face (cartoon-style\
+      \ or user-provided) to reflect that emotion. For example, if the text is happy,\
+      \ your personalized avatar smiles; if it\xE2\u20AC\u2122s sad, the avatar frowns.\
+      \ The system uses modern AI techniques like GANs/Diffusion models to generate\
+      \ and modify facial expressions. The goal is to make avatars feel more emotionally\
+      \ aware and personalized."
+    team:
+    - email: dgupta@buffalo.edu
+      name: Devesh
+    - email: nikhilta@buffalo.edu
+      name: Nikhil
+    - email: saideshi@buffalo.edu
+      name: Sai Deshith
+    title: Personalizing AI Avatar Response (Text to Animated Face)
+  - description: "This project aims to build a system that performs Speaker Identification\
+      \ and Speaker Emotion Recognition from audio data. The goal is to accurately\
+      \ identify who is speaking and determine their emotional state (e.g., happy,\
+      \ sad, angry) based solely on their voice characteristics.\nThe system uses\
+      \ audio preprocessing, feature extraction, and machine learning or deep learning\
+      \ models to classify speakers and emotions. \nApplications include voice-based\
+      \ authentication, emotion-aware virtual assistants, and human-computer interaction."
+    team:
+    - email: gaganvad@buffalo.edu
+      name: Gagan Vadlamudi
+    - email: patanjal@buffalo.edu
+      name: Patanjali Uppugandla
+    - email: munisaik@buffalo.edu
+      name: Muni Sai Kannemmagari
+    title: SoundSense
+  - description: 'Project Description
+
+      This project aims to develop an intelligent traffic monitoring system that analyzes
+      live camera feeds to detect and classify anomalies in traffic patterns. The
+      system will learn normal traffic behavior over time and identify deviations
+      that represent anomalous conditions such as accidents, congestion, vehicle breakdowns,
+      or unusual driving patterns.
+
+
+      Unlike traditional traffic monitoring systems that only detect the presence
+      of anomalies, our approach will further classify these anomalies into specific
+      categories (e.g., flow-based anomalies like congestion, behavioral anomalies
+      like erratic driving, infrastructural anomalies like road hazards, and environmental
+      anomalies like weather impacts). This classification capability will enable
+      more targeted responses from traffic management systems.
+
+
+      The project leverages recent advances in deep learning, particularly combining
+      convolutional neural networks for object detection with graph neural networks
+      and LSTM architectures to capture spatial-temporal dependencies in traffic data.
+      By processing real-time video feeds from traffic cameras, our system will provide
+      actionable insights that can help reduce congestion, improve emergency response
+      times, and enhance overall traffic management efficiency.
+
+
+      Our implementation will focus on balancing detection accuracy with real-time
+      processing requirements, ensuring the system can operate effectively in various
+      environmental conditions and traffic scenarios.'
+    team:
+    - email: fagunnir@buffalo.edu
+      name: Fagun Patel
+    - email: sarayusi@buffalo.edu
+      name: Sarayu Sivakumar Dhaya
+    - email: vishalim@buffalo.edu
+      name: Vishali Mani Paramesvari
+    title: Anomaly detection and classification via Object-Centric Pattern Recognition
+  - description: The project will predict at what age, one can have their first Heart
+      Stroke based on Current Health Parameters. Our Aim is to forecast the future
+      health parameter based on current state and then apply classification model
+      to identify the chances of heart stroke.
+    team:
+    - email: bhuvanth@buffalo.edu
+      name: bhuvanth
+    - email: rkulothu@buffalo.edu
+      name: rkulothu
+    - email: manojmah@buffalo.edu
+      name: manojmah
+    title: Heart Disease Analysis
+  - description: "This project focuses on developing a convolutional neural network\
+      \ based system\n to recognize handwritten mathematical equations and automatically\
+      \ solve them.\nUsing datasets like MNIST and custom generated symbol sets, we\
+      \ train CNNs for\n digit and symbol classification. We integrate this with parsing\
+      \ logic to interpret\n the spatial structure of handwritten expressions and\
+      \ link it to a symbolic computation engine for solving. In evaluation we emphasize\
+      \ on recognition accuracy,\n models handling of various handwriting styles,\
+      \ and the correctness of computed\nsolutions."
+    team:
+    - email: vbandaru@buffalo.edu
+      name: Vikranth Bandaru
+    - email: thanoojl@buffalo.edu
+      name: Thanooj Lingampally
+    - email: nmuppala@buffalo.edu
+      name: Narendra Varma Muppala
+    title: 'Handwritten Equation Solver: Digit and Symbol Recognition using CNNs'
+  - description: 'The project aims to build a real-time Sign Language Recognition
+      system using OpenCV. The goal is to recognize both static hand gestures (such
+      as American Sign Language (ASL) alphabets A-Z) and dynamic gestures (i.e., gestures
+      involving movement across frames or signing complete words like "Hello" or "Thanks")
+      from a live video feed captured via a webcam.
+
+      This system will process video frames in real-time, detect the user''s hand,
+      and classify the gesture using a trained model. For static gestures, a Convolutional
+      Neural Network (CNN) will be used. For dynamic gestures, the project will integrate
+      sequence modeling techniques such as RNNs or Transformer-based architectures
+      to analyze temporal patterns across sequences of frames.'
+    team:
+    - email: prajeshg@buffalo.edu
+      name: Prajesh Gupta Vizzapu
+    - email: jgoru@buffalo.edu
+      name: Jyothsna Devi Goru
+    - email: as559@buffalo.edu
+      name: Anirudh Raj Sharma
+    title: Real-Time Sign Language Recognition Using Deep Learning and Live Video
+      Streams
+  - description: Language prediction model trained off of UB lecture transcripts to
+      generate content in a similarly academic style
+    team:
+    - email: nvdeluci@buffalo.edu
+      name: Nate De Lucia
+    - email: chaseall@buffalo.edu
+      name: Chase Allard
+    - email: dtchiu@buffalo.edu
+      name: Darren Chiu
+    title: Monologue Prediction Model
   - description: We are aiming to generate 3D Sign Language Motions based on the input
       audio or text.
     team:
@@ -277,6 +547,20 @@
     - email: rpusapat@buffalo.edu
       name: Rama Krishna Raju Pusapati
     title: Text/Audio Based Sign Language Motion Generation
+  - description: The challenge of data imbalance is critical in high-precision fields
+      such as semiconductor fault detection. Conventional augmentation techniques
+      (rotation, flipping, scaling) fail to capture complex defect semantics, especially
+      for underrepresented patterns like "donut" or "edge-loc". WING leverages GANs
+      to synthesize realistic, class-specific samples for minority defect types, improving
+      model balance and robustness.
+    team:
+    - email: nancyipo@buffalo.edu
+      name: nancyipo
+    - email: arengara@buffalo.edu
+      name: arengara
+    - email: juliusme@buffalo.edu
+      name: juliusme
+    title: Wafer Imbalance Normalisation with GANs (WING)
 - code: 'CSE 442: Software Engineering'
   projects:
   - description: "A WebApp that helps people find recipes based on their dietary needs,\
@@ -339,21 +623,36 @@
     - email: changluo@buffalo.edu
       name: Chang Luo
     title: Team Rizzipe
-- code: 'CSE4/555: --Pattern Recognition'
-  projects:
-  - description: This project involves in the development of an AI-based system designed
-      to detect and reduce "revenue leakage" in the healthcare sector. While leveraging
-      datasets related to real-world claims and operational datasets, the solution
-      is mainly used while applying ML and graph-based techniques to understand and
-      uncover patterns of fraud and process inefficiencies. The idea to integrate
-      explainable AI with custom-built dashboards is proposed to help in financial
-      decision-making ability/analysis.
+  - description: "WAYFARER, a 2D platformer that breaks the mold of grindy, repetitive\
+      \ games and delivers the adventure you\xE2\u20AC\u2122ve always wanted. Traverse\
+      \ vibrant, distinct biomes packed with secrets, where every jump and gadget\
+      \ unlocks new ways to explore. Discover powerful gadgets and special collectibles\
+      \ as you unravel an immersive story that keeps you hooked from start to finish.\
+      \ With unique powers, clever level design, and a world that rewards curiosity,\
+      \ WAYFARER is everything you love about platformers without the clutter or frustration. "
     team:
-    - email: rahuleka@buffalo.edu
-      name: Rahul Ekambaram
-    - email: rishabda@buffalo.edu
-      name: Rishab Darshan Shylandra
-    title: 'Leveraging Pattern Recognition to Detect Revenue Leakage in Healthcare '
+    - email: orniepay@buffalo.edu
+      name: orniepay
+    - email: ezhang8@buffalo.edu
+      name: ezhang8
+    - email: kpang@buffalo.edu
+      name: kpang
+    - email: mnshabbi@buffalo.edu
+      name: mnshabbi
+    - email: mnshabbi@buffalo.edu
+      name: mnshabbi
+    title: WAYFARER
+  - description: Stock tracker social media
+    team:
+    - email: sakibhas@buffalo.edu
+      name: sakibhas
+    - email: colinwon@buffalo.edu
+      name: colinwon
+    - email: tlee47@buffalo.edu
+      name: tlee47
+    - email: gvidojau@buffalo.edu
+      name: gvidojau
+    title: FlowVesta
 - code: Research track requirement
   projects:
   - description: End to end Audio diarization
@@ -361,166 +660,6 @@
     - email: rdasari@buffalo.edu
       name: rdasari
     title: RD
-- code: 'CSE 555: Intro to Pattern Recognition'
-  projects:
-  - description: Satellite Image Analysis for Land Cover Classification
-    team:
-    - email: atulpriy@buffalo.edu
-      name: Atul Pandey
-    - email: aprabhu5@buffalo.edu
-      name: Atharva Prabhu
-    - email: kalashth@buffalo.edu
-      name: Kalash Thakur
-    title: Lumon Industries
-  - description: 'Project Description
-
-      This project aims to develop an intelligent traffic monitoring system that analyzes
-      live camera feeds to detect and classify anomalies in traffic patterns. The
-      system will learn normal traffic behavior over time and identify deviations
-      that represent anomalous conditions such as accidents, congestion, vehicle breakdowns,
-      or unusual driving patterns.
-
-
-      Unlike traditional traffic monitoring systems that only detect the presence
-      of anomalies, our approach will further classify these anomalies into specific
-      categories (e.g., flow-based anomalies like congestion, behavioral anomalies
-      like erratic driving, infrastructural anomalies like road hazards, and environmental
-      anomalies like weather impacts). This classification capability will enable
-      more targeted responses from traffic management systems.
-
-
-      The project leverages recent advances in deep learning, particularly combining
-      convolutional neural networks for object detection with graph neural networks
-      and LSTM architectures to capture spatial-temporal dependencies in traffic data.
-      By processing real-time video feeds from traffic cameras, our system will provide
-      actionable insights that can help reduce congestion, improve emergency response
-      times, and enhance overall traffic management efficiency.
-
-
-      Our implementation will focus on balancing detection accuracy with real-time
-      processing requirements, ensuring the system can operate effectively in various
-      environmental conditions and traffic scenarios.'
-    team:
-    - email: fagunnir@buffalo.edu
-      name: Fagun Patel
-    - email: sarayusi@buffalo.edu
-      name: Sarayu Sivakumar Dhaya
-    - email: vishalim@buffalo.edu
-      name: Vishali Mani Paramesvari
-    title: Anomaly detection and classification via Object-Centric Pattern Recognition
-  - description: The project will predict at what age, one can have their first Heart
-      Stroke based on Current Health Parameters. Our Aim is to forecast the future
-      health parameter based on current state and then apply classification model
-      to identify the chances of heart stroke.
-    team:
-    - email: bhuvanth@buffalo.edu
-      name: bhuvanth
-    - email: rkulothu@buffalo.edu
-      name: rkulothu
-    - email: manojmah@buffalo.edu
-      name: manojmah
-    title: Heart Disease Analysis
-- code: 'CSE 455/555 LEC A: Intro to Pattern Recognition (21352 Spring 25)'
-  projects:
-  - description: We are designing and implementing a Transformers based deep learning
-      model to better capture patterns in demand forecasting tasks(Grocery Sales)
-      and leveraging multi-horizon time series forecasting techniques. The aim is
-      to understand trends/patterns and optimize inventory or to increase sales.
-    team:
-    - email: csomalar@buffalo.edu
-      name: csomalar
-    - email: mkomati@buffalo.edu
-      name: mkomati
-    - email: phanitar@buffalo.edu
-      name: phanitar
-    title: Demand Forecasting For Grocery sales using Transformers
-- code: 'CSE 555: Final project'
-  projects:
-  - description: "This project builds an AI-powered avatar system that reacts to user\
-      \ text by generating matching facial expressions. It uses sentiment analysis\
-      \ to detect emotions in text and then creates or edits a face (cartoon-style\
-      \ or user-provided) to reflect that emotion. For example, if the text is happy,\
-      \ your personalized avatar smiles; if it\xE2\u20AC\u2122s sad, the avatar frowns.\
-      \ The system uses modern AI techniques like GANs/Diffusion models to generate\
-      \ and modify facial expressions. The goal is to make avatars feel more emotionally\
-      \ aware and personalized."
-    team:
-    - email: dgupta@buffalo.edu
-      name: Devesh
-    - email: nikhilta@buffalo.edu
-      name: Nikhil
-    - email: saideshi@buffalo.edu
-      name: Sai Deshith
-    title: Personalizing AI Avatar Response (Text to Animated Face)
-- code: 'CSE 455LEC A: Intro to Pattern Recognition'
-  projects:
-  - description: "This project aims to build a system that performs Speaker Identification\
-      \ and Speaker Emotion Recognition from audio data. The goal is to accurately\
-      \ identify who is speaking and determine their emotional state (e.g., happy,\
-      \ sad, angry) based solely on their voice characteristics.\nThe system uses\
-      \ audio preprocessing, feature extraction, and machine learning or deep learning\
-      \ models to classify speakers and emotions. \nApplications include voice-based\
-      \ authentication, emotion-aware virtual assistants, and human-computer interaction."
-    team:
-    - email: gaganvad@buffalo.edu
-      name: Gagan Vadlamudi
-    - email: patanjal@buffalo.edu
-      name: Patanjali Uppugandla
-    - email: munisaik@buffalo.edu
-      name: Muni Sai Kannemmagari
-    title: SoundSense
-- code: 'CSE 555: Intro to pattern Recognition '
-  projects:
-  - description: "This project focuses on developing a convolutional neural network\
-      \ based system\n to recognize handwritten mathematical equations and automatically\
-      \ solve them.\nUsing datasets like MNIST and custom generated symbol sets, we\
-      \ train CNNs for\n digit and symbol classification. We integrate this with parsing\
-      \ logic to interpret\n the spatial structure of handwritten expressions and\
-      \ link it to a symbolic computation engine for solving. In evaluation we emphasize\
-      \ on recognition accuracy,\n models handling of various handwriting styles,\
-      \ and the correctness of computed\nsolutions."
-    team:
-    - email: vbandaru@buffalo.edu
-      name: Vikranth Bandaru
-    - email: thanoojl@buffalo.edu
-      name: Thanooj Lingampally
-    - email: nmuppala@buffalo.edu
-      name: Narendra Varma Muppala
-    title: 'Handwritten Equation Solver: Digit and Symbol Recognition using CNNs'
-- code: CSE 4/555 Introduction to Pattern Recognition
-  projects:
-  - description: 'The project aims to build a real-time Sign Language Recognition
-      system using OpenCV. The goal is to recognize both static hand gestures (such
-      as American Sign Language (ASL) alphabets A-Z) and dynamic gestures (i.e., gestures
-      involving movement across frames or signing complete words like "Hello" or "Thanks")
-      from a live video feed captured via a webcam.
-
-      This system will process video frames in real-time, detect the user''s hand,
-      and classify the gesture using a trained model. For static gestures, a Convolutional
-      Neural Network (CNN) will be used. For dynamic gestures, the project will integrate
-      sequence modeling techniques such as RNNs or Transformer-based architectures
-      to analyze temporal patterns across sequences of frames.'
-    team:
-    - email: prajeshg@buffalo.edu
-      name: Prajesh Gupta Vizzapu
-    - email: jgoru@buffalo.edu
-      name: Jyothsna Devi Goru
-    - email: as559@buffalo.edu
-      name: Anirudh Raj Sharma
-    title: Real-Time Sign Language Recognition Using Deep Learning and Live Video
-      Streams
-- code: 'CSE 455: Pattern Recognition'
-  projects:
-  - description: Language prediction model trained off of UB lecture transcripts to
-      generate content in a similarly academic style
-    team:
-    - email: nvdeluci@buffalo.edu
-      name: Nate De Lucia
-    - email: chaseall@buffalo.edu
-      name: Chase Allard
-    - email: dtchiu@buffalo.edu
-      name: Darren Chiu
-    title: Monologue Prediction Model
 - code: CSE 302/303/402
   projects:
   - description: 'Over the ages, new materials have driven innovation and shaped our
@@ -608,22 +747,54 @@
     - email: zhang482@buffalo.edu
       name: Yining Zhang
     title: Choreographic Programming (Pirouette)
-- code: 'CSE 555: Introduction to Pattern Recognition'
-  projects:
-  - description: The challenge of data imbalance is critical in high-precision fields
-      such as semiconductor fault detection. Conventional augmentation techniques
-      (rotation, flipping, scaling) fail to capture complex defect semantics, especially
-      for underrepresented patterns like "donut" or "edge-loc". WING leverages GANs
-      to synthesize realistic, class-specific samples for minority defect types, improving
-      model balance and robustness.
+  - description: "Find a mechanic of FAM for short is a service based webpage and\
+      \ app with the goal of becoming a doordash and/or instacart of trades and services.\
+      \ \n\nThis software has 3 core portions. A marketplace webpage for a shop to\
+      \ administer and delegate time, work, and resources internal to customer issues\
+      \ and communicate and do the entire workflow process with customers. The other\
+      \ two portions are an app that has two uses. 1st use is for a worker of the\
+      \ shop to have work delegated to them from the shop webpage that allows them\
+      \ to update on progress of a vehicle and a user facing app that allows them\
+      \ to find a shop of their desired niche by reviews. The user can interact with\
+      \ the shop from start to finish from the app.\n\nAs of right now FAM is nearly\
+      \ finished as its most basic core tenets."
     team:
-    - email: nancyipo@buffalo.edu
-      name: nancyipo
-    - email: arengara@buffalo.edu
-      name: arengara
-    - email: juliusme@buffalo.edu
-      name: juliusme
-    title: Wafer Imbalance Normalisation with GANs (WING)
+    - email: yudianke@buffalo.edu
+      name: Yudian Ke
+    - email: emperez@buffalo.edu
+      name: Esteban Perez
+    - email: apmchugh@buffalo.edu
+      name: Alex McHugh
+    - email: weitianw@buffalo.edu
+      name: Weitian Wu
+    title: Find a Mechanic
+  - description: DevU is an automated software-grading platform being developed at
+      the University at Buffalo. DevU aims to be incredibly extensible, allowing professors
+      to add any functionality they desire without reaching a dead end. It will eventually
+      replace Autolab and other services.
+    team:
+    - email: diegocab@buffalo.edu
+      name: diegocab
+    - email: rsahu@buffalo.edu
+      name: rsahu
+    - email: tasneemz@buffalo.edu
+      name: tasneemz
+    - email: sameepko@buffalo.edu
+      name: sameepko
+    title: DevU
+  - description: A system for encrypted storage where the decryption key is split
+      among multiple devices and compromise of a device with a partial key does not
+      lead to disclosure of the encrypted content.
+    team:
+    - email: ba47@buffalo.edu
+      name: Benjamin Anderson
+    - email: aaronrad@buffalo.edu
+      name: Aaron Radliff
+    - email: lpcassid@buffalo.edu
+      name: Liam Cassidy
+    - email: weiguowu@buffalo.edu
+      name: Weiguo Wu
+    title: Encrypted Storage
 - code: CSE 4/546
   projects:
   - description: The project intends to use an appropriate reinforcement learning
@@ -636,7 +807,7 @@
     - email: vgawale@buffalo.edu
       name: vgawale
     title: Real-Time Adaptive News Recommendation
-- code: CSE 676B
+- code: 'CSE 676 : Deep Learning'
   projects:
   - description: "Traffic congestion in urban areas has become a severe problem for\
       \ cities worldwide, leading to inefficiencies,\xC2\_safety concerns, and environmental\
@@ -653,22 +824,6 @@
     - email: nvangave@buffalo.edu
       name: Niharika Vangaveeti
     title: "AI-Powered Traffic Analysis and Management System\xC2\_ Summary"
-  - description: VisionVelocity is a deep learning-powered system that analyzes dashcam
-      video to detect vehicles, estimate their speed, and predict accidents in real
-      time. It uses YOLOv8 for object detection, optical flow with stereo vision for
-      speed and depth estimation, and LSTM with NLP for accident prediction and risk
-      alerts. The system operates purely on vision without relying on GPS or external
-      sensors, offering an intelligent solution for proactive road safety.
-    team:
-    - email: anuragra@buffalo.edu
-      name: anuragra
-    - email: mpeshwe@buffalo.edu
-      name: mpeshwe
-    - email: ishetye@buffalo.edu
-      name: ishetye
-    title: 'Team 24:  Vision-Based Intelligent Speed & Tracking Assistant'
-- code: 'CSE676 Deep learning '
-  projects:
   - description: "Discover \xE2\u20AC\u02DCPersonalized Nutrition Advisor,\xE2\u20AC\
       \u2122 an innovative platform harnessing advanced AI technology to create tailored\
       \ diet plans aligned with WHO health guidelines. Effortlessly input your health\
@@ -686,8 +841,6 @@
       name: Ankit Mukherjee
     title: 'Personalized Nutrition Advisor: AI-Powered Diet Plans with Integrated
       Meal Delivery and Expert Consultation'
-- code: 'CSE 676: Deep Learning'
-  projects:
   - description: CounselRAG is a legal question-answering platform that combines Retrieval-Augmented
       Generation (RAG) with Knowledge Graphs to deliver accurate, context-rich responses
       to legislative queries. The platform explores how smaller, fine-tuned LLMs can
@@ -700,51 +853,6 @@
     - email: mverma4@buffalo.edu
       name: Meghna Verma
     title: CounselRAG - A Contextually-Aware Legal QA Platform
-  - description: "Wildfires can grow and move rapidly, threatening lives, homes, and\
-      \ natural habitats. Our project builds a tool that looks at satellite images\
-      \ to forecast where a wildfire is likely to spread the very next day. By giving\
-      \ firefighters and emergency managers a one-day-ahead map of potential burn\
-      \ zones, they can plan evacuations, pre-position resources, and issue warnings\
-      \ sooner saving both lives\xC2\_and\xC2\_property."
-    team:
-    - email: ppatil23@buffalo.edu
-      name: ppatil23
-    - email: swetasah@buffalo.edu
-      name: swetasah
-    - email: anchalda@buffalo.edu
-      name: anchalda
-    title: Agni Intel
-- code: 'Deep Learning '
-  projects:
-  - description: 'This project presents an end-to-end deep learning pipeline for automatic
-      food calorie estimation
-
-      using image analysis, leveraging the ECUST Food Dataset with multi-view images
-      and a
-
-      reference coin for scale. YOLOv8 is used for detecting food items and the calibration
-      coin in top
-
-      and side views, enabling accurate volume estimation through geometric modeling
-      (e.g.,
-
-      cylindrical, ellipsoidal shapes). The estimated volume is then translated into
-      calorie values using
-
-      known food density mappings, providing a real-time, low-intervention approach
-      to dietary
-
-      assessment that outperforms traditional methods in both speed and accuracy.'
-    team:
-    - email: satyavai@buffalo.edu
-      name: satyavai
-    - email: sgovindu@buffalo.edu
-      name: sgovindu
-    - email: sshigaon@buffalo.edu
-      name: sshigaon
-    title: The Hungry Neurons
-- code: 'CSE 676 : Deep Learning'
-  projects:
   - description: This project aims to develop a deep learning-based handwriting recognition
       system specifically tailored for individuals with dyslexia. Traditional OCR
       models often struggle to interpret the unique writing styles associated with
@@ -762,8 +870,20 @@
     - email: graceeva@buffalo.edu
       name: Grace Evangelene
     title: Handwriting Recognition for Dyslexic  Individuals
-- code: CSE 676B Deep Learning
-  projects:
+  - description: VisionVelocity is a deep learning-powered system that analyzes dashcam
+      video to detect vehicles, estimate their speed, and predict accidents in real
+      time. It uses YOLOv8 for object detection, optical flow with stereo vision for
+      speed and depth estimation, and LSTM with NLP for accident prediction and risk
+      alerts. The system operates purely on vision without relying on GPS or external
+      sensors, offering an intelligent solution for proactive road safety.
+    team:
+    - email: anuragra@buffalo.edu
+      name: anuragra
+    - email: mpeshwe@buffalo.edu
+      name: mpeshwe
+    - email: ishetye@buffalo.edu
+      name: ishetye
+    title: 'Team 24:  Vision-Based Intelligent Speed & Tracking Assistant'
   - description: Traditional drug discovery is costly and time-consuming and can take
       over a decade and billions of dollars. Modern-day approaches are quicker in
       this process but are built on molecular graphs as their basic element and do
@@ -782,6 +902,41 @@
     - email: dprabhak@buffalo.edu
       name: Deekshitha Prabhakar
     title: Drug Discovery using Deep Learning
+  - description: "In this project, we are exploring the application of self-supervised\
+      \ learning (SSL) for identifying Alzheimer\xE2\u20AC\u2122s disease from MRI\
+      \ brain scans. We will be making use of a large dataset of unlabeled images\
+      \ i.e, around 86,000 images. We have developed a SimCLR-based self-supervised\
+      \ learning model to learn important image representations through effective\
+      \ image processing techniques and then fine-tuning it with a limited labelled\
+      \ dataset of 450 images for each image class, i.e. Non-Demented, Very Mild Dementia,\
+      \ Mild Dementia, and Moderate Dementia. For comparison, we are also training\
+      \ a classification model using ResNet-50 architecture from scratch. Our goal\
+      \ is to train self-supervised models like BYOL, MoCo, etc. and fine-tune it\
+      \ to get better accuracy. We will be utilizing the pre-trained models, which\
+      \ would perform classification of other MRI scans related to the disease."
+    team:
+    - email: pgnanase@buffalo.edu
+      name: Pavithran Gnanasekaran
+    - email: pgulhane@buffalo.edu
+      name: Piyush Gulhane
+    - email: rishabda@buffalo.edu
+      name: Rishab Darshan Shylendra
+    title: Self-Supervised Learning for Image Representation Learning and Classification
+      of Alzheimer Disease
+  - description: "Wildfires can grow and move rapidly, threatening lives, homes, and\
+      \ natural habitats. Our project builds a tool that looks at satellite images\
+      \ to forecast where a wildfire is likely to spread the very next day. By giving\
+      \ firefighters and emergency managers a one-day-ahead map of potential burn\
+      \ zones, they can plan evacuations, pre-position resources, and issue warnings\
+      \ sooner saving both lives\xC2\_and\xC2\_property."
+    team:
+    - email: ppatil23@buffalo.edu
+      name: ppatil23
+    - email: swetasah@buffalo.edu
+      name: swetasah
+    - email: anchalda@buffalo.edu
+      name: anchalda
+    title: Agni Intel
 - code: CSE Demo Days
   projects:
   - description: This project aims to develop a robust pipeline for land surface classification
@@ -833,29 +988,6 @@
     - email: tejeshkr@buffalo.edu
       name: Tejesh Krishna Kadali
     title: Anomaly Detection for Enhanced Public Safety
-- code: CSE 676 Deep Learning
-  projects:
-  - description: "In this project, we are exploring the application of self-supervised\
-      \ learning (SSL) for identifying Alzheimer\xE2\u20AC\u2122s disease from MRI\
-      \ brain scans. We will be making use of a large dataset of unlabeled images\
-      \ i.e, around 86,000 images. We have developed a SimCLR-based self-supervised\
-      \ learning model to learn important image representations through effective\
-      \ image processing techniques and then fine-tuning it with a limited labelled\
-      \ dataset of 450 images for each image class, i.e. Non-Demented, Very Mild Dementia,\
-      \ Mild Dementia, and Moderate Dementia. For comparison, we are also training\
-      \ a classification model using ResNet-50 architecture from scratch. Our goal\
-      \ is to train self-supervised models like BYOL, MoCo, etc. and fine-tune it\
-      \ to get better accuracy. We will be utilizing the pre-trained models, which\
-      \ would perform classification of other MRI scans related to the disease."
-    team:
-    - email: pgnanase@buffalo.edu
-      name: Pavithran Gnanasekaran
-    - email: pgulhane@buffalo.edu
-      name: Piyush Gulhane
-    - email: rishabda@buffalo.edu
-      name: Rishab Darshan Shylendra
-    title: Self-Supervised Learning for Image Representation Learning and Classification
-      of Alzheimer Disease
 - code: 'CSE 487: Data Intensive Computing'
   projects:
   - description: 'A website that simplifies how machine learning recommendations work,
@@ -872,4 +1004,214 @@
     - email: ryancao@buffalo.edu
       name: Ryan Cao
     title: 'MovieML: An Educational Movie Recommendation Tool'
+  - description: 'Founders without technical or design expertise often strug-
+
+      gle to visualize and validate SaaS ideas, leading to costly
+
+      delays and wasted resources. By simplifying UI generation,
+
+      this project empowers founders to quickly create and test
+
+      layouts, turning abstract concepts into tangible prototypes.
+
+      This not only accelerates idea validation but also reduces
+
+      reliance on expensive resources, enabling founders to innovate
+
+      faster and bring their vision to life with confidence.'
+    team:
+    - email: smotte@buffalo.edu
+      name: smotte
+    - email: hkorapat@buffalo.edu
+      name: hkorapat
+    title: The UI Gen Project
+- code: 'CSE 546 - Reinforcement Learning '
+  projects:
+  - description: 'Our project aims to tackle the RFID reader collision in crowded
+      IoT settings like smart warehouses using multiple reinforcement learning techniques.
+      We built a 10x10 grid simulation where multiple readers pick frequency and time
+      slots while avoiding interference, signal jammers, and shifting traffic. The
+      setup is designed keeping in mind the real-world challenges with added randomness
+      and traffic variations. We completed testing on five RL strategies: the original
+      HiQ Q-learning, our custom Q-learning, SARSA, DQN, and Double DQN. Each agent
+      is made to learn to minimize collisions and maximize successful tag reads through
+      smart frequency-slot selection.'
+    team:
+    - email: rahuleka@buffalo.edu
+      name: Rahul Ekambaram
+    - email: pgnanase@buffalo.edu
+      name: Pavithran Gnanasekaran
+    - email: kanishar@buffalo.edu
+      name: Kanisha Raja
+    title: 'RL Team 9 - RKP vs RFID '
+- code: 'CSE 546/676: Reinforcement Learning & Deep Learning '
+  projects:
+  - description: "Inferno Tactics is an end-to-end AI wildfire management system that\
+      \ combines real-time detection, predictive forecasting, and adaptive response.\
+      \ Our hybrid deep models continuously monitor GRIDMET-derived environmental\
+      \ data to pinpoint emerging fire risks, and the moment a blaze ignites, live\
+      \ GPS coordinates are fed directly into a high-fidelity wildfire simulator.\
+      \ There, RL agents\xE2\u20AC\u201Dtrained on terrain, land cover, and elevation\
+      \ dynamics\xE2\u20AC\u201Drapidly devise and refine optimal attack strategies,\
+      \ allocating resources and tactics in seconds. By fusing proactive risk prediction\
+      \ with on-the-fly, simulation-driven response, Inferno Tactics empowers agencies\
+      \ to outpace unpredictable fire behavior, safeguard communities, and minimize\
+      \ ecological devastation."
+    team:
+    - email: sbellary@buffalo.edu
+      name: Shreyas Bellary Manjunath
+    - email: smathur4@buffalo.edu
+      name: Shaurya Mathur
+    title: Inferno Tactics
+- code: CSE 455
+  projects:
+  - description: This project improves clinical trust in Bayesian medical image segmentation
+      by aligning uncertainty with actual errors. AvU loss is applied to segmentation
+      tasks, a rarely explored direction in medical AI. Simulated rater disagreement
+      approximates aleatoric uncertainty without requiring costly multi-rater datasets.
+      Both epistemic and aleatoric uncertainties are unified into a simple, demo-friendly
+      framework. The resulting uncertainty maps are designed to hold real clinical
+      significance, beyond being mere visual artifacts.
+    team:
+    - email: avirigin@buffalo.edu
+      name: Aishwarya Virigineni
+    - email: nkaandru@buffalo.edu
+      name: Nithya Kaandru
+    - email: kanishar@buffalo.edu
+      name: Kanisha Raja
+    title: AKN Squad
+- code: CSE 4/546 - Reinforcement Learning
+  projects:
+  - description: "This project explores the use of Reinforcement Learning (RL) to\
+      \ predict high-risk traffic\xC2\_accident zones and optimize emergency resource\
+      \ allocation using real-world accident\xC2\_data from Buffalo city. In this\
+      \ phase of the project, we worked on developing a reinforcement learning (RL)\
+      \ model aimed at\xC2\_improving how emergency resources (like ambulances, tow\
+      \ trucks, and police units) are allocated across\xC2\_different zones in the\
+      \ Buffalo area."
+    team:
+    - email: sahilshi@buffalo.edu
+      name: Sahil Sawant
+    - email: meghnatr@buffalo.edu
+      name: Meghna Trichur Saravana Shekhar
+    - email: fagunnir@buffalo.edu
+      name: Fagun Patel
+    title: Intelligent Accident Risk Prediction and Resource Allocation
+- code: 'CSE 546: Reinforcement Learning.'
+  projects:
+  - description: "Two drones (left drone and right drone) are used for delivering\
+      \ packages from a warehouse to destinations. The environment is a 2-dimensional\
+      \ grid of size 10 x 5. Warehouse is in center of grid's right half. Package\
+      \ destination can be any random location in the grid. \n\nIdeal behaviors: If\
+      \ destination is in grid's right half, then the right drone delivers the package,\
+      \ and the left drone stays idle. If the destination is in grid's left half,\
+      \ then the right drone transfers the package to the left drone, and then the\
+      \ left drone delivers the package.\n\nWe implement a suitable reward structure\
+      \ for to encourage the above ideal behaviors.\n\nDrones' battery levels and\
+      \ chargers may be included if time permits for the additional complexity that\
+      \ this brings."
+    team:
+    - email: ss694@buffalo.edu
+      name: Sarthak Sharma
+    - email: annoydey@buffalo.edu
+      name: Annoy Dey
+    - email: mdarmani@buffalo.edu
+      name: Md Arman Islam
+    title: Autonomous Multi-Drone Package Delivery System for Efficient Warehouse
+      to Customer Logistics Using Multi-Agent Reinforcement Learning.
+- code: 'CSE 546: Reinforcement Learning'
+  projects:
+  - description: This project automates the negotiation process between buyer and
+      seller agents using a Multi-Agent Reinforcement Learning (MARL) framework. This
+      project helps to meed the need for an intelligent solution that can simulate
+      human-like bargaining behavior, adjust offers in real time, and maximize mutual
+      benefit between negotiating parties without manual intervention. Each agent
+      is trained using Proximal Policy Optimization (PPO), leveraging self-play to
+      dynamically evolve negotiation strategies over alternating offers and counteroffers.
+      By simulating real-world negotiation dynamics, the system aims to build adaptive,
+      scalable, and efficient autonomous negotiators capable of handling complex and
+      evolving deal-making environments. Negotiations are formulated as a sequential
+      decision-making process with bounded action spaces, where agents alternately
+      propose and counter-propose offers.The use of clipped surrogate objectives in
+      PPO ensures stable policy updates under the non-stationary dynamics of multi-agent
+      learning. The system is designed to enable adaptive and rational negotiation
+      strategies applicable to domains such as e-commerce pricing, automated trading,
+      B2B deal-making, and resource allocation systems.
+    team:
+    - email: sadakaka@buffalo.edu
+      name: Sada Kakarla
+    - email: sgupta67@buffalo.edu
+      name: Shivansh Gupta
+    - email: asinha25@buffalo.edu
+      name: Aditi Sinha
+    title: "NegotiableAI: Multi-Agent Reinforcement Learning for Real-Time Buyer\xE2\
+      \u20AC\u201CSeller Negotiations"
+- code: 'CSE 510: Interactive Programming Environments'
+  projects:
+  - description: 'After the world ended, only the grass remained. In ACROPALYPSE,
+      you are a lone survivor tasked with farming sacred grass to appease the Grass
+      God, an ancient entity that demands green life in a dead world. This is a course
+      project from CSE 510: Interactive Programming Environment where we chose to
+      learn about the interactive language Forth.'
+    team:
+    - email: vdib@buffalo.edu
+      name: Victoria Dib
+    - email: Brackenridge@buffalo.edu
+      name: Sam Anderson
+    - email: Shawn Zimmermann zimmerm3@buffalo.edu
+      name: Shawn Zimmermann zimmerm3
+    - email: eabock@buffalo.edu
+      name: Lizzy Bock
+    - email: grbossor@buffalo.edu
+      name: Gianna Bossoreale
+    title: ACROPALYPSE
+- code: 'CSE555: Intro to Pattern Recognition '
+  projects:
+  - description: 'YOLO based small object detection with scale adaptations for satellite
+      imagery '
+    team:
+    - email: omatulsa@buffalo.edu
+      name: Om Atul Salunke
+    - email: swaratsa@buffalo.edu
+      name: Swarat Sarkar
+    - email: hamsikar@buffalo.edu
+      name: Hamsika RG
+    title: 'YOLO for Satellite Imagery '
+- code: CSE 510 ETH
+  projects:
+  - description: 'We have repurposed a 3D printer to draw characters on paper using
+      a pen attachment. We wrote code in ZeptoForth, a Forth system designed for ARM
+      Cortex-M microcontrollers, to program a Raspberry Pi Pico 2 (RP2350) to move
+      the printer''s motors for precise character drawing.
+
+      '
+    team:
+    - email: kesna Foster@buffalo.edu
+      name: Al
+    - email: huiqicai@buffalo.edu
+      name: Tiffany Cai
+    - email: saj24@buffalo.edu
+      name: Sabrina Johnson
+    - email: njbrown4@buffalo.edu
+      name: Nick Brown
+    - email: jmabramo@buffalo.edu
+      name: John Abramo
+    title: Pen-Plotter
+- code: 'CSE 370: Applied HCI'
+  projects:
+  - description: "To simplify others cooking experiences with others \nShare your\
+      \ own experiences with others, the negatives, the positives\nBe able to cater\
+      \ to to each user\xE2\u20AC\u2122s specific needs and preferences\nAllergies\n\
+      Diets\nCooking skill level\nMake users with related interests interact with\
+      \ one another\n"
+    team:
+    - email: slokhand@buffalo.edu
+      name: Vaishnavi Lokhande
+    - email: jccastil@buffalo.edu
+      name: Joshua Castillo
+    - email: yessicaq@buffalo.edu
+      name: Yessica
+    - email: jhn3@buffalo.edu
+      name: Justin N
+    title: Melting Pot
 
