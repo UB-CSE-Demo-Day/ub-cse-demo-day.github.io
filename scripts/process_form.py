@@ -35,24 +35,27 @@ def parsegroup(group):
 
 courses = {}
 
-with open(path) as file:
+with open(path, encoding='utf-8', errors='ignore') as file:
   data = csv.reader(file)
   header = data.__next__()
-  for row in data:
-    timestamp, email, title, abstract, course, url, details, team = row
-    if course not in courses:
-      courses[course] = []
+  try:
+    for row in data:
+      timestamp, email, title, abstract, course, url, details, team = row
+      if course not in courses:
+        courses[course] = []
 
-    record = {
-      "title" : title,
-      "description" : abstract,
-      "team" : parsegroup(team)
-    }
+      record = {
+        "title" : title,
+        "description" : abstract,
+        "team" : parsegroup(team)
+      }
 
-    if "http" in url:
-      record["url"] = url
+      if "http" in url:
+        record["url"] = url
 
-    courses[course] += [ record ]
+      courses[course] += [ record ]
+  except Exception as error:
+    print("Error rpcessing row ",row, error)
 
 course_list = [
   {

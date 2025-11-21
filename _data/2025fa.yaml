@@ -1,0 +1,417 @@
+- code: Independent Study / Research
+  projects:
+  - description: An improved method for interpolating the intermediate points in a
+      partial mesh of triangular cells.
+    team:
+    - email: harveykw@buffalo.edu
+      name: Harvey Kwong
+    title: Mesh Interpolation
+  - description: 'My project focuses on developing a multi-modal speech denoising
+      system that enhances speech clarity by combining both audio and visual information.
+      Building on my work from CSE 676: Deep Learning, I utilize the CleanUNet audio
+      backbone and integrate lip movement analysis using MediaPipe Face Mesh to provide
+      visual context that helps separate speech from background noise. My goal from
+      this project is to create a more intelligible speech enhancement model that
+      performs even in noisy, real-world environments. '
+    team:
+    - email: adwibedi@buffalo.edu
+      name: Aditya Kumar Dwibedi
+    title: LipSinc(DNx)
+  - description: This project applies generative diffusion models to impute missing
+      traffic speed data using connected vehicle and weather information. It enhances
+      data reliability for intelligent transportation systems and winter road safety
+      analysis.
+    team:
+    - email: xchen326@buffalo.edu
+      name: XiaofengChen
+    title: Weather-informed imputation of block-missing highway speed data
+  - description: This thesis examines a cooperative truck-drone delivery system, where
+      multiple drones serve off-route clients while a truck follows a fixed path and
+      acts as a mobile base.
+    team:
+    - email: jerryma2@buffalo.edu
+      name: Jerry Mathew Oommen
+    title: "Collaborative Truck\u2013Multi-Drone Delivery Systems: Scheduling and\
+      \ En-Route Operational Optimization"
+  - description: "In this project, we worked on predicting a patient\u2019s drug concentration\u2013\
+      time profile using deep generative models. After testing traditional methods\
+      \ like SVMs and mixed-effects models, we designed a conditional VAE that captures\
+      \ the nonlinear PK behavior missing in simpler models. The model not only produced\
+      \ far more accurate reconstructions but also learned interpretable latent patterns\
+      \ linked to patient covariates. This helped create a reliable tool for generating\
+      \ full PK curves with uncertainty estimates."
+    team:
+    - email: pdamle@buffalo.edu
+      name: Prathamesh Damle
+    - email: knandiga@buffalo.edu
+      name: Kishore Nandigram
+    title: "A Conditional Variational Autoencoder (cVAE) for Subject-level Concentration\u2013\
+      Time Curve Reconstruction"
+  - description: Minimise the maximum flow time for online algorithms.
+    team:
+    - email: nagasita@buffalo.edu
+      name: nagasitaramguduri
+    title: Online Algorithms with capacity constraint
+  - description: "There have been attempts to draw on optical discs, specifically\
+      \ CD\u2019s, using the data written to them. These attempts were recorded online\
+      \ but do not provide specifics on data computation, the methods of determining\
+      \ these processes, and an explanation of their final implementation. On top\
+      \ of this, when first using the implementations we were unable to produce the\
+      \ same results they yielded, or determine the constraints to produce the correct\
+      \ result.\n\nFor this project, we determined how to draw on a CD using data\
+      \ and document the process so that it is reproducible, such that if someone\
+      \ in the future wants to build upon our findings they can. We did so by reverse\
+      \ engineering the existing implementations and contributing our own versions. "
+    team:
+    - email: jfmontuo@buffalo.edu
+      name: Julia Montuori
+    - email: annaslen@buffalo.edu
+      name: Annie Slenker
+    - email: gouripri@buffalo.edu
+      name: Gouripriya Nadarajan
+    title: Using Data to Draw on CD
+- code: 'CSE 611: Master''s Capstone Project'
+  projects:
+  - description: We developed a mobile app for the Youro personal health care platform,
+      which connects patients directly with urologists for the treatment of seven
+      common diagnoses.
+    team:
+    - email: ah244@buffalo.edu
+      name: Abdul Rahman Hussain Siddique
+    - email: aacashne@buffalo.edu
+      name: Andrew Cashner
+    title: Youro Mobile
+  - description: 'We extended the existing Safety Knights platform by building four
+      major modules to make the system more actionable for safety professionals:
+
+      - A module for adding and managing safety school information.
+
+      - An integration to view detailed OSHA records for various industries.
+
+      - An interactive global map that visualizes the locations of professionals,
+      schools, and OSHA-registered companies.
+
+      - A comprehensive badging system where badges are awarded automatically based
+      on user actions or assigned manually by administrators.'
+    team:
+    - email: bbandla@buffalo.edu
+      name: Bhavitha Bandla
+    - email: bhavnee2@buffalo.edu
+      name: Bhavneet Kaur
+    - email: lkuppa@buffalo.edu
+      name: Lakshmi Sreya Kuppa
+    - email: srachaba@buffalo.edu
+      name: Sai Shashi Kiran Rachabattuni
+    - email: varuntej@buffalo.edu
+      name: Varun Teja Goud Madhagouni
+    title: Safety Knights
+  - description: A student linter written in OCaml that checks their compiled code
+      against a style guide and gives the student relevant feedback.
+    team:
+    - email: grbossor@buffalo.edu
+      name: Gianna Bossoreale
+    title: Student Linter in OCaml
+- code: CSE 676 - Deep Learning
+  projects:
+  - description: Radiology departments are experiencing growing workloads as the number
+      of chest X-rays continues to rise, making rapid and accurate interpretation
+      essential. This project introduces an AI-powered Radiology Chatbot that integrates
+      retrieval-augmented generation (RAG), image captioning, and summarization to
+      support clinical decision-making. The system processes DICOM chest X-ray images
+      and free-text radiology reports from the Indiana University OpenI dataset, enabling
+      multi-turn, context-aware conversations with clinicians. Using semantic embeddings
+      and FAISS indexing, it retrieves the most relevant report sections and metadata
+      to enrich query responses. A BART-based summarization module generates concise
+      and clinically coherent report summaries for quick reference. The chatbot is
+      deployed through a Streamlit interface that supports both chat-based Q&A and
+      one-click summarization. Overall, this system aims to streamline radiology workflows,
+      enhance interpretability, and improve accessibility of diagnostic insights for
+      healthcare professionals.
+    team:
+    - email: aarushij@buffalo.edu
+      name: Aarushi Jugran
+    - email: singh72@buffalo.edu
+      name: Anukriti Singh
+    - email: saagarik@buffalo.edu
+      name: Saagarika Sampath Kumar
+    title: Retrieval-Augmented Radiology Summarizer (RARS)
+- code: EAS 563
+  projects:
+  - description: 'This project enables the Unitree Go 2 robot to autonomously find
+      and move towards a target ball (green, pink, or yellow) using its onboard vision.
+
+
+      The robot runs a custom-trained YOLOv8 model to detect and track the ball''s
+      position in real-time from its camera feed. This vision data is fed into a "visual
+      servoing" control loop:
+
+
+      Steering (Yaw): The loop calculates the ball''s horizontal position (x coordinate)
+      in the frame. If the ball is not in the center, it sends a yaw (turn) command
+      to the robot to steer left or right until the ball is centered.
+
+
+      Movement (Forward): The loop simultaneously checks the size of the ball''s bounding
+      box. If the ball is small (far away), it commands the robot to walk forward.
+      As the robot gets closer, the ball appears larger, and the robot slows down,
+      stopping when it reaches a target distance.
+
+
+      This creates a complete, closed-loop perception-to-action system that allows
+      the robot to "lock on" and autonomously follow its target.'
+    team:
+    - email: aprabhu5@buffalo.edu
+      name: Atharva Prabhu
+    title: Bolt-Unitree Go2
+- code: 'CSE 420 : Game Design'
+  projects:
+  - description: Go wild! Play as a Canadian goose whose only goal is to cause mass
+      destruction within a city. Unlock powerful abilities that cause more destruction
+      and avoid any enemies that will try to stop you.
+    team:
+    - email: ezhang8@buffalo.edu
+      name: Eric Zhang
+    - email: wli3563@buffalo.edu
+      name: Winson Li
+    - email: rkumar32@buffalo.edu
+      name: Rohin Kumar
+    - email: jwong92@buffalo.edu
+      name: Jeffrey Wong
+    title: Goose Mayhem
+  - description: A souls-like video game with demons, metal, and lots of "heck yeah"
+      vibes.
+    team:
+    - email: cjc48@buffalo.edu
+      name: Cameron Carlson
+    - email: adamroes@buffalo.edu
+      name: Adam Roesch
+    - email: wthobika@buffalo.edu
+      name: William Hobika
+    - email: wflindne@buffalo.edu
+      name: Will Lindner
+    title: Demon Depths
+  - description: A cozy, 2D platformer where you play as a cat trying to return a
+      precious item to their owner. Traverse through a big city and reach your owners
+      office to save the day!
+    team:
+    - email: legrandd@buffalo.edu
+      name: Legrand Davis
+    - email: ianragoo@buffalo.edu
+      name: Ian Ragoonanan
+    - email: jrbudiha@buffalo.edu
+      name: Jeremy Budihardjo
+    - email: mjdomzal@buffalo.edu
+      name: Matthew Domzalski
+    title: Nona
+  - description: You are tasked with capturing escaped animals that roam around the
+      city. However, you are given a limited time to do so and if you don't drive
+      according to traffic laws, your car will explode on the spot and you fail.
+    team:
+    - email: rsahu@buffalo.edu
+      name: Rishi Sahu
+    - email: jliang52@buffalo.edu
+      name: Justin Liang
+    - email: pgodawaf@buffalo.edu
+      name: Patrick Godawaf
+    title: TaserTaxi
+  - description: A 3D third-person fighting Game, players control characters fighting
+      with AI enemy by attacking and abilities
+    team:
+    - email: bowenson@buffalo.edu
+      name: Bowen Song
+    - email: enhuidon@buffalo.edu
+      name: Enhui Dong
+    - email: junyizhe@buffalo.edu
+      name: Junyi Zheng
+    - email: shaoweiw@buffalo.edu
+      name: Shaowei Wu
+    title: Sugar World 2.0
+  - description: This is a new take on tower defense, now in full 3D. You play as
+      a commander who can both control the battlefield and jump into the fight yourself.
+      With modern weapons, you can run around, help defend, and change the battle
+      when it matters most. This mix of planning and fighting makes the game exciting
+      and immersive.
+    team:
+    - email: llin85@buffalo.edu
+      name: Celine Lin
+    - email: jma54@buffalo.edu
+      name: Jiahao Ma
+    - email: brettwes@buffalo.edu
+      name: Brett Westoven
+    title: Lost Of Castle
+  - description: Micro-game compilation story game
+    team:
+    - email: ncgazzo@buffalo.edu
+      name: Natalie Gazzo
+    - email: gavingri@buffalo.edu
+      name: Gavin Griffin
+    - email: ryanpris@buffalo.edu
+      name: Ryan Prisaznuk
+    - email: derekkie@buffalo.edu
+      name: Derek Kiefer
+    title: ConSoul
+- code: CSE587
+  projects:
+  - description: 'The datasets Amazon Book Reviews are used. Included the analysis,
+
+      cleaning and exploratory analysis of the dataset.'
+    team:
+    - email: samashra@buffalo.edu
+      name: Sam
+    - email: pmolugur@buffalo.edu
+      name: Pruthvi
+    - email: vpamulap@buffalo.edu
+      name: Pavan
+    - email: akim45@buffalo.edu
+      name: Andrew
+    title: DIC - Amazon Books Review
+- code: 'CSE587: Data Intensive Computing'
+  projects:
+  - description: We utilized PySpark to perform Data Cleanup, Exploratory Data Analysis
+      (EDA), and Machine Learning Algorithms on a specific Yahoo Finance Dataset,
+      keeping track of various factors such as anomaly detection.
+    team:
+    - email: lucybych@buffalo.edu
+      name: Lucy Bychkov
+    - email: dariusna@buffalo.edu
+      name: Darius Navalan Thivyanathan
+    - email: rajvirsi@buffalo.edu
+      name: Rajvir Singh
+    - email: vatsalku@buffalo.edu
+      name: Vatsal Kumar
+    title: Data Analysis and Machine Learning on Yahoo Finance Dataset
+- code: 'CSE 455: Introduction to Pattern Recognition'
+  projects:
+  - description: Our system analyzes body language in real time to recognize human
+      intentions and actions. It uses machine-learning models to interpret poses,
+      gestures, and movement patterns accurately.
+    team:
+    - email: anishban@buffalo.edu
+      name: Anish Banerjee
+    - email: buffalo.edu@buffalo.edu
+      name: beibitzh
+    - email: shabadma@buffalo.edu
+      name: Shabad Singh Mathoun
+    title: Human Prediction System
+- code: 'CSE 455 :course  project  '
+  projects:
+  - description: This project aims to detect whether an image is real or AI-generated
+      by analyzing spatial textures and frequency-domain artifacts. The goal is to
+      build a robust system that can reliably identify AI-generated images and understand
+      the patterns that distinguish them from real photographs.
+    team:
+    - email: jgalda@buffalo.edu
+      name: Jayachandra Galda
+    - email: gadulla@buffalo.edu
+      name: Gayathri Adulla
+    - email: saakketh@buffalo.edu
+      name: saakketh gouti
+    title: Detecting AI-Generated Images (Real vs FAKE) AI)
+- code: Master's Project (CSE 799, not CSE 611)
+  projects:
+  - description: 'A 5-stage Pipelined Processor implementing a custom RISC instruction
+      set. Designed in Verilog and running on a Basys3 Board. Outputs to a 640x480
+      pixel VGA display. '
+    team:
+    - email: tddangel@buffalo.edu
+      name: Tyler D'Angelo
+    title: Custom Processor
+- code: CSE 302/303/402
+  projects:
+  - description: The first high-order functional language for writing Distributed
+      Systems
+    team:
+    - email: jfmontuo@buffalo.edu
+      name: Julia Montouri
+    - email: japarke@buffalo.edu
+      name: Jacqueline Parke
+    title: Pirouette
+- code: CSE 587
+  projects:
+  - description: We are trying to identify, solve and enhance of the total environmental
+      and economical output of the trees in Buffalo city.
+    team:
+    - email: sboddava@buffalo.edu
+      name: Sanchith Boddavaram Anand
+    - email: m58@buffalo.edu
+      name: Mohammed Maqsood Ahmed
+    - email: pkundaik@buffalo.edu
+      name: Pranav Kundaikar
+    title: Buffalo Tree Inventory Squad
+- code: 'CSE 442: Software Engineering'
+  projects:
+  - description: "HomeMate makes subleasing simple. Browse verified short-term rentals,\
+      \ post your sublease in minutes, chat directly with potential tenants or roommates,\
+      \ and read honest reviews before committing. No more sketchy listings or stressful\
+      \ landlord negotiations\u2014just a smooth, transparent subleasing experience."
+    team:
+    - email: jfurdzik@buffalo.edu
+      name: Jennifer Furdzik
+    - email: shaneswo@buffalo.edu
+      name: Shane Sworts
+    - email: manjarre@buffalo.edu
+      name: Jillian Manjarrez Guerrero
+    - email: aaronrad@buffalo.edu
+      name: Aaron Radliff
+    - email: yukthare@buffalo.edu
+      name: Yuktha Reddy Vanteru
+    - email: dharmikh@buffalo.edu
+      name: Dharmi Khadela
+    title: HomeMate
+  - description: "Plan, Reflect, and Relive with Recall\n\u201CCapture your days with\
+      \ journals, moods, and voice notes\u2014then rediscover your story through mood-based\
+      \ filters, an interactive calendar, and personalized insights. Recall turns\
+      \ moments into memories and memories into meaning.\u201D"
+    team:
+    - email: lanxinxi@buffalo.edu
+      name: Lindsey Xiao
+    - email: vilsonzh@buffalo.edu
+      name: Vilson Zheng
+    - email: hanlingc@buffalo.edu
+      name: Hanling Chen
+    - email: djkim8@buffalo.edu
+      name: Daniel Kim
+    - email: dhlang@buffalo.edu
+      name: Daniel Lang
+    - email: dharmikh@buffalo.edu
+      name: Dharmi Khadela
+    title: Recall
+  - description: The ultimate online hub where players worldwide connect, compete,
+      and enjoy gaming together.
+    team:
+    - email: rjheim@buffalo.edu
+      name: Rob
+    - email: jaidinro@buffalo.edu
+      name: Jaidin
+    - email: jamata@buffalo.edu
+      name: Jonathan
+    - email: roaryic@buffalo.edu
+      name: Roary
+    title: Gatorade Zero
+  - description: Office hours scheduling app for Professors & TAs
+    team:
+    - email: brianren@buffalo.edu
+      name: Brian Ren
+    - email: sammyibr@buffalo.edu
+      name: Sammy Ibrahim
+    - email: akbehal2@buffalo.edu
+      name: Ashish Behal
+    - email: jmcaporu@buffalo.edu
+      name: James Caporuscio
+    - email: sumanyuj@buffalo.edu
+      name: Sumanyu Janapareddy
+    - email: irivera2@buffalo.edu
+      name: Isaiah Rivera (pm)
+    title: Auto Office Hours
+- code: 'CSE 587: Data Intensive Computing'
+  projects:
+  - description: DIC Course Project
+    team:
+    - email: cpeddave@buffalo.edu
+      name: Chakradhar
+    - email: ubijinap@buffalo.edu
+      name: Uday
+    - email: kundansa@buffalo.edu
+      name: Kundan
+    title: PNB
+
