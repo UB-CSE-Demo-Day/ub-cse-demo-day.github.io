@@ -1,3 +1,25 @@
+- code: ' CSE587: Data Intensive Computing'
+  projects:
+  - description: This project builds a complete end-to-end big-data analytics pipeline
+      to process and analyze the multi-million record Amazon Books Reviews dataset
+      using Pandas, PySpark, and machine learning. The workflow includes extensive
+      data cleaning, distributed preprocessing, and exploratory analysis of review
+      patterns such as rating distributions, review lengths, and reviewer behavior.
+      Four ML tasks were implemented at scale, sentiment classification with Linear
+      SVM, helpful-vote prediction using Poisson regression, reviewer segmentation
+      via K-Means, and extractive multi-review summarization using Random Forest regression
+      with transformer-based features, producing robust insights and scalable models
+      for understanding book reviews at large scale.
+    team:
+    - email: aghei@buffalo.edu
+      name: Anushka Ghei
+    - email: srishthi@buffalo.edu
+      name: Srishthi Priya
+    - email: odrabira@buffalo.edu
+      name: Odra Bira
+    - email: adhanure@buffalo.edu
+      name: Antariksha Dhanure
+    title: Amazon Books Review Analysis Using PySpark & Machine Learning
 - code: CSE 302/303/402
   projects:
   - description: The first high-order functional language for writing Distributed
@@ -67,6 +89,53 @@
     - email: jianxilu@buffalo.edu
       name: Jian Xi Lu
     title: 'LED Video Wall '
+  - description: A comprehensive hackathon management platform built for UB Hacking,
+      designed to replace manual processes with automated digital solutions. This
+      platform enables organizers to efficiently manage registrations, check-ins,
+      communications, and logistics without requiring technical expertise.
+    team:
+    - email: amaanshe@buffalo.edu
+      name: Amaan Sheikh
+    - email: mchu9@buffalo.edu
+      name: Matthew Chu
+    - email: jcmui@buffalo.edu
+      name: Jessica Mui
+    - email: aminurmu@buffalo.edu
+      name: Aminur Murad
+    title: UB Hacking CMS
+  - description: This project focuses on building an interactive visualization tool
+      that displays a geographic map highlighting customers in specific areas who
+      are interested in products listed on the website. The system includes a variety
+      of dynamic filters that allow users to pinpoint areas of interest, compare regions,
+      and track engagement across multiple products simultaneously. An adaptive onboarding-friendly
+      database helps new users easily add and manage product information, while integrated
+      interest-tracking features automatically record customer interactions and preferences.
+      The tool also supports live-time updates pulled directly from internal documentation,
+      ensuring the visualization always reflects the most current customer activity
+      and product data.
+    team:
+    - email: nbonikel@buffalo.edu
+      name: Nishanth Reddy
+    - email: dharmikh@buffalo.edu
+      name: Dharmi Khadela
+    - email: milindku@buffalo.edu
+      name: Milind Kumar
+    - email: longcao@buffalo.edu
+      name: Long Cao
+    title: 'Customer Atlas: A Map-Driven CRM for Outreach'
+- code: 'CSE 4/587: Data Intensive Computing Project Demo'
+  projects:
+  - description: A Big Data Pipeline for Yahoo Finance Stock Analysis
+    team:
+    - email: ah244@buffalo.edu
+      name: Abdul Rahman Hussain Siddique
+    - email: anayak2@buffalo.edu
+      name: Abhijeet Nayak
+    - email: ishaqibr@buffalo.edu
+      name: Ishaq Ibrahim Miyawala
+    - email: radinahm@buffalo.edu
+      name: Radin Ahmed
+    title: DIC-AHIR
 - code: 'CSE 420 : Game Design'
   projects:
   - description: Go wild! Play as a Canadian goose whose only goal is to cause mass
@@ -239,6 +308,34 @@
     - email: devanng@buffalo.edu
       name: Devan Ng
     title: Beacon
+  - description: Our game is about a arcade style golf game where each turn players
+      are able to put obstacles that hinder other, and the goal is to get the hole
+      with lowest strokes
+    team:
+    - email: wasfiahm@buffalo.edu
+      name: wasfi
+    - email: evannabo@buffalo.edu
+      name: Evan
+    - email: avmangin@buffalo.edu
+      name: Arron
+    - email: chasezar@buffalo.edu
+      name: Chase
+    title: Golf Mania
+  - description: Horror/Puzzle game taking place in Chernobyl. Traverse around the
+      area and to different abandoned buildings collecting key cards (or other items)
+      in order to reach the reactor/escape.
+    team:
+    - email: dauletmu@buffalo.edu
+      name: Daulet Mukan
+    - email: klin86@buffalo.edu
+      name: Kevin Lin
+    - email: shomaunm@buffalo.edu
+      name: Shomaun Miller
+    - email: smith43@buffalo.edu
+      name: Austin Smith
+    - email: omirhenr@buffalo.edu
+      name: Omir Henriquez
+    title: Decay
 - code: 'CSE 442: Software Engineering'
   projects:
   - description: "HomeMate makes subleasing simple. Browse verified short-term rentals,\
@@ -432,6 +529,24 @@
     - email: chuyck@buffalo.edu
       name: Claire Huyck
     title: Pro Gambler
+  - description: FlowCheck is an end-to-end content approval platform designed to
+      replace chaotic, email-driven review cycles with a structured, role-aware workflow.
+      Our system centralizes asset upload, reviewer assignment, commenting, deadlines,
+      and audit history into a single interface. Each user sees a personalized dashboard
+      based on their role (Marketer, Medical, Legal, Regulatory), allowing them to
+      track tasks, review files, and resolve threads without friction.
+    team:
+    - email: emariwil@buffalo.edu
+      name: Emari Williams
+    - email: mashrafu@buffalo.edu
+      name: MD Ashrafuzzaman
+    - email: ychen388@buffalo.edu
+      name: Yu Chen
+    - email: shushizh@buffalo.edu
+      name: Arthur
+    - email: kennyxue@buffalo.edu
+      name: Kenny
+    title: FlowCheck
 - code: 'CSE 455 :course  project  '
   projects:
   - description: This project aims to detect whether an image is real or AI-generated
@@ -523,6 +638,19 @@
     - email: jashnare@buffalo.edu
       name: Jash
     title: Daily Stock Trade Analysis
+  - description: Building end-to-end big data pipeline using Hadoop, including data
+      ingestion, cleaning and exploratory data analysis and defining machine learning
+      problems and analytical objectives.
+    team:
+    - email: vuppalan@buffalo.edu
+      name: Srivatsa Vuppalanchi
+    - email: mardhavp@buffalo.edu
+      name: Mardhav Paluvai
+    - email: nduvvuru@buffalo.edu
+      name: Nishith Reddy Duvvuru
+    - email: manjoshr@buffalo.edu
+      name: Manjosh Roy Kalimela
+    title: Data Analyzers
 - code: 'CSE 587: Data Intensive Computing'
   projects:
   - description: DIC Course Project
@@ -566,6 +694,56 @@
     - email: richiemo@buffalo.edu
       name: Richie Moses Illavarapu
     title: "Big Data\u2013Driven Vehicle Characterization Using Distributed ML Techniques"
+  - description: Big Data Analysis and Machine Learning Models on LinkedIn Jobs and
+      Skills Dataset
+    team:
+    - email: dhivyaga@buffalo.edu
+      name: Dhivya Ganesan
+    - email: gudiroha@buffalo.edu
+      name: Gudi Rohan Reddy
+    - email: sarthana@buffalo.edu
+      name: Sai Krishna Arthanari
+    - email: suhaskun@buffalo.edu
+      name: Suhas Kunte Manjunath Rao
+    title: Data Intensive Computing Project
+  - description: "This project focuses on analyzing a large used-car sales dataset\
+      \ to understand the factors that influence a car\u2019s resale price and to\
+      \ build a Spark-based machine learning model capable of predicting it accurately.\
+      \ The workflow includes data cleaning, exploratory data analysis (EDA), feature\
+      \ engineering, and the development of a supervised regression model using PySpark\u2019\
+      s MLlib.\n\nAs part of the analysis, we examined key attributes such as brand,\
+      \ year of manufacture, fuel type, transmission, engine size, and mileage to\
+      \ identify their impact on pricing patterns. EDA techniques\u2014including correlation\
+      \ analysis, boxplots, scatter plots, and trend visualizations\u2014were used\
+      \ to uncover relationships and outliers in the dataset. After preprocessing\
+      \ the data with Spark pipelines (handling missing values, encoding categorical\
+      \ features, and assembling feature vectors), a Random Forest regression model\
+      \ was trained, evaluated, and improved through hyperparameter tuning.\n\nThe\
+      \ final model achieved high predictive accuracy and provided insights into which\
+      \ features most strongly affect resale price, helping illustrate real-world\
+      \ pricing behavior in the used-car market."
+    team:
+    - email: aambat@buffalo.edu
+      name: Anjali Ambalath
+    - email: dipikara@buffalo.edu
+      name: Dipika Ramasubramanian
+    - email: aarjavja@buffalo.edu
+      name: Aarjav Jain
+    - email: ankushth@buffalo.edu
+      name: Ankush Thalla
+    title: Car Sales Analysis Using Data Cleaning, EDA, and Spark-Based Machine Learning
+  - description: This project explores how users behave on an e-commerce platform
+      by analyzing a large dataset with PySpark. We cleaned and processed the data,
+      studied browsing and purchase patterns, and built predictive models to understand
+      what drives conversions. Our findings reveal clear user segments, strong brand
+      preferences, and insights that can help improve customer engagement and boost
+      sales.
+    team:
+    - email: sourabhr@buffalo.edu
+      name: Sourabh Raja
+    - email: vsiddapu@buffalo.edu
+      name: Vasudha Siddapura Nagaraj
+    title: E-Commerce Insights and Predictive Data Analysis Using PySpark
 - code: CSE 587LEC A Data Intensive Computing
   projects:
   - description: "Online retail platforms generate large volumes of user activity\
@@ -639,6 +817,39 @@
     - email: devachan@buffalo.edu
       name: Devachandar Istalingam
     title: SVC Central
+  - description: "Clairvoyix is Advance2000\u2019s next-generation private AI & GPU\
+      \ compute platform that makes high-performance computing as simple as using\
+      \ an app. It lets architects, engineers, analysts, and creators run GPU-accelerated\
+      \ AI workloads without any technical setup. Clairvoyix handles everything behind\
+      \ the scenes GPU allocation, containerization, model deployment, and performance\
+      \ tuning and gives users a clean, intuitive interface."
+    team:
+    - email: amhaske2@buffalo.edu
+      name: Anirudh Sanjay Mhaske
+    - email: mmhartma@buffalo.edu
+      name: Marcus Hartman
+    - email: viditraj@buffalo.edu
+      name: Vidit Rajesh Prabhu
+    title: Clairvoyix
+  - description: "Filmic Technologies is the company, where the project is dedicated\
+      \ in helping preserve old films by automatically analyzing every frame of newly\
+      \ digitized reels. It captures details like damage, dirt, color fading, audio\
+      \ issues, and even edge codes, then turns all of that into clean, easy-to-read\
+      \ reports. This makes it much easier for archivists to understand a film\u2019\
+      s condition and decide what needs restoration. Ultimately, Filmic helps protect\
+      \ cultural memory by giving fragile films a second life in the digital world."
+    team:
+    - email: ishetye@buffalo.edu
+      name: Isha Nitin Shetye
+    - email: anuragra@buffalo.edu
+      name: Anurag Rajesh Mahajan
+    - email: aprabhu5@buffalo.edu
+      name: Atharva Nitin Prabhu
+    - email: wadekar@buffalo.edu
+      name: Atharva Bhalchandra Wadekar
+    - email: jpasham@buffalo.edu
+      name: Jaya Krishna Pasham
+    title: Filmic Inspection Report
 - code: CSE 676 - Deep Learning
   projects:
   - description: Radiology departments are experiencing growing workloads as the number
@@ -757,6 +968,25 @@
     - email: shubhojy@buffalo.edu
       name: Shubhjyoti Datta Chowdhary
     title: 'CarDealers '
+- code: CSE587 - DIC
+  projects:
+  - description: This project demonstrates a full-cycle Big Data pipeline analyzing
+      over 600,000 Yahoo Finance stock records. Transitioning from local Python analysis
+      to a distributed Hadoop/Spark environment, we implemented scalable ML models
+      to forecast prices (Gradient-Boosted Trees), classify market direction (Random
+      Forest), and cluster companies by risk profile (K-Means). The results highlight
+      the challenges of predicting market direction while showcasing the power of
+      distributed computing for financial insight.
+    team:
+    - email: smitdhan@buffalo.edu
+      name: Smit Mahajan
+    - email: kmishra2@buffalo.edu
+      name: Krishna Kant Mishra
+    - email: dhvanigu@buffalo.edu
+      name: Dhvani Dave
+    - email: parthach@buffalo.edu
+      name: Partha Chakraborty
+    title: CSE587_kmishra2_smitdhan_dhvanigu_parthach
 - code: 'CSE587: Data Intensive Computing'
   projects:
   - description: We utilized PySpark to perform Data Cleanup, Exploratory Data Analysis
@@ -892,6 +1122,20 @@
     - email: ecanton@buffalo.edu
       name: Ethan Canton
     title: Implementing typed SQL support in Draupnir
+  - description: Performance analysis of single vs. double precision formats in numerical
+      pde solvers, measuring computational efficiency and solution accuracy.
+    team:
+    - email: ahuynh3@buffalo.edu
+      name: Anthony Huynh
+    title: Analysis of Single vs Double Precision Performance in Numerical Methods
+  - description: "This research investigates which existing concurrency control protocols\
+      \ claim to support invisible read\u2011only transactions, and how their correctness\
+      \ and performance hold up in replicated, fault\u2011tolerant settings.\n"
+    team:
+    - email: kesna Foster@buffalo.edu
+      name: Al
+    title: An Investigation of the Visibility and Correctness of Read-Only Transactions
+      in Fault-Tolerant Systems
 - code: Master's Project (CSE 799, not CSE 611)
   projects:
   - description: 'A 5-stage Pipelined Processor implementing a custom RISC instruction
@@ -901,58 +1145,16 @@
     - email: tddangel@buffalo.edu
       name: Tyler D'Angelo
     title: Custom Processor
-- code: CSE587 - DIC
+- code: Project Submission
   projects:
-  - description: This project demonstrates a full-cycle Big Data pipeline analyzing
-      over 600,000 Yahoo Finance stock records. Transitioning from local Python analysis
-      to a distributed Hadoop/Spark environment, we implemented scalable ML models
-      to forecast prices (Gradient-Boosted Trees), classify market direction (Random
-      Forest), and cluster companies by risk profile (K-Means). The results highlight
-      the challenges of predicting market direction while showcasing the power of
-      distributed computing for financial insight.
+  - description: Linkedin Dataset - Demonstrating EDA for the input files and later
+      using Spark to process and apply MLLib libraries
     team:
-    - email: smitdhan@buffalo.edu
-      name: Smit Mahajan
-    - email: kmishra2@buffalo.edu
-      name: Krishna Kant Mishra
-    - email: dhvanigu@buffalo.edu
-      name: Dhvani Dave
-    - email: parthach@buffalo.edu
-      name: Partha Chakraborty
-    title: CSE587_kmishra2_smitdhan_dhvanigu_parthach
-- code: ' CSE587: Data Intensive Computing'
-  projects:
-  - description: This project builds a complete end-to-end big-data analytics pipeline
-      to process and analyze the multi-million record Amazon Books Reviews dataset
-      using Pandas, PySpark, and machine learning. The workflow includes extensive
-      data cleaning, distributed preprocessing, and exploratory analysis of review
-      patterns such as rating distributions, review lengths, and reviewer behavior.
-      Four ML tasks were implemented at scale, sentiment classification with Linear
-      SVM, helpful-vote prediction using Poisson regression, reviewer segmentation
-      via K-Means, and extractive multi-review summarization using Random Forest regression
-      with transformer-based features, producing robust insights and scalable models
-      for understanding book reviews at large scale.
-    team:
-    - email: aghei@buffalo.edu
-      name: Anushka Ghei
-    - email: srishthi@buffalo.edu
-      name: Srishthi Priya
-    - email: odrabira@buffalo.edu
-      name: Odra Bira
-    - email: adhanure@buffalo.edu
-      name: Antariksha Dhanure
-    title: Amazon Books Review Analysis Using PySpark & Machine Learning
-- code: 'CSE 4/587: Data Intensive Computing Project Demo'
-  projects:
-  - description: A Big Data Pipeline for Yahoo Finance Stock Analysis
-    team:
-    - email: ah244@buffalo.edu
-      name: Abdul Rahman Hussain Siddique
-    - email: anayak2@buffalo.edu
-      name: Abhijeet Nayak
-    - email: ishaqibr@buffalo.edu
-      name: Ishaq Ibrahim Miyawala
-    - email: radinahm@buffalo.edu
-      name: Radin Ahmed
-    title: DIC-AHIR
+    - email: rajagop6@buffalo.edu
+      name: Abhishek Rajagopalan
+    - email: raviraja@buffalo.edu
+      name: Ravi Rajaram
+    - email: pradyumu@buffalo.edu
+      name: Pradyum Shetty
+    title: Linkedin Dataset
 
