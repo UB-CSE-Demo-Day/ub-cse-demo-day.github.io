@@ -2,6 +2,7 @@ rohanshr@buffalo.com
 rohanshr@buffalo.edu
 mohantej@buffalo.edu
 kem44@buffalo.edu
+buffalo.edu@buffalo.edu
 paridhik@buffalo.edu
 psirasap@buffalo.edu
 ychen379@buffalo.edu
@@ -64,13 +65,14 @@ ryancao@buffalo.edu
 smotte@buffalo.edu
 hkorapat@buffalo.edu
 alkesnaf@buffalo.edu
+kesna Foster@buffalo.edu
 huiqicai@buffalo.edu
 saj24@buffalo.edu
 njbrown4@buffalo.edu
 jmabramo@buffalo.edu
 vdib@buffalo.edu
 Brackenridge@buffalo.edu
-zimmerm3@buffalo.edu
+Shawn Zimmermann zimmerm3@buffalo.edu
 eabock@buffalo.edu
 grbossor@buffalo.edu
 sadakaka@buffalo.edu
@@ -181,6 +183,7 @@ weiguowu@buffalo.edu
 meghnatr@buffalo.edu
 sahilshi@buffalo.edu
 fagunnir@buffalo.edu
+Orniepay@buffalo.edu
 orniepay@buffalo.edu
 ezhang8@buffalo.edu
 kpang@buffalo.edu
@@ -239,5 +242,5 @@ ahmedbou@buffalo.edu
 jakenath@buffalo.edu
 txia3@buffalo.edu
 cmr58@buffalo.edu
-rmurray5@buffalo.edu
+RobMurray rmurray5@buffalo.edu
 asifimra@buffalo.edu
