@@ -1031,6 +1031,17 @@
     - email: manjoshr@buffalo.edu
       name: Manjosh Roy Kalimela
     title: Data Analyzers
+  - description: 'This project presents a comprehensive Exploratory Data Analysis
+
+      (EDA) of stock market data spanning five years for multiple companies.'
+    team:
+    - email: achallam@buffalo.edu
+      name: Aditya Challamarad
+    - email: vsingh36@buffalo.edu
+      name: Vivek Singh
+    - email: hrithvik@buffalo.edu
+      name: Hrithvik Atluri
+    title: 'Stock Market Data Analytics: Data Cleaning, EDA, and Modeling with PySpark'
 - code: CSE 587LEC A Data Intensive Computing
   projects:
   - description: "Online retail platforms generate large volumes of user activity\
@@ -1072,25 +1083,6 @@
     - email: saagarik@buffalo.edu
       name: Saagarika Sampath Kumar
     title: Retrieval-Augmented Radiology Summarizer (RARS)
-- code: CSE587 - DIC
-  projects:
-  - description: This project demonstrates a full-cycle Big Data pipeline analyzing
-      over 600,000 Yahoo Finance stock records. Transitioning from local Python analysis
-      to a distributed Hadoop/Spark environment, we implemented scalable ML models
-      to forecast prices (Gradient-Boosted Trees), classify market direction (Random
-      Forest), and cluster companies by risk profile (K-Means). The results highlight
-      the challenges of predicting market direction while showcasing the power of
-      distributed computing for financial insight.
-    team:
-    - email: smitdhan@buffalo.edu
-      name: Smit Mahajan
-    - email: kmishra2@buffalo.edu
-      name: Krishna Kant Mishra
-    - email: dhvanigu@buffalo.edu
-      name: Dhvani Dave
-    - email: parthach@buffalo.edu
-      name: Partha Chakraborty
-    title: Yahoo Finance Analysis
 - code: 'CSE587: Data Intensive Computing'
   projects:
   - description: We utilized PySpark to perform Data Cleanup, Exploratory Data Analysis

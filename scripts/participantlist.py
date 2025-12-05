@@ -38,7 +38,7 @@ def parsegroup(group):
 
 courses = {}
 
-with open(path) as file:
+with open(path, encoding='utf-8', errors='ignore') as file:
   data = csv.reader(file)
   header = data.__next__()
   for row in data:
