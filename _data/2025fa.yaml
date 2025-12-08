@@ -78,6 +78,8 @@
       name: Jessica Mui
     - email: aminurmu@buffalo.edu
       name: Aminur Murad
+    - email: zaidarsh@buffalo.edu
+      name: Zaid Arshad
     title: UB Hacking CMS
   - description: This project focuses on building an interactive visualization tool
       that displays a geographic map highlighting customers in specific areas who
@@ -1041,6 +1043,8 @@
       name: Vivek Singh
     - email: hrithvik@buffalo.edu
       name: Hrithvik Atluri
+    - email: zaidarsh@buffalo.edu
+      name: Zaid Arshad
     title: 'Stock Market Data Analytics: Data Cleaning, EDA, and Modeling with PySpark'
 - code: CSE 587LEC A Data Intensive Computing
   projects:
@@ -1183,6 +1187,8 @@
     team:
     - email: roshana@buffalo.edu
       name: Roshan Ayyalasomayajula
+    - email: holdenwo@buffalo.edu
+      name: Holden Wozniak
     title: Application Layer Security for Wi-Fi Sensing
   - description: Draupnir needs support for SQL for various issues. This goes through
       converting SQL into AGRA.
