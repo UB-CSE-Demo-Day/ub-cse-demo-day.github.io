@@ -14,6 +14,7 @@ amaanshe@buffalo.edu
 mchu9@buffalo.edu
 jcmui@buffalo.edu
 aminurmu@buffalo.edu
+zaidarsh@buffalo.edu
 ezhang8@buffalo.edu
 wli3563@buffalo.edu
 rkumar32@buffalo.edu
@@ -289,3 +290,6 @@ accostan@buffalo.edu
 yiwentan@buffalo.edu
 longyuli@buffalo.edu
 ruoerxu@buffalo.edu
+achallam@buffalo.edu
+vsingh36@buffalo.edu
+hrithvik@buffalo.edu
