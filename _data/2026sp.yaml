@@ -1,3 +1,280 @@
+- code: CSE 302/303/402
+  projects:
+  - description: A web-based marketplace that connects customers with local service
+      providers for scheduling, invoicing, and job management, built to give small
+      businesses the tools of a large enterprise, without the cost or complexity.
+    team:
+    - email: ejcaskie@buffalo.edu
+      name: Ethan Caskie
+    - email: jaidinro@buffalo.edu
+      name: Jaidin Rosario
+    title: 'Find a Mechanic '
+  - description: An interactive storytelling platform that teaches computational literacy
+      through creative writing, empowering students, teachers, and anonymous users
+      to explore identity, and culture while learning to code.
+    team:
+    - email: mukeshkr@buffalo.edu
+      name: Mukesh Krishnamurthy
+    - email: dishitar@buffalo.edu
+      name: Dishita ReddyPatil
+    - email: ariaorni@buffalo.edu
+      name: Aria Orni
+    title: Unfold Studio
+  - description: 'The UBHacking CMS platform adds tools for the organizers of UB''s
+      Hackathon to efficiently manage registrations, check-ins, communications, team
+      generation, user roles, and logistics without requiring technical expertise.
+      This platform also adds to the experience of attending the hackathon by rewarding
+      points for participating in events, which can then be redeemed to earn prizes
+      throughout the events. '
+    team:
+    - email: mchu9@buffalo.edu
+      name: Matthew Chu
+    - email: kennylei@buffalo.edu
+      name: Kenny Lei
+    - email: jacobjay@buffalo.edu
+      name: Jacob Jayme
+    - email: omirhenr@buffalo.edu
+      name: Omir Henriquez
+    - email: hoangbui@buffalo.edu
+      name: Hoang Le Minh Bui
+    title: UBHacking CMS
+  - description: 'AI Energy Optimization''s project serves to be one step in the goal
+      for optimizing the energy being consumed during the training of LLMs. The Application
+      allows for users to select AI models and how their configured during training,
+      so that they can view a report card of the energy being consumed during the
+      training process. '
+    team:
+    - email: lanxinxi@buffalo.edu
+      name: Lindsey Xiao
+    - email: mlabibah@buffalo.edu
+      name: Labib Ahsan
+    - email: ayaantar@buffalo.edu
+      name: Ayaan Tariq
+    title: 'AI Energy Optimization '
+- code: 'CSE 370: UI/UX'
+  projects:
+  - description: A social media platform tailored for book lovers including unique
+      aspects which make it different from other media on the market today.
+    team:
+    - email: tbyrd2@buffalo.edu
+      name: Tatiana Byrd
+    - email: emmapawl@buffalo.edu
+      name: E.B Pawlak
+    - email: gareagan@buffalo.edu
+      name: George Reagan
+    - email: kadenbic@buffalo.edu
+      name: Kaden Bickford
+    title: UBEES / BOOKCLUB
+  - description: 'REAL is a non-traditional dating application that redefines how
+      people form connections by prioritizing authenticity over curated perfection.
+      Inspired by elements of BeReal and Hinge, the platform blends real-time, candid
+      content with meaningful relationship-building features. Users share unfiltered
+      photos and short videos that capture their everyday lives, allowing others to
+      discover personalities through genuine moments rather than polished profiles.
+      The app also introduces a customizable discovery feed, enabling users to explore
+      connections based on interests, daily routines, or storytelling formats. With
+      integrated profile verification badges and a focus on safety and transparency,
+      it also creates a more trustworthy and engaging environment where users can
+      build deeper, more realistic relationships over time.
+
+      '
+    team:
+    - email: nbonikel@buffalo.edu
+      name: Nishanth Reddy Bonikela
+    - email: kennyhe@buffalo.edu
+      name: Kenny He
+    - email: rjheim@buffalo.edu
+      name: Robert Heim
+    - email: jagroopk@buffalo.edu
+      name: Jagroop Khosa
+    - email: waheedsa@buffalo.edu
+      name: Waheed Saroyia
+    title: REAL
+  - description: A social media web application with the objective to be the premier
+      community driven platform. This app allows users to bond over each other's opinions
+      through various user interactions such as posts, ratings, rankings, polls, and
+      media.
+    team:
+    - email: cjc48@buffalo.edu
+      name: Cameron Carlson
+    - email: bjw24@buffalo.edu
+      name: Brigid Walker
+    - email: manjarre@buffalo.edu
+      name: Jillian Manjarrez Guerrero
+    - email: hzhu29@buffalo.edu
+      name: Helen Zhu
+    - email: jackmazz@buffalo.edu
+      name: Jack Mazzella
+    title: Goat Kids
+  - description: "Personally is a journaling and emotional wellness website designed\
+      \ to help users reflect, connect, and feel supported in a more personal way.\
+      \ The platform allows users to create journal posts with topic tags, daily prompts,\
+      \ and emoji selections, making each entry more expressive and meaningful. To\
+      \ help users better understand their emotional patterns, Personally also includes\
+      \ a monthly mood summary feature with a visual chart that tracks mood trends\
+      \ over time.\n\nBeyond journaling, the website encourages community and support.\
+      \ Users can join health and safety groups, follow one another, and interact\
+      \ through private posts shared with friends or public posts shared with all\
+      \ users. On other users\u2019 profiles, supportive sticky notes can be added\
+      \ to leave kind messages and encouragement. Personally also prioritizes user\
+      \ safety through its crisis support features. When a user types concerning keywords,\
+      \ the website displays a helpful popup with mental health resources, support\
+      \ websites, and important phone numbers, making it easier to seek help when\
+      \ needed."
+    team:
+    - email: yukthare@buffalo.edu
+      name: Yuktha Reddy Vanteru
+    - email: andreaky@buffalo.edu
+      name: Andrea Kyaw
+    - email: cjung6@buffalo.edu
+      name: Christopher jung
+    title: 'Project name : Personally , Group name : Merge Conflict'
+  - description: 'To create close-knit communities for people through specific groups\
+      Project Description: The app will have the ability for a user to join different
+      groups based on a hobby or interest. When they navigate to one of these groups,
+      they will be taken to a feed of posts by other members of the group. The application
+      will be focused on helping people make connections in smaller, close-knit circles
+      of people. It will have lots of customization to allow the user to make their
+      page look how they want. There will be an interactive mascot in the form of
+      a wizard-duck, that will have different reactions based on how the user navigates
+      through the website'
+    team:
+    - email: shaneswo@buffalo.edu
+      name: Shane
+    - email: ravenbar@buffalo.edu
+      name: Raven
+    title: 9Syner9y
+- code: CSE 4/555 Intro to Patern Recognition
+  projects:
+  - description: 'EMOCA focuses on emotional 3D face reconstruction, and its page
+      now points users toward INFERNO for stronger face reconstruction tooling. Your
+      team can build a project on emotion-aware reconstruction, expression clustering
+      in FLAME space, or expression consistency across a video. '
+    team:
+    - email: okvarney@buffalo.edu
+      name: Oliver Varney
+    - email: rc98@buffalo.edu
+      name: Ramya Chandrasekhara
+    title: Emotion-Aware Face Modeling with EMOCA
+- code: 'CSE 420 : Game Design'
+  projects:
+  - description: Let Me Out is a First Person Horror game, where you play as a character
+      that has been kidnapped by an unknown entity. You wake up in an abandoned hospital
+      and try to maneuver you way through, and escape. However, the hospital isn't
+      a normal one, as their are different paranormal beings roaming the facility.
+      As you progress through you realize there have been others before you; but they
+      are no longer with us. Fortunately, they left some clues around to help you
+      the next victims trapped (you).
+    team:
+    - email: jabrelza@buffalo.edu
+      name: Jabr Elzahiri
+    - email: msperciv@buffalo.edu
+      name: Michael Percival
+    title: Let ME Out
+  - description: A mix of a dungeon crawler and a rhythm game.
+    team:
+    - email: ndberg@buffalo.edu
+      name: Nathaniel Berg
+    - email: ryandai@buffalo.edu
+      name: Ryan Dai
+    - email: indigoha@buffalo.edu
+      name: Indigo Hawk
+    title: Friday Night at the Disco Tomb
+- code: 'CSE 442: Software Engineering'
+  projects:
+  - description: All In or Nothing creates a fun and accessible online space where
+      users can enjoy casino style games, digital currency, and collect or trade virtual
+      items. All In or Nothing blends gambling, collecting and social life into one
+      exciting experience that users can enjoy anytime, anywhere.
+    team:
+    - email: ba47@buffalo.edu
+      name: Benjamin Anderson
+    - email: bcshanno@buffalo.edu
+      name: Benjamin Shannon
+    - email: rtmckee@buffalo.edu
+      name: Ryan Mckee
+    - email: mjmason2@buffalo.edu
+      name: Matthew Mason
+    title: All In or Nothing
+  - description: 'The Bug Triage & Prioritization System (AI-Assisted) is a full-stack
+      web application that facilitates developers to effectively organize and prioritize
+      software bugs. Conventional bug tracking systems are primarily concerned with
+      the collection and listing of bugs but they usually do not have any intelligent
+      support in deciding on the bugs to be resolved first. The proposed project seeks
+      to address that gap and integrate the regular bug tracking with the AI-enhanced
+      analysis.
+
+
+      The system enables users to file bug reports, monitor their status, assign ownership,
+      and display bugs according to priority and not just in a chronological order.
+      It also adds some important reliability impact and expected resolution time
+      to better represent the reality of software running in the field.
+
+
+      AI is implemented as a complementary feature to boost productivity and not to
+      substitute human decision-making. Auto bug summarization, proposed severity
+      and smart prioritization are some of the features that have been used to save
+      time on the part of the developers that are analyzing bug reports. Moreover,
+      the system will be able to produce the explanations of prioritization choices
+      and emphasize the key, high-impact problems.
+
+
+      In general, the project provides a realistic and scalable solution to enhance
+      the efficiency of bug management, lighten the cognitive load of developers and
+      facilitate the development of better decisions in the contemporary software
+      development context.'
+    team:
+    - email: neeharpu@buffalo.edu
+      name: Neehar Purama
+    - email: mukeshkr@buffalo.edu
+      name: Mukesh Krishnamurthy
+    - email: psangam@buffalo.edu
+      name: Prerana Sangam
+    title: FixFlow
+- code: CSE 555 Pattern recognition
+  projects:
+  - description: Interpreting Diffusion Models with DAAM
+    team:
+    - email: dungmanh@buffalo.edu
+      name: Manh Dung Nguyen
+    - email: liyuezha@buffalo.edu
+      name: Liyue Zhang
+    title: Group 15, Project 1
+- code: CSE 587
+  projects:
+  - description: This project focuses on analyzing and predicting flight delays using
+      a dataset containing various flight attributes such as departure times, arrival
+      times, and other relevant factors. The dataset was first cleaned and preprocessed
+      to ensure accuracy and usability. We then conducted exploratory data analysis
+      to understand patterns, distributions, and relationships within the data. Building
+      on these insights, we applied machine learning techniques to develop models
+      that predict flight delays. This allowed us to better understand key factors
+      influencing delays and evaluate their impact on both airlines and passengers.
+    team:
+    - email: bdfarhi@buffalo.edu
+      name: Benjamin Farhi
+    - email: dsgulvin@buffalo.edu
+      name: Daniel Gulvin
+    title: Flight Delay Prediction and Analysis
+  - description: Predicting NYC Taxi Trip Duration using Big Data Analytics
+    team:
+    - email: mwaseem@buffalo.edu
+      name: Muhammad Ahmad Waseem
+    - email: rajsekar@buffalo.edu
+      name: Rajsekar Balaji
+    - email: vgaddam@buffalo.edu
+      name: Venkata Ramireddy Gaddam
+    title: Group 11
+  - description: PySpark-based Spotify analysis project, covering regression, classification,
+      clustering, and six data analysis objectives using HDFS data.
+    team:
+    - email: jpally@buffalo.edu
+      name: Jeevan Ankith Pally
+    - email: svaddi3@buffalo.edu
+      name: Sri Lakshmi
+    - email: deepeshc@buffalo.edu
+      name: Deepesh Chhetri
+    title: Spotify_Music_Analysis
 - code: 'CSE 611: Master''s Capstone Project'
   projects:
   - description: CodeSense is an AI-driven code analysis and developer assistance
@@ -48,6 +325,158 @@
     - email: anikethe@buffalo.edu
       name: Aniket Murkutkar
     title: SK Interns
+  - description: "Look the Part\xAE is a fashion discovery service that aims to combine\
+      \ entertainment and fashion by making it easier to bring on-screen style into\
+      \ everyday life. Founded in 2019 by Lisa Cronin, Look the Part published its\
+      \ first social media inspired mobile application in 2020. The app was built\
+      \ from scratch by UB Graduate Students (CSE 611) based on early designs and\
+      \ a prototype by Look the Part\u2019s founder.\n\nAs of January 2026, in spite\
+      \ of subsequent updates, the application's management platform, Creation Studio,\
+      \ lacked many features desired by its founder, and the platform possessed critical\
+      \ vulnerabilities that jeopardized the security of the application and its data.\
+      \ Therefore, this semester's Look the Part team aimed to help the application's\
+      \ management interface keep up with its growing user base, addressing key security\
+      \ issues, improving its analysis of user data, streamlining the blog post workflow,\
+      \ automating the completion of forms and image watermarking, and enhancing its\
+      \ search functionality."
+    team:
+    - email: emiliegr@buffalo.edu
+      name: Emilie Griffin
+    - email: suhaskun@buffalo.edu
+      name: Suhas Kunte Manjunath Rao
+    - email: poojanar@buffalo.edu
+      name: Pooja Narendra Nemade
+    - email: shubhojy@buffalo.edu
+      name: Shub Datta Chaudhuri
+    - email: ankushth@buffalo.edu
+      name: Ankush Thalla
+    title: Look The Part
+  - description: 'An automated data extraction pipeline that replicates manual data
+      entry processes using intelligent inference techniques. The system reduces processing
+      time by approximately 33% while achieving up to 80% accuracy, supported by a
+      human-in-the-loop review process to identify and correct anomalies.
+
+      The pipeline integrates multiple data sources, including API retrieval (when
+      available), dynamic web scraping of document-specific webpages (when accessible),
+      and LLM-based parsing of both digital and scanned PDFs. These approaches are
+      combined to generate a unified, high-level structured output.'
+    team:
+    - email: jayniket@buffalo.edu
+      name: Jay Niketan Pathare
+    - email: tejakris@buffalo.edu
+      name: Teja Krishna Sai Uppugunduri
+    - email: anutejsa@buffalo.edu
+      name: Anutej Kardele
+    - email: sbaser@buffalo.edu
+      name: Sejal Sanjay Baser
+    - email: pkundaik@buffalo.edu
+      name: Pranav Chandrahas Kundaikar
+    title: AI-Powered Data Extraction System
+  - description: Field teams often rely on disconnected tools. This leads to fragmented
+      information, inefficient coordination, and limited visibility into field operations.
+      Our project addresses this problem by building a centralized field data management
+      platform for Floe that integrates accounts, orders, devices, media uploads,
+      notes, reports, reminders, role-based access control, and SMS-enabled communication
+      workflows. The platform provides a single source of truth that helps teams organize
+      field data, improve communication, and make faster operational decisions.
+    team:
+    - email: bandaru7@buffalo.edu
+      name: Vidhyadhari Bandaru
+    - email: vaikanpe@buffalo.edu
+      name: Vaikan Peddi
+    - email: knandiga@buffalo.edu
+      name: Krishna Kishore Nandigam
+    - email: vishalki@buffalo.edu
+      name: Vishal Kishore Kumar
+    title: Floe Field Data Management Platform
+- code: 'CSE 676: Deep Learning'
+  projects:
+  - description: Our project is about creating a deep learning model that can accurately
+      predict whether or not background sound of a audio file is AI generated or not.
+    team:
+    - email: rverma2@buffalo.edu
+      name: Ritik Verma
+    - email: rajagop6@buffalo.edu
+      name: Abhishek Rajagopalan
+    title: AI-generated Background Sound Detector
+  - description: This project investigates how to improve model robustness on the
+      Waterbirds dataset by reducing reliance on spurious background correlations
+      and encouraging learning of core semantic features. It combines pretrained representations
+      (ViT, DINOv2) with a novel gradient-based core-aligned regularization technique
+      to improve worst-group performance and interpretability.
+    team:
+    - email: ubijinap@buffalo.edu
+      name: Uday Kiran
+    title: Dream Project
+- code: CSE 711 Seminar
+  projects:
+  - description: Using a radar and aluminum plate to measure soil moisture of a houseplant.
+      I also created an application with ML to classify plant health based on readings.
+    team:
+    - email: jfurdzik@buffalo.edu
+      name: Jennifer Furdzik
+    title: RF Based Soil Moisture Sensing
+- code: 'CSE 799: Supervised Research'
+  projects:
+  - description: Build a LLM based pipeline for adversarial scenario generation for
+      autonomous vehicle testing and simulation in CARLA
+    team:
+    - email: ha33@buffalo.edu
+      name: Harshit Agrawal
+    title: Next-Gen Autonomous Vehicle Scenario Generation using LLMs
+- code: CSE-711
+  projects:
+  - description: 'Wireless sensing has been widely studied for its applications in
+      gesture recognition in recent years. Research has focused
+
+      on how human movement can be detected through its impact on wireless signals
+      in order to classify the movement into
+
+      specific gestures. This project aims to expand beyond classification into the
+      field of assessment.
+
+      Certain applications benefit from information beyond classification, by instead
+      learning about the gesture being performed.
+
+      Specifically, in the field of fitness including the gym, sports, physical therapy,
+      and other forms of exercise, the importance
+
+      of maintaining form is evident. Focusing on the gym, maintaining form while
+      you work out leads to increased effectiveness
+
+      of the workout while also helping to prevent injury. Existing approaches to
+      assist in maintaining form including vision
+
+      based systems and wearable devices, can be expensive and inconvenient. To address
+      this, we built a system to assess the
+
+      quality of form while performing bicep curls through the use of wireless signals.
+
+      Our system derives quality assessment through the use of WiFi CSI signals. The
+      system will rely on two ESP32 microcon-
+
+      trollers to collect CSI data, which will be processed into a time-frequency
+      spectrogram representation, from which motion
+
+      related features will be extracted and used to evaluate the quality of the curl
+      being performed.
+
+      The goal of this work is to determine if the pipeline can output a quality assessment
+      of the curl. The final output of the
+
+      pipeline will include a quality score for the curl, along with potential feedback
+      for improvement of the gesture. Successful
+
+      results will demonstrate the potential for assessing gesture quality with CSI
+      data, showing advancement into the field of
+
+      gesture assessment is possible.'
+    team:
+    - email: hdshinde@buffalo.edu
+      name: name1
+    - email: jlt38@buffalo.edu
+      name: name2
+    title: WiFi CSI Gesture Quality Recognition
 - code: Independent Study / Research
   projects:
   - description: Instagram post comments scraper, with self-correcting capabilities
@@ -182,145 +611,128 @@
     - email: angustsa@buffalo.edu
       name: Angus
     title: 'Testing Code-switching classification on Hinglish '
-- code: CSE 711 Seminar
-  projects:
-  - description: Using a radar and aluminum plate to measure soil moisture of a houseplant.
-      I also created an application with ML to classify plant health based on readings.
+  - description: We study the variance and accuracy of LLM-powered semantic operators
+      under ambiguous or unambiguous natural language queries, analyzing their reasoning
+      and output consistency. We use LOTUS as our framework and construct a SQL-based
+      gold standard dataset using fuzzy matching on data from IMDb and JOB datasets.
+      We also create a corresponding document-based dataset from processed HTML pages
+      to compare results across structured and unstructured settings. Our goal is
+      to evaluate the reliability and usefulness of these systems in the presence
+      of ambiguity.
     team:
-    - email: jfurdzik@buffalo.edu
-      name: Jennifer Furdzik
-    title: RF Based Soil Moisture Sensing
-- code: 'CSE 676: Deep Learning'
-  projects:
-  - description: Our project is about creating a deep learning model that can accurately
-      predict whether or not background sound of a audio file is AI generated or not.
+    - email: geetansh@buffalo.edu
+      name: Geetansh Kumar
+    title: Ambiguity in LLM-powered semantic operators
+  - description: 'Currently an Surface Mount Technology service company uses a system
+      of tracking information of orders called "Travelers". These travelers are pieces
+      of paper that track which operators have done certain steps of the process of
+      the surface mount devices. This system sets the foundation for the Traveler
+      Tracker service. This service uses QR codes that are generated during the recieving
+      process of orders, which are stickered to the travelers, to track entire orders
+      moving through the building. This service also requires users to scan their,
+      already company supplied, RFID Cards to scan into the seprate scan stations
+      to track the operator history on orders. '
     team:
-    - email: rverma2@buffalo.edu
-      name: Ritik Verma
-    - email: rajagop6@buffalo.edu
-      name: Abhishek Rajagopalan
-    title: AI-generated Background Sound Detector
-- code: CSE 587
-  projects:
-  - description: This project focuses on analyzing and predicting flight delays using
-      a dataset containing various flight attributes such as departure times, arrival
-      times, and other relevant factors. The dataset was first cleaned and preprocessed
-      to ensure accuracy and usability. We then conducted exploratory data analysis
-      to understand patterns, distributions, and relationships within the data. Building
-      on these insights, we applied machine learning techniques to develop models
-      that predict flight delays. This allowed us to better understand key factors
-      influencing delays and evaluate their impact on both airlines and passengers.
+    - email: vasquezs@buffalo.edu
+      name: Justin Vasquez Sorto
+    title: 'Traveler Tracker '
+  - description: 'WiFi sensing is a technology that uses WiFi signals already emitted
+      by wireless devices for the purpose of movement detection. These systems enable
+      applications such as smart home automation, health monitoring, security, and
+      even localization. However, these systems also create significant privacy concerns
+      as channel information can reveal and track user locations without their consent.
+
+
+      This project explores the application of differential privacy to WiFi sensing
+      systems. Differential privacy introduces carefully created noise into the mechanisms
+      that expose channel state information to clients utilizing the system. This
+      noise is tuned to ensure that the presence or absence of any single individual
+      yields near indistinguishable results on the output returned. The project aims
+      to provide quantifiable privacy guarantees against unauthorized tracking and
+      inference while still preserving the utility of sensing applications.'
     team:
-    - email: bdfarhi@buffalo.edu
-      name: Benjamin Farhi
+    - email: holdenwo@buffalo.edu
+      name: Holden Wozniak
+    title: Differential Privacy for WiFi Sensing Systems
+  - description: 'Language models are black boxes. You put text in, an answer comes
+      out, and nothing in between is visible. LayerLens opens that box. It intercepts
+      a model''s internal state at every layer and tracks how confidently it predicts
+      each word as processing deepens.
+
+
+      Words the model was about to get right but did not are called late-drop tokens.
+      LayerLens flags these in real time. Across 32,000 words and two model architectures,
+      these flagged words turn out to be wrong 86% of the time. That makes the trajectory
+      shape a better uncertainty signal than the model''s own confidence score.
+
+
+      The same analysis reveals something else. Simple words like "the" and "and"
+      are resolved by the middle layers. The compute spent on them after that point
+      is wasted. LayerLens measures exactly how much.
+
+
+      Both findings are interactive. Type any sentence, watch the model think layer
+      by layer, and see exactly where it hesitates.'
+    team:
+    - email: yrathi2@buffalo.edu
+      name: Yash Rathi
+    title: LayerLens
+  - description: My research group at Roswell Park built an end-to-end VMAT dose prediction
+      engine to serve as a replacement for the traditional clinical treatment planning
+      system (TPS). Eclipse, the currently used TPS, is very accurate has slow computation
+      times. By leveraging advances in physics informed neural networks and domain
+      expertise, we built a full dose prediction pipeline that can serve as a faster,
+      and just as accurate, TPS.
+    team:
+    - email: braedenc@buffalo.edu
+      name: Braeden Cairns
+    title: Building a VMAT Dose Prediction Engine
+  - description: "This work presents a diffusion-based framework that generates 3D\
+      \ infant facial motion from non-verbal vocalizations such as crying, laughing,\
+      \ and babbling using the INFACE infant facial representation.\nBy training on\
+      \ a curated benchmark of 707 infant clips with audio\u2013visual synchronization\
+      \ losses, the method improves audio\u2013motion alignment over FLAME-based and\
+      \ phoneme-based baselines and supports reproducible infant-specific facial animation\
+      \ research"
+    team:
+    - email: ehoq@buffalo.edu
+      name: Enjamamul Hoq
+    - email: neellohi@buffalo.edu
+      name: Neellohit Somayajula
+    title: Non verbal audio driven infant expression synthesis
+  - description: A novel framework to evaluate the code generated by LLM on security
+      correctness.
+    team:
+    - email: apathak@buffalo.edu
+      name: name1
+    title: DualGauge
+  - description: A new Vibe Coding paradigm that supports absolute newcomers in designing
+      UX friendly products
+    team:
+    - email: adhakal2@buffalo.edu
+      name: Aashish Dhakal
+    title: Vibe Design Assistant
+- code: 'CSE 555: Introduction to Pattern Recognition '
+  projects:
+  - description: "Use the deep generative models\u2019 site that includes VAE and\
+      \ diffusion to build a controlled comparison on the small CIFAR-10 dataset provided.\
+      \ Ask which model reconstructs best, which samples best, and which is easiest\
+      \ to train. That makes a very clean course project paper."
+    team:
     - email: dsgulvin@buffalo.edu
       name: Daniel Gulvin
-    title: Flight Delay Prediction and Analysis
-- code: CSE-711
+    - email: rajvirsi@buffalo.edu
+      name: Rajvir Singh
+    title: VAE vs Diffusion on the Same Dataset
+- code: '474'
   projects:
-  - description: 'Wireless sensing has been widely studied for its applications in
-      gesture recognition in recent years. Research has focused
-
-      on how human movement can be detected through its impact on wireless signals
-      in order to classify the movement into
-
-      specific gestures. This project aims to expand beyond classification into the
-      field of assessment.
-
-      Certain applications benefit from information beyond classification, by instead
-      learning about the gesture being performed.
-
-      Specifically, in the field of fitness including the gym, sports, physical therapy,
-      and other forms of exercise, the importance
-
-      of maintaining form is evident. Focusing on the gym, maintaining form while
-      you work out leads to increased effectiveness
-
-      of the workout while also helping to prevent injury. Existing approaches to
-      assist in maintaining form including vision
-
-      based systems and wearable devices, can be expensive and inconvenient. To address
-      this, we built a system to assess the
-
-      quality of form while performing bicep curls through the use of wireless signals.
-
-      Our system derives quality assessment through the use of WiFi CSI signals. The
-      system will rely on two ESP32 microcon-
-
-      trollers to collect CSI data, which will be processed into a time-frequency
-      spectrogram representation, from which motion
-
-      related features will be extracted and used to evaluate the quality of the curl
-      being performed.
-
-      The goal of this work is to determine if the pipeline can output a quality assessment
-      of the curl. The final output of the
-
-      pipeline will include a quality score for the curl, along with potential feedback
-      for improvement of the gesture. Successful
-
-      results will demonstrate the potential for assessing gesture quality with CSI
-      data, showing advancement into the field of
-
-      gesture assessment is possible.'
+  - description: 'A custom ML model trained on thousands of yoga images. The model
+      detects your joints and will tell you the correctness of the pose and give the
+      user suggestions on how to fix the pose to be more accurate. '
     team:
-    - email: hdshinde@buffalo.edu
-      name: name1
-    - email: jlt38@buffalo.edu
-      name: name2
-    title: WiFi CSI Gesture Quality Recognition
-- code: 'CSE 799: Supervised Research'
-  projects:
-  - description: Build a LLM based pipeline for adversarial scenario generation for
-      autonomous vehicle testing and simulation in CARLA
-    team:
-    - email: ha33@buffalo.edu
-      name: Harshit Agrawal
-    title: Next-Gen Autonomous Vehicle Scenario Generation using LLMs
-- code: 'CSE 420 : Game Design'
-  projects:
-  - description: Let Me Out is a First Person Horror game, where you play as a character
-      that has been kidnapped by an unknown entity. You wake up in an abandoned hospital
-      and try to maneuver you way through, and escape. However, the hospital isn't
-      a normal one, as their are different paranormal beings roaming the facility.
-      As you progress through you realize there have been others before you; but they
-      are no longer with us. Fortunately, they left some clues around to help you
-      the next victims trapped (you).
-    team:
-    - email: jabrelza@buffalo.edu
-      name: Jabr Elzahiri
-    - email: msperciv@buffalo.edu
-      name: Michael Percival
-    title: Let ME Out
-- code: CSE 302/303/402
-  projects:
-  - description: A web-based marketplace that connects customers with local service
-      providers for scheduling, invoicing, and job management, built to give small
-      businesses the tools of a large enterprise, without the cost or complexity.
-    team:
-    - email: ejcaskie@buffalo.edu
-      name: Ethan Caskie
-    - email: jaidinro@buffalo.edu
-      name: Jaidin Rosario
-    title: 'Find a Mechanic '
-  - description: An interactive storytelling platform that teaches computational literacy
-      through creative writing, empowering students, teachers, and anonymous users
-      to explore identity, and culture while learning to code.
-    team:
-    - email: mukeshkr@buffalo.edu
-      name: Mukesh Krishnamurthy
-    - email: dishitar@buffalo.edu
-      name: Dishita ReddyPatil
-    - email: ariaorni@buffalo.edu
-      name: Aria Orni
-    title: Unfold Studio
-- code: CSE 555 Pattern recognition
-  projects:
-  - description: Interpreting Diffusion Models with DAAM
-    team:
-    - email: dungmanh@buffalo.edu
-      name: Manh Dung Nguyen
-    - email: liyuezha@buffalo.edu
-      name: Liyue Zhang
-    title: Group 15, Project 1
+    - email: pklair@buffalo.edu
+      name: Prince Klair
+    - email: milindku@buffalo.edu
+      name: Milind Kumar
+    title: Yoga AI
 
