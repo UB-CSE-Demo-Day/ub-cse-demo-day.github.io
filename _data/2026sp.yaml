@@ -1,3 +1,37 @@
+- code: '474'
+  projects:
+  - description: 'A custom ML model trained on thousands of yoga images. The model
+      detects your joints and will tell you the correctness of the pose and give the
+      user suggestions on how to fix the pose to be more accurate. '
+    team:
+    - email: pklair@buffalo.edu
+      name: Prince Klair
+    - email: milindku@buffalo.edu
+      name: Milind Kumar
+    title: Yoga AI
+- code: 676 Deep Learning Final Project
+  projects:
+  - description: 'Peptide and protein identification from tandem mass spectrometry
+      (MS/MS) data is a central problem in proteomics. Database searching is a widely
+      popular approach to solve this problem by matching observed spectra against
+      a set of peptide sequences contained in a reference protein database. This approach
+      is good for samples for which there is sufficient representation in the reference
+      database. However, for complex biological samples, there may be proteins of
+      unknown or poorly characterized or underrepresented species.
+
+      This is particularly critical for wastewater samples, as wastewater may contain
+      proteins from microorganisms, human sources, and environmental sources, many
+      of which may not be well represented in reference databases. Therefore, a de
+      novo approach to sequencing may be helpful, as it can predict peptide sequences
+      based on spectra without relying on a reference database.'
+    team:
+    - email: rpandey3@buffalo.edu
+      name: Raunak Kumar Pandey
+    - email: swatisan@buffalo.edu
+      name: Swati Sanjay Bhat
+    - email: litheesh@buffalo.edu
+      name: Litheesh Velakaturi Rambabu
+    title: E. coli and Wastewater peptide sequencing using de novo tools
 - code: CSE 302/303/402
   projects:
   - description: A web-based marketplace that connects customers with local service
@@ -180,6 +214,79 @@
     - email: indigoha@buffalo.edu
       name: Indigo Hawk
     title: Friday Night at the Disco Tomb
+  - description: 'Punch Shot Golf is a golf platformer game developed using Unreal
+      Engine 5 for the course CSE420 '
+    team:
+    - email: cjung6@buffalo.edu
+      name: Christopher Jung
+    - email: calvingr@buffalo.edu
+      name: Calvin Gray
+    - email: nbtagtme@buffalo.edu
+      name: Nicholas Tagtmeyer
+    - email: pkwitek@buffalo.edu
+      name: Peyton Witek
+    title: Punch Shot Golf
+  - description: This game is like vampire survivor or megabonk but with a gambling
+      twist where when you level up, you roll a d20 dice like in DND and gain buffs
+      or gain nerfs to yourself. Just like in DND there is an end game, for this demo
+      the end game is getting to level 10 and beating a boss just like in DND.
+    team:
+    - email: djhui@buffalo.edu
+      name: Darren Hui
+    - email: kofileon@buffalo.edu
+      name: Kofi Leong
+    title: Dungeon & Live
+  - description: A survival horror game for PC where the player is tasked with escaping
+      from a monster in the "Lurkwood" Library (loosely based on UB's Lockwood Library).
+      The game includes multiple floors the player must traverse, along with items
+      they must equip along the way, in order to successfully escape.
+    team:
+    - email: awgarofa@buffalo.edu
+      name: Anthony Garofalo
+    - email: maaziz@buffalo.edu
+      name: Abdul Aziz
+    - email: jecortes@buffalo.edu
+      name: Jose Cortes
+    - email: sailiaon@buffalo.edu
+      name: Leon Aon
+    title: Escape Lurkwood
+  - description: 'An unreal engine 5.7 project/game where you fight off zombies and
+      survive. '
+    team:
+    - email: hanwendo@buffalo.edu
+      name: Hanwen Dong
+    - email: mdhussai@buffalo.edu
+      name: Md Hussain
+    - email: qijiewu@buffalo.edu
+      name: Qijie Wu
+    - email: zzhong5@buffalo.edu
+      name: Zhiwei Zhong
+    title: Mindless-Sector
+  - description: A single player game where the player has to survive endless hoards
+      of undead. The player uses spells and upgrades to make themselves stronger in
+      order to survive as long as they can and beat personal high scores.
+    team:
+    - email: jzchen4@buffalo.edu
+      name: Julian
+    - email: calvinla@buffalo.edu
+      name: Calvin
+    - email: bmwyntje@buffalo.edu
+      name: Brian
+    - email: jackmazz@buffalo.edu
+      name: Jack
+    title: Necrosis
+  - description: Multiplayer 3D Racing Game
+    team:
+    - email: ajw58@buffalo.edu
+      name: Aiden Walker
+    - email: warauch@buffalo.edu
+      name: Liam Rauch
+    title: Street Drifter
+  - description: A game of a wizard with no magic powers but has his fists and legs
+    team:
+    - email: adamquez@buffalo.edu
+      name: 1. Adam
+    title: Magic and Muscle
 - code: 'CSE 442: Software Engineering'
   projects:
   - description: All In or Nothing creates a fun and accessible online space where
@@ -231,6 +338,40 @@
     - email: psangam@buffalo.edu
       name: Prerana Sangam
     title: FixFlow
+  - description: Bullseye is a website that promotes competitive gambling amongst
+      other players
+    team:
+    - email: adamquez@buffalo.edu
+      name: 1. Adam
+    title: Bullseye
+- code: 'CSE 546: Reinforcement Learning'
+  projects:
+  - description: We built an automated pipeline to train a flight booking AI using
+      Reinforcement Learning from AI Feedback (RLAIF). In this setup, our fine-tuned
+      Mistral-7B agent practices negotiating with a simulated customer, generating
+      multiple potential conversational pathways for every scenario. A strict AI judge
+      then evaluates these transcripts, calculating a precise reward score by checking
+      for successful bookings and heavily penalizing hallucinations. Finally, the
+      pipeline uses a Best reinforcement learning strategy to compare these reward
+      scores, saving only the most successful interaction to continuously improve
+      the model's baseline behavior.
+    team:
+    - email: sa69@buffalo.edu
+      name: Shubham Kumar Agrawal
+    - email: ryadav4@buffalo.edu
+      name: Rahul Yadav
+    - email: vshinde@buffalo.edu
+      name: Vedant Shinde
+    title: Multi-agent RLAIF and User Simulations for Goal-Oriented Dialogue using
+      PPO/ Team -12
+  - description: A Reinforcement Learning based dynamic digital tutor for K-12 students
+      with ADHD behavior traits
+    team:
+    - email: kn58@buffalo.edu
+      name: Kevin Nguyen
+    - email: tsomorli@buffalo.edu
+      name: Tsomorlig Khishigbold
+    title: Caddisfly
 - code: CSE 555 Pattern recognition
   projects:
   - description: Interpreting Diffusion Models with DAAM
@@ -240,6 +381,18 @@
     - email: liyuezha@buffalo.edu
       name: Liyue Zhang
     title: Group 15, Project 1
+- code: 'CSE 555: Introduction to Pattern Recognition '
+  projects:
+  - description: "Use the deep generative models\u2019 site that includes VAE and\
+      \ diffusion to build a controlled comparison on the small CIFAR-10 dataset provided.\
+      \ Ask which model reconstructs best, which samples best, and which is easiest\
+      \ to train. That makes a very clean course project paper."
+    team:
+    - email: dsgulvin@buffalo.edu
+      name: Daniel Gulvin
+    - email: rajvirsi@buffalo.edu
+      name: Rajvir Singh
+    title: VAE vs Diffusion on the Same Dataset
 - code: CSE 587
   projects:
   - description: This project focuses on analyzing and predicting flight delays using
@@ -275,6 +428,136 @@
     - email: deepeshc@buffalo.edu
       name: Deepesh Chhetri
     title: Spotify_Music_Analysis
+  - description: Using big data analytics to predict NYC yellow taxi trip duration
+      and fare anomalies
+    team:
+    - email: ngable@buffalo.edu
+      name: Nathan
+    - email: souradee@buffalo.edu
+      name: Souradeep
+    - email: ksaggam@buffalo.edu
+      name: Kalyan
+    title: Predicting NYC Yellow Taxi Trip Duration and Detecting Fare Anomalies Using
+      Big Data Analytics
+  - description: 'The objective of this project is to build an end-to-end big data
+      pipeline to analyze Major League Baseball (MLB) player performances, their compensation,
+      and predict their future offensive output. This problem falls under the sports
+      analytics and finance domain. In professional sports, teams spend hundreds of
+      millions of dollars building rosters. Understanding whether a player''s current
+      on-field statistics, age, and physical traits can accurately forecast their
+      next-season performance is critical for building a cost-effective, winning team.
+
+      The primary stakeholders who would benefit from this analysis include MLB team
+      general managers (for contract negotiations and predicting future decline/growth),
+      sports scouts, and fantasy baseball enthusiasts seeking data-driven insights
+      for drafts.'
+    team:
+    - email: prahithd@buffalo.edu
+      name: Prahith Dasari
+    - email: sabirtha@buffalo.edu
+      name: Sabir Thapa
+    title: Exploratory Analysis of MLB Player Performance and Salary
+  - description: A big data approach to mapping dominant tree species across patches
+      of the Roosevelt National Forest using only low-cost cartographic variables
+      (elevation, slope, soil, hydrology), built on a Hadoop/HDFS pipeline with classification,
+      clustering, and regression analyses.
+    team:
+    - email: ziqingch@buffalo.edu
+      name: Ziqing Chang
+    - email: kairuish@buffalo.edu
+      name: Kairui Shi
+    - email: yixinwu@buffalo.edu
+      name: Yixin Wu
+    title: 'TreeMap: Predicting Forest Cover from the Ground Up'
+  - description: Diabetes is a common chronic disease in the United States and creates
+      a major burden for individuals and the healthcare system. This project analyzes
+      the BRFSS 2015 dataset to explore the relationship between health indicators
+      and diabetes risk. Using data analysis and machine learning, we aim to identify
+      important risk factors and build models to predict diabetes or prediabetes based
+      on survey responses.
+    team:
+    - email: protyayd@buffalo.edu
+      name: Protyay Dey
+    - email: meihuanl@buffalo.edu
+      name: Meihuan Liu
+    - email: wzhou37@buffalo.edu
+      name: Wenyan Zhou
+    title: Machine Learning-Based Risk Prediction and Analysis of Diabetes
+- code: 'CSE 587: Data Intensive Computeing'
+  projects:
+  - description: 'The objective of this project is to build an end-to-end big data
+      pipeline to analyze Major League Baseball (MLB) player performances, their compensation,
+      and predict their future offensive output. This problem falls under the sports
+      analytics and finance domain. In professional sports, teams spend hundreds of
+      millions of dollars building rosters. Understanding whether a player''s current
+      on-field statistics, age, and physical traits can accurately forecast their
+      next-season performance is critical for building a cost-effective, winning team.
+
+      The primary stakeholders who would benefit from this analysis include MLB team
+      general managers (for contract negotiations and predicting future decline/growth),
+      sports scouts, and fantasy baseball enthusiasts seeking data-driven insights
+      for drafts.
+
+      '
+    team:
+    - email: prahitd@buffalo.edu
+      name: Prahith Desari
+    - email: sabirtha@buffalo.edu
+      name: Sabir Thapa
+    title: Exploratory Analysis of MLB Player Performance and Salary
+- code: 'CSE 587: Data Intensive Computing'
+  projects:
+  - description: Semester project. We performed exploratory data analysis, linear
+      regression, and gradient boosted decision trees based on a Kaggle dataset to
+      obtain regression models of car selling price and Manheim Market Report.
+    team:
+    - email: malin2@buffalo.edu
+      name: Michael Lin
+    - email: jliang65@buffalo.edu
+      name: Jiadong Liang
+    - email: vilsonzh@buffalo.edu
+      name: Vilson Zheng
+    title: Predicting Car Sales Prices with PySpark/Group 21
+  - description: It is a project that uses customer data to identify which users are
+      likely to stop purchasing from an online platform. It analyses shopping behaviour
+      (like purchase frequency and browsing patterns) along with lifestyle factors
+      (such as demographics and interests).
+    team:
+    - email: amithach@buffalo.edu
+      name: Amitha Chowdhary Nandina
+    - email: tripuras@buffalo.edu
+      name: Tripura Sindhu Nadimpalli
+    - email: pparuchu@buffalo.edu
+      name: Priyanka Paruchuri
+    title: Prediction of Customer Churn in E-commerce Using Shopper Behavior and Lifestyle
+      Information
+  - description: This project analyzes a large-scale online retail transaction dataset
+      to understand customer purchase behavior, sales concentration, transaction value
+      patterns, product demand, and time-based purchasing trends.
+    team:
+    - email: arajesh6@buffalo.edu
+      name: Akshay Rajesh
+    - email: averma26@buffalo.edu
+      name: Aaditya Verma
+    title: 'Customer Purchase Behavior and Sales Pattern Analysis '
+  - description: 'The objective of this project is to build an end-to-end big data
+      pipeline to analyze Major League Baseball (MLB) player performances, their compensation,
+      and predict their future offensive output. This problem falls under the sports
+      analytics and finance domain. In professional sports, teams spend hundreds of
+      millions of dollars building rosters. Understanding whether a player''s current
+      on-field statistics, age, and physical traits can accurately forecast their
+      next-season performance is critical for building a cost-effective, winning team.
+
+      The primary stakeholders who would benefit from this analysis include MLB team
+      general managers (for contract negotiations and predicting future decline/growth),
+      sports scouts, and fantasy baseball enthusiasts seeking data-driven insights
+      for drafts.'
+    team:
+    - email: prahithd@buffalo.edu
+      name: Prahith Dasari
+    - email: sabirtha@buffalo.edu
+      name: Sabir Thapa
+    title: Exploratory Analysis of MLB Player Performance and Salary
 - code: 'CSE 611: Master''s Capstone Project'
   projects:
   - description: CodeSense is an AI-driven code analysis and developer assistance
@@ -389,6 +672,14 @@
     - email: vishalki@buffalo.edu
       name: Vishal Kishore Kumar
     title: Floe Field Data Management Platform
+- code: CSE 676 Course Project
+  projects:
+  - description: 'CSE 676 Course Project. Fighting Shortcut Learning in Waterbirds:
+      Loss-Guided and Saliency-Guided Robustness Attempts'
+    team:
+    - email: kundansa@buffalo.edu
+      name: Kundan Nanubala
+    title: Dream Project II
 - code: 'CSE 676: Deep Learning'
   projects:
   - description: Our project is about creating a deep learning model that can accurately
@@ -424,6 +715,29 @@
     - email: ha33@buffalo.edu
       name: Harshit Agrawal
     title: Next-Gen Autonomous Vehicle Scenario Generation using LLMs
+- code: CSE Research Track Project (CSE 799)
+  projects:
+  - description: 'People who rely on Augmentative and Alternative Communication devices
+      to speak face a fundamental problem: existing AI systems can generate fluent
+      responses, but those responses don''t sound like them. They borrow a voice rather
+      than preserve one.
+
+      SPICA addresses this by introducing an agentic orchestration layer that dynamically
+      indexes a user''s personal data, including journals, call logs, and social posts,
+      into a structured knowledge base, and retrieves the most relevant context at
+      conversation time to generate responses that reflect the user''s actual identity,
+      tone, and preferences. No model retraining required. We validated the system
+      across 205 synthetic AAC user profiles and a live study with a real AAC user,
+      achieving 22% improvement in factual groundedness and 30% reduction in hallucination
+      over baseline LLMs, while keeping response latency under 12 seconds, within
+      practical AAC usability thresholds. The result is a system that makes communication
+      faster, more authentic, and more personal for users who have historically had
+      to settle for generic.'
+    team:
+    - email: nmurali3@buffalo.edu
+      name: name1
+    title: 'SPICA: Scalable and Personalized Conversational Agent Framework for AAC
+      Users'
 - code: CSE-711
   projects:
   - description: 'Wireless sensing has been widely studied for its applications in
@@ -477,6 +791,17 @@
     - email: jlt38@buffalo.edu
       name: name2
     title: WiFi CSI Gesture Quality Recognition
+- code: CSE587 - Data Intensive Computing
+  projects:
+  - description: Flight Delay Analysis Based on US Flight Delay Dataset
+    team:
+    - email: sugheert@buffalo.edu
+      name: Sugheerth Sreedharan
+    - email: Hyeon Yoo@buffalo.edu
+      name: Ji
+    - email: jagadesw@buffalo.edu
+      name: Pavan Varma Pothuri
+    title: Flight Delay Analysis
 - code: Independent Study / Research
   projects:
   - description: Instagram post comments scraper, with self-correcting capabilities
@@ -712,27 +1037,35 @@
     - email: adhakal2@buffalo.edu
       name: Aashish Dhakal
     title: Vibe Design Assistant
-- code: 'CSE 555: Introduction to Pattern Recognition '
-  projects:
-  - description: "Use the deep generative models\u2019 site that includes VAE and\
-      \ diffusion to build a controlled comparison on the small CIFAR-10 dataset provided.\
-      \ Ask which model reconstructs best, which samples best, and which is easiest\
-      \ to train. That makes a very clean course project paper."
+  - description: This project aims to explore better CLIP-guided scoring methods to
+      evaluate the discriminative information contained in local candidate regions
+      generated by either SAM masks or random crops, thereby helping distinguish visually
+      similar categories and improve fine-grained classification performance.
     team:
-    - email: dsgulvin@buffalo.edu
-      name: Daniel Gulvin
-    - email: rajvirsi@buffalo.edu
-      name: Rajvir Singh
-    title: VAE vs Diffusion on the Same Dataset
-- code: '474'
-  projects:
-  - description: 'A custom ML model trained on thousands of yoga images. The model
-      detects your joints and will tell you the correctness of the pose and give the
-      user suggestions on how to fix the pose to be more accurate. '
+    - email: yzhu68@buffalo.edu
+      name: Yujie Zhu
+    title: CLIP-Guided Discriminative Region Scoring for Fine-Grained Classification
+  - description: Draupnir is a datalog engine that that draws on group-/ring-theoretic
+      provenance models to scale to large datalog workloads on commodity hardware.
     team:
-    - email: pklair@buffalo.edu
-      name: Prince Klair
-    - email: milindku@buffalo.edu
-      name: Milind Kumar
-    title: Yoga AI
+    - email: ecanton@buffalo.edu
+      name: Ethan Canton
+    - email: ajmikals@buffalo.edu
+      name: Andrew Mikalsen
+    - email: kamilwos@buffalo.edu
+      name: Kamil Woskowiak
+    - email: sivakum3@buffalo.edu
+      name: Krishna Sivakumar
+    title: Draupnir
+  - description: Using MERFISH spatial transcriptomics, we profiled single-cell gene
+      expression in the mouse anterior thalamic nucleus (ATN) across four learning
+      timepoints in young and aged mice. We identified baseline transcriptomic differences
+      between young and aged ATN, characterized learning-associated gene expression
+      patterns, and discovered candidate genes whose learning-induced transcriptional
+      responses are selectively disrupted by aging, providing molecular targets for
+      understanding age-related cognitive decline.
+    team:
+    - email: xzhao59@buffalo.edu
+      name: Xiang Zhao
+    title: 'Advisor: Shamsad Parvin/Dheeraj Roy'
 
