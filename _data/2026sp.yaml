@@ -1,4 +1,4 @@
-- code: '474'
+- code: CSE 474
   projects:
   - description: 'A custom ML model trained on thousands of yoga images. The model
       detects your joints and will tell you the correctness of the pose and give the
@@ -9,31 +9,46 @@
     - email: milindku@buffalo.edu
       name: Milind Kumar
     title: Yoga AI
-- code: 676 Deep Learning Final Project
+- code: Club (Make Open Source)
   projects:
-  - description: 'Peptide and protein identification from tandem mass spectrometry
-      (MS/MS) data is a central problem in proteomics. Database searching is a widely
-      popular approach to solve this problem by matching observed spectra against
-      a set of peptide sequences contained in a reference protein database. This approach
-      is good for samples for which there is sufficient representation in the reference
-      database. However, for complex biological samples, there may be proteins of
-      unknown or poorly characterized or underrepresented species.
-
-      This is particularly critical for wastewater samples, as wastewater may contain
-      proteins from microorganisms, human sources, and environmental sources, many
-      of which may not be well represented in reference databases. Therefore, a de
-      novo approach to sequencing may be helpful, as it can predict peptide sequences
-      based on spectra without relying on a reference database.'
+  - description: Flappy Bird VR is a in progress flappy bird game built in Unreal
+      Engine for the Meta VR Headset.
     team:
-    - email: rpandey3@buffalo.edu
-      name: Raunak Kumar Pandey
-    - email: swatisan@buffalo.edu
-      name: Swati Sanjay Bhat
-    - email: litheesh@buffalo.edu
-      name: Litheesh Velakaturi Rambabu
-    title: E. coli and Wastewater peptide sequencing using de novo tools
+    - email: kjstone2@buffalo.edu
+      name: Kevin Stone
+    - email: jbcarras@buffalo.edu
+      name: Jack Carrasquillo
+    - email: amgannon@buffalo.edu
+      name: Alyssa Gannon
+    - email: Obaidi@buffalo.edu
+      name: Mariam Al
+    - email: eifreema@buffalo.edu
+      name: Eliana Freeman
+    title: Flappy Bird VR
+  - description: Make Office Hours is an office hours queue system put into use for
+      CSE 116 that uses a card reader and has potential for further class implementations.
+    team:
+    - email: jbcarras@buffalo.edu
+      name: Jack Carrasquillo
+    - email: amgannon@buffalo.edu
+      name: Alyssa Gannon
+    - email: Obaidi@buffalo.edu
+      name: Mariam Al
+    - email: zpullmey@buffalo.edu
+      name: Zachary Ullmeyer
+    title: Make Office Hours (MOH)
 - code: CSE 302/303/402
   projects:
+  - description: A multi-device encrypted storage system where the decryption key
+      is split across user-owned devices, so no single device holds the full key.
+    team:
+    - email: sehejchh@buffalo.edu
+      name: name1
+    - email: amralbak@buffalo.edu
+      name: name2
+    - email: dli69@buffalo.edu
+      name: name3
+    title: Encrypted Storage
   - description: A web-based marketplace that connects customers with local service
       providers for scheduling, invoicing, and job management, built to give small
       businesses the tools of a large enterprise, without the cost or complexity.
@@ -54,6 +69,43 @@
     - email: ariaorni@buffalo.edu
       name: Aria Orni
     title: Unfold Studio
+  - description: A scalable LED video wall constructed from a series of LED matrices
+      and microcontrollers, capable of rendering images, videos, live streams, webpages,
+      and other configurable elements.
+    team:
+    - email: peterlil@buffalo.edu
+      name: Peter Lilley
+    title: Scalable LED Video Wall
+  - description: This project is the world's first functional choreographic programming
+      language that is provably deadlock free. The compiler is written in OCaml by
+      a team of undergraduates and has been in development since 2023. It is used
+      for writing distributed systems and takes advantage of higher order logic to
+      make the language easier to reason about than traditional methods.
+    team:
+    - email: sjcarril@buffalo.edu
+      name: Sam Carrillo
+    - email: Ahuja@buffalo.edu
+      name: Julia Montuori
+    - email: japarke@buffalo.edu
+      name: Jacqueline Parke
+    - email: owencava@buffalo.edu
+      name: Owen Cavanaugh
+    - email: seangayg@buffalo.edu
+      name: Sean Gaygen
+    title: Pirouette
+  - description: 'AI Energy Optimization''s project serves to be one step in the goal
+      for optimizing the energy being consumed during the training of LLMs. The Application
+      allows for users to select AI models and how their configured during training,
+      so that they can view a report card of the energy being consumed during the
+      training process. '
+    team:
+    - email: lanxinxi@buffalo.edu
+      name: Lindsey Xiao
+    - email: mlabibah@buffalo.edu
+      name: Labib Ahsan
+    - email: ayaantar@buffalo.edu
+      name: Ayaan Tariq
+    title: 'AI Energy Optimization '
   - description: 'The UBHacking CMS platform adds tools for the organizers of UB''s
       Hackathon to efficiently manage registrations, check-ins, communications, team
       generation, user roles, and logistics without requiring technical expertise.
@@ -72,67 +124,39 @@
     - email: hoangbui@buffalo.edu
       name: Hoang Le Minh Bui
     title: UBHacking CMS
-  - description: 'AI Energy Optimization''s project serves to be one step in the goal
-      for optimizing the energy being consumed during the training of LLMs. The Application
-      allows for users to select AI models and how their configured during training,
-      so that they can view a report card of the energy being consumed during the
-      training process. '
-    team:
-    - email: lanxinxi@buffalo.edu
-      name: Lindsey Xiao
-    - email: mlabibah@buffalo.edu
-      name: Labib Ahsan
-    - email: ayaantar@buffalo.edu
-      name: Ayaan Tariq
-    title: 'AI Energy Optimization '
-  - description: This project is the world's first functional choreographic programming
-      language that is provably deadlock free. The compiler is written in OCaml by
-      a team of undergraduates and has been in development since 2023. It is used
-      for writing distributed systems and takes advantage of higher order logic to
-      make the language easier to reason about than traditional methods.
-    team:
-    - email: sjcarril@buffalo.edu
-      name: Sam Carrillo
-    - email: Ahuja@buffalo.edu
-      name: Julia Montuori
-    - email: japarke@buffalo.edu
-      name: Jacqueline Parke
-    - email: owencava@buffalo.edu
-      name: Owen Cavanaugh
-    - email: seangayg@buffalo.edu
-      name: Sean Gaygen
-    title: Pirouette
-  - description: A scalable LED video wall constructed from a series of LED matrices
-      and microcontrollers, capable of rendering images, videos, live streams, webpages,
-      and other configurable elements.
-    team:
-    - email: peterlil@buffalo.edu
-      name: Peter Lilley
-    title: Scalable LED Video Wall
-  - description: A multi-device encrypted storage system where the decryption key
-      is split across user-owned devices, so no single device holds the full key.
-    team:
-    - email: sehejchh@buffalo.edu
-      name: name1
-    - email: amralbak@buffalo.edu
-      name: name2
-    - email: dli69@buffalo.edu
-      name: name3
-    title: Encrypted Storage
 - code: 'CSE 370: UI/UX'
   projects:
-  - description: A social media platform tailored for book lovers including unique
-      aspects which make it different from other media on the market today.
+  - description: A social media web application with the objective to be the premier
+      community driven platform. This app allows users to bond over each other's opinions
+      through various user interactions such as posts, ratings, rankings, polls, and
+      media.
     team:
-    - email: tbyrd2@buffalo.edu
-      name: Tatiana Byrd
-    - email: emmapawl@buffalo.edu
-      name: E.B Pawlak
-    - email: gareagan@buffalo.edu
-      name: George Reagan
-    - email: kadenbic@buffalo.edu
-      name: Kaden Bickford
-    title: UBEES / BOOKCLUB
+    - email: cjc48@buffalo.edu
+      name: Cameron Carlson
+    - email: bjw24@buffalo.edu
+      name: Brigid Walker
+    - email: manjarre@buffalo.edu
+      name: Jillian Manjarrez Guerrero
+    - email: hzhu29@buffalo.edu
+      name: Helen Zhu
+    - email: jackmazz@buffalo.edu
+      name: Jack Mazzella
+    title: Goat Kids
+  - description: 'To create close-knit communities for people through specific groups\
+      Project Description: The app will have the ability for a user to join different
+      groups based on a hobby or interest. When they navigate to one of these groups,
+      they will be taken to a feed of posts by other members of the group. The application
+      will be focused on helping people make connections in smaller, close-knit circles
+      of people. It will have lots of customization to allow the user to make their
+      page look how they want. There will be an interactive mascot in the form of
+      a wizard-duck, that will have different reactions based on how the user navigates
+      through the website'
+    team:
+    - email: shaneswo@buffalo.edu
+      name: Shane
+    - email: ravenbar@buffalo.edu
+      name: Raven
+    title: 9Syner9y
   - description: 'REAL is a non-traditional dating application that redefines how
       people form connections by prioritizing authenticity over curated perfection.
       Inspired by elements of BeReal and Hinge, the platform blends real-time, candid
@@ -158,22 +182,18 @@
     - email: waheedsa@buffalo.edu
       name: Waheed Saroyia
     title: REAL
-  - description: A social media web application with the objective to be the premier
-      community driven platform. This app allows users to bond over each other's opinions
-      through various user interactions such as posts, ratings, rankings, polls, and
-      media.
+  - description: A social media platform tailored for book lovers including unique
+      aspects which make it different from other media on the market today.
     team:
-    - email: cjc48@buffalo.edu
-      name: Cameron Carlson
-    - email: bjw24@buffalo.edu
-      name: Brigid Walker
-    - email: manjarre@buffalo.edu
-      name: Jillian Manjarrez Guerrero
-    - email: hzhu29@buffalo.edu
-      name: Helen Zhu
-    - email: jackmazz@buffalo.edu
-      name: Jack Mazzella
-    title: Goat Kids
+    - email: tbyrd2@buffalo.edu
+      name: Tatiana Byrd
+    - email: emmapawl@buffalo.edu
+      name: E.B Pawlak
+    - email: gareagan@buffalo.edu
+      name: George Reagan
+    - email: kadenbic@buffalo.edu
+      name: Kaden Bickford
+    title: UBEES / BOOKCLUB
   - description: "Personally is a journaling and emotional wellness website designed\
       \ to help users reflect, connect, and feel supported in a more personal way.\
       \ The platform allows users to create journal posts with topic tags, daily prompts,\
@@ -197,21 +217,6 @@
     - email: cjung6@buffalo.edu
       name: Christopher jung
     title: 'Project name : Personally , Group name : Merge Conflict'
-  - description: 'To create close-knit communities for people through specific groups\
-      Project Description: The app will have the ability for a user to join different
-      groups based on a hobby or interest. When they navigate to one of these groups,
-      they will be taken to a feed of posts by other members of the group. The application
-      will be focused on helping people make connections in smaller, close-knit circles
-      of people. It will have lots of customization to allow the user to make their
-      page look how they want. There will be an interactive mascot in the form of
-      a wizard-duck, that will have different reactions based on how the user navigates
-      through the website'
-    team:
-    - email: shaneswo@buffalo.edu
-      name: Shane
-    - email: ravenbar@buffalo.edu
-      name: Raven
-    title: 9Syner9y
 - code: CSE 4/555 Intro to Patern Recognition
   projects:
   - description: 'EMOCA focuses on emotional 3D face reconstruction, and its page
@@ -226,28 +231,65 @@
     title: Emotion-Aware Face Modeling with EMOCA
 - code: 'CSE 420 : Game Design'
   projects:
-  - description: Let Me Out is a First Person Horror game, where you play as a character
-      that has been kidnapped by an unknown entity. You wake up in an abandoned hospital
-      and try to maneuver you way through, and escape. However, the hospital isn't
-      a normal one, as their are different paranormal beings roaming the facility.
-      As you progress through you realize there have been others before you; but they
-      are no longer with us. Fortunately, they left some clues around to help you
-      the next victims trapped (you).
+  - description: A game of a wizard with no magic powers but has his fists and legs
     team:
-    - email: jabrelza@buffalo.edu
-      name: Jabr Elzahiri
-    - email: msperciv@buffalo.edu
-      name: Michael Percival
-    title: Let ME Out
-  - description: A mix of a dungeon crawler and a rhythm game.
+    - email: adamquez@buffalo.edu
+      name: 1. Adam
+    title: Magic and Muscle
+  - description: 'An RPG dungeon fighting game where you spawn in a randomly generated
+      dungeon, defeat the enemies to progress through the dungeon and fight the boss
+      at the end of the dungeon! The project includes spells, a health and mana system,
+      an inventory system, a quest system,  a minimap, tutorials, and main menu with
+      adjustable settings.
+
+
+      This project was worked on Jonathan Wu, Lichang Zhang, and Andrew Lin-Wu throughout
+      the semester for the CSE420 class.'
     team:
-    - email: ndberg@buffalo.edu
-      name: Nathaniel Berg
-    - email: ryandai@buffalo.edu
-      name: Ryan Dai
-    - email: indigoha@buffalo.edu
-      name: Indigo Hawk
-    title: Friday Night at the Disco Tomb
+    - email: jwu278@buffalo.edu
+      name: Jonathan Wu
+    - email: lichangz@buffalo.edu
+      name: Lichang Zhang
+    - email: Wu@buffalo.edu
+      name: Andrew Lin
+    title: RPG Game For CSE420
+  - description: 'A game based on stat builders and dice rolling. The focus is on
+      trying to build up a character card to make your dice rolling as strong as possible. '
+    team:
+    - email: aqian@buffalo.edu
+      name: Name1
+    - email: aaravsai@buffalo.edu
+      name: Name2
+    - email: wlin87@buffalo.edu
+      name: Name3
+    title: Dice Roll On
+  - description: A survival horror game for PC where the player is tasked with escaping
+      from a monster in the "Lurkwood" Library (loosely based on UB's Lockwood Library).
+      The game includes multiple floors the player must traverse, along with items
+      they must equip along the way, in order to successfully escape.
+    team:
+    - email: awgarofa@buffalo.edu
+      name: Anthony Garofalo
+    - email: maaziz@buffalo.edu
+      name: Abdul Aziz
+    - email: jecortes@buffalo.edu
+      name: Jose Cortes
+    - email: sailiaon@buffalo.edu
+      name: Leon Aon
+    title: Escape Lurkwood
+  - description: A single player game where the player has to survive endless hoards
+      of undead. The player uses spells and upgrades to make themselves stronger in
+      order to survive as long as they can and beat personal high scores.
+    team:
+    - email: jzchen4@buffalo.edu
+      name: Julian
+    - email: calvinla@buffalo.edu
+      name: Calvin
+    - email: bmwyntje@buffalo.edu
+      name: Brian
+    - email: jackmazz@buffalo.edu
+      name: Jack
+    title: Necrosis
   - description: 'Punch Shot Golf is a golf platformer game developed using Unreal
       Engine 5 for the course CSE420 '
     team:
@@ -270,57 +312,6 @@
     - email: kofileon@buffalo.edu
       name: Kofi Leong
     title: Dungeon & Live
-  - description: A survival horror game for PC where the player is tasked with escaping
-      from a monster in the "Lurkwood" Library (loosely based on UB's Lockwood Library).
-      The game includes multiple floors the player must traverse, along with items
-      they must equip along the way, in order to successfully escape.
-    team:
-    - email: awgarofa@buffalo.edu
-      name: Anthony Garofalo
-    - email: maaziz@buffalo.edu
-      name: Abdul Aziz
-    - email: jecortes@buffalo.edu
-      name: Jose Cortes
-    - email: sailiaon@buffalo.edu
-      name: Leon Aon
-    title: Escape Lurkwood
-  - description: 'An unreal engine 5.7 project/game where you fight off zombies and
-      survive. '
-    team:
-    - email: hanwendo@buffalo.edu
-      name: Hanwen Dong
-    - email: mdhussai@buffalo.edu
-      name: Md Hussain
-    - email: qijiewu@buffalo.edu
-      name: Qijie Wu
-    - email: zzhong5@buffalo.edu
-      name: Zhiwei Zhong
-    title: Mindless-Sector
-  - description: A single player game where the player has to survive endless hoards
-      of undead. The player uses spells and upgrades to make themselves stronger in
-      order to survive as long as they can and beat personal high scores.
-    team:
-    - email: jzchen4@buffalo.edu
-      name: Julian
-    - email: calvinla@buffalo.edu
-      name: Calvin
-    - email: bmwyntje@buffalo.edu
-      name: Brian
-    - email: jackmazz@buffalo.edu
-      name: Jack
-    title: Necrosis
-  - description: Multiplayer 3D Racing Game
-    team:
-    - email: ajw58@buffalo.edu
-      name: Aiden Walker
-    - email: warauch@buffalo.edu
-      name: Liam Rauch
-    title: Street Drifter
-  - description: A game of a wizard with no magic powers but has his fists and legs
-    team:
-    - email: adamquez@buffalo.edu
-      name: 1. Adam
-    title: Magic and Muscle
   - description: Static is a single-player psychological horror game made in Unreal
       Engine 5. The player wakes up in a strange building with no memory, guided only
       by a handheld radio. What starts as simple instructions slowly becomes more
@@ -346,16 +337,47 @@
     - email: jmcox3@buffalo.edu
       name: Juliette Cox
     title: 'Buggin'' Around '
-  - description: 'A game based on stat builders and dice rolling. The focus is on
-      trying to build up a character card to make your dice rolling as strong as possible. '
+  - description: 'An unreal engine 5.7 project/game where you fight off zombies and
+      survive. '
     team:
-    - email: aqian@buffalo.edu
-      name: Name1
-    - email: aaravsai@buffalo.edu
-      name: Name2
-    - email: wlin87@buffalo.edu
-      name: Name3
-    title: Dice Roll On
+    - email: hanwendo@buffalo.edu
+      name: Hanwen Dong
+    - email: mdhussai@buffalo.edu
+      name: Md Hussain
+    - email: qijiewu@buffalo.edu
+      name: Qijie Wu
+    - email: zzhong5@buffalo.edu
+      name: Zhiwei Zhong
+    title: Mindless-Sector
+  - description: Let Me Out is a First Person Horror game, where you play as a character
+      that has been kidnapped by an unknown entity. You wake up in an abandoned hospital
+      and try to maneuver you way through, and escape. However, the hospital isn't
+      a normal one, as their are different paranormal beings roaming the facility.
+      As you progress through you realize there have been others before you; but they
+      are no longer with us. Fortunately, they left some clues around to help you
+      the next victims trapped (you).
+    team:
+    - email: jabrelza@buffalo.edu
+      name: Jabr Elzahiri
+    - email: msperciv@buffalo.edu
+      name: Michael Percival
+    title: Let ME Out
+  - description: Multiplayer 3D Racing Game
+    team:
+    - email: ajw58@buffalo.edu
+      name: Aiden Walker
+    - email: warauch@buffalo.edu
+      name: Liam Rauch
+    title: Street Drifter
+  - description: A mix of a dungeon crawler and a rhythm game.
+    team:
+    - email: ndberg@buffalo.edu
+      name: Nathaniel Berg
+    - email: ryandai@buffalo.edu
+      name: Ryan Dai
+    - email: indigoha@buffalo.edu
+      name: Indigo Hawk
+    title: Friday Night at the Disco Tomb
   - description: "RoboGoose is a fast paced action game built in Unreal Engine, where\
       \ you play as a time traveling goose inspired by The Terminator, sent back to\
       \ stop the creation of the world\u2019s first nuclear loaf. Armed with high\
@@ -371,25 +393,14 @@
     - email: ngmedina@buffalo.edu
       name: Nicholas Medina
     title: RoboGoose the Game
-  - description: 'An RPG dungeon fighting game where you spawn in a randomly generated
-      dungeon, defeat the enemies to progress through the dungeon and fight the boss
-      at the end of the dungeon! The project includes spells, a health and mana system,
-      an inventory system, a quest system,  a minimap, tutorials, and main menu with
-      adjustable settings.
-
-
-      This project was worked on Jonathan Wu, Lichang Zhang, and Andrew Lin-Wu throughout
-      the semester for the CSE420 class.'
-    team:
-    - email: jwu278@buffalo.edu
-      name: Jonathan Wu
-    - email: lichangz@buffalo.edu
-      name: Lichang Zhang
-    - email: Wu@buffalo.edu
-      name: Andrew Lin
-    title: RPG Game For CSE420
 - code: 'CSE 442: Software Engineering'
   projects:
+  - description: Bullseye is a website that promotes competitive gambling amongst
+      other players
+    team:
+    - email: adamquez@buffalo.edu
+      name: 1. Adam
+    title: Bullseye
   - description: All In or Nothing creates a fun and accessible online space where
       users can enjoy casino style games, digital currency, and collect or trade virtual
       items. All In or Nothing blends gambling, collecting and social life into one
@@ -439,12 +450,6 @@
     - email: psangam@buffalo.edu
       name: Prerana Sangam
     title: FixFlow
-  - description: Bullseye is a website that promotes competitive gambling amongst
-      other players
-    team:
-    - email: adamquez@buffalo.edu
-      name: 1. Adam
-    title: Bullseye
   - description: "We are all-in-one platform designed to monitor the spread of livestock\
       \ diseases such as swine flu, bluetongue, and more. By aggregating fragmented\
       \ data from sources like the CDC, WHO, and user reports, the platform enables\
@@ -464,24 +469,6 @@
     title: Livestock Epidemic Tracker
 - code: 'CSE 546: Reinforcement Learning'
   projects:
-  - description: We built an automated pipeline to train a flight booking AI using
-      Reinforcement Learning from AI Feedback (RLAIF). In this setup, our fine-tuned
-      Mistral-7B agent practices negotiating with a simulated customer, generating
-      multiple potential conversational pathways for every scenario. A strict AI judge
-      then evaluates these transcripts, calculating a precise reward score by checking
-      for successful bookings and heavily penalizing hallucinations. Finally, the
-      pipeline uses a Best reinforcement learning strategy to compare these reward
-      scores, saving only the most successful interaction to continuously improve
-      the model's baseline behavior.
-    team:
-    - email: sa69@buffalo.edu
-      name: Shubham Kumar Agrawal
-    - email: ryadav4@buffalo.edu
-      name: Rahul Yadav
-    - email: vshinde@buffalo.edu
-      name: Vedant Shinde
-    title: Multi-agent RLAIF and User Simulations for Goal-Oriented Dialogue using
-      PPO/ Team -12
   - description: A Reinforcement Learning based dynamic digital tutor for K-12 students
       with ADHD behavior traits
     team:
@@ -501,6 +488,24 @@
     - email: vmuthaia@buffalo.edu
       name: Vishal Ravi Muthaiah
     title: Project 10
+  - description: We built an automated pipeline to train a flight booking AI using
+      Reinforcement Learning from AI Feedback (RLAIF). In this setup, our fine-tuned
+      Mistral-7B agent practices negotiating with a simulated customer, generating
+      multiple potential conversational pathways for every scenario. A strict AI judge
+      then evaluates these transcripts, calculating a precise reward score by checking
+      for successful bookings and heavily penalizing hallucinations. Finally, the
+      pipeline uses a Best reinforcement learning strategy to compare these reward
+      scores, saving only the most successful interaction to continuously improve
+      the model's baseline behavior.
+    team:
+    - email: sa69@buffalo.edu
+      name: Shubham Kumar Agrawal
+    - email: ryadav4@buffalo.edu
+      name: Rahul Yadav
+    - email: vshinde@buffalo.edu
+      name: Vedant Shinde
+    title: Multi-agent RLAIF and User Simulations for Goal-Oriented Dialogue using
+      PPO/ Team -12
 - code: CSE 555 Pattern recognition
   projects:
   - description: Interpreting Diffusion Models with DAAM
@@ -522,8 +527,28 @@
     - email: rajvirsi@buffalo.edu
       name: Rajvir Singh
     title: VAE vs Diffusion on the Same Dataset
-- code: CSE 587
+- code: CSE 573
   projects:
+  - description: An end-to-end satellite intelligence pipeline that uses Siamese Networks
+      for SAR-based change detection and YOLO for military asset classification in
+      aerial imagery.
+    team:
+    - email: smotte@buffalo.edu
+      name: Sashidhar Motte
+    - email: singh88@buffalo.edu
+      name: Aditya Raj Singh
+    title: DarkWatch
+- code: 'CSE 587: Data Intensive Computing'
+  projects:
+  - description: Predicting NYC Taxi Trip Duration using Big Data Analytics
+    team:
+    - email: mwaseem@buffalo.edu
+      name: Muhammad Ahmad Waseem
+    - email: rajsekar@buffalo.edu
+      name: Rajsekar Balaji
+    - email: vgaddam@buffalo.edu
+      name: Venkata Ramireddy Gaddam
+    title: Group 11
   - description: This project focuses on analyzing and predicting flight delays using
       a dataset containing various flight attributes such as departure times, arrival
       times, and other relevant factors. The dataset was first cleaned and preprocessed
@@ -538,15 +563,6 @@
     - email: dsgulvin@buffalo.edu
       name: Daniel Gulvin
     title: Flight Delay Prediction and Analysis
-  - description: Predicting NYC Taxi Trip Duration using Big Data Analytics
-    team:
-    - email: mwaseem@buffalo.edu
-      name: Muhammad Ahmad Waseem
-    - email: rajsekar@buffalo.edu
-      name: Rajsekar Balaji
-    - email: vgaddam@buffalo.edu
-      name: Venkata Ramireddy Gaddam
-    title: Group 11
   - description: PySpark-based Spotify analysis project, covering regression, classification,
       clustering, and six data analysis objectives using HDFS data.
     team:
@@ -557,61 +573,6 @@
     - email: deepeshc@buffalo.edu
       name: Deepesh Chhetri
     title: Spotify_Music_Analysis
-  - description: Using big data analytics to predict NYC yellow taxi trip duration
-      and fare anomalies
-    team:
-    - email: ngable@buffalo.edu
-      name: Nathan
-    - email: souradee@buffalo.edu
-      name: Souradeep
-    - email: ksaggam@buffalo.edu
-      name: Kalyan
-    title: Predicting NYC Yellow Taxi Trip Duration and Detecting Fare Anomalies Using
-      Big Data Analytics
-  - description: 'The objective of this project is to build an end-to-end big data
-      pipeline to analyze Major League Baseball (MLB) player performances, their compensation,
-      and predict their future offensive output. This problem falls under the sports
-      analytics and finance domain. In professional sports, teams spend hundreds of
-      millions of dollars building rosters. Understanding whether a player''s current
-      on-field statistics, age, and physical traits can accurately forecast their
-      next-season performance is critical for building a cost-effective, winning team.
-
-      The primary stakeholders who would benefit from this analysis include MLB team
-      general managers (for contract negotiations and predicting future decline/growth),
-      sports scouts, and fantasy baseball enthusiasts seeking data-driven insights
-      for drafts.'
-    team:
-    - email: prahithd@buffalo.edu
-      name: Prahith Dasari
-    - email: sabirtha@buffalo.edu
-      name: Sabir Thapa
-    title: Exploratory Analysis of MLB Player Performance and Salary
-  - description: A big data approach to mapping dominant tree species across patches
-      of the Roosevelt National Forest using only low-cost cartographic variables
-      (elevation, slope, soil, hydrology), built on a Hadoop/HDFS pipeline with classification,
-      clustering, and regression analyses.
-    team:
-    - email: ziqingch@buffalo.edu
-      name: Ziqing Chang
-    - email: kairuish@buffalo.edu
-      name: Kairui Shi
-    - email: yixinwu@buffalo.edu
-      name: Yixin Wu
-    title: 'TreeMap: Predicting Forest Cover from the Ground Up'
-  - description: Diabetes is a common chronic disease in the United States and creates
-      a major burden for individuals and the healthcare system. This project analyzes
-      the BRFSS 2015 dataset to explore the relationship between health indicators
-      and diabetes risk. Using data analysis and machine learning, we aim to identify
-      important risk factors and build models to predict diabetes or prediabetes based
-      on survey responses.
-    team:
-    - email: protyayd@buffalo.edu
-      name: Protyay Dey
-    - email: meihuanl@buffalo.edu
-      name: Meihuan Liu
-    - email: wzhou37@buffalo.edu
-      name: Wenyan Zhou
-    title: Machine Learning-Based Risk Prediction and Analysis of Diabetes
   - description: "This project analyzes S&P 500 daily stock data (2014\u20132017)\
       \ as an end-to-end big data workflow: raw data on HDFS, cleaning and EDA in\
       \ Python, then PySpark ML on the cleaned dataset\u2014Random Forest for next-day\
@@ -626,30 +587,52 @@
     - email: qwu26@buffalo.edu
       name: Qiang Wu
     title: 87thQuants
-- code: 'CSE 587: Data Intensive Computeing'
-  projects:
-  - description: 'The objective of this project is to build an end-to-end big data
-      pipeline to analyze Major League Baseball (MLB) player performances, their compensation,
-      and predict their future offensive output. This problem falls under the sports
-      analytics and finance domain. In professional sports, teams spend hundreds of
-      millions of dollars building rosters. Understanding whether a player''s current
-      on-field statistics, age, and physical traits can accurately forecast their
-      next-season performance is critical for building a cost-effective, winning team.
-
-      The primary stakeholders who would benefit from this analysis include MLB team
-      general managers (for contract negotiations and predicting future decline/growth),
-      sports scouts, and fantasy baseball enthusiasts seeking data-driven insights
-      for drafts.
-
-      '
+  - description: Diabetes is a common chronic disease in the United States and creates
+      a major burden for individuals and the healthcare system. This project analyzes
+      the BRFSS 2015 dataset to explore the relationship between health indicators
+      and diabetes risk. Using data analysis and machine learning, we aim to identify
+      important risk factors and build models to predict diabetes or prediabetes based
+      on survey responses.
     team:
-    - email: prahitd@buffalo.edu
-      name: Prahith Desari
-    - email: sabirtha@buffalo.edu
-      name: Sabir Thapa
-    title: Exploratory Analysis of MLB Player Performance and Salary
-- code: 'CSE 587: Data Intensive Computing'
-  projects:
+    - email: protyayd@buffalo.edu
+      name: Protyay Dey
+    - email: meihuanl@buffalo.edu
+      name: Meihuan Liu
+    - email: wzhou37@buffalo.edu
+      name: Wenyan Zhou
+    title: Machine Learning-Based Risk Prediction and Analysis of Diabetes
+  - description: Using big data analytics to predict NYC yellow taxi trip duration
+      and fare anomalies
+    team:
+    - email: ngable@buffalo.edu
+      name: Nathan
+    - email: souradee@buffalo.edu
+      name: Souradeep
+    - email: ksaggam@buffalo.edu
+      name: Kalyan
+    title: Predicting NYC Yellow Taxi Trip Duration and Detecting Fare Anomalies Using
+      Big Data Analytics
+  - description: A big data approach to mapping dominant tree species across patches
+      of the Roosevelt National Forest using only low-cost cartographic variables
+      (elevation, slope, soil, hydrology), built on a Hadoop/HDFS pipeline with classification,
+      clustering, and regression analyses.
+    team:
+    - email: ziqingch@buffalo.edu
+      name: Ziqing Chang
+    - email: kairuish@buffalo.edu
+      name: Kairui Shi
+    - email: yixinwu@buffalo.edu
+      name: Yixin Wu
+    title: 'TreeMap: Predicting Forest Cover from the Ground Up'
+  - description: This project analyzes a large-scale online retail transaction dataset
+      to understand customer purchase behavior, sales concentration, transaction value
+      patterns, product demand, and time-based purchasing trends.
+    team:
+    - email: arajesh6@buffalo.edu
+      name: Akshay Rajesh
+    - email: averma26@buffalo.edu
+      name: Aaditya Verma
+    title: 'Customer Purchase Behavior and Sales Pattern Analysis '
   - description: Semester project. We performed exploratory data analysis, linear
       regression, and gradient boosted decision trees based on a Kaggle dataset to
       obtain regression models of car selling price and Manheim Market Report.
@@ -674,15 +657,6 @@
       name: Priyanka Paruchuri
     title: Prediction of Customer Churn in E-commerce Using Shopper Behavior and Lifestyle
       Information
-  - description: This project analyzes a large-scale online retail transaction dataset
-      to understand customer purchase behavior, sales concentration, transaction value
-      patterns, product demand, and time-based purchasing trends.
-    team:
-    - email: arajesh6@buffalo.edu
-      name: Akshay Rajesh
-    - email: averma26@buffalo.edu
-      name: Aaditya Verma
-    title: 'Customer Purchase Behavior and Sales Pattern Analysis '
   - description: 'The objective of this project is to build an end-to-end big data
       pipeline to analyze Major League Baseball (MLB) player performances, their compensation,
       and predict their future offensive output. This problem falls under the sports
@@ -701,57 +675,8 @@
     - email: sabirtha@buffalo.edu
       name: Sabir Thapa
     title: Exploratory Analysis of MLB Player Performance and Salary
-- code: CSE 676
-  projects:
-  - description: CodeSense is an AI-driven code analysis and developer assistance
-      platform that combines static analysis with LLM-based reasoning to understand
-      code context, detect potential bugs, and suggest improvements. It processes
-      codebases to identify patterns, optimize performance, and assist developers
-      in debugging and decision-making, improving development efficiency and code
-      quality.
-    team:
-    - email: akashjag@buffalo.edu
-      name: name1
-    - email: dhvanigu@buffalo.edu
-      name: name2
-    - email: parthach@buffalo.edu
-      name: name3
-    title: CodeSense AI coding agent
-  - description: Employing Time series forecasting models on Yahoo Finance Dataset
-      for comprehensive financial analysis and prediction
-    team:
-    - email: pghosh4@buffalo.edu
-      name: Prateek Ghosh
-    - email: ishalbhu@buffalo.edu
-      name: Ishal Raut
-    - email: mannava@buffalo.edu
-      name: Keerthana Mannava
-    title: Temporal Financial Risk Modelling
-- code: CSE 635
-  projects:
-  - description: Multimodal AAC Chatbot is an AI-driven assistive communication system
-      that processes multimodal inputs (text, and optionally images/audio) to generate
-      context-aware responses for users with speech or language impairments. It integrates
-      LLM-based reasoning to enhance accessibility, enabling more natural and efficient
-      communication.
-    team:
-    - email: akashjag@buffalo.edu
-      name: name
-    - email: shwetang@buffalo.edu
-      name: name
-    title: Multimodal AAC chatbot
 - code: 'CSE 611: Master''s Capstone Project'
   projects:
-  - description: Use AI to help users find properties easier compared to the way people
-      are used to by enter hard filters.
-    team:
-    - email: chaseall@buffalo.edu
-      name: chase Allard
-    - email: lorenzop@buffalo.edu
-      name: Lorenzo Price
-    - email: aryankum@buffalo.edu
-      name: Aryan Kumar
-    title: AI Realestate/Offerwell
   - description: 'Developed Job board feature for the Safety Knights application. '
     team:
     - email: asawant5@buffalo.edu
@@ -765,6 +690,33 @@
     - email: anikethe@buffalo.edu
       name: Aniket Murkutkar
     title: SK Interns
+  - description: Field teams often rely on disconnected tools. This leads to fragmented
+      information, inefficient coordination, and limited visibility into field operations.
+      Our project addresses this problem by building a centralized field data management
+      platform for Floe that integrates accounts, orders, devices, media uploads,
+      notes, reports, reminders, role-based access control, and SMS-enabled communication
+      workflows. The platform provides a single source of truth that helps teams organize
+      field data, improve communication, and make faster operational decisions.
+    team:
+    - email: bandaru7@buffalo.edu
+      name: Vidhyadhari Bandaru
+    - email: vaikanpe@buffalo.edu
+      name: Vaikan Peddi
+    - email: knandiga@buffalo.edu
+      name: Krishna Kishore Nandigam
+    - email: vishalki@buffalo.edu
+      name: Vishal Kishore Kumar
+    title: Floe Field Data Management Platform
+  - description: Use AI to help users find properties easier compared to the way people
+      are used to by enter hard filters.
+    team:
+    - email: chaseall@buffalo.edu
+      name: chase Allard
+    - email: lorenzop@buffalo.edu
+      name: Lorenzo Price
+    - email: aryankum@buffalo.edu
+      name: Aryan Kumar
+    title: AI Realestate/Offerwell
   - description: "Look the Part\xAE is a fashion discovery service that aims to combine\
       \ entertainment and fashion by making it easier to bring on-screen style into\
       \ everyday life. Founded in 2019 by Lisa Cronin, Look the Part published its\
@@ -812,52 +764,133 @@
     - email: pkundaik@buffalo.edu
       name: Pranav Chandrahas Kundaikar
     title: AI-Powered Data Extraction System
-  - description: Field teams often rely on disconnected tools. This leads to fragmented
-      information, inefficient coordination, and limited visibility into field operations.
-      Our project addresses this problem by building a centralized field data management
-      platform for Floe that integrates accounts, orders, devices, media uploads,
-      notes, reports, reminders, role-based access control, and SMS-enabled communication
-      workflows. The platform provides a single source of truth that helps teams organize
-      field data, improve communication, and make faster operational decisions.
+- code: 'CSE 635: NLP & Text Mining'
+  projects:
+  - description: Multimodal AAC Chatbot is an AI-driven assistive communication system
+      that processes multimodal inputs (text, and optionally images/audio) to generate
+      context-aware responses for users with speech or language impairments. It integrates
+      LLM-based reasoning to enhance accessibility, enabling more natural and efficient
+      communication.
+    team:
+    - email: akashjag@buffalo.edu
+      name: Akash Kolte
+    - email: shwetang@buffalo.edu
+      name: Shwetangi Singh
+    title: Multimodal AAC chatbot
+- code: 'CSE 676: Deep Learning'
+  projects:
+  - description: 'Cardiorespiratory Sound AI is a deep learning pipeline that automatically
+      analyzes breath and heart sounds to detect abnormalities and diagnose diseases.
+
+      The system processes raw audio recordings from patients, extracts ~180 acoustic
+      features, and uses a multi-task neural network to simultaneously classify adventitious
+      sounds (Normal, Crackle, Wheeze) and 8 respiratory diseases. It''s trained on
+      multiple clinical datasets including ICBHI 2017, Zenodo, and PhysioNet, with
+      a strict patient-grouped evaluation strategy to ensure reliable, real-world
+      results.'
+    team:
+    - email: devachan@buffalo.edu
+      name: Devachandar Istalingam
+    - email: dhivyaga@buffalo.edu
+      name: Dhivya Ganesan
+    - email: sarthana@buffalo.edu
+      name: Sai Krishna Arthanari
+    title: Cardiorespiratory Sound AI
+  - description: 'Peptide and protein identification from tandem mass spectrometry
+      (MS/MS) data is a central problem in proteomics. Database searching is a widely
+      popular approach to solve this problem by matching observed spectra against
+      a set of peptide sequences contained in a reference protein database. This approach
+      is good for samples for which there is sufficient representation in the reference
+      database. However, for complex biological samples, there may be proteins of
+      unknown or poorly characterized or underrepresented species.
+
+      This is particularly critical for wastewater samples, as wastewater may contain
+      proteins from microorganisms, human sources, and environmental sources, many
+      of which may not be well represented in reference databases. Therefore, a de
+      novo approach to sequencing may be helpful, as it can predict peptide sequences
+      based on spectra without relying on a reference database.'
+    team:
+    - email: rpandey3@buffalo.edu
+      name: Raunak Kumar Pandey
+    - email: swatisan@buffalo.edu
+      name: Swati Sanjay Bhat
+    - email: litheesh@buffalo.edu
+      name: Litheesh Velakaturi Rambabu
+    title: E. coli and Wastewater peptide sequencing using de novo tools
+  - description: Employing Time series forecasting models on Yahoo Finance Dataset
+      for comprehensive financial analysis and prediction
+    team:
+    - email: pghosh4@buffalo.edu
+      name: Prateek Ghosh
+    - email: ishalbhu@buffalo.edu
+      name: Ishal Raut
+    - email: mannava@buffalo.edu
+      name: Keerthana Mannava
+    title: Temporal Financial Risk Modelling
+  - description: Peptide and Protein Sequencing by Multinomial Diffusion Model
+    team:
+    - email: vnambiar@buffalo.edu
+      name: Vibha Rajesh Nambiar
+    - email: nghimire@buffalo.edu
+      name: Nagendra Ghimire
+    title: Group 5
+  - description: This project studies fake news detection by comparing the predictive
+      value of statement text and speaker credibility history. Using LIAR and BuzzFeed,
+      it evaluates text-only, metadata-only, and fusion models, showing that speaker
+      credibility is a dominant signal on LIAR while also creating robustness challenges
+      under domain shift.
     team:
     - email: bandaru7@buffalo.edu
       name: Vidhyadhari Bandaru
-    - email: vaikanpe@buffalo.edu
-      name: Vaikan Peddi
+    - email: vkotta@buffalo.edu
+      name: Vijay Kumar Kotta
     - email: knandiga@buffalo.edu
       name: Krishna Kishore Nandigam
-    - email: vishalki@buffalo.edu
-      name: Vishal Kishore Kumar
-    title: Floe Field Data Management Platform
-- code: CSE 676 Course Project
-  projects:
+    title: 'Beyond Text: Speaker Credibility for Fake News Detection'
+  - description: Service Desk Ticket Classification Using Deep Learning
+    team:
+    - email: selvara3@buffalo.edu
+      name: Sphoorthy Selvaraj
+    - email: dhruvitk@buffalo.edu
+      name: Dhruvit Patolia
+    - email: jlakshmi@buffalo.edu
+      name: Jahnavi Gayathri Lakshmisetti
+    title: ticketbots
+  - description: 'Brain tumors are among the most life-threatening conditions in modern
+      medicine, and their early and accurate detection is critical for effective treatment
+      planning. Magnetic Resonance Imaging (MRI) is the primary non-invasive technique
+      used for brain tumor diagnosis. However, manual segmentation of tumor regions
+      from MRI scans is time-consuming, labour-intensive, and subject to variability
+      between clinicians. This project
+
+      proposes an automated deep learning approach to brain tumor segmentation using
+      U-Net, a convolutional neural network architecture widely adopted as the benchmark
+      for medical image segmentation tasks. The model will be trained and evaluated
+      on a publicly available MRI dataset, with the goal of accurately identifying
+      and delineating tumor regions to assist radiologists in clinical settings'
+    team:
+    - email: sourabhr@buffalo.edu
+      name: Sourabh Raja
+    - email: ujvaljit@buffalo.edu
+      name: Ujval Shah
+    - email: vsiddapu@buffalo.edu
+      name: Vasudha Siddapura Nagraj
+    title: Brain Tumour Segmentation in MRI Images Using Deep Learning
   - description: 'CSE 676 Course Project. Fighting Shortcut Learning in Waterbirds:
       Loss-Guided and Saliency-Guided Robustness Attempts'
     team:
     - email: kundansa@buffalo.edu
       name: Kundan Nanubala
     title: Dream Project II
-- code: 'CSE 676: Deep Learning'
-  projects:
-  - description: Our project is about creating a deep learning model that can accurately
-      predict whether or not background sound of a audio file is AI generated or not.
+  - description: Hybrid RAG MLP Router
     team:
-    - email: rverma2@buffalo.edu
-      name: Ritik Verma
-    - email: rajagop6@buffalo.edu
-      name: Abhishek Rajagopalan
-    title: AI-generated Background Sound Detector
-  - description: This project investigates how to improve model robustness on the
-      Waterbirds dataset by reducing reliance on spurious background correlations
-      and encouraging learning of core semantic features. It combines pretrained representations
-      (ViT, DINOv2) with a novel gradient-based core-aligned regularization technique
-      to improve worst-group performance and interpretability.
-    team:
-    - email: cpeddave@buffalo.edu
-      name: Chakradhar Reddy Peddavenkatagari
-    - email: ubijinap@buffalo.edu
-      name: Uday Kiran
-    title: Dream Project
+    - email: m58@buffalo.edu
+      name: Mohammed Maqsood Ahmed
+    - email: rupeshch@buffalo.edu
+      name: Rupesh Chowdary Peddineni
+    - email: ishaqibr@buffalo.edu
+      name: Ishaq Miyawala
+    title: Horus
   - description: CodeSense is an AI-driven code analysis and developer assistance
       platform that combines static analysis with LLM-based reasoning to understand
       code context, detect potential bugs, and suggest improvements. It processes
@@ -872,68 +905,44 @@
     - email: parthach@buffalo.edu
       name: Parth Chakraborty
     title: CodeSense AI coding agent
-- code: CSE 711 Seminar
+  - description: This project investigates how to improve model robustness on the
+      Waterbirds dataset by reducing reliance on spurious background correlations
+      and encouraging learning of core semantic features. It combines pretrained representations
+      (ViT, DINOv2) with a novel gradient-based core-aligned regularization technique
+      to improve worst-group performance and interpretability.
+    team:
+    - email: cpeddave@buffalo.edu
+      name: Chakradhar Reddy Peddavenkatagari
+    - email: ubijinap@buffalo.edu
+      name: Uday Kiran
+    title: Dream Project
+  - description: Our project is about creating a deep learning model that can accurately
+      predict whether or not background sound of a audio file is AI generated or not.
+    team:
+    - email: rverma2@buffalo.edu
+      name: Ritik Verma
+    - email: rajagop6@buffalo.edu
+      name: Abhishek Rajagopalan
+    title: AI-generated Background Sound Detector
+- code: CSE 711
   projects:
+  - description: We try to solve plastic sorting using mmWave radar.
+    team:
+    - email: ngoclong@buffalo.edu
+      name: Long Duong
+    title: mmWave Plastic Sorting
+  - description: 'We try to measuring soil bulk density independent of the soil moisture
+      using radio-based method. '
+    team:
+    - email: wchen252@buffalo.edu
+      name: Wenhao Chen
+    title: Radio-based Soil Bulk Density Sensing
   - description: Using a radar and aluminum plate to measure soil moisture of a houseplant.
       I also created an application with ML to classify plant health based on readings.
     team:
     - email: jfurdzik@buffalo.edu
       name: Jennifer Furdzik
     title: RF Based Soil Moisture Sensing
-- code: 'CSE 799: Supervised Research'
-  projects:
-  - description: Build a LLM based pipeline for adversarial scenario generation for
-      autonomous vehicle testing and simulation in CARLA
-    team:
-    - email: ha33@buffalo.edu
-      name: Harshit Agrawal
-    title: Next-Gen Autonomous Vehicle Scenario Generation using LLMs
-  - description: Automating Speech Sound Disorder Related Therapies and Data Tracking
-      for Speech-Language Pathologists
-    team:
-    - email: bhamidi@buffalo.edu
-      name: Sri Bhargava Bhamidi
-    title: Phonix
-  - description: 'PI-Whisper is an ultra-low latency Automatic Speech Recognition
-      (ASR) system extending OpenAI''s Whisper for seamless edge deployment on devices
-      like NVIDIA Jetson. To achieve high accuracy and real-time adaptability, the
-      system utilizes specialized CNNs to predict a user''s Age, Gender, and Accent
-      on the fly, dynamically pooling tailored Low-Rank Adaptation (LoRA) profiles
-      via a weighted PEFT adapter. Operating on a distributed architecture, PI-Whisper
-      guarantees optimal performance in resource-constrained environments by combining
-      strict task-scoped CUDA memory controls with zero-copy MJPEG buffering for ultra-low
-      streaming latency.
-
-      '
-    team:
-    - email: piyushmo@buffalo.edu
-      name: Piyush Modi
-    title: 'PI-WHISPER on Edge: Real-Time Deployment & System Design on NVIDIA Jetson'
-- code: CSE Research Track Project (CSE 799)
-  projects:
-  - description: 'People who rely on Augmentative and Alternative Communication devices
-      to speak face a fundamental problem: existing AI systems can generate fluent
-      responses, but those responses don''t sound like them. They borrow a voice rather
-      than preserve one.
-
-      SPICA addresses this by introducing an agentic orchestration layer that dynamically
-      indexes a user''s personal data, including journals, call logs, and social posts,
-      into a structured knowledge base, and retrieves the most relevant context at
-      conversation time to generate responses that reflect the user''s actual identity,
-      tone, and preferences. No model retraining required. We validated the system
-      across 205 synthetic AAC user profiles and a live study with a real AAC user,
-      achieving 22% improvement in factual groundedness and 30% reduction in hallucination
-      over baseline LLMs, while keeping response latency under 12 seconds, within
-      practical AAC usability thresholds. The result is a system that makes communication
-      faster, more authentic, and more personal for users who have historically had
-      to settle for generic.'
-    team:
-    - email: nmurali3@buffalo.edu
-      name: name1
-    title: 'SPICA: Scalable and Personalized Conversational Agent Framework for AAC
-      Users'
-- code: CSE-711
-  projects:
   - description: 'Wireless sensing has been widely studied for its applications in
       gesture recognition in recent years. Research has focused
 
@@ -985,6 +994,122 @@
     - email: jlt38@buffalo.edu
       name: name2
     title: WiFi CSI Gesture Quality Recognition
+- code: CSE 799 Supervised Research
+  projects:
+  - description: "We build variational autoencoder models on real-world electronic\
+      \ health record laboratory data across three routine panels: Complete Blood\
+      \ Count (CBC), Comprehensive Metabolic Panel (CMP), and a Hepatic Function Panel\
+      \ (HFP). The models learn a low-dimensional latent representation of jointly\
+      \ observed analytes and handle incomplete panels via masked reconstruction loss\
+      \ and, where explored, learned embeddings for missing inputs. We assess how\
+      \ well each analyte can be predicted from the others (e.g. leave-one-feature-out\
+      \ / masking analyses). For anomaly detection, we inject controlled synthetic\
+      \ perturbations into analytes the model already predicts reliably, then use\
+      \ reconstruction error relative to a data-driven threshold to test whether the\
+      \ model flags these synthetic abnormalities. Together, this work evaluates whether\
+      \ generative models can encode \u201Cnormal\u201D multivariate lab structure\
+      \ and support principled, testable anomaly screening across panels."
+    team:
+    - email: kamakoti@buffalo.edu
+      name: Kamakoti Jagannath Chivukula
+    title: 'Modeling Lab Panels with VAEs: Reconstruction, and Synthetic Anomaly Detection'
+- code: 'CSE 799: Supervised Research'
+  projects:
+  - description: Automating Speech Sound Disorder Related Therapies and Data Tracking
+      for Speech-Language Pathologists
+    team:
+    - email: bhamidi@buffalo.edu
+      name: Sri Bhargava Bhamidi
+    title: Phonix
+  - description: Build a LLM based pipeline for adversarial scenario generation for
+      autonomous vehicle testing and simulation in CARLA
+    team:
+    - email: ha33@buffalo.edu
+      name: Harshit Agrawal
+    title: Next-Gen Autonomous Vehicle Scenario Generation using LLMs
+  - description: 'PI-Whisper is an ultra-low latency Automatic Speech Recognition
+      (ASR) system extending OpenAI''s Whisper for seamless edge deployment on devices
+      like NVIDIA Jetson. To achieve high accuracy and real-time adaptability, the
+      system utilizes specialized CNNs to predict a user''s Age, Gender, and Accent
+      on the fly, dynamically pooling tailored Low-Rank Adaptation (LoRA) profiles
+      via a weighted PEFT adapter. Operating on a distributed architecture, PI-Whisper
+      guarantees optimal performance in resource-constrained environments by combining
+      strict task-scoped CUDA memory controls with zero-copy MJPEG buffering for ultra-low
+      streaming latency.
+
+      '
+    team:
+    - email: piyushmo@buffalo.edu
+      name: Piyush Modi
+    title: 'PI-WHISPER on Edge: Real-Time Deployment & System Design on NVIDIA Jetson'
+  - description: 'People who rely on Augmentative and Alternative Communication devices
+      to speak face a fundamental problem: existing AI systems can generate fluent
+      responses, but those responses don''t sound like them. They borrow a voice rather
+      than preserve one.
+
+      SPICA addresses this by introducing an agentic orchestration layer that dynamically
+      indexes a user''s personal data, including journals, call logs, and social posts,
+      into a structured knowledge base, and retrieves the most relevant context at
+      conversation time to generate responses that reflect the user''s actual identity,
+      tone, and preferences. No model retraining required. We validated the system
+      across 205 synthetic AAC user profiles and a live study with a real AAC user,
+      achieving 22% improvement in factual groundedness and 30% reduction in hallucination
+      over baseline LLMs, while keeping response latency under 12 seconds, within
+      practical AAC usability thresholds. The result is a system that makes communication
+      faster, more authentic, and more personal for users who have historically had
+      to settle for generic.'
+    team:
+    - email: nmurali3@buffalo.edu
+      name: name1
+    title: 'SPICA: Scalable and Personalized Conversational Agent Framework for AAC
+      Users'
+- code: cse546 demo day
+  projects:
+  - description: "Today's WebRTC stack (Google Meet, Discord, Microsoft Teams, Zoom)\n\
+      \  picks Forward Error Correction (FEC) redundancy with a hand-tuned       \
+      \                          \n  threshold rule that saturates on cellular links\
+      \ \u2014 wasting bandwidth\n  when the link is good and reacting too slowly\
+      \ when it isn't. We                                   \n  train an offline reinforcement-learning\
+      \ agent (CQL, BCQ, DQN)                                     \n  purely from\
+      \ logs of the existing rule-based controller, following                    \
+      \             \n  the recipe Mowgli (NSDI'25) used for sender-side rate control.\
+      \ The                                \n  result: DQN beats the rule-based controller\
+      \ by 23\xD7 reward across                                  \n  three real public\
+      \ LTE/3G traces (Verizon, T-Mobile, Norway 3G),                            \
+      \       \n  with seed-level statistical significance p < 10\u207B\u2074. We\
+      \ validate                                    \n  end-to-end on a real H.264\
+      \ RTP video stream traversing a Mahimahi-                                \n\
+      \  shaped link with our own RFC 5109-compatible XOR FEC, where DQN         \
+      \                          \n  delivers higher receiver-side PSNR using only\
+      \ 0.6\u20135.5% bandwidth                                  \n  overhead vs.\
+      \ the rule's 41\u201346%. We additionally provide stratified               \
+      \                 \n  out-of-distribution Q-value analysis that mechanistically\
+      \ explains                                \n  a counterintuitive finding: CQL\
+      \ anchors to the rule-based attractor                               \n  across\
+      \ a four-decade \u03B1-sweep \u2014 a rare published counterexample to     \
+      \                            \n  the \"always pick CQL\" folklore in offline\
+      \ RL.        "
+    team:
+    - email: qwu26@buffalo.edu
+      name: Qiang Wu
+    title: Offline Reinforcement Learning for Adaptive FEC Control in WebRTC
+- code: CSE587
+  projects:
+  - description: "Churn is a metric that defines user retention in e-commerce businesses.\
+      \ In this report, we are using the Online Retail dataset by UCI to predict the\
+      \ user churn using machine learning concepts and EDA. Since the churn is not\
+      \ mentioned explicitly, we defined it as customer inactivity over a prolonged\
+      \ period of time. \n\nThe study involves cleaning and preprocessing the data\
+      \ before it is fed to the machine learning models. We also did exploratory data\
+      \ analysis (EDA) to get the basic trends in the data. Post that, three Machine\
+      \ learning models were used: binary classification to predict whether a customer\
+      \ will churn, linear regression to predict the time to churn, and clustering\
+      \ to segment customers on the basis of purchasing behavior. \n"
+    team:
+    - email: dlakra@buffalo.edu
+      name: Dhananjay Lakra
+    title: Customer Churn Prediction in E-Commerce Using Transactional Behavioral
+      Data
 - code: CSE587 - Data Intensive Computing
   projects:
   - description: Flight Delay Analysis Based on US Flight Delay Dataset
@@ -998,47 +1123,12 @@
     title: Flight Delay Analysis
 - code: Independent Study / Research
   projects:
-  - description: Instagram post comments scraper, with self-correcting capabilities
-      using a custom-built AI agent.
+  - description: A new Vibe Coding paradigm that supports absolute newcomers in designing
+      UX friendly products
     team:
-    - email: alvintsa@buffalo.edu
-      name: Alvin Tsang
-    title: Agentic Instagram Scraper
-  - description: 'This project is about building and parallelizing a convolutional
-      neural network from scratch. Instead of using third party libraries, I''m using
-      CUDA to build a CNN. I created a sequential solution using C++ as well to show
-      strong scaling. I have built a testing suite to compare my solution to other
-      popular third-party libraries like Pytorch. '
-    team:
-    - email: jeanvigr@buffalo.edu
-      name: Jean Vigroux
-    title: HandCraftedCNN
-  - description: 'MyVictor is a Graph RAG system that turns UB CSE website data into
-      a structured knowledge graph.
-
-      Enables more accurate, explainable answers by understanding relationships between
-      faculty, courses, labs, and programs. It helps answer questions regarding who
-      teaches what, which labs work in specific research areas, and what courses or
-      requirements are needed for programs.'
-    team:
-    - email: sv94@buffalo.edu
-      name: Sruthisri Venkateswaran
-    - email: dattaane@buffalo.edu
-      name: Datta Aneesh Thota
-    - email: sarojavu@buffalo.edu
-      name: Rose Vuluvabeeti
-    title: myVictor
-  - description: In data-free model merging, multiple task experts trained from a
-      shared base model are combined into a single merged model without access to
-      the original training data. This is valuable for reducing storage, privacy,
-      and retraining overhead while preserving task performance. We propose a graph
-      Laplacian-based approach that leverages learned task relationships to regularize
-      the merge weights, encouraging similar tasks to receive similar contributions
-      and thereby reducing destructive interference during merging
-    team:
-    - email: apaikrao@buffalo.edu
-      name: Aditya Paikrao
-    title: Graph Laplacian Merging
+    - email: adhakal2@buffalo.edu
+      name: Aashish Dhakal
+    title: Vibe Design Assistant
   - description: 'Recent diffusion-based methods have substantially advanced image
       editing, yet controlled geometric manipulation remains challenging. In particular,
       existing approaches struggle to provide parametric control over object transformations
@@ -1070,192 +1160,6 @@
     - email: doermann@buffalo.edu
       name: David Doermann
     title: 'RADI3N: Training-Free GeometRic ImAge EDiting vIa Parametric 3D CoNtrol'
-  - description: This device utilizes state of the art Natural Language Processing
-      to transcribe audio input. This device leverages an on-device, and private model
-      that can be used locally and does not rely on a cloud to improve the speed and
-      overall privacy of the data flow. This implementation is built around a Raspberry
-      Pi and an LCD Screen to output the real-time transcription data.
-    team:
-    - email: tjrutley@buffalo.edu
-      name: Tyler Rutley
-    title: Advanced Portable Trancriber
-  - description: The Olli Revival project at the CAVAS lab focuses on restoring an
-      autonomous shuttle to full operational capacity through comprehensive firmware
-      and software development. The core initiative centers on engineering a reliable
-      drive by wire system and a modern ROS 2 driver stack utilizing C++, Python,
-      and MATLAB Simulink. Essential tasks include developing low level vehicle control
-      logic, managing CAN bus messaging, and integrating critical navigation sensors
-      such as GNSS and IMU components into the updated architecture. By resolving
-      system errors and modernizing legacy components, the project aims to establish
-      a highly functional and safety critical autonomous research platform.
-    team:
-    - email: mvnshpra@buffalo.edu
-      name: MVNSH Praneeth
-    - email: marcobia@buffalo.edu
-      name: Marco Bianco
-    title: Olli Revival
-  - description: 'An immersive VR teacher training platform that enables educators
-      to practice structured literacy instruction in a realistic classroom environment.
-      Built with Unity and Meta Quest, the simulation features an AI-powered virtual
-      student that responds authentically to teaching strategies across all five Science
-      of Reading pillars: phonemic awareness, phonics, fluency, vocabulary and comprehension.
-
-      The system leverages OpenAI''s GPT models with Retrieval-Augmented Generation
-      (RAG) to deliver contextually appropriate student responses grounded in evidence-based
-      reading science. A multi-agent architecture governs student behavior through
-      three specialized AI agents controlling verbal responses, emotional states and
-      physical actions. To ensure accuracy in early literacy instruction the platform
-      integrates custom accent-aware phoneme recognition that parses isolated phonemes
-      across diverse accents.
-
-      This simulation provides educators with safe, repeatable opportunities to rehearse
-      instructional techniques and refine their teaching practice before working with
-      real students.'
-    team:
-    - email: hemasree@buffalo.edu
-      name: Hemasree Pujari
-    - email: sarojavu@buffalo.edu
-      name: Rose Vuluvabeeti
-    title: Science of Reading Teacher Training Simulation
-  - description: 'We are accessing the validity of utilizing a NN classifier to differentiate/identify
-      instances of code-switching within Hinglish audio. If successful we then attempt
-      to utilize the classifier to integrate with Single language ASR models '
-    team:
-    - email: angustsa@buffalo.edu
-      name: Angus
-    title: 'Testing Code-switching classification on Hinglish '
-  - description: We study the variance and accuracy of LLM-powered semantic operators
-      under ambiguous or unambiguous natural language queries, analyzing their reasoning
-      and output consistency. We use LOTUS as our framework and construct a SQL-based
-      gold standard dataset using fuzzy matching on data from IMDb and JOB datasets.
-      We also create a corresponding document-based dataset from processed HTML pages
-      to compare results across structured and unstructured settings. Our goal is
-      to evaluate the reliability and usefulness of these systems in the presence
-      of ambiguity.
-    team:
-    - email: geetansh@buffalo.edu
-      name: Geetansh Kumar
-    title: Ambiguity in LLM-powered semantic operators
-  - description: 'Currently an Surface Mount Technology service company uses a system
-      of tracking information of orders called "Travelers". These travelers are pieces
-      of paper that track which operators have done certain steps of the process of
-      the surface mount devices. This system sets the foundation for the Traveler
-      Tracker service. This service uses QR codes that are generated during the recieving
-      process of orders, which are stickered to the travelers, to track entire orders
-      moving through the building. This service also requires users to scan their,
-      already company supplied, RFID Cards to scan into the seprate scan stations
-      to track the operator history on orders. '
-    team:
-    - email: vasquezs@buffalo.edu
-      name: Justin Vasquez Sorto
-    title: 'Traveler Tracker '
-  - description: 'WiFi sensing is a technology that uses WiFi signals already emitted
-      by wireless devices for the purpose of movement detection. These systems enable
-      applications such as smart home automation, health monitoring, security, and
-      even localization. However, these systems also create significant privacy concerns
-      as channel information can reveal and track user locations without their consent.
-
-
-      This project explores the application of differential privacy to WiFi sensing
-      systems. Differential privacy introduces carefully created noise into the mechanisms
-      that expose channel state information to clients utilizing the system. This
-      noise is tuned to ensure that the presence or absence of any single individual
-      yields near indistinguishable results on the output returned. The project aims
-      to provide quantifiable privacy guarantees against unauthorized tracking and
-      inference while still preserving the utility of sensing applications.'
-    team:
-    - email: holdenwo@buffalo.edu
-      name: Holden Wozniak
-    title: Differential Privacy for WiFi Sensing Systems
-  - description: 'Language models are black boxes. You put text in, an answer comes
-      out, and nothing in between is visible. LayerLens opens that box. It intercepts
-      a model''s internal state at every layer and tracks how confidently it predicts
-      each word as processing deepens.
-
-
-      Words the model was about to get right but did not are called late-drop tokens.
-      LayerLens flags these in real time. Across 32,000 words and two model architectures,
-      these flagged words turn out to be wrong 86% of the time. That makes the trajectory
-      shape a better uncertainty signal than the model''s own confidence score.
-
-
-      The same analysis reveals something else. Simple words like "the" and "and"
-      are resolved by the middle layers. The compute spent on them after that point
-      is wasted. LayerLens measures exactly how much.
-
-
-      Both findings are interactive. Type any sentence, watch the model think layer
-      by layer, and see exactly where it hesitates.'
-    team:
-    - email: yrathi2@buffalo.edu
-      name: Yash Rathi
-    title: LayerLens
-  - description: My research group at Roswell Park built an end-to-end VMAT dose prediction
-      engine to serve as a replacement for the traditional clinical treatment planning
-      system (TPS). Eclipse, the currently used TPS, is very accurate has slow computation
-      times. By leveraging advances in physics informed neural networks and domain
-      expertise, we built a full dose prediction pipeline that can serve as a faster,
-      and just as accurate, TPS.
-    team:
-    - email: braedenc@buffalo.edu
-      name: Braeden Cairns
-    title: Building a VMAT Dose Prediction Engine
-  - description: "This work presents a diffusion-based framework that generates 3D\
-      \ infant facial motion from non-verbal vocalizations such as crying, laughing,\
-      \ and babbling using the INFACE infant facial representation.\nBy training on\
-      \ a curated benchmark of 707 infant clips with audio\u2013visual synchronization\
-      \ losses, the method improves audio\u2013motion alignment over FLAME-based and\
-      \ phoneme-based baselines and supports reproducible infant-specific facial animation\
-      \ research"
-    team:
-    - email: ehoq@buffalo.edu
-      name: Enjamamul Hoq
-    - email: neellohi@buffalo.edu
-      name: Neellohit Somayajula
-    title: Non verbal audio driven infant expression synthesis
-  - description: A novel framework to evaluate the code generated by LLM on security
-      correctness.
-    team:
-    - email: apathak@buffalo.edu
-      name: name1
-    title: DualGauge
-  - description: A new Vibe Coding paradigm that supports absolute newcomers in designing
-      UX friendly products
-    team:
-    - email: adhakal2@buffalo.edu
-      name: Aashish Dhakal
-    title: Vibe Design Assistant
-  - description: This project aims to explore better CLIP-guided scoring methods to
-      evaluate the discriminative information contained in local candidate regions
-      generated by either SAM masks or random crops, thereby helping distinguish visually
-      similar categories and improve fine-grained classification performance.
-    team:
-    - email: yzhu68@buffalo.edu
-      name: Yujie Zhu
-    title: CLIP-Guided Discriminative Region Scoring for Fine-Grained Classification
-  - description: Draupnir is a datalog engine that that draws on group-/ring-theoretic
-      provenance models to scale to large datalog workloads on commodity hardware.
-    team:
-    - email: ecanton@buffalo.edu
-      name: Ethan Canton
-    - email: ajmikals@buffalo.edu
-      name: Andrew Mikalsen
-    - email: kamilwos@buffalo.edu
-      name: Kamil Woskowiak
-    - email: sivakum3@buffalo.edu
-      name: Krishna Sivakumar
-    title: Draupnir
-  - description: Using MERFISH spatial transcriptomics, we profiled single-cell gene
-      expression in the mouse anterior thalamic nucleus (ATN) across four learning
-      timepoints in young and aged mice. We identified baseline transcriptomic differences
-      between young and aged ATN, characterized learning-associated gene expression
-      patterns, and discovered candidate genes whose learning-induced transcriptional
-      responses are selectively disrupted by aging, providing molecular targets for
-      understanding age-related cognitive decline.
-    team:
-    - email: xzhao59@buffalo.edu
-      name: Xiang Zhao
-    title: 'Advisor: Shamsad Parvin/Dheeraj Roy'
   - description: 'Diffusion-based generative models have shown promise in synthesizing
       histopathology images to address data scarcity caused by privacy constraints.
       Diagnostic text reports provide high-level semantic descriptions, and masks
@@ -1293,6 +1197,148 @@
     - email: xuan_gong@buffalo.edu
       name: Xuan Gong
     title: 'PathDiff: Histopathology Image Synthesis with Unpaired Text and Mask Conditions'
+  - description: Instagram post comments scraper, with self-correcting capabilities
+      using a custom-built AI agent.
+    team:
+    - email: alvintsa@buffalo.edu
+      name: Alvin Tsang
+    title: Agentic Instagram Scraper
+  - description: 'We are accessing the validity of utilizing a NN classifier to differentiate/identify
+      instances of code-switching within Hinglish audio. If successful we then attempt
+      to utilize the classifier to integrate with Single language ASR models '
+    team:
+    - email: angustsa@buffalo.edu
+      name: Angus
+    title: 'Testing Code-switching classification on Hinglish '
+  - description: In data-free model merging, multiple task experts trained from a
+      shared base model are combined into a single merged model without access to
+      the original training data. This is valuable for reducing storage, privacy,
+      and retraining overhead while preserving task performance. We propose a graph
+      Laplacian-based approach that leverages learned task relationships to regularize
+      the merge weights, encouraging similar tasks to receive similar contributions
+      and thereby reducing destructive interference during merging
+    team:
+    - email: apaikrao@buffalo.edu
+      name: Aditya Paikrao
+    title: Graph Laplacian Merging
+  - description: A novel framework to evaluate the code generated by LLM on security
+      correctness.
+    team:
+    - email: apathak@buffalo.edu
+      name: name1
+    title: DualGauge
+  - description: My research group at Roswell Park built an end-to-end VMAT dose prediction
+      engine to serve as a replacement for the traditional clinical treatment planning
+      system (TPS). Eclipse, the currently used TPS, is very accurate has slow computation
+      times. By leveraging advances in physics informed neural networks and domain
+      expertise, we built a full dose prediction pipeline that can serve as a faster,
+      and just as accurate, TPS.
+    team:
+    - email: braedenc@buffalo.edu
+      name: Braeden Cairns
+    title: Building a VMAT Dose Prediction Engine
+  - description: Draupnir is a datalog engine that that draws on group-/ring-theoretic
+      provenance models to scale to large datalog workloads on commodity hardware.
+    team:
+    - email: ecanton@buffalo.edu
+      name: Ethan Canton
+    - email: ajmikals@buffalo.edu
+      name: Andrew Mikalsen
+    - email: kamilwos@buffalo.edu
+      name: Kamil Woskowiak
+    - email: sivakum3@buffalo.edu
+      name: Krishna Sivakumar
+    title: Draupnir
+  - description: We study the variance and accuracy of LLM-powered semantic operators
+      under ambiguous or unambiguous natural language queries, analyzing their reasoning
+      and output consistency. We use LOTUS as our framework and construct a SQL-based
+      gold standard dataset using fuzzy matching on data from IMDb and JOB datasets.
+      We also create a corresponding document-based dataset from processed HTML pages
+      to compare results across structured and unstructured settings. Our goal is
+      to evaluate the reliability and usefulness of these systems in the presence
+      of ambiguity.
+    team:
+    - email: geetansh@buffalo.edu
+      name: Geetansh Kumar
+    title: Ambiguity in LLM-powered semantic operators
+  - description: 'An immersive VR teacher training platform that enables educators
+      to practice structured literacy instruction in a realistic classroom environment.
+      Built with Unity and Meta Quest, the simulation features an AI-powered virtual
+      student that responds authentically to teaching strategies across all five Science
+      of Reading pillars: phonemic awareness, phonics, fluency, vocabulary and comprehension.
+
+      The system leverages OpenAI''s GPT models with Retrieval-Augmented Generation
+      (RAG) to deliver contextually appropriate student responses grounded in evidence-based
+      reading science. A multi-agent architecture governs student behavior through
+      three specialized AI agents controlling verbal responses, emotional states and
+      physical actions. To ensure accuracy in early literacy instruction the platform
+      integrates custom accent-aware phoneme recognition that parses isolated phonemes
+      across diverse accents.
+
+      This simulation provides educators with safe, repeatable opportunities to rehearse
+      instructional techniques and refine their teaching practice before working with
+      real students.'
+    team:
+    - email: hemasree@buffalo.edu
+      name: Hemasree Pujari
+    - email: sarojavu@buffalo.edu
+      name: Rose Vuluvabeeti
+    title: Science of Reading Teacher Training Simulation
+  - description: 'WiFi sensing is a technology that uses WiFi signals already emitted
+      by wireless devices for the purpose of movement detection. These systems enable
+      applications such as smart home automation, health monitoring, security, and
+      even localization. However, these systems also create significant privacy concerns
+      as channel information can reveal and track user locations without their consent.
+
+
+      This project explores the application of differential privacy to WiFi sensing
+      systems. Differential privacy introduces carefully created noise into the mechanisms
+      that expose channel state information to clients utilizing the system. This
+      noise is tuned to ensure that the presence or absence of any single individual
+      yields near indistinguishable results on the output returned. The project aims
+      to provide quantifiable privacy guarantees against unauthorized tracking and
+      inference while still preserving the utility of sensing applications.'
+    team:
+    - email: holdenwo@buffalo.edu
+      name: Holden Wozniak
+    title: Differential Privacy for WiFi Sensing Systems
+  - description: 'This project is about building and parallelizing a convolutional
+      neural network from scratch. Instead of using third party libraries, I''m using
+      CUDA to build a CNN. I created a sequential solution using C++ as well to show
+      strong scaling. I have built a testing suite to compare my solution to other
+      popular third-party libraries like Pytorch. '
+    team:
+    - email: jeanvigr@buffalo.edu
+      name: Jean Vigroux
+    title: HandCraftedCNN
+  - description: The Olli Revival project at the CAVAS lab focuses on restoring an
+      autonomous shuttle to full operational capacity through comprehensive firmware
+      and software development. The core initiative centers on engineering a reliable
+      drive by wire system and a modern ROS 2 driver stack utilizing C++, Python,
+      and MATLAB Simulink. Essential tasks include developing low level vehicle control
+      logic, managing CAN bus messaging, and integrating critical navigation sensors
+      such as GNSS and IMU components into the updated architecture. By resolving
+      system errors and modernizing legacy components, the project aims to establish
+      a highly functional and safety critical autonomous research platform.
+    team:
+    - email: mvnshpra@buffalo.edu
+      name: MVNSH Praneeth
+    - email: marcobia@buffalo.edu
+      name: Marco Bianco
+    title: Olli Revival
+  - description: "This work presents a diffusion-based framework that generates 3D\
+      \ infant facial motion from non-verbal vocalizations such as crying, laughing,\
+      \ and babbling using the INFACE infant facial representation.\nBy training on\
+      \ a curated benchmark of 707 infant clips with audio\u2013visual synchronization\
+      \ losses, the method improves audio\u2013motion alignment over FLAME-based and\
+      \ phoneme-based baselines and supports reproducible infant-specific facial animation\
+      \ research"
+    team:
+    - email: ehoq@buffalo.edu
+      name: Enjamamul Hoq
+    - email: neellohi@buffalo.edu
+      name: Neellohit Somayajula
+    title: Non verbal audio driven infant expression synthesis
   - description: Detection and Identification of Wildlife Species in videos and Live
       streams
     team:
@@ -1305,218 +1351,145 @@
     - email: srisakth@buffalo.edu
       name: Sri Sakthi Thirumagal Poovannan
     title: Organizational charts
-- code: cse546 demo day
-  projects:
-  - description: "Today's WebRTC stack (Google Meet, Discord, Microsoft Teams, Zoom)\n\
-      \  picks Forward Error Correction (FEC) redundancy with a hand-tuned       \
-      \                          \n  threshold rule that saturates on cellular links\
-      \ \u2014 wasting bandwidth\n  when the link is good and reacting too slowly\
-      \ when it isn't. We                                   \n  train an offline reinforcement-learning\
-      \ agent (CQL, BCQ, DQN)                                     \n  purely from\
-      \ logs of the existing rule-based controller, following                    \
-      \             \n  the recipe Mowgli (NSDI'25) used for sender-side rate control.\
-      \ The                                \n  result: DQN beats the rule-based controller\
-      \ by 23\xD7 reward across                                  \n  three real public\
-      \ LTE/3G traces (Verizon, T-Mobile, Norway 3G),                            \
-      \       \n  with seed-level statistical significance p < 10\u207B\u2074. We\
-      \ validate                                    \n  end-to-end on a real H.264\
-      \ RTP video stream traversing a Mahimahi-                                \n\
-      \  shaped link with our own RFC 5109-compatible XOR FEC, where DQN         \
-      \                          \n  delivers higher receiver-side PSNR using only\
-      \ 0.6\u20135.5% bandwidth                                  \n  overhead vs.\
-      \ the rule's 41\u201346%. We additionally provide stratified               \
-      \                 \n  out-of-distribution Q-value analysis that mechanistically\
-      \ explains                                \n  a counterintuitive finding: CQL\
-      \ anchors to the rule-based attractor                               \n  across\
-      \ a four-decade \u03B1-sweep \u2014 a rare published counterexample to     \
-      \                            \n  the \"always pick CQL\" folklore in offline\
-      \ RL.        "
-    team:
-    - email: qwu26@buffalo.edu
-      name: Qiang Wu
-    title: Offline Reinforcement Learning for Adaptive FEC Control in WebRTC
-- code: CSE 799 Supervised Research
-  projects:
-  - description: "We build variational autoencoder models on real-world electronic\
-      \ health record laboratory data across three routine panels: Complete Blood\
-      \ Count (CBC), Comprehensive Metabolic Panel (CMP), and a Hepatic Function Panel\
-      \ (HFP). The models learn a low-dimensional latent representation of jointly\
-      \ observed analytes and handle incomplete panels via masked reconstruction loss\
-      \ and, where explored, learned embeddings for missing inputs. We assess how\
-      \ well each analyte can be predicted from the others (e.g. leave-one-feature-out\
-      \ / masking analyses). For anomaly detection, we inject controlled synthetic\
-      \ perturbations into analytes the model already predicts reliably, then use\
-      \ reconstruction error relative to a data-driven threshold to test whether the\
-      \ model flags these synthetic abnormalities. Together, this work evaluates whether\
-      \ generative models can encode \u201Cnormal\u201D multivariate lab structure\
-      \ and support principled, testable anomaly screening across panels."
-    team:
-    - email: kamakoti@buffalo.edu
-      name: Kamakoti Jagannath Chivukula
-    title: 'Modeling Lab Panels with VAEs: Reconstruction, and Synthetic Anomaly Detection'
-- code: CSE 676 - Deep Learning
-  projects:
-  - description: This project studies fake news detection by comparing the predictive
-      value of statement text and speaker credibility history. Using LIAR and BuzzFeed,
-      it evaluates text-only, metadata-only, and fusion models, showing that speaker
-      credibility is a dominant signal on LIAR while also creating robustness challenges
-      under domain shift.
-    team:
-    - email: bandaru7@buffalo.edu
-      name: Vidhyadhari Bandaru
-    - email: vkotta@buffalo.edu
-      name: Vijay Kumar Kotta
-    - email: knandiga@buffalo.edu
-      name: Krishna Kishore Nandigam
-    title: 'Beyond Text: Speaker Credibility for Fake News Detection'
-- code: CSE 676 A Deep Learning
-  projects:
-  - description: Service Desk Ticket Classification Using Deep Learning
-    team:
-    - email: selvara3@buffalo.edu
-      name: Sphoorthy Selvaraj
-    - email: dhruvitk@buffalo.edu
-      name: Dhruvit Patolia
-    - email: jlakshmi@buffalo.edu
-      name: Jahnavi Gayathri Lakshmisetti
-    title: ticketbots
-  - description: 'Brain tumors are among the most life-threatening conditions in modern
-      medicine, and their early and accurate detection is critical for effective treatment
-      planning. Magnetic Resonance Imaging (MRI) is the primary non-invasive technique
-      used for brain tumor diagnosis. However, manual segmentation of tumor regions
-      from MRI scans is time-consuming, labour-intensive, and subject to variability
-      between clinicians. This project
+  - description: 'MyVictor is a Graph RAG system that turns UB CSE website data into
+      a structured knowledge graph.
 
-      proposes an automated deep learning approach to brain tumor segmentation using
-      U-Net, a convolutional neural network architecture widely adopted as the benchmark
-      for medical image segmentation tasks. The model will be trained and evaluated
-      on a publicly available MRI dataset, with the goal of accurately identifying
-      and delineating tumor regions to assist radiologists in clinical settings'
+      Enables more accurate, explainable answers by understanding relationships between
+      faculty, courses, labs, and programs. It helps answer questions regarding who
+      teaches what, which labs work in specific research areas, and what courses or
+      requirements are needed for programs.'
     team:
-    - email: sourabhr@buffalo.edu
-      name: Sourabh Raja
-    - email: ujvaljit@buffalo.edu
-      name: Ujval Shah
-    - email: vsiddapu@buffalo.edu
-      name: Vasudha Siddapura Nagraj
-    title: Brain Tumour Segmentation in MRI Images Using Deep Learning
-- code: 'CSE 635: NLP & Text Mining'
-  projects:
-  - description: Multimodal AAC Chatbot is an AI-driven assistive communication system
-      that processes multimodal inputs (text, and optionally images/audio) to generate
-      context-aware responses for users with speech or language impairments. It integrates
-      LLM-based reasoning to enhance accessibility, enabling more natural and efficient
-      communication.
+    - email: sv94@buffalo.edu
+      name: Sruthisri Venkateswaran
+    - email: dattaane@buffalo.edu
+      name: Datta Aneesh Thota
+    - email: sarojavu@buffalo.edu
+      name: Rose Vuluvabeeti
+    title: myVictor
+  - description: This device utilizes state of the art Natural Language Processing
+      to transcribe audio input. This device leverages an on-device, and private model
+      that can be used locally and does not rely on a cloud to improve the speed and
+      overall privacy of the data flow. This implementation is built around a Raspberry
+      Pi and an LCD Screen to output the real-time transcription data.
     team:
-    - email: akashjag@buffalo.edu
-      name: Akash Kolte
-    - email: shwetang@buffalo.edu
-      name: Shwetangi Singh
-    title: Multimodal AAC chatbot
-- code: CSE 711
-  projects:
-  - description: We try to solve plastic sorting using mmWave radar.
+    - email: tjrutley@buffalo.edu
+      name: Tyler Rutley
+    title: Advanced Portable Trancriber
+  - description: 'Currently an Surface Mount Technology service company uses a system
+      of tracking information of orders called "Travelers". These travelers are pieces
+      of paper that track which operators have done certain steps of the process of
+      the surface mount devices. This system sets the foundation for the Traveler
+      Tracker service. This service uses QR codes that are generated during the recieving
+      process of orders, which are stickered to the travelers, to track entire orders
+      moving through the building. This service also requires users to scan their,
+      already company supplied, RFID Cards to scan into the seprate scan stations
+      to track the operator history on orders. '
     team:
-    - email: ngoclong@buffalo.edu
-      name: Long Duong
-    title: mmWave Plastic Sorting
-  - description: 'We try to measuring soil bulk density independent of the soil moisture
-      using radio-based method. '
+    - email: vasquezs@buffalo.edu
+      name: Justin Vasquez Sorto
+    title: 'Traveler Tracker '
+  - description: Using MERFISH spatial transcriptomics, we profiled single-cell gene
+      expression in the mouse anterior thalamic nucleus (ATN) across four learning
+      timepoints in young and aged mice. We identified baseline transcriptomic differences
+      between young and aged ATN, characterized learning-associated gene expression
+      patterns, and discovered candidate genes whose learning-induced transcriptional
+      responses are selectively disrupted by aging, providing molecular targets for
+      understanding age-related cognitive decline.
     team:
-    - email: wchen252@buffalo.edu
-      name: Wenhao Chen
-    title: Radio-based Soil Bulk Density Sensing
-- code: CSE 573
-  projects:
-  - description: An end-to-end satellite intelligence pipeline that uses Siamese Networks
-      for SAR-based change detection and YOLO for military asset classification in
-      aerial imagery.
-    team:
-    - email: smotte@buffalo.edu
-      name: Sashidhar Motte
-    - email: singh88@buffalo.edu
-      name: Aditya Raj Singh
-    title: DarkWatch
-- code: 'CSE 676 '
-  projects:
-  - description: Peptide and Protein Sequencing by Multinomial Diffusion Model
-    team:
-    - email: vnambiar@buffalo.edu
-      name: Vibha Rajesh Nambiar
-    - email: nghimire@buffalo.edu
-      name: Nagendra Ghimire
-    title: Group 5
-- code: CSE587
-  projects:
-  - description: "Churn is a metric that defines user retention in e-commerce businesses.\
-      \ In this report, we are using the Online Retail dataset by UCI to predict the\
-      \ user churn using machine learning concepts and EDA. Since the churn is not\
-      \ mentioned explicitly, we defined it as customer inactivity over a prolonged\
-      \ period of time. \n\nThe study involves cleaning and preprocessing the data\
-      \ before it is fed to the machine learning models. We also did exploratory data\
-      \ analysis (EDA) to get the basic trends in the data. Post that, three Machine\
-      \ learning models were used: binary classification to predict whether a customer\
-      \ will churn, linear regression to predict the time to churn, and clustering\
-      \ to segment customers on the basis of purchasing behavior. \n"
-    team:
-    - email: dlakra@buffalo.edu
-      name: Dhananjay Lakra
-    title: Customer Churn Prediction in E-Commerce Using Transactional Behavioral
-      Data
-- code: Club (Make Open Source)
-  projects:
-  - description: Make Office Hours is an office hours queue system put into use for
-      CSE 116 that uses a card reader and has potential for further class implementations.
-    team:
-    - email: jbcarras@buffalo.edu
-      name: Jack Carrasquillo
-    - email: amgannon@buffalo.edu
-      name: Alyssa Gannon
-    - email: Obaidi@buffalo.edu
-      name: Mariam Al
-    - email: zpullmey@buffalo.edu
-      name: Zachary Ullmeyer
-    title: Make Office Hours (MOH)
-  - description: Flappy Bird VR is a in progress flappy bird game built in Unreal
-      Engine for the Meta VR Headset.
-    team:
-    - email: kjstone2@buffalo.edu
-      name: Kevin Stone
-    - email: jbcarras@buffalo.edu
-      name: Jack Carrasquillo
-    - email: amgannon@buffalo.edu
-      name: Alyssa Gannon
-    - email: Obaidi@buffalo.edu
-      name: Mariam Al
-    title: Flappy Bird VR
-- code: CSE 676 Deep Learning
-  projects:
-  - description: Hybrid RAG MLP Router
-    team:
-    - email: m58@buffalo.edu
-      name: Mohammed Maqsood Ahmed
-    - email: rupeshch@buffalo.edu
-      name: Rupesh Chowdary Peddineni
-    - email: ishaqibr@buffalo.edu
-      name: Ishaq Miyawala
-    title: Horus
-- code: ' CSE 676LEC C: Deep Learning'
-  projects:
-  - description: 'Cardiorespiratory Sound AI is a deep learning pipeline that automatically
-      analyzes breath and heart sounds to detect abnormalities and diagnose diseases.
+    - email: xzhao59@buffalo.edu
+      name: Xiang Zhao
+    title: 'Advisor: Shamsad Parvin/Dheeraj Roy'
+  - description: 'Language models are black boxes. You put text in, an answer comes
+      out, and nothing in between is visible. LayerLens opens that box. It intercepts
+      a model''s internal state at every layer and tracks how confidently it predicts
+      each word as processing deepens.
 
-      The system processes raw audio recordings from patients, extracts ~180 acoustic
-      features, and uses a multi-task neural network to simultaneously classify adventitious
-      sounds (Normal, Crackle, Wheeze) and 8 respiratory diseases. It''s trained on
-      multiple clinical datasets including ICBHI 2017, Zenodo, and PhysioNet, with
-      a strict patient-grouped evaluation strategy to ensure reliable, real-world
-      results.'
+
+      Words the model was about to get right but did not are called late-drop tokens.
+      LayerLens flags these in real time. Across 32,000 words and two model architectures,
+      these flagged words turn out to be wrong 86% of the time. That makes the trajectory
+      shape a better uncertainty signal than the model''s own confidence score.
+
+
+      The same analysis reveals something else. Simple words like "the" and "and"
+      are resolved by the middle layers. The compute spent on them after that point
+      is wasted. LayerLens measures exactly how much.
+
+
+      Both findings are interactive. Type any sentence, watch the model think layer
+      by layer, and see exactly where it hesitates.'
     team:
-    - email: devachan@buffalo.edu
-      name: Devachandar Istalingam
-    - email: dhivyaga@buffalo.edu
-      name: Dhivya Ganesan
-    - email: sarthana@buffalo.edu
-      name: Sai Krishna Arthanari
-    title: Cardiorespiratory Sound AI
+    - email: yrathi2@buffalo.edu
+      name: Yash Rathi
+    title: LayerLens
+  - description: This project aims to explore better CLIP-guided scoring methods to
+      evaluate the discriminative information contained in local candidate regions
+      generated by either SAM masks or random crops, thereby helping distinguish visually
+      similar categories and improve fine-grained classification performance.
+    team:
+    - email: yzhu68@buffalo.edu
+      name: Yujie Zhu
+    title: CLIP-Guided Discriminative Region Scoring for Fine-Grained Classification
+  - description: "This project is about generating full handwritten documents in a\
+      \ target writer\u2019s style from a few reference handwriting samples, while\
+      \ improving readability, layout, and support for difficult characters like numbers,\
+      \ punctuation, and acronyms."
+    team:
+    - email: atulpriy@buffalo.edu
+      name: Atul Pandey
+    title: HW_Gen
+  - description: The project investigates gender bias in natural language processing
+      by analyzing how models infer gender from textual data and how effectively this
+      information can be removed
+    team:
+    - email: neemageo@buffalo.edu
+      name: Neema George
+    title: Bias Aware AI
+- code: CSE450/453
+  projects:
+  - description: 'RoboGoose is a remote controlled robotic Canada goose built for
+      our CSE senior design capstone, designed to roam campus showcase events. Inside
+      the plush, an Arduino Mega coordinates a tank drive base using REV NEO motors
+      and Spark MAX controllers over a CAN bus, taking input from an Xbox controller
+      paired through a Nano ESP32. A BNO055 IMU monitors pitch in real time to drive
+      a three stage anti-tip system that softens braking, actively catches forward
+      falls.
+
+
+      Beyond just driving, RoboGoose dispenses candy through a servo controlled hopper,
+      runs a "DJ Mode" that plays music tracks. An onboard LCD shows live diagnostics
+      like RPM, motor temps, battery percentage, and tilt angle, while rainbow LED
+      eyes breathe and blink between commands. The project pulled together CAN bus
+      communication, Bluetooth controller pairing, sensor fusion, audio playback,
+      and live telemetry into one robot that could survive being driven by anyone
+      in a crowd!'
+    team:
+    - email: ngmedina@buffalo.edu
+      name: Nicholas Medina
+    - email: ericbutc@buffalo.edu
+      name: Eric Butcher
+    - email: smith43@buffalo.edu
+      name: Austin Smith
+    - email: ssmagase@buffalo.edu
+      name: Sam Magaseyev
+    - email: ptle@buffalo.edu
+      name: Thien Phuc Le
+    title: RoboGoose 453
+  - description: 'The Cannon and Instrumented projectile are part of a senior design
+      course for the Computer Engineering Curriculum, specifically CSE 453: Hardware
+      Software Integrations II. Through which we have designed a complete, robust,
+      and safe system that can be used for K-12 and UB prospective student outreach.
+      The Cannon is a fully mobile pneumatic cannon with adjustable launch angles
+      and basic data collection capable of firing anything from T-shirts to our specially
+      designed projectile. The Instrumented Projectile is simply a system designed
+      to capture flight data and communicate it back to the cannon via physical UART
+      when reunited with the main system.'
+    team:
+    - email: nwlasher@buffalo.edu
+      name: Nathaniel Lasher
+    - email: jmabt@buffalo.edu
+      name: Joseph Abt
+    - email: rchiu5@buffalo.edu
+      name: and Ryan Chiu
+    title: Cannon
 
